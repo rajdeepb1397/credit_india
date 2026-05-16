@@ -1,0 +1,3124 @@
+[
+  {
+    "id": "hdfc_infinia",
+    "name": "HDFC Infinia Metal",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 12500,
+    "annualFee": 12500,
+    "feeWaiverSpend": 1800000,
+    "welcomeBenefitInr": 12500,
+    "baseRewardRate": 3.3,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 16.5,
+        "monthlyCap": 75000,
+        "notes": "10X SmartBuy on flights/hotels (capped 15k RP/mo)"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 3.3
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "education",
+      "insurance"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 18000,
+    "highlights": [
+      "Unlimited domestic + intl lounge (Priority Pass)",
+      "1% fuel surcharge waiver",
+      "Club Marriott + Amazon Prime + MMT Black"
+    ],
+    "caveats": [
+      "Invite-only",
+      "2026 fee waiver requires ₹18L annual spend",
+      "Fuel/rent/wallet excluded"
+    ],
+    "bestFor": [
+      "High-spend travel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 500000,
+      "minAnnualItrInr": 6000000,
+      "inviteOnly": true
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 6
+    }
+  },
+  {
+    "id": "hdfc_diners_black",
+    "name": "HDFC Diners Club Black Metal",
+    "issuer": "HDFC Bank",
+    "network": "diners",
+    "upiEnabled": false,
+    "joiningFee": 10000,
+    "annualFee": 10000,
+    "feeWaiverSpend": 800000,
+    "welcomeBenefitInr": 10000,
+    "baseRewardRate": 3.3,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 16.5,
+        "monthlyCap": 75000,
+        "notes": "10X SmartBuy on flights/hotels"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 3.3
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "education",
+      "insurance"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 80000,
+        "rewardInr": 500,
+        "label": "Monthly ₹500 voucher @ ₹80k spend"
+      }
+    ],
+    "loungeAccessInr": 20000,
+    "highlights": [
+      "Unlimited worldwide lounge (self + guest)",
+      "6 golf games/qtr",
+      "Club Marriott + Amazon Prime"
+    ],
+    "caveats": [
+      "Diners acceptance at small POS limited",
+      "Excludes fuel/rent/wallet"
+    ],
+    "bestFor": [
+      "Travel via SmartBuy",
+      "Lounge value"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 175000,
+      "minAnnualItrInr": 2100000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 6
+    }
+  },
+  {
+    "id": "hdfc_regalia_gold",
+    "name": "HDFC Regalia Gold",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 2500,
+    "annualFee": 2500,
+    "feeWaiverSpend": 400000,
+    "welcomeBenefitInr": 2500,
+    "baseRewardRate": 1.33,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 6.66,
+        "notes": "20 RP/₹150 at Nykaa, Myntra, M&S, Reliance Digital"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 1.33
+      },
+      {
+        "categories": [
+          "insurance",
+          "education"
+        ],
+        "rate": 1.33,
+        "notes": "Rare: rewards on insurance & education"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 150000,
+        "rewardInr": 1500,
+        "label": "Qtrly ₹1.5k voucher (Myntra/M&S/Marriott)"
+      },
+      {
+        "spendThreshold": 500000,
+        "rewardInr": 5000,
+        "label": "₹5k flight voucher @ ₹5L/yr"
+      },
+      {
+        "spendThreshold": 750000,
+        "rewardInr": 10000,
+        "label": "₹10k voucher total @ ₹7.5L/yr"
+      }
+    ],
+    "loungeAccessInr": 8000,
+    "highlights": [
+      "Rewards on insurance & education (uncommon)",
+      "Swiggy One + MMT Black Gold",
+      "12 domestic + 6 intl lounge"
+    ],
+    "caveats": [
+      "Reward value varies by redemption (1 RP = ₹0.5 voucher)"
+    ],
+    "bestFor": [
+      "Mid-premium all-rounder",
+      "Insurance/education spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 150000,
+      "minAnnualItrInr": 1800000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 6
+    }
+  },
+  {
+    "id": "hdfc_regalia",
+    "name": "HDFC Regalia",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 2500,
+    "annualFee": 2500,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": 2500,
+    "baseRewardRate": 1.33,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 1.33
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 500000,
+        "rewardInr": 5000,
+        "label": "₹5k voucher @ ₹5L/yr"
+      },
+      {
+        "spendThreshold": 800000,
+        "rewardInr": 5000,
+        "label": "Additional ₹5k @ ₹8L/yr"
+      }
+    ],
+    "loungeAccessInr": 6000,
+    "highlights": [
+      "6 international + 12 domestic lounge"
+    ],
+    "caveats": [
+      "Replaced by Regalia Gold for new applicants in most cases"
+    ],
+    "bestFor": [
+      "Decent travel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 100000,
+      "minAnnualItrInr": 1200000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 6
+    }
+  },
+  {
+    "id": "hdfc_swiggy",
+    "name": "Swiggy HDFC",
+    "issuer": "HDFC Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 1500,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 10,
+        "monthlyCap": 1500,
+        "notes": "Swiggy app (food + Instamart + Dineout)"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping",
+          "groceries"
+        ],
+        "rate": 5,
+        "monthlyCap": 1500,
+        "notes": "MCC-based online merchants"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "10% on Swiggy ecosystem",
+      "Easy fee waiver"
+    ],
+    "caveats": [
+      "Caps are real (₹1500/mo per bucket)"
+    ],
+    "bestFor": [
+      "Swiggy users"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "hdfc_tata_neu_infinity_rupay",
+    "name": "Tata Neu Infinity HDFC (RuPay)",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": 1499,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1.5,
+        "monthlyCap": 500,
+        "notes": "1.5% NeuCoins on non-Tata UPI"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "groceries"
+        ],
+        "rate": 5,
+        "notes": "5% on Tata brands: BigBasket, Croma, AirAsia/AI, 1mg, Westside, Tata Cliq, Tanishq, Taj"
+      },
+      {
+        "categories": [
+          "dining",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 1.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 5000,
+    "highlights": [
+      "RuPay → UPI",
+      "5% on Tata brands",
+      "8 domestic + 4 intl lounge"
+    ],
+    "caveats": [
+      "UPI cap ₹500/mo",
+      "NeuCoins only in Tata ecosystem"
+    ],
+    "bestFor": [
+      "UPI on RuPay",
+      "Tata ecosystem"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 30000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 4
+    }
+  },
+  {
+    "id": "hdfc_marriott_bonvoy",
+    "name": "HDFC Marriott Bonvoy",
+    "issuer": "HDFC Bank",
+    "network": "diners",
+    "upiEnabled": false,
+    "joiningFee": 3000,
+    "annualFee": 3000,
+    "feeWaiverSpend": 600000,
+    "welcomeBenefitInr": 6000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 6,
+        "notes": "6 Bonvoy points/$ ≈ 6%"
+      },
+      {
+        "categories": [
+          "dining",
+          "flights_domestic",
+          "flights_intl"
+        ],
+        "rate": 4
+      },
+      {
+        "categories": [
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 600000,
+        "rewardInr": 8000,
+        "label": "Free night @ ₹6L (≤15k pts)"
+      },
+      {
+        "spendThreshold": 1500000,
+        "rewardInr": 30000,
+        "label": "Free night @ ₹15L (≤25k pts)"
+      }
+    ],
+    "loungeAccessInr": 8000,
+    "highlights": [
+      "Marriott Silver Elite status",
+      "Free night awards"
+    ],
+    "caveats": [
+      "Free nights capped at point value tier"
+    ],
+    "bestFor": [
+      "Marriott loyalists",
+      "Hotel stays"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 75000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 12
+    }
+  },
+  {
+    "id": "hdfc_moneyback_plus",
+    "name": "HDFC MoneyBack+",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.66,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping",
+          "groceries"
+        ],
+        "rate": 3.3,
+        "monthlyCap": 1000,
+        "notes": "10X on Amazon, Flipkart, BigBasket, Reliance Smart, Swiggy"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Easy entry-level"
+    ],
+    "caveats": [
+      "Low base rate"
+    ],
+    "bestFor": [
+      "First-time card",
+      "Light online spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "icici_amazon_pay",
+    "name": "Amazon Pay ICICI (LTF)",
+    "issuer": "ICICI Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "5% on Amazon for Prime (3% non-Prime)"
+      },
+      {
+        "categories": [
+          "utilities",
+          "dining",
+          "groceries",
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 1
+      },
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 2,
+        "notes": "2% via Amazon Pay"
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "LTF",
+      "No-brainer for Amazon"
+    ],
+    "caveats": [
+      "Best value tied to Prime + Amazon"
+    ],
+    "bestFor": [
+      "Amazon shoppers"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "icici_hpcl_super_saver_rupay",
+    "name": "ICICI HPCL Super Saver (RuPay)",
+    "issuer": "ICICI Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 6,
+        "monthlyCap": 200,
+        "notes": "5% cashback + 1% surcharge waiver at HPCL via app"
+      },
+      {
+        "categories": [
+          "groceries",
+          "dining",
+          "utilities"
+        ],
+        "rate": 5,
+        "monthlyCap": 250
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Strong HPCL fuel",
+      "RuPay UPI"
+    ],
+    "caveats": [
+      "Tight caps (₹200-250/mo)"
+    ],
+    "bestFor": [
+      "HPCL fuel",
+      "Light UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "icici_emeralde_private_metal",
+    "name": "ICICI Emeralde Private Metal",
+    "issuer": "ICICI Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 12499,
+    "annualFee": 12499,
+    "feeWaiverSpend": 1000000,
+    "welcomeBenefitInr": 12499,
+    "baseRewardRate": 3.33,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl",
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "insurance",
+          "education",
+          "other"
+        ],
+        "rate": 3.33,
+        "notes": "6 RP/₹200 across all eligible spends; very few exclusions"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 22000,
+    "highlights": [
+      "Rewards on insurance/education/utilities",
+      "Unlimited lounge (Priority Pass)",
+      "Taj Epicure + EazyDiner Prime"
+    ],
+    "caveats": [
+      "RP redemption rate ≈ ₹1/RP via portal"
+    ],
+    "bestFor": [
+      "Premium all-rounder",
+      "Utilities/insurance"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 250000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 16,
+      "international": 6
+    }
+  },
+  {
+    "id": "icici_mmt_signature",
+    "name": "MakeMyTrip ICICI Signature",
+    "issuer": "ICICI Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 2500,
+    "annualFee": 0,
+    "welcomeBenefitInr": 3000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 6,
+        "notes": "6% MMT myCash on MMT"
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl"
+        ],
+        "rate": 3
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 6000,
+    "highlights": [
+      "MMT Black Gold",
+      "8 domestic lounge"
+    ],
+    "caveats": [
+      "myCash only redeemable on MMT"
+    ],
+    "bestFor": [
+      "MMT bookers"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 40000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 8
+    }
+  },
+  {
+    "id": "sbi_cashback",
+    "name": "SBI Cashback",
+    "issuer": "SBI Card",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 999,
+    "annualFee": 999,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "monthlyCap": 5000,
+        "notes": "Flat 5% on all online merchants, no MCC lock"
+      },
+      {
+        "categories": [
+          "offline_shopping",
+          "dining",
+          "groceries",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "utilities",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "5% on ANY online merchant",
+      "Easy fee waiver"
+    ],
+    "caveats": [
+      "Excludes utilities, fuel, rent"
+    ],
+    "bestFor": [
+      "Generic online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "sbi_simplyclick",
+    "name": "SBI SimplyCLICK",
+    "issuer": "SBI Card",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.25,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 2.5,
+        "notes": "10X RP on partners (Amazon, BookMyShow, Cleartrip, etc.); 5X on other online"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 100000,
+        "rewardInr": 2000,
+        "label": "₹2k Cleartrip e-voucher @ ₹1L"
+      },
+      {
+        "spendThreshold": 200000,
+        "rewardInr": 2000,
+        "label": "Additional ₹2k @ ₹2L"
+      }
+    ],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Easy entry-level"
+    ],
+    "caveats": [
+      "Low base rate (0.25%)"
+    ],
+    "bestFor": [
+      "Entry-level online"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "sbi_simplysave",
+    "name": "SBI SimplySAVE",
+    "issuer": "SBI Card",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 2000,
+    "baseRewardRate": 0.25,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping"
+        ],
+        "rate": 2.5,
+        "notes": "10X RP on dining, groceries, movies, departmental stores"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Entry-level groceries/dining"
+    ],
+    "caveats": [
+      "Low base rate"
+    ],
+    "bestFor": [
+      "Beginners"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "sbi_prime",
+    "name": "SBI Prime",
+    "issuer": "SBI Card",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 2999,
+    "annualFee": 2999,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": 3000,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping"
+        ],
+        "rate": 2.5,
+        "notes": "10X on dining, groceries, movies"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "other"
+        ],
+        "rate": 0.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 50000,
+        "rewardInr": 1000,
+        "label": "Qtrly ₹1k Pizza Hut/Yatra voucher"
+      },
+      {
+        "spendThreshold": 500000,
+        "rewardInr": 7000,
+        "label": "₹7k Yatra/Pantaloons @ ₹5L/yr"
+      }
+    ],
+    "loungeAccessInr": 8000,
+    "highlights": [
+      "Club Vistara Silver",
+      "8 domestic + 4 intl lounge"
+    ],
+    "caveats": [
+      "Vistara folding into AI — verify"
+    ],
+    "bestFor": [
+      "Mid-tier all-rounder"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 60000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 4
+    }
+  },
+  {
+    "id": "sbi_elite",
+    "name": "SBI Elite",
+    "issuer": "SBI Card",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": 1000000,
+    "welcomeBenefitInr": 5000,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping"
+        ],
+        "rate": 2.5
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "other"
+        ],
+        "rate": 0.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 300000,
+        "rewardInr": 5000,
+        "label": "₹5k Yatra/Pantaloons"
+      },
+      {
+        "spendThreshold": 700000,
+        "rewardInr": 10000,
+        "label": "Additional ₹10k vouchers"
+      }
+    ],
+    "loungeAccessInr": 14000,
+    "highlights": [
+      "Priority Pass: 6 intl visits",
+      "Club Vistara Silver"
+    ],
+    "caveats": [
+      "High fee waiver bar"
+    ],
+    "bestFor": [
+      "High-spend lifestyle"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 75000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 6
+    }
+  },
+  {
+    "id": "sbi_bpcl_octane",
+    "name": "BPCL SBI Octane",
+    "issuer": "SBI Card",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 1200,
+    "baseRewardRate": 1.25,
+    "rules": [
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 7.25,
+        "monthlyCap": 2500,
+        "notes": "25 RP/₹100 at BPCL = 7.25% value"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries"
+        ],
+        "rate": 2.5
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 1.25
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 4000,
+    "highlights": [
+      "Best BPCL fuel card",
+      "8 domestic lounge/yr"
+    ],
+    "caveats": [
+      "Caps on fuel rewards"
+    ],
+    "bestFor": [
+      "BPCL fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 30000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 8
+    }
+  },
+  {
+    "id": "axis_atlas",
+    "name": "Axis Atlas",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": 5000,
+    "welcomeBenefitInr": 5000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 5,
+        "monthlyCap": 10000,
+        "notes": "5 EDGE Miles/₹100 travel; cap 200k₹/mo"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "other"
+        ],
+        "rate": 2
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "utilities",
+      "insurance",
+      "education"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 300000,
+        "rewardInr": 2500,
+        "label": "Silver @ ₹3L"
+      },
+      {
+        "spendThreshold": 750000,
+        "rewardInr": 7500,
+        "label": "Gold @ ₹7.5L"
+      },
+      {
+        "spendThreshold": 1500000,
+        "rewardInr": 15000,
+        "label": "Platinum @ ₹15L"
+      }
+    ],
+    "loungeAccessInr": 12000,
+    "highlights": [
+      "Best domestic travel card",
+      "1:1 transfer to Marriott, Accor, IndiGo"
+    ],
+    "caveats": [
+      "Many exclusions",
+      "Post-2024 devaluation: travel cap"
+    ],
+    "bestFor": [
+      "Domestic flights/hotels"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 80000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 18,
+      "international": 12
+    }
+  },
+  {
+    "id": "axis_magnus_burgundy",
+    "name": "Axis Magnus for Burgundy",
+    "issuer": "Axis Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 12500,
+    "annualFee": 12500,
+    "feeWaiverSpend": 2500000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 6,
+        "monthlyCap": 50000,
+        "notes": "Via Travel Edge portal post-2024 devaluation"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "other"
+        ],
+        "rate": 2
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "utilities",
+      "insurance",
+      "education",
+      "upi_p2m"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 12000,
+    "highlights": [
+      "Burgundy-only"
+    ],
+    "caveats": [
+      "Multiple devaluations 2023-2025",
+      "Burgundy relationship needed"
+    ],
+    "bestFor": [
+      "Burgundy customers"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 150000,
+      "inviteOnly": true
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 8
+    }
+  },
+  {
+    "id": "axis_reserve",
+    "name": "Axis Reserve",
+    "issuer": "Axis Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 50000,
+    "annualFee": 50000,
+    "feeWaiverSpend": 3500000,
+    "welcomeBenefitInr": 50000,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl",
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 1.5,
+        "notes": "15 EDGE/₹200 = 1.5%"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "utilities",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 30000,
+    "highlights": [
+      "50 free golf rounds/yr",
+      "ITC Culinaire, Club Marriott APAC",
+      "1.5% forex markup"
+    ],
+    "caveats": [
+      "₹50k fee — only for HNIs"
+    ],
+    "bestFor": [
+      "Super-premium lifestyle"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 300000,
+      "inviteOnly": true
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    }
+  },
+  {
+    "id": "axis_select",
+    "name": "Axis SELECT",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 3000,
+    "annualFee": 3000,
+    "feeWaiverSpend": 600000,
+    "welcomeBenefitInr": 2000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping",
+          "online_shopping"
+        ],
+        "rate": 2,
+        "monthlyCap": 400,
+        "notes": "20 EDGE/₹200 on retail up to ₹20k/mo"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "utilities",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 9000,
+    "highlights": [
+      "BookMyShow + Swiggy + BigBasket discounts",
+      "Priority Pass yr 1"
+    ],
+    "caveats": [
+      "EDGE redemption rate low"
+    ],
+    "bestFor": [
+      "Lifestyle + dining"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "axis_ace",
+    "name": "Axis Ace",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "5% on Google Pay bill pay (electricity, gas, DTH)"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 4,
+        "notes": "Swiggy, Zomato, Ola via Google Pay"
+      },
+      {
+        "categories": [
+          "groceries",
+          "offline_shopping",
+          "other",
+          "fuel"
+        ],
+        "rate": 1.5
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 4000,
+    "highlights": [
+      "5% utilities via GPay",
+      "Easy fee waiver",
+      "4 domestic lounge/yr"
+    ],
+    "caveats": [
+      "Best rates require GPay routing"
+    ],
+    "bestFor": [
+      "Utility bills",
+      "Daily spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "axis_myzone",
+    "name": "Axis MyZone",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.4,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 4,
+        "notes": "40% off Swiggy 1st order; SonyLiv access"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Entry-level lifestyle"
+    ],
+    "caveats": [
+      "Very low base rate"
+    ],
+    "bestFor": [
+      "First card"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 15000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "axis_airtel",
+    "name": "Airtel Axis",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 1000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 25,
+        "monthlyCap": 250,
+        "notes": "25% cashback on Airtel mobile/DTH/Broadband, cap ₹250/mo"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 10,
+        "monthlyCap": 500,
+        "notes": "Swiggy/Zomato/BigBasket"
+      },
+      {
+        "categories": [
+          "groceries",
+          "offline_shopping",
+          "other",
+          "fuel"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 4000,
+    "highlights": [
+      "25% on Airtel bills",
+      "10% on Swiggy/Zomato/BigBasket"
+    ],
+    "caveats": [
+      "Airtel benefit only if you're an Airtel user"
+    ],
+    "bestFor": [
+      "Airtel users + daily spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "hsbc_live_plus",
+    "name": "HSBC Live+",
+    "issuer": "HSBC",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 999,
+    "annualFee": 999,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 1000,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping"
+        ],
+        "rate": 10,
+        "monthlyCap": 1000,
+        "notes": "10% cashback on dining + groceries (incl. Swiggy/Zomato/Instamart), cap ₹1000/mo"
+      },
+      {
+        "categories": [
+          "other",
+          "utilities"
+        ],
+        "rate": 1.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 4000,
+    "highlights": [
+      "10% dining + groceries",
+      "4 domestic lounge/yr"
+    ],
+    "caveats": [
+      "₹1000/mo cap"
+    ],
+    "bestFor": [
+      "Dining + grocery heavy users"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 40000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "hsbc_travel_one",
+    "name": "HSBC TravelOne",
+    "issuer": "HSBC",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "welcomeBenefitInr": 4000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 12,
+        "notes": "12 RP/₹100 hotels via HSBC Rewards"
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl"
+        ],
+        "rate": 8
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "other",
+          "utilities"
+        ],
+        "rate": 2
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 100000,
+        "rewardInr": 3000,
+        "label": "3k bonus RP @ ₹1L in 90d"
+      },
+      {
+        "spendThreshold": 1200000,
+        "rewardInr": 10000,
+        "label": "10k bonus RP @ ₹12L/yr"
+      }
+    ],
+    "loungeAccessInr": 10000,
+    "highlights": [
+      "Airline-agnostic miles",
+      "1:1 to Singapore Airlines, Etihad, BA",
+      "Forex 0.99%-1.99%"
+    ],
+    "caveats": [
+      "Rewards best via partner transfer"
+    ],
+    "bestFor": [
+      "International travel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 60000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 6,
+      "international": 6
+    }
+  },
+  {
+    "id": "hsbc_visa_platinum",
+    "name": "HSBC Visa Platinum (LTF)",
+    "issuer": "HSBC",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 0.66,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "other",
+          "utilities"
+        ],
+        "rate": 0.66
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "LTF — no fee ever"
+    ],
+    "caveats": [
+      "Low base rate"
+    ],
+    "bestFor": [
+      "Generic backup"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "amex_smartearn",
+    "name": "Amex SmartEarn",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 495,
+    "annualFee": 495,
+    "feeWaiverSpend": 40000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "monthlyCap": 500,
+        "notes": "10X on Amazon, Flipkart, Uber, BookMyShow"
+      },
+      {
+        "categories": [
+          "dining",
+          "offline_shopping",
+          "groceries",
+          "other"
+        ],
+        "rate": 0.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Entry to Amex MR ecosystem"
+    ],
+    "caveats": [
+      "Low base rate",
+      "Acceptance limited"
+    ],
+    "bestFor": [
+      "First Amex"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 40000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "amex_mrcc",
+    "name": "Amex Membership Rewards (MRCC)",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 1500,
+    "annualFee": 4500,
+    "welcomeBenefitInr": 4000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "other",
+          "utilities"
+        ],
+        "rate": 4.5,
+        "notes": "~3-5p/MR via Marriott/Taj transfer + 18-txn bonus"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 90000,
+        "rewardInr": 4000,
+        "label": "Spend-based bonus"
+      }
+    ],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Strong MR points",
+      "Transfer to Marriott/Taj/British Airways"
+    ],
+    "caveats": [
+      "Acceptance lower",
+      "Best via point transfers"
+    ],
+    "bestFor": [
+      "MR point collectors"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "amex_platinum_travel",
+    "name": "Amex Platinum Travel",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": 5000,
+    "welcomeBenefitInr": 10000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl",
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 190000,
+        "rewardInr": 7700,
+        "label": "₹1.9L → ~7.7k Marriott/Taj voucher"
+      },
+      {
+        "spendThreshold": 400000,
+        "rewardInr": 18000,
+        "label": "₹4L → 18k Marriott + Taj ₹10k"
+      }
+    ],
+    "loungeAccessInr": 8000,
+    "highlights": [
+      "Best slab milestones at ₹4L",
+      "Taj/Marriott vouchers"
+    ],
+    "caveats": [
+      "Value collapses if you miss slabs",
+      "Acceptance limited"
+    ],
+    "bestFor": [
+      "Travel + planning ₹4L spend"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 8
+    }
+  },
+  {
+    "id": "amex_gold_charge",
+    "name": "Amex Gold Charge",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": 4500,
+    "welcomeBenefitInr": 2000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "other",
+          "utilities",
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 400000,
+        "rewardInr": 9000,
+        "label": "9k bonus MR @ ₹4L (≈₹9k value)"
+      }
+    ],
+    "loungeAccessInr": 6000,
+    "highlights": [
+      "Charge card — no preset limit",
+      "Strong MR transfer value"
+    ],
+    "caveats": [
+      "Charge: pay-in-full each month"
+    ],
+    "bestFor": [
+      "MR collectors"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 12
+    }
+  },
+  {
+    "id": "amex_platinum_charge",
+    "name": "Amex Platinum Charge",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 60000,
+    "annualFee": 60000,
+    "welcomeBenefitInr": 45000,
+    "baseRewardRate": 1.25,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "other",
+          "utilities",
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 1.25
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 50000,
+    "highlights": [
+      "Unlimited Priority Pass + guests",
+      "Taj Inner Circle, Marriott Gold, Hilton Gold",
+      "Concierge"
+    ],
+    "caveats": [
+      "₹60k fee — only worth it if you maximize hotel statuses + lounge"
+    ],
+    "bestFor": [
+      "Frequent intl travel + status"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 250000,
+      "inviteOnly": true
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 99,
+      "international": 99
+    }
+  },
+  {
+    "id": "yes_paisabazaar_paisasave",
+    "name": "YES Bank Paisabazaar PaisaSave",
+    "issuer": "YES Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 499,
+    "feeWaiverSpend": 120000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 6,
+        "monthlyCap": 3000,
+        "notes": "6% cashback on dining + travel (incl. Swiggy, Zomato, MMT, EaseMyTrip, Cleartrip)"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "utilities",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "6% travel + dining",
+      "1% surcharge waiver on fuel"
+    ],
+    "caveats": [
+      "Newer card — verify terms"
+    ],
+    "bestFor": [
+      "Dining + travel-light spenders"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "yes_ace",
+    "name": "YES Bank Ace",
+    "issuer": "YES Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "utilities",
+          "online_shopping"
+        ],
+        "rate": 2
+      },
+      {
+        "categories": [
+          "groceries",
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 0.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "LTF",
+      "Lifestyle benefits"
+    ],
+    "caveats": [
+      "Low base rate"
+    ],
+    "bestFor": [
+      "LTF backup"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "idfc_first_wealth_rupay",
+    "name": "IDFC First Wealth (RuPay)",
+    "issuer": "IDFC First Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.75,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1.5,
+        "monthlyCap": 500,
+        "notes": "Reward points on UPI"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "utilities",
+          "other"
+        ],
+        "rate": 2.5,
+        "minTxn": 20000,
+        "notes": "10X on single txn >₹20k"
+      },
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 5000,
+    "highlights": [
+      "LTF",
+      "RuPay UPI",
+      "Lounge access"
+    ],
+    "caveats": [
+      "10X needs >₹20k single txn"
+    ],
+    "bestFor": [
+      "LTF RuPay UPI",
+      "Big-ticket purchases"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "idfc_first_select_rupay",
+    "name": "IDFC First Select (RuPay)",
+    "issuer": "IDFC First Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.4,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "monthlyCap": 300
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "other"
+        ],
+        "rate": 1.6,
+        "minTxn": 20000
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 2000,
+    "highlights": [
+      "LTF",
+      "RuPay UPI"
+    ],
+    "caveats": [
+      "Modest rates"
+    ],
+    "bestFor": [
+      "Entry RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 2
+    }
+  },
+  {
+    "id": "idfc_first_wow",
+    "name": "IDFC First WOW (Secured)",
+    "issuer": "IDFC First Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1.33,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1.33,
+        "monthlyCap": 300
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "other",
+          "utilities"
+        ],
+        "rate": 1.33
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 2000,
+    "highlights": [
+      "Secured against FD (no income proof)",
+      "LTF"
+    ],
+    "caveats": [
+      "Requires FD"
+    ],
+    "bestFor": [
+      "Students / no salary proof"
+    ],
+    "eligibility": {},
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 2
+    }
+  },
+  {
+    "id": "idfc_power_plus_hpcl",
+    "name": "IDFC First Power+ HPCL",
+    "issuer": "IDFC First Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": 250,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 6.5,
+        "monthlyCap": 200
+      },
+      {
+        "categories": [
+          "groceries",
+          "utilities"
+        ],
+        "rate": 5,
+        "monthlyCap": 300
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 2000,
+    "highlights": [
+      "HPCL fuel cashback"
+    ],
+    "caveats": [
+      "Tight caps"
+    ],
+    "bestFor": [
+      "HPCL fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "au_lit",
+    "name": "AU LIT (customizable)",
+    "issuer": "AU Small Finance Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "fuel",
+          "utilities",
+          "groceries"
+        ],
+        "rate": 5,
+        "monthlyCap": 1000,
+        "notes": "Pick category packs (₹49/mo each)"
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "LTF base",
+      "Pay only for packs you use"
+    ],
+    "caveats": [
+      "Pack fees reduce net"
+    ],
+    "bestFor": [
+      "Niche category top-up"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "au_zenith_plus_rupay",
+    "name": "AU Zenith+ (RuPay)",
+    "issuer": "AU Small Finance Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": 750000,
+    "welcomeBenefitInr": 5000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 2,
+        "monthlyCap": 1000,
+        "notes": "2% on UPI spends, capped"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "hotels_domestic"
+        ],
+        "rate": 4,
+        "monthlyCap": 2500
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 400000,
+        "rewardInr": 4000,
+        "label": "Qtrly milestone bonuses"
+      }
+    ],
+    "loungeAccessInr": 10000,
+    "highlights": [
+      "RuPay UPI with strong cap",
+      "Unlimited domestic lounge"
+    ],
+    "caveats": [
+      "Newer product — verify 2026 terms"
+    ],
+    "bestFor": [
+      "RuPay UPI for high spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 100000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 4
+    }
+  },
+  {
+    "id": "au_ixigo_rupay",
+    "name": "AU Ixigo (RuPay)",
+    "issuer": "AU Small Finance Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 999,
+    "annualFee": 999,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 1000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 10,
+        "monthlyCap": 1000,
+        "notes": "10% on Ixigo bookings"
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "monthlyCap": 200
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 4000,
+    "highlights": [
+      "10% on Ixigo",
+      "RuPay UPI",
+      "4 domestic lounge"
+    ],
+    "caveats": [
+      "Best for Ixigo loyalists"
+    ],
+    "bestFor": [
+      "Ixigo bookers"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "au_altura_plus",
+    "name": "AU Altura Plus",
+    "issuer": "AU Small Finance Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "groceries",
+          "dining",
+          "utilities"
+        ],
+        "rate": 5,
+        "monthlyCap": 500,
+        "notes": "Cashback on selected merchants"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 2000,
+    "highlights": [
+      "Decent base rate"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Daily spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 2
+    }
+  },
+  {
+    "id": "kiwi_rupay",
+    "name": "Kiwi (Axis RuPay, virtual)",
+    "issuer": "Axis Bank (Kiwi)",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1.5,
+        "monthlyCap": 750,
+        "notes": "Cashback on UPI via Kiwi app"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "other",
+          "utilities"
+        ],
+        "rate": 1.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Digital-only",
+      "LTF",
+      "UPI on credit"
+    ],
+    "caveats": [
+      "Virtual card; physical card extra"
+    ],
+    "bestFor": [
+      "Quick UPI on credit"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 15000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "kiwi_neo",
+    "name": "Kiwi Neo (Yes Bank RuPay)",
+    "issuer": "YES Bank (Kiwi)",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 3,
+        "monthlyCap": 500,
+        "notes": "Higher UPI cashback on Neo tier"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "other",
+          "utilities"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "3% UPI cashback",
+      "Digital onboarding"
+    ],
+    "caveats": [
+      "Tier requirements may apply"
+    ],
+    "bestFor": [
+      "High UPI users"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 15000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 0
+    }
+  },
+  {
+    "id": "rbl_indianoil_xtra",
+    "name": "IndianOil RBL XTRA",
+    "issuer": "RBL Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 1500,
+    "annualFee": 1500,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": 1500,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 8.5,
+        "monthlyCap": 1500,
+        "notes": "Best IOCL fuel: 15 FP/₹100"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 75000,
+        "rewardInr": 500,
+        "label": "Qtrly 1000 FP"
+      }
+    ],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "Highest IOCL fuel cashback"
+    ],
+    "caveats": [
+      "FP redeemable only at IOCL"
+    ],
+    "bestFor": [
+      "IOCL fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": true,
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "indusind_tiger",
+    "name": "IndusInd Tiger",
+    "issuer": "IndusInd Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": 5000,
+    "feeWaiverSpend": 0,
+    "welcomeBenefitInr": 7500,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 6,
+        "monthlyCap": 5000
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "offline_shopping",
+          "groceries",
+          "other"
+        ],
+        "rate": 1.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 500000,
+        "rewardInr": 5000,
+        "label": "Bonus @ ₹5L/yr"
+      }
+    ],
+    "loungeAccessInr": 14000,
+    "highlights": [
+      "Unlimited Priority Pass"
+    ],
+    "caveats": [
+      "Newer card"
+    ],
+    "bestFor": [
+      "Lounge access"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 150000
+    },
+    "lastVerified": "2026-04-15",
+    "isCoBranded": false,
+    "loungeVisits": {
+      "domestic": 16,
+      "international": 6
+    }
+  },
+  {
+    "id": "sbi_phonepe_select",
+    "name": "PhonePe SBI Select (RuPay)",
+    "issuer": "SBI Card",
+    "network": "rupay",
+    "upiEnabled": true,
+    "isCoBranded": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": 400000,
+    "welcomeBenefitInr": 1500,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 5,
+        "monthlyCap": 1000,
+        "notes": "5% on PhonePe bill payments (mobile/electricity/DTH/gas/broadband)"
+      },
+      {
+        "categories": [
+          "groceries",
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 5,
+        "monthlyCap": 1000,
+        "notes": "5% on PhonePe partner merchants"
+      },
+      {
+        "categories": [
+          "insurance",
+          "education"
+        ],
+        "rate": 3,
+        "monthlyCap": 600,
+        "notes": "3% on insurance & education via PhonePe — rare"
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "monthlyCap": 500,
+        "notes": "1% on UPI to merchants"
+      },
+      {
+        "categories": [
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 1
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 4000,
+    "highlights": [
+      "5% on PhonePe utility bills",
+      "Rewards on insurance & education (uncommon)",
+      "RuPay UPI",
+      "4 domestic lounge/yr"
+    ],
+    "caveats": [
+      "Best rates require routing through PhonePe",
+      "Caps per category"
+    ],
+    "bestFor": [
+      "Utilities",
+      "Insurance via PhonePe",
+      "UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 30000
+    },
+    "lastVerified": "2026-04-15",
+    "loungeVisits": {
+      "domestic": 4
+    }
+  },
+  {
+    "id": "sbi_phonepe",
+    "name": "PhonePe SBI (RuPay, LTF)",
+    "issuer": "SBI Card",
+    "network": "rupay",
+    "upiEnabled": true,
+    "isCoBranded": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 2,
+        "monthlyCap": 300,
+        "notes": "2% on PhonePe bill payments"
+      },
+      {
+        "categories": [
+          "groceries",
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 2,
+        "monthlyCap": 300
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "monthlyCap": 200
+      },
+      {
+        "categories": [
+          "offline_shopping",
+          "other"
+        ],
+        "rate": 0.5
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance",
+      "education"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "highlights": [
+      "LTF",
+      "RuPay UPI",
+      "PhonePe utility rewards"
+    ],
+    "caveats": [
+      "Low caps; entry-level rates"
+    ],
+    "bestFor": [
+      "LTF UPI + utilities"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000
+    },
+    "lastVerified": "2026-04-15",
+    "loungeVisits": {
+      "domestic": 0
+    }
+  }
+]
