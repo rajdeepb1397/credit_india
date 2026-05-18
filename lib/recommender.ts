@@ -1,4 +1,5 @@
-import cardsData from "@/data/cards.json";
+import fs from "node:fs";
+import path from "node:path";
 import {
   Card,
   CardSchema,
@@ -10,9 +11,44 @@ import {
   UserProfile,
 } from "./types";
 
-export const ALL_CARDS: Card[] = (cardsData as unknown[]).map((c) =>
-  CardSchema.parse(c)
-);
+function loadAllCards(): Card[] {
+  const dir = path.join(process.cwd(), "data");
+  const files = fs
+    .readdirSync(dir)
+    .filter((f) => f.endsWith("cards.json"))
+    // cards.json (the generic curated set) is the base layer; issuer-official
+    // files (hdfc_cards.json, hsbc_cards.json, ...) load AFTER and override
+    // entries with the same id.
+    .sort((a, b) => {
+      if (a === "cards.json") return -1;
+      if (b === "cards.json") return 1;
+      return a.localeCompare(b);
+    });
+
+  const byId = new Map<string, Card>();
+  const sourceOf = new Map<string, string>();
+  for (const f of files) {
+    const raw = JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"));
+    if (!Array.isArray(raw)) continue;
+    for (const entry of raw) {
+      try {
+        const card = CardSchema.parse(entry);
+        byId.set(card.id, card);
+        sourceOf.set(card.id, f);
+      } catch (e) {
+        console.warn(`[recommender] skipping invalid card in ${f}:`, (e as Error).message);
+      }
+    }
+  }
+  if (process.env.NODE_ENV !== "production") {
+    const summary: Record<string, number> = {};
+    for (const f of sourceOf.values()) summary[f] = (summary[f] ?? 0) + 1;
+    console.log("[recommender] loaded cards by source:", summary);
+  }
+  return Array.from(byId.values());
+}
+
+export const ALL_CARDS: Card[] = loadAllCards();
 
 export function getCardById(id: string): Card | undefined {
   return ALL_CARDS.find((c) => c.id === id);
@@ -158,6 +194,20 @@ function effectiveAnnualFee(card: Card, totalSpendOnCard: number): number {
   return card.annualFee;
 }
 
+// Welcome bonuses are one-time; amortize over 3 years so they don't dominate year-1 ranking.
+const WELCOME_AMORTIZATION_YEARS = 3;
+
+// Lounge cash-equivalent only counts if the user actually travels (or explicitly asked for lounge).
+function loungeCountsForProfile(profile: UserProfile, annualSpend: SpendMap): boolean {
+  if (profile.preferences?.requireLounge) return true;
+  const travel =
+    (annualSpend.flights_domestic ?? 0) +
+    (annualSpend.flights_intl ?? 0) +
+    (annualSpend.hotels_domestic ?? 0) +
+    (annualSpend.hotels_intl ?? 0);
+  return travel > 0;
+}
+
 function evaluatePortfolio(
   cards: Card[],
   profile: UserProfile,
@@ -165,14 +215,15 @@ function evaluatePortfolio(
 ): Portfolio {
   const annualSpend = annualSpendFromProfile(profile);
   const { perCard } = routeSpendAcrossCards(cards, annualSpend);
+  const countLounge = loungeCountsForProfile(profile, annualSpend);
 
   const breakdown = cards.map((c) => {
     const reward = perCard[c.id]?.reward ?? 0;
     const routing = perCard[c.id]?.routing ?? {};
     const totalSpendOnCard = Object.values(routing).reduce((s, v) => s + (v ?? 0), 0);
     const milestone = milestoneValueForCard(c, totalSpendOnCard);
-    const welcome = isFirstYear ? c.welcomeBenefitInr : 0;
-    const lounge = c.loungeAccessInr;
+    const welcome = isFirstYear ? c.welcomeBenefitInr / WELCOME_AMORTIZATION_YEARS : 0;
+    const lounge = countLounge ? c.loungeAccessInr : 0;
     const fee = effectiveAnnualFee(c, totalSpendOnCard) + (isFirstYear ? c.joiningFee : 0);
     const net = reward + milestone + welcome + lounge - fee;
     return {
@@ -201,6 +252,10 @@ function evaluatePortfolio(
     perCardBreakdown: breakdown,
   };
 }
+
+// A non-owned card is "pulling its weight" only if it adds at least this much net value.
+// Otherwise it's filler — dropping it gives a cleaner, smaller portfolio.
+const MIN_MARGINAL_NET_INR = 500;
 
 function round(n: number): number {
   return Math.round(n);
@@ -250,6 +305,35 @@ export function recommend(profile: UserProfile): Recommendation {
     );
   }
 
+  const annualSpend = annualSpendFromProfile(profile);
+  const totalAnnualSpend = Object.values(annualSpend).reduce((s, v) => s + (v ?? 0), 0);
+
+  // ── Zero-spend fallback ───────────────────────────────────────────────────
+  // If the user has no spend at all (e.g. a student exploring), portfolio
+  // optimization is meaningless. Rank single cards by general utility — purely
+  // deterministic, no branded bias.
+  if (totalAnnualSpend === 0 && ownedCards.length === 0) {
+    const ranked = [...newCandidates].sort((a, b) => {
+      const aLtf = a.annualFee === 0 && a.joiningFee === 0 ? 1 : 0;
+      const bLtf = b.annualFee === 0 && b.joiningFee === 0 ? 1 : 0;
+      if (aLtf !== bLtf) return bLtf - aLtf;
+      if (a.isCoBranded !== b.isCoBranded) return a.isCoBranded ? 1 : -1;
+      if (a.baseRewardRate !== b.baseRewardRate) return b.baseRewardRate - a.baseRewardRate;
+      const aLounge = (a.loungeVisits?.domestic ?? 0) + (a.loungeVisits?.international ?? 0);
+      const bLounge = (b.loungeVisits?.domestic ?? 0) + (b.loungeVisits?.international ?? 0);
+      if (aLounge !== bLounge) return bLounge - aLounge;
+      return a.id.localeCompare(b.id);
+    });
+    const top = ranked.slice(0, 5).map((c) => evaluatePortfolio([c], profile));
+    return {
+      portfolios: top,
+      notes: [
+        "Zero-spend mode: showing the most broadly useful starter cards. Enter your monthly/annual spend on the previous step to see portfolios optimized for you.",
+      ],
+      llmEnriched: false,
+    };
+  }
+
   const hasUpiSpend =
     (profile.monthlySpend.upi_p2m ?? 0) > 0 ||
     (profile.oneOffEvents ?? []).some(
@@ -271,11 +355,43 @@ export function recommend(profile: UserProfile): Recommendation {
       if (cards.length === 0) continue;
       // Enforce RuPay-UPI requirement if user has UPI spend AND preference is on
       if (portfolioNeedsRupay && !ownedHasRupayUpi && !portfolioHasRupayUpi(combo)) continue;
-      portfolios.push(evaluatePortfolio(cards, profile));
+
+      const p = evaluatePortfolio(cards, profile);
+
+      // ── Filler suppression ───────────────────────────────────────────────
+      // Every *added* card must contribute at least MIN_MARGINAL_NET_INR of
+      // net value (reward + milestone + amortized welcome + lounge − fee).
+      // The only exception is a card that's the sole RuPay-UPI carrier needed
+      // for upi_p2m coverage. This kills "free filler card" bias toward
+      // branded / IDFC LTFs that ride along for tiny incremental value.
+      let pulledWeight = true;
+      for (const added of combo) {
+        const b = p.perCardBreakdown.find((x) => x.cardId === added.id);
+        if (!b) continue;
+        if (b.net >= MIN_MARGINAL_NET_INR) continue;
+        const isOnlyRupay =
+          portfolioNeedsRupay &&
+          !ownedHasRupayUpi &&
+          added.network === "rupay" &&
+          added.upiEnabled &&
+          combo.filter((c) => c.network === "rupay" && c.upiEnabled).length === 1;
+        if (isOnlyRupay) continue;
+        pulledWeight = false;
+        break;
+      }
+      if (!pulledWeight) continue;
+
+      portfolios.push(p);
     }
   }
 
-  portfolios.sort((a, b) => b.netSavings - a.netSavings);
+  // Sort: net desc → fewer cards → lower fee → deterministic id order
+  portfolios.sort((a, b) => {
+    if (b.netSavings !== a.netSavings) return b.netSavings - a.netSavings;
+    if (a.cardIds.length !== b.cardIds.length) return a.cardIds.length - b.cardIds.length;
+    if (a.totalAnnualFee !== b.totalAnnualFee) return a.totalAnnualFee - b.totalAnnualFee;
+    return [...a.cardIds].sort().join(",").localeCompare([...b.cardIds].sort().join(","));
+  });
 
   const seen = new Set<string>();
   const top: Portfolio[] = [];
@@ -304,7 +420,7 @@ export function recommend(profile: UserProfile): Recommendation {
   }
   if (top.length === 0) {
     notes.push(
-      "No portfolio matches your constraints. Try increasing max annual fee, max new cards, or toggling off LTF-only / Avoid co-branded."
+      "No portfolio adds at least ₹500 of net annual value over your owned cards. Try increasing max annual fee or max new cards — or your current cards may already be optimal."
     );
   }
 

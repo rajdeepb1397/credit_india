@@ -1,0 +1,301 @@
+[
+  {
+    "id": "hsbc_travelone",
+    "name": "HSBC TravelOne Credit Card",
+    "issuer": "HSBC",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": 800000,
+    "welcomeBenefitInr": 4000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 4,
+        "monthlyCap": 50000,
+        "notes": "4 RP/INR100 on flights, travel aggregators and foreign currency spends; reverts to 2 RP/INR100 beyond cap"
+      },
+      {
+        "categories": ["dining", "groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 2,
+        "notes": "2 RP/INR100 on eligible non-accelerated spends"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent", "education", "insurance", "utilities"],
+    "milestones": [
+      {
+        "spendThreshold": 1200000,
+        "rewardInr": 10000,
+        "label": "10,000 bonus reward points on annual spends above INR12L"
+      }
+    ],
+    "loungeAccessInr": 8000,
+    "loungeVisits": {
+      "domestic": 6,
+      "international": 4
+    },
+    "highlights": [
+      "Instant Reward Point to airline miles/hotel points conversion in app",
+      "Benefits worth up to INR1.6L a year stated on page",
+      "4 complimentary golf rounds and 12 lessons per calendar year"
+    ],
+    "caveats": [
+      "Reward value depends on airline/hotel redemption partner",
+      "Accelerated earn capped at 50,000 RP/month",
+      "Multiple MCC exclusions apply"
+    ],
+    "bestFor": ["Travel rewards", "Air miles and hotel points"],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": 1200000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hsbc.co.in/credit-cards/products/travelone/"
+  },
+  {
+    "id": "hsbc_live_plus",
+    "name": "HSBC Live+ Credit Card",
+    "issuer": "HSBC",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 999,
+    "annualFee": 999,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 1750,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": ["dining", "groceries"],
+        "rate": 10,
+        "monthlyCap": 1000,
+        "notes": "10% cashback on dining, food delivery and grocery spends; collective cap INR1,000 per billing cycle"
+      },
+      {
+        "categories": ["online_shopping", "offline_shopping", "other"],
+        "rate": 1.5,
+        "notes": "1.5% unlimited cashback on most other eligible spends"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent", "education", "insurance", "utilities"],
+    "milestones": [],
+    "loungeAccessInr": 3000,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "10% cashback on dining, food delivery and groceries",
+      "1.5% cashback on most other eligible retail spends",
+      "4 domestic lounge visits per year"
+    ],
+    "caveats": [
+      "Accelerated cashback capped at INR1,000 per billing cycle",
+      "Cashback is MCC-based and subject to HSBC classification",
+      "Several spend categories excluded from cashback"
+    ],
+    "bestFor": ["Dining", "Food delivery", "Groceries"],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": 1200000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hsbc.co.in/credit-cards/products/live-plus/"
+  },
+  {
+    "id": "hsbc_premier",
+    "name": "HSBC Premier Credit Card",
+    "issuer": "HSBC",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 12000,
+    "annualFee": 20000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 12,
+        "notes": "Up to 12X reward points on hotels, flights and car rentals through Travel with Points"
+      },
+      {
+        "categories": ["dining", "groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 3,
+        "notes": "3 RP/INR100 on eligible spends; reward points never expire"
+      }
+    ],
+    "excludedCategories": ["fuel"],
+    "milestones": [],
+    "loungeAccessInr": 20000,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": [
+      "Unlimited domestic and international lounge access",
+      "8 international guest lounge visits",
+      "0.99% foreign exchange markup"
+    ],
+    "caveats": [
+      "Available only to HSBC Premier banking customers",
+      "Annual fee waiver depends on Premier eligibility, not card spends",
+      "No reward points on fuel purchases"
+    ],
+    "bestFor": ["HSBC Premier customers", "Premium travel", "Low forex markup"],
+    "eligibility": {
+      "minMonthlySalaryInr": 300000,
+      "minAnnualItrInr": 0
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hsbc.co.in/credit-cards/products/premier/"
+  },
+  {
+    "id": "hsbc_visa_platinum",
+    "name": "HSBC Visa Platinum Credit Card",
+    "issuer": "HSBC",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 750,
+    "baseRewardRate": 1.33,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 6,
+        "notes": "Up to 6X reward points through Travel with Points"
+      },
+      {
+        "categories": ["dining", "groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 1.33,
+        "notes": "2 RP/INR150 on eligible spends"
+      },
+      {
+        "categories": ["fuel"],
+        "rate": 2.5,
+        "notes": "INR250 quarterly contactless fuel cashback plus monthly fuel surcharge waiver up to INR250"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0,
+      "international": 0
+    },
+    "highlights": [
+      "No joining or annual fee",
+      "Visa Signature partner benefits",
+      "Air miles conversion with Air India, Etihad Airways, British Airways and Singapore Airlines"
+    ],
+    "caveats": [
+      "Fuel cashback is contactless-only and capped",
+      "Reward value depends on redemption route",
+      "Benefits subject to Visa Signature terms"
+    ],
+    "bestFor": ["No-fee rewards", "Entry-level travel rewards"],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": 1200000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hsbc.co.in/credit-cards/products/visa-platinum/"
+  },
+  {
+    "id": "hsbc_rupay_platinum",
+    "name": "HSBC RuPay Platinum Credit Card",
+    "issuer": "HSBC",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "welcomeBenefitInr": 1000,
+    "baseRewardRate": 1.33,
+    "rules": [
+      {
+        "categories": ["upi_p2m", "dining", "groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 1.33,
+        "notes": "2 RP/INR150 on eligible spends, including credit-card-linked UPI payments"
+      }
+    ],
+    "excludedCategories": ["fuel"],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0,
+      "international": 0
+    },
+    "highlights": [
+      "No joining or annual fee",
+      "RuPay UPI integration",
+      "JCB-powered international access in around 160 countries and regions"
+    ],
+    "caveats": [
+      "Fuel surcharge waiver capped at INR250/month",
+      "Reward value depends on redemption route",
+      "International access is through JCB network"
+    ],
+    "bestFor": ["No-fee RuPay UPI", "Everyday rewards"],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": 1200000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hsbc.co.in/credit-cards/products/rupay-platinum-credit-card/"
+  },
+  {
+    "id": "hsbc_rupay_cashback",
+    "name": "HSBC RuPay Cashback Credit Card",
+    "issuer": "HSBC",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 1000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["dining", "groceries"],
+        "rate": 10,
+        "monthlyCap": 400,
+        "notes": "10% cashback on dining, food delivery and grocery spends; page positions monthly earning up to INR400"
+      },
+      {
+        "categories": ["upi_p2m", "online_shopping", "offline_shopping", "other"],
+        "rate": 1,
+        "notes": "1% cashback on other eligible spends, subject to exclusions"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent", "education", "insurance", "utilities"],
+    "milestones": [],
+    "loungeAccessInr": 6000,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 2
+    },
+    "highlights": [
+      "10% cashback on dining, food delivery and grocery spends",
+      "RuPay UPI integration",
+      "2 local lounge visits per quarter plus 2 international visits per year"
+    ],
+    "caveats": [
+      "Cashback is MCC-based and subject to HSBC classification",
+      "0% forex markup offer valid only until 30 June 2026 as extracted",
+      "Multiple spend categories excluded from cashback"
+    ],
+    "bestFor": ["RuPay UPI cashback", "Dining", "Groceries"],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": 1200000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hsbc.co.in/credit-cards/products/rupay-cashback-credit-card/"
+  }
+]

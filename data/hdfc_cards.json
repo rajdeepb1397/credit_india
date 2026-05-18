@@ -1,0 +1,881 @@
+[
+  {
+    "id": "hdfc_millennia",
+    "name": "HDFC Bank Millennia Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": 1000,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 1000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["online_shopping"],
+        "rate": 5,
+        "notes": "5% CashBack on listed brands including Amazon, Flipkart, Myntra, Tata CLiQ, Swiggy, Zomato, Uber, BookMyShow, Sony LIV and Cult.fit"
+      },
+      {
+        "categories": ["dining", "groceries", "offline_shopping", "utilities", "other"],
+        "rate": 1,
+        "notes": "1% CashBack on other eligible spends"
+      },
+      {
+        "categories": ["online_shopping", "other"],
+        "rate": 10,
+        "notes": "Up to 10% CashBack across 200+ brands via SmartBuy / PayZapp Shop"
+      }
+    ],
+    "excludedCategories": ["wallet_loads", "education"],
+    "milestones": [
+      {
+        "spendThreshold": 100000,
+        "rewardInr": 1000,
+        "label": "Quarterly ₹1,000 gift voucher or 1 domestic lounge access"
+      }
+    ],
+    "loungeAccessInr": 4000,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": ["5% CashBack on popular online brands", "Quarterly milestone voucher or lounge access", "1% fuel surcharge waiver"],
+    "caveats": ["Wallet loading, Easy EMI and education payments do not earn rewards from 1 Sep 2024", "Network was not explicitly stated in extracted markdown"],
+    "bestFor": ["Online shopping", "Everyday cashback"],
+    "eligibility": {
+      "minMonthlySalaryInr": 35000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/millennia-credit-card?icid=website_organic_comparecards_typesofcreditcards-popularcards:link:knowmore"
+  },
+  {
+    "id": "hdfc_indianoil",
+    "name": "IndianOil HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "welcomeBenefitInr": 250,
+    "baseRewardRate": 0.7,
+    "rules": [
+      {
+        "categories": ["fuel"],
+        "rate": 5,
+        "monthlyCap": 150,
+        "notes": "5% Fuel Points at IndianOil outlets; IOCL cap is 250 FP/month for first 6 months and 150 FP/month after 6 months"
+      },
+      {
+        "categories": ["groceries", "utilities"],
+        "rate": 5,
+        "monthlyCap": 100,
+        "notes": "5% Fuel Points on groceries and bill payments"
+      },
+      {
+        "categories": ["online_shopping", "offline_shopping", "dining", "other"],
+        "rate": 0.7,
+        "notes": "Fuel Points on retail spends"
+      }
+    ],
+    "excludedCategories": ["rent", "wallet_loads", "education"],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0
+    },
+    "highlights": ["5% Fuel Points at IndianOil outlets", "Complimentary IndianOil XTRAREWARDS membership", "1 Fuel Point = ₹0.96 for IOCL fuel redemption"],
+    "caveats": ["Accelerated IndianOil fuel benefit is for non-UPI transactions", "Network was not explicitly stated in extracted markdown", "Rental/government and several other categories excluded"],
+    "bestFor": ["IndianOil fuel", "Fuel-point redemption"],
+    "eligibility": {
+      "minMonthlySalaryInr": 12000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": true,
+    "url": "https://www.hdfc.bank.in/credit-cards/indianoil-hdfc-bank-credit-card?icid=website_organic_comparecards_typesofcreditcards-popularcards:link:knowmore"
+  },
+  {
+    "id": "hdfc_pixel_play",
+    "name": "HDFC Bank PIXEL Play Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["dining", "groceries", "online_shopping", "flights_domestic", "hotels_domestic"],
+        "rate": 5,
+        "notes": "5% CashBack on any two chosen packs: Dining & Entertainment, Travel, Grocery, Electronics or Fashion"
+      },
+      {
+        "categories": ["online_shopping"],
+        "rate": 3,
+        "notes": "3% CashBack on chosen ecommerce platform: Amazon, Flipkart or PayZapp"
+      },
+      {
+        "categories": ["upi_p2m"],
+        "rate": 1,
+        "notes": "1% CashBack on UPI spends for PIXEL RuPay Credit Card holders"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0
+    },
+    "highlights": ["Build-your-own card packs", "Fully digital PayZapp management", "Visa/RuPay/Both network choice during setup"],
+    "caveats": ["RuPay is digital and Visa may be issued as physical card depending on setup", "Card setup in PayZapp is compulsory after approval"],
+    "bestFor": ["Custom cashback packs", "PayZapp users", "UPI on RuPay"],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/pixel-play-credit-card?icid=website_organic_comparecards_typesofcreditcards-popularcards:link:knowmore"
+  },
+  {
+    "id": "hdfc_freedom",
+    "name": "HDFC Bank Freedom Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 0.15,
+    "rules": [
+      {
+        "categories": ["online_shopping", "dining", "offline_shopping"],
+        "rate": 1.5,
+        "notes": "10X CashPoints / Reward Points on Big Basket, BookMyShow, OYO, Swiggy and Uber"
+      },
+      {
+        "categories": ["groceries", "utilities", "other"],
+        "rate": 0.15,
+        "notes": "2 Reward Points for every ₹200 on other spends; redemption value shown as ₹0.15/RP"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0
+    },
+    "highlights": ["10X CashPoints on select everyday merchants", "Annual fee waived on ₹50K spend", "1% fuel surcharge waiver"],
+    "caveats": ["Reward value is low at ₹0.15/RP", "Network was not explicitly stated in extracted markdown"],
+    "bestFor": ["Entry-level everyday spends", "Low annual spends"],
+    "eligibility": {
+      "minMonthlySalaryInr": 12000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/freedom-credit-card?icid=website_organic_comparecards_typesofcreditcards-popularcards:link:knowmore"
+  },
+  {
+    "id": "hdfc_infinia_metal",
+    "name": "HDFC Bank Infinia Metal Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 12500,
+    "annualFee": 12500,
+    "feeWaiverSpend": 1000000,
+    "welcomeBenefitInr": 12500,
+    "baseRewardRate": 3.33,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl", "online_shopping"],
+        "rate": 33.3,
+        "notes": "Up to 10X Reward Points on SmartBuy spends"
+      },
+      {
+        "categories": ["dining", "groceries", "offline_shopping", "utilities", "insurance", "education", "other"],
+        "rate": 3.33,
+        "notes": "5 Reward Points per ₹150; 1 RP = ₹1 for flights/hotels and selected SmartBuy redemptions"
+      }
+    ],
+    "excludedCategories": ["fuel"],
+    "milestones": [],
+    "loungeAccessInr": 22000,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": ["Invite-only metal card", "Unlimited global airport lounge access", "Unlimited global golf lessons and games"],
+    "caveats": ["Invite-only", "Fuel transactions do not earn Reward Points", "Older sourced cards have different fee and waiver amounts"],
+    "bestFor": ["Premium travel", "SmartBuy redemptions", "High-spend users"],
+    "eligibility": {
+      "inviteOnly": true
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/infinia-credit-card"
+  },
+  {
+    "id": "hdfc_diners_club_black_metal",
+    "name": "HDFC Bank Diners Club Black METAL Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "diners",
+    "upiEnabled": false,
+    "joiningFee": 10000,
+    "annualFee": 10000,
+    "feeWaiverSpend": 800000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 3.33,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 33.3,
+        "notes": "Up to 10X Reward Points on SmartBuy"
+      },
+      {
+        "categories": ["dining"],
+        "rate": 6.66,
+        "notes": "2X Reward Points on weekend dining at participating restaurants"
+      },
+      {
+        "categories": ["groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 3.33,
+        "notes": "1 RP = ₹1 for SmartBuy flights/hotels"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 400000,
+        "rewardInr": 10000,
+        "label": "10,000 bonus Reward Points every calendar quarter"
+      }
+    ],
+    "loungeAccessInr": 22000,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": ["Unlimited lounge access for primary and add-on members", "6 complimentary golf games every quarter", "Club Marriott, Amazon Prime and Swiggy One welcome memberships"],
+    "caveats": ["Diners acceptance may vary", "Welcome memberships require ₹1.5L spends in first 90 days"],
+    "bestFor": ["Premium travel", "Lounge access", "SmartBuy redemptions"],
+    "eligibility": {
+      "minMonthlySalaryInr": 250000,
+      "minAnnualItrInr": 3000000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/diners-club-black-metal-edition-credit-card"
+  },
+  {
+    "id": "hdfc_phonepe_ultimo",
+    "name": "PhonePe HDFC Bank Ultimo Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 999,
+    "annualFee": 999,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 999,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["utilities", "flights_domestic", "hotels_domestic"],
+        "rate": 10,
+        "monthlyCap": 1000,
+        "notes": "10% Reward Points on select PhonePe categories: recharges, utilities, bill payments and travel"
+      },
+      {
+        "categories": ["online_shopping", "dining"],
+        "rate": 5,
+        "monthlyCap": 500,
+        "notes": "5% Reward Points on Amazon, Flipkart, Myntra, Ajio, Swiggy, Zomato and Uber"
+      },
+      {
+        "categories": ["upi_p2m"],
+        "rate": 1,
+        "monthlyCap": 500,
+        "notes": "1% Reward Points on Scan & Pay spends"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": 6000,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": ["Up to 2,000 Reward Points per month", "PhonePe Gift Card and scratch-card welcome benefits", "8 domestic lounge visits per year with spend condition"],
+    "caveats": ["Apply only through PhonePe app", "Lounge access requires ₹75,000 quarterly spend", "Welcome benefits only where joining fee applies"],
+    "bestFor": ["PhonePe users", "RuPay UPI", "Online brands"],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000,
+      "minAnnualItrInr": 2600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": true,
+    "url": "https://www.hdfc.bank.in/credit-cards/phonepe-hdfc-bank-ultimo-credit-card"
+  },
+  {
+    "id": "hdfc_phonepe_uno",
+    "name": "PhonePe HDFC Bank Uno Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 499,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["utilities", "flights_domestic", "hotels_domestic"],
+        "rate": 2,
+        "monthlyCap": 500,
+        "notes": "2% Reward Points on select PhonePe categories: recharges, utilities, bill payments and travel"
+      },
+      {
+        "categories": ["online_shopping", "dining"],
+        "rate": 1,
+        "monthlyCap": 500,
+        "notes": "1% Reward Points on Amazon, Flipkart, Myntra, Ajio, Swiggy, Zomato and Uber"
+      },
+      {
+        "categories": ["upi_p2m"],
+        "rate": 1,
+        "monthlyCap": 500,
+        "notes": "1% Reward Points on Scan & Pay spends"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0
+    },
+    "highlights": ["Up to 1,500 Reward Points per month", "PhonePe Gift Card and scratch-card welcome benefits", "RuPay credit-card-on-UPI support"],
+    "caveats": ["Apply only through PhonePe app", "Welcome benefits only where joining fee applies"],
+    "bestFor": ["PhonePe users", "Entry-level RuPay UPI"],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000,
+      "minAnnualItrInr": 2600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": true,
+    "url": "https://www.hdfc.bank.in/credit-cards/phonepe-hdfc-bank-uno-credit-card"
+  },
+  {
+    "id": "hdfc_tata_neu_plus",
+    "name": "Tata Neu Plus HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 499,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["online_shopping", "groceries"],
+        "rate": 7,
+        "notes": "2% on Tata Neu/partner Tata Brands plus additional 5% NeuCoins on selected Tata Neu categories via NeuPass"
+      },
+      {
+        "categories": ["upi_p2m"],
+        "rate": 1,
+        "monthlyCap": 500,
+        "notes": "Up to 1% NeuCoins on eligible UPI spends from 1 Aug 2024"
+      },
+      {
+        "categories": ["dining", "offline_shopping", "utilities", "other"],
+        "rate": 1,
+        "notes": "1% NeuCoins on non-Tata brand spends and merchant EMI spends"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent"],
+    "milestones": [
+      {
+        "spendThreshold": 50000,
+        "rewardInr": 1000,
+        "label": "Quarterly domestic lounge voucher on ₹50K spends"
+      }
+    ],
+    "loungeAccessInr": 4000,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": ["7% total NeuCoins on selected Tata Neu categories", "RuPay UPI support", "₹499 welcome NeuCoins"],
+    "caveats": ["NeuCoins are Tata Neu ecosystem rewards", "Several caps and exclusions apply from 2023-2025 changes", "Welcome benefit not for LTF/FYF cards"],
+    "bestFor": ["Tata ecosystem", "RuPay UPI", "Bigbasket/Croma/Tata CLiQ users"],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": true,
+    "url": "https://www.hdfc.bank.in/credit-cards/tata-neu-plus-hdfc-bank-credit-card"
+  },
+  {
+    "id": "hdfc_marriott_bonvoy",
+    "name": "Marriott Bonvoy® HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "diners",
+    "upiEnabled": false,
+    "joiningFee": 3000,
+    "annualFee": 3000,
+    "welcomeBenefitInr": 15000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": ["hotels_domestic", "hotels_intl"],
+        "rate": 8,
+        "notes": "8 Marriott Bonvoy Points per ₹150 at hotels participating in Marriott Bonvoy"
+      },
+      {
+        "categories": ["flights_domestic", "flights_intl", "dining"],
+        "rate": 4,
+        "notes": "4 Marriott Bonvoy Points per ₹150 on travel, dining and entertainment"
+      },
+      {
+        "categories": ["groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 2,
+        "notes": "2 Marriott Bonvoy Points per ₹150 on other applicable purchases"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 600000,
+        "rewardInr": 15000,
+        "label": "1 Free Night Award in anniversary year"
+      },
+      {
+        "spendThreshold": 900000,
+        "rewardInr": 15000,
+        "label": "Additional 1 Free Night Award in anniversary year"
+      },
+      {
+        "spendThreshold": 1500000,
+        "rewardInr": 15000,
+        "label": "Additional 1 Free Night Award in anniversary year"
+      }
+    ],
+    "loungeAccessInr": 8000,
+    "loungeVisits": {
+      "domestic": 12
+    },
+    "highlights": ["Free Night Award welcome benefit", "Marriott Bonvoy Silver Elite Status", "12 complimentary lounge accesses within India"],
+    "caveats": ["Reward value depends on Marriott Bonvoy redemption", "Free Night Awards capped to hotels up to 15,000 Marriott Bonvoy Points", "International lounge count not specified on extracted page"],
+    "bestFor": ["Marriott loyalists", "Hotel stays", "Free Night Awards"],
+    "eligibility": {
+      "minMonthlySalaryInr": 100000,
+      "minAnnualItrInr": 1500000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": true,
+    "url": "https://www.hdfc.bank.in/credit-cards/marriott-bonvoy-credit-card"
+  },
+  {
+    "id": "hdfc_irctc",
+    "name": "IRCTC HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl"],
+        "rate": 5,
+        "monthlyCap": 1000,
+        "notes": "5 RP/₹100 on IRCTC ticketing website and Rail Connect app; mapped to travel category"
+      },
+      {
+        "categories": ["online_shopping", "offline_shopping", "dining", "groceries", "utilities", "other"],
+        "rate": 1,
+        "notes": "1 RP/₹100 on other merchants as stated in FAQ"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent", "education"],
+    "milestones": [
+      {
+        "spendThreshold": 30000,
+        "rewardInr": 500,
+        "label": "₹500 gift voucher on quarterly spends of ₹30K"
+      }
+    ],
+    "loungeAccessInr": 6000,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": ["5 RP/₹100 on IRCTC ticketing", "8 complimentary IRCTC Executive Lounge accesses yearly", "Additional 5% cashback on train booking via SmartBuy"],
+    "caveats": ["Reward Points redeem only against train bookings via HDFC Bank SmartBuy", "Minimum 100 points needed for redemption", "Many exclusions and monthly caps apply"],
+    "bestFor": ["Frequent train travellers", "IRCTC bookings"],
+    "eligibility": {
+      "minMonthlySalaryInr": 25000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": true,
+    "url": "https://www.hdfc.bank.in/credit-cards/irctc-credit-card"
+  },
+  {
+    "id": "hdfc_diners_club_privilege",
+    "name": "Diners Club Privilege Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "diners",
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": 1000,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": ["dining"],
+        "rate": 10,
+        "monthlyCap": 2500,
+        "notes": "20 RP/₹200 on Swiggy and Zomato online food delivery; additional 4X capped at 2,500 RP/month"
+      },
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 20,
+        "notes": "Up to 10X Reward Points on SmartBuy"
+      },
+      {
+        "categories": ["groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 2,
+        "notes": "4 RP/₹200 on retail spends"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 150000,
+        "rewardInr": 1500,
+        "label": "Quarterly ₹1,500 voucher on spends of ₹1.5L"
+      }
+    ],
+    "loungeAccessInr": 8000,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 8
+    },
+    "highlights": ["BOGO weekend tickets via BookMyShow", "Swiggy One and Times Prime welcome memberships", "2 worldwide lounge accesses every quarter"],
+    "caveats": ["Diners acceptance may vary", "Welcome memberships require ₹75K spend in first 90 days", "Guest lounge access not part of program"],
+    "bestFor": ["Dining and entertainment", "Mid-tier Diners benefits"],
+    "eligibility": {
+      "minMonthlySalaryInr": 35000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/diners-privilege-credit-card"
+  },
+  {
+    "id": "hdfc_regalia_gold",
+    "name": "Regalia Gold Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 2500,
+    "annualFee": 2500,
+    "feeWaiverSpend": 400000,
+    "welcomeBenefitInr": 2500,
+    "baseRewardRate": 2.5,
+    "rules": [
+      {
+        "categories": ["online_shopping"],
+        "rate": 12.5,
+        "notes": "5X Reward Points on Myntra, Nykaa, Reliance Digital and more"
+      },
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 12.5,
+        "notes": "Up to 10X rewards on SmartBuy hotels and flight bookings"
+      },
+      {
+        "categories": ["dining", "groceries", "offline_shopping", "utilities", "insurance", "education", "other"],
+        "rate": 2.5,
+        "notes": "5 RP/₹200 on retail spends; redemption value varies by category"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent"],
+    "milestones": [
+      {
+        "spendThreshold": 150000,
+        "rewardInr": 1500,
+        "label": "Quarterly ₹1,500 Myntra/Nykaa voucher"
+      },
+      {
+        "spendThreshold": 500000,
+        "rewardInr": 5000,
+        "label": "₹5,000 flight voucher"
+      },
+      {
+        "spendThreshold": 750000,
+        "rewardInr": 5000,
+        "label": "Additional ₹5,000 flight voucher"
+      }
+    ],
+    "loungeAccessInr": 12000,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 6
+    },
+    "highlights": ["Swiggy One and MMT Black Gold welcome memberships", "12 domestic and 6 international lounge visits", "Boarding Edge travel benefits"],
+    "caveats": ["Domestic lounge access requires ₹60K spend in preceding quarter", "Reward value varies from ₹0.20 to ₹0.65/RP", "Statement-cycle earn cap of 50,000 Reward Points"],
+    "bestFor": ["Mid-premium travel", "Lifestyle vouchers", "SmartBuy users"],
+    "eligibility": {
+      "minMonthlySalaryInr": 150000,
+      "minAnnualItrInr": 1800000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/regalia-gold-credit-card"
+  },
+  {
+    "id": "hdfc_upi_rupay",
+    "name": "HDFC Bank UPI RuPay Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 99,
+    "annualFee": 99,
+    "feeWaiverSpend": 25000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 0.25,
+    "rules": [
+      {
+        "categories": ["groceries", "dining"],
+        "rate": 0.75,
+        "monthlyCap": 500,
+        "minTxn": 100,
+        "notes": "3% CashPoints on groceries, supermarket, dining and PayZapp transactions; 1 CashPoint = ₹0.25"
+      },
+      {
+        "categories": ["utilities"],
+        "rate": 0.5,
+        "monthlyCap": 500,
+        "minTxn": 100,
+        "notes": "2% CashPoints on utility spends; 1 CashPoint = ₹0.25"
+      },
+      {
+        "categories": ["upi_p2m", "online_shopping", "offline_shopping", "other"],
+        "rate": 0.25,
+        "monthlyCap": 500,
+        "minTxn": 100,
+        "notes": "1% CashPoints on other spends; 1 CashPoint = ₹0.25"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent"],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0
+    },
+    "highlights": ["Virtual RuPay add-on card for UPI", "Low annual fee", "CashPoints on UPI and PayZapp spends"],
+    "caveats": ["Issued only as an additional floater card", "No physical card", "SmartBuy spends do not earn CashPoints"],
+    "bestFor": ["RuPay UPI", "Existing HDFC cardholders"],
+    "eligibility": {},
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/hdfc-bank-upi-rupay-credit-card"
+  },
+  {
+    "id": "hdfc_pixel_go",
+    "name": "PIXEL Go Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 250,
+    "annualFee": 250,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": ["online_shopping", "flights_domestic", "hotels_domestic"],
+        "rate": 5,
+        "notes": "5% cashback on SmartBuy"
+      },
+      {
+        "categories": ["upi_p2m"],
+        "rate": 1,
+        "notes": "1% cashback on UPI spends"
+      },
+      {
+        "categories": ["dining", "groceries", "offline_shopping", "utilities", "other"],
+        "rate": 1,
+        "notes": "1% cashback on eligible transactions"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 0
+    },
+    "highlights": ["Fully digital onboarding and management via PayZapp", "Pay in Parts EMI from PayZapp", "FD-backed option with up to 90% FD value as limit"],
+    "caveats": ["Joining fee waiver threshold conflicts in extracted page: fees section says ₹90K/90 days, FAQ says ₹10K/90 days", "RuPay is digital and Visa physical card may also be issued"],
+    "bestFor": ["Digital-first users", "PayZapp users", "UPI on RuPay"],
+    "eligibility": {
+      "minMonthlySalaryInr": 12000,
+      "minAnnualItrInr": 600000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/pixel-go-credit-card"
+  },
+  {
+    "id": "hdfc_diners_club_miles",
+    "name": "Diners Club Miles Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "diners",
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": 1000,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": ["dining", "groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 2,
+        "notes": "4 Reward Points for every ₹200 spent"
+      },
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 2,
+        "notes": "1 mile per Reward Point; up to 70% booking value can be covered"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": 6000,
+    "loungeVisits": {
+      "domestic": 6
+    },
+    "highlights": ["6 complimentary lounge accesses annually", "1 mile per Reward Point", "Insurance cover including ₹1 crore air accident cover"],
+    "caveats": ["Sourcing stopped; existing customers continue benefits", "Reward Points capped at 50,000 in a statement cycle"],
+    "bestFor": ["Existing cardholders", "Miles conversion"],
+    "eligibility": {},
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/diners-club-miles-credit-card"
+  },
+  {
+    "id": "hdfc_regalia",
+    "name": "Regalia Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 2500,
+    "annualFee": 2500,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": 2500,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl", "online_shopping"],
+        "rate": 10,
+        "notes": "Up to 5X Reward Points via SmartBuy"
+      },
+      {
+        "categories": ["dining", "groceries", "offline_shopping", "utilities", "other"],
+        "rate": 2,
+        "notes": "4 Reward Points on every ₹200 spent"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads", "rent"],
+    "milestones": [
+      {
+        "spendThreshold": 500000,
+        "rewardInr": 10000,
+        "label": "10,000 Reward Points on annual spends of ₹5L"
+      },
+      {
+        "spendThreshold": 800000,
+        "rewardInr": 5000,
+        "label": "Additional 5,000 Reward Points on annual spends of ₹8L"
+      }
+    ],
+    "loungeAccessInr": 12000,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 6
+    },
+    "highlights": ["12 domestic and 6 international lounge visits", "Priority Pass after 4 card uses", "24x7 concierge services"],
+    "caveats": ["Sourcing discontinued", "Domestic lounge vouchers require ₹1L quarterly spend", "Reward rules changed effective 1 Jan 2023"],
+    "bestFor": ["Existing cardholders", "Travel and concierge"],
+    "eligibility": {},
+    "lastVerified": "2026-05-18",
+    "isCoBranded": false,
+    "url": "https://www.hdfc.bank.in/credit-cards/regalia-credit-card"
+  },
+  {
+    "id": "hdfc_diners_club_intermiles",
+    "name": "Diners Club InterMiles Credit Card",
+    "issuer": "HDFC Bank",
+    "network": "diners",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 800000,
+    "welcomeBenefitInr": 0,
+    "baseRewardRate": 5.33,
+    "rules": [
+      {
+        "categories": ["flights_domestic", "flights_intl", "hotels_domestic", "hotels_intl"],
+        "rate": 10.67,
+        "notes": "16 InterMiles on every ₹150 spent on flights and hotels booked through linked InterMiles page"
+      },
+      {
+        "categories": ["dining", "groceries", "online_shopping", "offline_shopping", "utilities", "other"],
+        "rate": 5.33,
+        "notes": "8 InterMiles on every ₹150 retail spend above ₹150"
+      },
+      {
+        "categories": ["fuel"],
+        "rate": 1,
+        "notes": "1% fuel surcharge waiver on minimum transaction ₹400, capped at ₹1,000 per billing cycle"
+      }
+    ],
+    "excludedCategories": ["fuel", "wallet_loads"],
+    "milestones": [
+      {
+        "spendThreshold": 20000,
+        "rewardInr": 10000,
+        "label": "10,000 InterMiles in first 30 days"
+      },
+      {
+        "spendThreshold": 150000,
+        "rewardInr": 15000,
+        "label": "15,000 InterMiles in first 90 days"
+      }
+    ],
+    "loungeAccessInr": 12000,
+    "loungeVisits": {
+      "domestic": 12
+    },
+    "highlights": ["Unlimited domestic lounge access via Exclusive Lounge Program", "Etihad Airways discounts and 2.5X bonus InterMiles", "Unlimited complimentary golf games"],
+    "caveats": ["InterMiles card is phased out and customers were migrated", "Fee amount was not stated in the extracted page section", "InterMiles cannot be converted to Reward Points"],
+    "bestFor": ["Historical data", "Existing/migrated cardholders", "InterMiles users"],
+    "eligibility": {
+      "minMonthlySalaryInr": 120000,
+      "minAnnualItrInr": 1440000
+    },
+    "lastVerified": "2026-05-18",
+    "isCoBranded": true,
+    "url": "https://www.hdfc.bank.in/credit-cards/intermiles-diners-club-credit-card"
+  }
+]
