@@ -46,24 +46,26 @@ const PRESET_CATEGORIES: SpendCategory[] = [
 
 const STORAGE_KEY = "cardpilot_profile_v1";
 
+const DEFAULT_PROFILE: UserProfile = {
+  monthlySpend: {},
+  spendFrequency: {},
+  ownedCards: [],
+  oneOffEvents: [],
+  preferences: {
+    maxNewCards: 2,
+    maxAnnualFee: 2000,
+    preferRupayUpi: true,
+    preferLtf: false,
+    avoidCoBranded: true,
+    requireLounge: false,
+  },
+};
+
 export default function Home() {
   const [step, setStep] = useState<Step>("spends");
   const [cards, setCards] = useState<CardType[]>([]);
   const [llmAvailable, setLlmAvailable] = useState(false);
-  const [profile, setProfile] = useState<UserProfile>({
-    monthlySpend: {},
-    spendFrequency: {},
-    ownedCards: [],
-    oneOffEvents: [],
-    preferences: {
-      maxNewCards: 2,
-      maxAnnualFee: 2000,
-      preferRupayUpi: true,
-      preferLtf: false,
-      avoidCoBranded: true,
-      requireLounge: false,
-    },
-  });
+  const [profile, setProfile] = useState<UserProfile>(DEFAULT_PROFILE);
   const [result, setResult] = useState<{
     portfolios: Portfolio[];
     notes: string[];
@@ -112,6 +114,15 @@ export default function Home() {
     }
   }
 
+  function resetProfile() {
+    if (typeof window !== "undefined") {
+      const ok = window.confirm("Reset all your inputs to defaults?");
+      if (!ok) return;
+    }
+    setProfile(DEFAULT_PROFILE);
+    setResult(null);
+  }
+
   return (
     <main className="mx-auto max-w-3xl px-5 pb-24 pt-10 sm:pt-16">
       <Header />
@@ -123,6 +134,7 @@ export default function Home() {
             <Section key="spends">
               <SpendsStep profile={profile} setProfile={setProfile} />
               <Nav
+                reset={resetProfile}
                 next={() => setStep("owned")}
                 extra={
                   <button
@@ -138,13 +150,14 @@ export default function Home() {
           {step === "owned" && (
             <Section key="owned">
               <OwnedStep profile={profile} setProfile={setProfile} cards={cards} />
-              <Nav back={() => setStep("spends")} next={() => setStep("events")} />
+              <Nav reset={resetProfile} back={() => setStep("spends")} next={() => setStep("events")} />
             </Section>
           )}
           {step === "events" && (
             <Section key="events">
               <EventsStep profile={profile} setProfile={setProfile} />
               <Nav
+                reset={resetProfile}
                 back={() => setStep("owned")}
                 next={() => runRecommend()}
                 nextLabel={
@@ -269,11 +282,13 @@ function Nav({
   next,
   nextLabel,
   extra,
+  reset,
 }: {
   back?: () => void;
   next?: () => void;
   nextLabel?: React.ReactNode;
   extra?: React.ReactNode;
+  reset?: () => void;
 }) {
   return (
     <div className="mt-7 flex flex-wrap items-center justify-between gap-2">
@@ -288,6 +303,15 @@ function Nav({
         <span />
       )}
       <div className="flex items-center gap-2">
+        {reset && (
+          <button
+            onClick={reset}
+            className="inline-flex items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-sm text-fg-muted transition hover:border-red-500/40 hover:bg-red-500/10 hover:text-red-400"
+            title="Clear all inputs and reset to defaults"
+          >
+            Reset
+          </button>
+        )}
         {extra}
         {next && (
           <button
@@ -887,6 +911,56 @@ function ResultsStep({
     rerun(next);
   }
 
+  type SortKey = "default" | "fee_asc" | "fee_desc" | "income_asc" | "income_desc";
+  const [sortBy, setSortBy] = useState<SortKey>("default");
+
+  const cardById = useMemo(() => {
+    const m = new Map<string, CardType>();
+    for (const c of cards) m.set(c.id, c);
+    return m;
+  }, [cards]);
+
+  function portfolioMinIncome(p: Portfolio): number {
+    let max = 0;
+    for (const id of p.cardIds) {
+      const c = cardById.get(id);
+      const v = c?.eligibility?.minMonthlySalaryInr ?? 0;
+      if (v > max) max = v;
+    }
+    return max;
+  }
+
+  function portfolioDeclaredFee(p: Portfolio): number {
+    let sum = 0;
+    for (const id of p.cardIds) {
+      const c = cardById.get(id);
+      sum += (c?.annualFee ?? 0) + (c?.joiningFee ?? 0);
+    }
+    return sum;
+  }
+
+  const sortedPortfolios = useMemo(() => {
+    if (!result) return [];
+    const arr = [...result.portfolios];
+    switch (sortBy) {
+      case "fee_asc":
+        arr.sort((a, b) => portfolioDeclaredFee(a) - portfolioDeclaredFee(b) || b.netSavings - a.netSavings);
+        break;
+      case "fee_desc":
+        arr.sort((a, b) => portfolioDeclaredFee(b) - portfolioDeclaredFee(a) || b.netSavings - a.netSavings);
+        break;
+      case "income_asc":
+        arr.sort((a, b) => portfolioMinIncome(a) - portfolioMinIncome(b) || b.netSavings - a.netSavings);
+        break;
+      case "income_desc":
+        arr.sort((a, b) => portfolioMinIncome(b) - portfolioMinIncome(a) || b.netSavings - a.netSavings);
+        break;
+      default:
+        break;
+    }
+    return arr.slice(0, 5);
+  }, [result, sortBy, cardById]);
+
   const filterBar = (
     <div className="mt-4 flex flex-wrap items-center gap-2 rounded-xl border border-border bg-bg-subtle/40 p-3">
       <span className="mr-1 text-[10px] font-medium uppercase tracking-wider text-fg-subtle">
@@ -953,7 +1027,8 @@ function ResultsStep({
     );
   }
   if (!result) return null;
-  const top = result.portfolios[0];
+  const top = sortedPortfolios[0];
+  const rest = sortedPortfolios.slice(1);
   return (
     <div>
       <StepHeader
@@ -968,6 +1043,23 @@ function ResultsStep({
 
       {filterBar}
 
+      <div className="mt-3 flex flex-wrap items-center justify-end gap-2 text-xs text-fg-subtle">
+        <label className="inline-flex items-center gap-1.5">
+          Sort by
+          <select
+            value={sortBy}
+            onChange={(e) => setSortBy(e.target.value as SortKey)}
+            className="rounded-md border border-border bg-bg px-2 py-1 text-fg outline-none focus:border-accent/50"
+          >
+            <option value="default">Best match (net savings)</option>
+            <option value="fee_asc">Max fee: low to high</option>
+            <option value="fee_desc">Max fee: high to low</option>
+            <option value="income_asc">Income: low to high</option>
+            <option value="income_desc">Income: high to low</option>
+          </select>
+        </label>
+      </div>
+
       {!top ? (
         <div className="mt-6 rounded-xl border border-border bg-bg-subtle/40 p-6 text-center text-sm text-fg-muted">
           No portfolios fit your filters. Try toggling off RuPay-only / LTF / No-cobranded, or raising max fee.
@@ -978,13 +1070,13 @@ function ResultsStep({
             <PortfolioCard portfolio={top} cards={cards} primary />
           </div>
 
-          {result.portfolios.length > 1 && (
+          {rest.length > 0 && (
             <div className="mt-6">
               <div className="mb-2 text-xs font-medium uppercase tracking-wider text-fg-subtle">
                 Other strong portfolios
               </div>
               <div className="space-y-3">
-                {result.portfolios.slice(1).map((p, i) => (
+                {rest.map((p, i) => (
                   <PortfolioCard key={i} portfolio={p} cards={cards} />
                 ))}
               </div>

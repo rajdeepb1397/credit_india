@@ -33,6 +33,7 @@ function loadAllCards(): Card[] {
     for (const entry of raw) {
       try {
         const card = applyRealismGuards(CardSchema.parse(entry));
+        if (isGarbageCard(card)) continue;
         byId.set(card.id, card);
         sourceOf.set(card.id, f);
       } catch (e) {
@@ -49,21 +50,103 @@ function loadAllCards(): Card[] {
 }
 
 // ── Data-quality guards for auto-normalized cards ───────────────────────────
-// 173 of the 200+ cards come from LLM-normalized HTML scrapes. Real-world Indian
-// credit cards almost never offer >5% uncapped on any category — when the data
-// claims that, it's almost always "10X reward points" being mis-parsed as "10%".
-// We don't drop the card (the high rate may apply in narrow contexts), but we
-// bound the annual reward so a hallucinated rate can't dominate the portfolio.
-const SUSPICIOUS_RATE_THRESHOLD = 5; // %
-const FALLBACK_ANNUAL_CAP_INR = 6000; // ~₹500/month — industry baseline for capped specials
+// 197 of the 227 cards come from LLM-normalized HTML scrapes. Garbage values are
+// common: 50% base rates, ₹15 crore welcome bonuses, generic names like "CLASSIC
+// Credit Card". We apply realistic upper bounds at load time — any field above its
+// industry-plausible ceiling is treated as a parsing error and clamped (not used
+// to dominate ranking).
+const MAX_REALISTIC_BASE_RATE = 2;          // % — no Indian card baseline exceeds 2%
+const MAX_REALISTIC_RULE_RATE = 12;         // % — capped specials top out around 10%
+const MAX_REALISTIC_WELCOME_INR = 25000;    // ₹ — real max for sub-₹15K-fee cards
+const MAX_REALISTIC_MILESTONE_INR = 15000;  // ₹ per tier
+const HIGH_RATE_THRESHOLD = 5;              // % — anything above this without a cap gets one
+const FALLBACK_ANNUAL_CAP_INR = 6000;       // ~₹500/month — industry baseline
+
+// Premium-tier cards (Diners, Infinia, Reserve, Magnus, Zenith, etc.) almost never
+// have ₹0 fee in India. If the data claims so, it's a normalization error — flag
+// these as "suspect free" so the LTF filter excludes them and the displayed fee is
+// not misleadingly 0.
+const PREMIUM_TIER_PATTERNS: RegExp[] = [
+  /\bdiners\s*club\b/i,
+  /\binfinia\b/i,
+  /\breserve\b/i,
+  /\bmagnus\b/i,
+  /\bzenith\b/i,
+  /\bburgundy\b/i,
+  /\baura\b/i,
+  /\beterna\s+premium\b/i,
+  /\bpinnacle\b/i,
+  /\bemeralde\b/i,
+  /\bplatinum\s+plus\b/i,
+  /\bworld\s+(elite|premier)\b/i,
+];
+const SYNTHETIC_PREMIUM_FEE_INR = 5000; // conservative floor for unverified premium cards
+function isPremiumTierName(name: string): boolean {
+  return PREMIUM_TIER_PATTERNS.some((re) => re.test(name));
+}
+
 function applyRealismGuards(card: Card): Card {
-  const fixed = { ...card, rules: card.rules.map((r) => ({ ...r })) };
+  const fixed: Card = {
+    ...card,
+    rules: card.rules
+      .map((r) => ({ ...r }))
+      // Drop rules with patently impossible rates (>12% — almost certainly mis-parsed
+      // "10X reward points" misread as percentage).
+      .filter((r) => r.rate <= MAX_REALISTIC_RULE_RATE),
+    milestones: card.milestones.map((m) => ({
+      ...m,
+      rewardInr: Math.min(m.rewardInr, MAX_REALISTIC_MILESTONE_INR),
+    })),
+    baseRewardRate: Math.min(card.baseRewardRate, MAX_REALISTIC_BASE_RATE),
+    welcomeBenefitInr: Math.min(card.welcomeBenefitInr, MAX_REALISTIC_WELCOME_INR),
+  };
+
+  // Cap any uncapped 5%+ rule at a realistic annual reward (industry pattern).
   for (const r of fixed.rules) {
-    if (r.rate > SUSPICIOUS_RATE_THRESHOLD && r.monthlyCap === undefined && r.annualCap === undefined) {
+    if (r.rate > HIGH_RATE_THRESHOLD && r.monthlyCap === undefined && r.annualCap === undefined) {
       r.annualCap = FALLBACK_ANNUAL_CAP_INR;
     }
   }
+
+  // Suspect-free premium cards: if name screams "premium tier" but fee is ₹0, the
+  // normalization missed the real fee. Apply a synthetic floor so it doesn't pretend
+  // to be LTF and doesn't unfairly outrank truly-LTF cards.
+  if (
+    isPremiumTierName(fixed.name) &&
+    fixed.annualFee === 0 &&
+    fixed.joiningFee === 0
+  ) {
+    fixed.joiningFee = SYNTHETIC_PREMIUM_FEE_INR;
+    fixed.annualFee = SYNTHETIC_PREMIUM_FEE_INR;
+  }
   return fixed;
+}
+
+// ── Garbage-card detection ──────────────────────────────────────────────────
+// Some auto-normalized entries are extraction failures: names like "Reserve Credit
+// Card", "CLASSIC Credit Card", "Platinum Credit Card" — these are tier words pulled
+// out of a generic page with no real product attached. Drop them entirely.
+const GARBAGE_NAME_PATTERNS: RegExp[] = [
+  /^(reserve|classic|platinum|standard|gold|premium|silver|select|signature|titanium)( credit card)?$/i,
+  /^credit card$/i,
+  /^(rewards|cashback|lifestyle|travel)( credit card)?$/i,
+  // URL-slug names: "idfc_millennia_credit_card_apply_page", anything with underscores
+  // mid-name, or words like "apply page", "page", "form", "details".
+  /_/,
+  /\b(apply page|landing page|details page|form|brochure)\b/i,
+];
+function isGarbageCard(card: Card): boolean {
+  if (GARBAGE_NAME_PATTERNS.some((re) => re.test(card.name.trim()))) return true;
+  // A card with no rules AND no realistic base rate AND no welcome contributes nothing.
+  if (
+    card.rules.length === 0 &&
+    card.baseRewardRate <= 0 &&
+    card.welcomeBenefitInr <= 0 &&
+    card.loungeAccessInr <= 0
+  ) {
+    return true;
+  }
+  return false;
 }
 
 // ── Restricted-eligibility detection ────────────────────────────────────────
@@ -77,6 +160,7 @@ const RESTRICTED_NAME_PATTERNS: RegExp[] = [
   /coast guard/i,
   /rakshamah/i,
   /sentinel/i,
+  /varunah/i,
   /\bnavy\b/i,
   /air ?force/i,
   /defen[sc]e/i,
@@ -87,6 +171,10 @@ const RESTRICTED_NAME_PATTERNS: RegExp[] = [
   /\bmedical professional/i,
   /chartered accountant/i,
   /\bca\s+(card|club)/i,
+  /\bicai\b/i,
+  /\bicsi\b/i,
+  /\bicmai\b|\bicwai\b/i,
+  /\bcma\b/i,
   /lawyer/i,
   /teacher/i,
   /\bnri\b/i,
@@ -94,6 +182,8 @@ const RESTRICTED_NAME_PATTERNS: RegExp[] = [
   /\bcorporate\b/i,
   /signature.*invite/i,
   /\binvite[- ]only\b/i,
+  // Regional/rural bank affinity cards
+  /\bbggb\b|\bbupb\b|\bbrkgb\b|nainital bank|pragati/i,
 ];
 function isRestrictedCard(card: Card): boolean {
   if (card.eligibility?.inviteOnly) return true;
@@ -269,7 +359,11 @@ function evaluatePortfolio(
   const { perCard } = routeSpendAcrossCards(cards, annualSpend);
   const countLounge = loungeCountsForProfile(profile, annualSpend);
 
-  const breakdown = cards.map((c) => {
+  // Display order: paid (differentiator) first, then LTF supplementary cards.
+  // Within each group, higher fee first (heaviest commitment surfaces).
+  const orderedCards = [...cards].sort((a, b) => b.annualFee - a.annualFee);
+
+  const breakdown = orderedCards.map((c) => {
     const reward = perCard[c.id]?.reward ?? 0;
     const routing = perCard[c.id]?.routing ?? {};
     const totalSpendOnCard = Object.values(routing).reduce((s, v) => s + (v ?? 0), 0);
@@ -297,7 +391,7 @@ function evaluatePortfolio(
   const netSavings = round(totalAnnualValue - totalAnnualFee);
 
   return {
-    cardIds: cards.map((c) => c.id),
+    cardIds: orderedCards.map((c) => c.id),
     totalAnnualValue,
     totalAnnualFee,
     netSavings,
@@ -364,32 +458,6 @@ export function recommend(profile: UserProfile): Recommendation {
   const annualSpend = annualSpendFromProfile(profile);
   const totalAnnualSpend = Object.values(annualSpend).reduce((s, v) => s + (v ?? 0), 0);
 
-  // ── Zero-spend fallback ───────────────────────────────────────────────────
-  // If the user has no spend at all (e.g. a student exploring), portfolio
-  // optimization is meaningless. Rank single cards by general utility — purely
-  // deterministic, no branded bias.
-  if (totalAnnualSpend === 0 && ownedCards.length === 0) {
-    const ranked = [...newCandidates].sort((a, b) => {
-      const aLtf = a.annualFee === 0 && a.joiningFee === 0 ? 1 : 0;
-      const bLtf = b.annualFee === 0 && b.joiningFee === 0 ? 1 : 0;
-      if (aLtf !== bLtf) return bLtf - aLtf;
-      if (a.isCoBranded !== b.isCoBranded) return a.isCoBranded ? 1 : -1;
-      if (a.baseRewardRate !== b.baseRewardRate) return b.baseRewardRate - a.baseRewardRate;
-      const aLounge = (a.loungeVisits?.domestic ?? 0) + (a.loungeVisits?.international ?? 0);
-      const bLounge = (b.loungeVisits?.domestic ?? 0) + (b.loungeVisits?.international ?? 0);
-      if (aLounge !== bLounge) return bLounge - aLounge;
-      return a.id.localeCompare(b.id);
-    });
-    const top = ranked.slice(0, 5).map((c) => evaluatePortfolio([c], profile));
-    return {
-      portfolios: top,
-      notes: [
-        "Zero-spend mode: showing the most broadly useful starter cards. Enter your monthly/annual spend on the previous step to see portfolios optimized for you.",
-      ],
-      llmEnriched: false,
-    };
-  }
-
   const hasUpiSpend =
     (profile.monthlySpend.upi_p2m ?? 0) > 0 ||
     (profile.oneOffEvents ?? []).some(
@@ -405,8 +473,15 @@ export function recommend(profile: UserProfile): Recommendation {
   const portfolios: Portfolio[] = [];
   for (let k = 0; k <= maxNew; k++) {
     for (const combo of combinations(newCandidates, k)) {
-      const totalNewFee = combo.reduce((s, c) => s + c.annualFee, 0);
+      // First-year sticker cost = joining + annual (this is what the user
+      // sees in the breakdown for year-1). Enforce the budget against this.
+      const firstYearFee = (c: Card) => c.annualFee + c.joiningFee;
+      const totalNewFee = combo.reduce((s, c) => s + firstYearFee(c), 0);
       if (totalNewFee > maxFee) continue;
+      // Also block any single card whose first-year sticker cost (annual +
+      // joining) exceeds the user's max-fee budget, even if a waiver could
+      // reduce its effective fee to zero. "Max fee" = worst-case sticker.
+      if (combo.some((c) => firstYearFee(c) > maxFee)) continue;
       const cards = [...ownedCards, ...combo];
       if (cards.length === 0) continue;
       // Enforce RuPay-UPI requirement if user has UPI spend AND preference is on
@@ -415,25 +490,36 @@ export function recommend(profile: UserProfile): Recommendation {
       const p = evaluatePortfolio(cards, profile);
 
       // ── Filler suppression ───────────────────────────────────────────────
-      // Every *added* card must contribute at least MIN_MARGINAL_NET_INR of
-      // net value (reward + milestone + amortized welcome + lounge − fee).
-      // The only exception is a card that's the sole RuPay-UPI carrier needed
-      // for upi_p2m coverage. This kills "free filler card" bias toward
-      // branded / IDFC LTFs that ride along for tiny incremental value.
+      // Stops *LTF ride-along* cards from inflating multi-card portfolios just
+      // because the slot is "free". Specifically: in portfolios of 2+ cards, an
+      // *LTF* added card must contribute at least MIN_MARGINAL_NET_INR of net
+      // value, otherwise it's filler and the leaner portfolio without it is
+      // strictly better.
+      //
+      // We deliberately do NOT apply this to paid cards — if the user said
+      // "max fee ₹6,000", a paid card is a deliberate choice. Let it compete on
+      // its actual net merit (it may simply be ranked below LTF alternatives,
+      // which is fine and visible to the user).
+      //
+      // Exception: a card that is the sole RuPay-UPI carrier needed for
+      // upi_p2m coverage always passes.
       let pulledWeight = true;
-      for (const added of combo) {
-        const b = p.perCardBreakdown.find((x) => x.cardId === added.id);
-        if (!b) continue;
-        if (b.net >= MIN_MARGINAL_NET_INR) continue;
-        const isOnlyRupay =
-          portfolioNeedsRupay &&
-          !ownedHasRupayUpi &&
-          added.network === "rupay" &&
-          added.upiEnabled &&
-          combo.filter((c) => c.network === "rupay" && c.upiEnabled).length === 1;
-        if (isOnlyRupay) continue;
-        pulledWeight = false;
-        break;
+      if (cards.length > 1 && totalAnnualSpend > 0) {
+        for (const added of combo) {
+          if (added.annualFee > 0) continue; // paid cards always compete on net merit
+          const b = p.perCardBreakdown.find((x) => x.cardId === added.id);
+          if (!b) continue;
+          if (b.net >= MIN_MARGINAL_NET_INR) continue;
+          const isOnlyRupay =
+            portfolioNeedsRupay &&
+            !ownedHasRupayUpi &&
+            added.network === "rupay" &&
+            added.upiEnabled &&
+            combo.filter((c) => c.network === "rupay" && c.upiEnabled).length === 1;
+          if (isOnlyRupay) continue;
+          pulledWeight = false;
+          break;
+        }
       }
       if (!pulledWeight) continue;
 
@@ -451,12 +537,71 @@ export function recommend(profile: UserProfile): Recommendation {
 
   const seen = new Set<string>();
   const top: Portfolio[] = [];
-  for (const p of portfolios) {
+  const pushUnique = (p: Portfolio) => {
     const key = [...p.cardIds].sort().join(",");
-    if (seen.has(key)) continue;
+    if (seen.has(key)) return;
     seen.add(key);
     top.push(p);
-    if (top.length >= 5) break;
+  };
+
+  // Dedupe first so all coverage passes work off the same unique pool.
+  const uniquePortfolios: Portfolio[] = [];
+  const uniqueSeen = new Set<string>();
+  for (const p of portfolios) {
+    const key = [...p.cardIds].sort().join(",");
+    if (uniqueSeen.has(key)) continue;
+    uniqueSeen.add(key);
+    uniquePortfolios.push(p);
+  }
+
+  // Precompute helpers
+  const cardLookup = new Map<string, Card>();
+  for (const c of ALL_CARDS) cardLookup.set(c.id, c);
+  const declaredFee = (p: Portfolio) =>
+    p.cardIds.reduce((s, id) => s + (cardLookup.get(id)?.annualFee ?? 0), 0);
+  const minIncome = (p: Portfolio) => {
+    let m = 0;
+    for (const id of p.cardIds) {
+      const v = cardLookup.get(id)?.eligibility?.minMonthlySalaryInr ?? 0;
+      if (v > m) m = v;
+    }
+    return m;
+  };
+
+  // 1) Net-savings winners (default ranking)
+  for (const p of uniquePortfolios) {
+    pushUnique(p);
+    if (top.length >= 40) break;
+  }
+  // 2) Coverage for "Fee: high → low" — make sure the top-fee portfolios
+  // (within the user's max-fee cap) are present even if they lose on net.
+  const byFeeDesc = [...uniquePortfolios].sort(
+    (a, b) => declaredFee(b) - declaredFee(a) || b.netSavings - a.netSavings
+  );
+  for (let i = 0; i < byFeeDesc.length && i < 30; i++) pushUnique(byFeeDesc[i]);
+  // 3) Coverage for "Income: high → low" similarly
+  const byIncomeDesc = [...uniquePortfolios].sort(
+    (a, b) => minIncome(b) - minIncome(a) || b.netSavings - a.netSavings
+  );
+  for (let i = 0; i < byIncomeDesc.length && i < 30; i++) pushUnique(byIncomeDesc[i]);
+
+  // ── Diversity guarantee for fee-budget mode ──────────────────────────────
+  // When the user explicitly allows a fee budget (maxAnnualFee > 0), make sure
+  // they see what their money buys — even if a pure-LTF combo wins on net.
+  // Promote the best paid-card portfolio (one with totalAnnualFee > 0) into
+  // top-2 if it's not already there.
+  if (maxFee > 0) {
+    const hasPaid = top.slice(0, 2).some((p) => p.totalAnnualFee > 0);
+    if (!hasPaid) {
+      const bestPaid = portfolios.find((p) => p.totalAnnualFee > 0);
+      if (bestPaid) {
+        const key = [...bestPaid.cardIds].sort().join(",");
+        if (!seen.has(key)) {
+          top.splice(1, 0, bestPaid);
+          seen.add(key);
+        }
+      }
+    }
   }
 
   const notes: string[] = [];
@@ -472,6 +617,11 @@ export function recommend(profile: UserProfile): Recommendation {
   if (avoidCoBranded) {
     notes.push(
       "Co-branded cards are hidden (toggle off in Preferences to include them). General-purpose cards usually serve a wider range of spends."
+    );
+  }
+  if (totalAnnualSpend === 0) {
+    notes.push(
+      "You entered ₹0 spend across all categories, so ranking is based purely on welcome bonus (amortized over 3 years), lounge access value, and annual fees — no category rewards are calculated. Add your real monthly spend on the previous step for a portfolio truly optimized to you."
     );
   }
   if (top.length === 0) {
