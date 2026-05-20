@@ -165,6 +165,7 @@ export const UserProfileSchema = z.object({
     .object({
       maxNewCards: z.number().min(1).max(5).default(2),
       maxAnnualFee: z.number().default(2000),
+      minAnnualFee: z.number().optional(),
       preferRupayUpi: z.boolean().default(true),
       preferLtf: z.boolean().default(false),
       avoidCoBranded: z.boolean().default(true),

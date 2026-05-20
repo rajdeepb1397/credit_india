@@ -425,6 +425,7 @@ export function recommend(profile: UserProfile): Recommendation {
   const prefs = profile.preferences ?? {};
   const maxNew = prefs.maxNewCards ?? 2;
   const maxFee = prefs.maxAnnualFee ?? 15000;
+  const minFee = prefs.minAnnualFee ?? 0;
   const preferRupayUpi = prefs.preferRupayUpi ?? true;
   const preferLtf = prefs.preferLtf ?? false;
   const avoidCoBranded = prefs.avoidCoBranded ?? true;
@@ -482,6 +483,9 @@ export function recommend(profile: UserProfile): Recommendation {
       // joining) exceeds the user's max-fee budget, even if a waiver could
       // reduce its effective fee to zero. "Max fee" = worst-case sticker.
       if (combo.some((c) => firstYearFee(c) > maxFee)) continue;
+      // Strict-band lower bound: every NEW card must have first-year sticker
+      // cost ≥ minFee. Owned cards are exempt (user already has them).
+      if (minFee > 0 && combo.some((c) => firstYearFee(c) < minFee)) continue;
       const cards = [...ownedCards, ...combo];
       if (cards.length === 0) continue;
       // Enforce RuPay-UPI requirement if user has UPI spend AND preference is on

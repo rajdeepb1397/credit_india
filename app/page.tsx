@@ -46,6 +46,23 @@ const PRESET_CATEGORIES: SpendCategory[] = [
 
 const STORAGE_KEY = "cardpilot_profile_v1";
 
+type FeeBand = "lt1k" | "lt5k" | "lt10k" | "gt10k";
+const FEE_BANDS: { value: FeeBand; label: string; min: number; max: number }[] = [
+  { value: "lt1k", label: "< ₹1,000", min: 0, max: 999 },
+  { value: "lt5k", label: "₹1,000 – ₹4,999", min: 1000, max: 4999 },
+  { value: "lt10k", label: "₹5,000 – ₹9,999", min: 5000, max: 9999 },
+  { value: "gt10k", label: "₹10,000+", min: 10000, max: 1000000 },
+];
+function feeBandFromValues(min: number | undefined, max: number | undefined): FeeBand {
+  const m = min ?? 0;
+  const x = max ?? 1000000;
+  for (const b of FEE_BANDS) if (b.min === m && b.max === x) return b.value;
+  if (x < 1000) return "lt1k";
+  if (x < 5000) return "lt5k";
+  if (x < 10000) return "lt10k";
+  return "gt10k";
+}
+
 const DEFAULT_PROFILE: UserProfile = {
   monthlySpend: {},
   spendFrequency: {},
@@ -53,7 +70,8 @@ const DEFAULT_PROFILE: UserProfile = {
   oneOffEvents: [],
   preferences: {
     maxNewCards: 2,
-    maxAnnualFee: 2000,
+    maxAnnualFee: 999,
+    minAnnualFee: 0,
     preferRupayUpi: true,
     preferLtf: false,
     avoidCoBranded: true,
@@ -124,7 +142,7 @@ export default function Home() {
   }
 
   return (
-    <main className="mx-auto max-w-3xl px-5 pb-24 pt-10 sm:pt-16">
+    <main className="mx-auto max-w-5xl px-5 pb-24 pt-10 sm:px-8 sm:pt-16 lg:px-10">
       <Header />
       <Stepper step={step} onJump={setStep} />
 
@@ -162,7 +180,7 @@ export default function Home() {
                 next={() => runRecommend()}
                 nextLabel={
                   <>
-                    <Sparkles className="h-4 w-4" /> Find my portfolio
+                    <Sparkles className="h-4 w-4" /> Find my best card
                   </>
                 }
               />
@@ -197,25 +215,41 @@ export default function Home() {
 
 function Header() {
   return (
-    <header className="mb-12">
-      <div className="flex items-center gap-2.5 text-fg-muted">
-        <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-gradient-to-br from-accent to-accent-glow shadow-glow">
-          <CreditCard className="h-4 w-4 text-bg" />
+    <header className="mb-10 sm:mb-14">
+      <div className="flex items-center gap-3.5">
+        <div className="flex h-10 w-10 items-center justify-center rounded-[11px] bg-gradient-to-br from-accent to-accent-glow shadow-glow ring-1 ring-accent/40">
+          <svg
+            viewBox="0 0 24 24"
+            className="h-[22px] w-[22px] text-bg"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="1.9"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            aria-hidden="true"
+          >
+            <rect x="2.5" y="5.5" width="19" height="13" rx="2.4" />
+            <rect x="5" y="9.2" width="3.6" height="2.6" rx="0.6" fill="currentColor" stroke="none" />
+            <path d="M5 15.2h7" />
+            <path d="M14 15.2h5" />
+          </svg>
         </div>
-        <span className="text-base font-semibold tracking-tight text-fg">CardIt</span>
-        <span className="ml-auto rounded-full border border-border px-2.5 py-0.5 text-[10px] uppercase tracking-wider text-fg-subtle">
+        <span className="text-[17px] font-semibold tracking-tight text-fg">
+          Card<span className="mx-[1px] inline-block -translate-y-[1px] rotate-[18deg] text-accent">-</span>It
+        </span>
+        <span className="ml-auto rounded-full border border-border bg-bg-subtle/40 px-2.5 py-1 text-[10px] font-medium uppercase tracking-[0.14em] text-fg-subtle">
           India · 2026
         </span>
       </div>
-      <h1 className="mt-8 text-balance text-2xl font-semibold leading-[1.15] tracking-tight sm:text-3xl md:text-4xl">
-        Build your{" "}
+      <h1 className="mt-10 text-balance text-3xl font-semibold leading-[1.1] tracking-tight sm:text-4xl md:text-5xl">
+        Find your{" "}
         <span className="bg-gradient-to-r from-accent via-accent-mint to-accent-gold bg-clip-text text-transparent">
-          own portfolio
+          best card
         </span>
-        <span className="text-fg-muted">:</span>
+        <span className="text-fg-muted">.</span>
       </h1>
-      <p className="mt-4 max-w-xl text-pretty text-base text-fg-muted sm:text-lg">
-        Tell CardIt where you spend — it tells you what you need.
+      <p className="mt-4 max-w-2xl text-pretty text-base text-fg-muted sm:text-lg">
+        Tell what you spend — it shows you what you need.
       </p>
     </header>
   );
@@ -486,7 +520,8 @@ function Preferences({
 }) {
   const p = profile.preferences ?? {
     maxNewCards: 2,
-    maxAnnualFee: 2000,
+    maxAnnualFee: 999,
+    minAnnualFee: 0,
     preferRupayUpi: true,
     preferLtf: false,
     avoidCoBranded: true,
@@ -504,11 +539,17 @@ function Preferences({
           max={5}
           onChange={(v) => setProfile({ ...profile, preferences: { ...p, maxNewCards: v } })}
         />
-        <PrefNumber
-          label="Max total annual fee (₹)"
-          value={p.maxAnnualFee}
-          step={500}
-          onChange={(v) => setProfile({ ...profile, preferences: { ...p, maxAnnualFee: v } })}
+        <PrefSelect
+          label="Annual fee range"
+          value={feeBandFromValues(p.minAnnualFee, p.maxAnnualFee)}
+          options={FEE_BANDS.map((b) => ({ value: b.value, label: b.label }))}
+          onChange={(v) => {
+            const band = FEE_BANDS.find((b) => b.value === v)!;
+            setProfile({
+              ...profile,
+              preferences: { ...p, minAnnualFee: band.min, maxAnnualFee: band.max },
+            });
+          }}
         />
         <PrefToggle
           label="Require RuPay (UPI-on-credit)"
@@ -561,6 +602,35 @@ function PrefNumber({
   );
 }
 
+function PrefSelect({
+  label,
+  value,
+  options,
+  onChange,
+}: {
+  label: string;
+  value: string;
+  options: { value: string; label: string }[];
+  onChange: (v: string) => void;
+}) {
+  return (
+    <label className="flex items-center justify-between gap-2 text-sm">
+      <span className="text-fg-muted">{label}</span>
+      <select
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        className="w-44 rounded-md border border-border bg-bg px-2 py-1 text-fg outline-none focus:border-accent/50"
+      >
+        {options.map((o) => (
+          <option key={o.value} value={o.value}>
+            {o.label}
+          </option>
+        ))}
+      </select>
+    </label>
+  );
+}
+
 function PrefToggle({
   label,
   value,
@@ -593,14 +663,20 @@ function PrefToggle({
 
 function eligibilityBadge(c: CardType): string {
   const e = c.eligibility ?? {};
-  if (e.inviteOnly) return "invite-only";
+  if (e.inviteOnly) return "Invite-only";
   if (e.minMonthlySalaryInr) {
-    const lakh = e.minMonthlySalaryInr / 100000;
-    if (lakh >= 1) return `≥ ₹${lakh % 1 === 0 ? lakh : lakh.toFixed(1)}L/mo`;
-    return `≥ ₹${Math.round(e.minMonthlySalaryInr / 1000)}k/mo`;
+    const m = e.minMonthlySalaryInr;
+    if (m >= 150000) return "Recommended for high-income users";
+    if (m >= 75000) return "Best for senior salaried users";
+    if (m >= 35000) return "Good for salaried users";
+    return "Entry-level salaried";
   }
-  if (e.minAnnualItrInr) return `ITR ≥ ₹${Math.round(e.minAnnualItrInr / 100000)}L/yr`;
-  return "no income proof";
+  if (e.minAnnualItrInr) {
+    const lakh = e.minAnnualItrInr / 100000;
+    if (lakh >= 6) return "For self-employed with strong ITR";
+    return "Self-employed friendly (ITR-based)";
+  }
+  return "No income docs usually required";
 }
 
 function networkLabel(c: CardType): string {
@@ -621,18 +697,22 @@ function networkLabel(c: CardType): string {
 }
 
 function NetworkBadge({ card }: { card: CardType }) {
-  const isRupay = card.network === "rupay";
+  const palette: Record<string, string> = {
+    rupay: "border-emerald-400/40 bg-emerald-400/10 text-emerald-300",
+    visa: "border-sky-400/40 bg-sky-400/10 text-sky-300",
+    mastercard: "border-orange-400/40 bg-orange-400/10 text-orange-300",
+    amex: "border-cyan-400/40 bg-cyan-400/10 text-cyan-300",
+    diners: "border-zinc-400/40 bg-zinc-400/10 text-zinc-300",
+  };
+  const cls = palette[card.network] ?? "border-border bg-bg-subtle/60 text-fg-subtle";
+  const isRupayUpi = card.network === "rupay" && card.upiEnabled;
   return (
     <span
-      className={`ml-1.5 inline-flex items-center rounded-md border px-1.5 py-0.5 text-[10px] font-medium uppercase tracking-wider ${
-        isRupay
-          ? "border-accent-mint/40 bg-accent-mint/10 text-accent-mint"
-          : "border-border bg-bg-subtle/60 text-fg-subtle"
-      }`}
-      title={isRupay && card.upiEnabled ? "RuPay · UPI-enabled" : networkLabel(card)}
+      className={`ml-1.5 inline-flex items-center rounded-md border px-1.5 py-0.5 text-[10px] font-medium uppercase tracking-[0.08em] ${cls}`}
+      title={isRupayUpi ? "RuPay · UPI-enabled" : networkLabel(card)}
     >
       {networkLabel(card)}
-      {isRupay && card.upiEnabled ? " · UPI" : ""}
+      {isRupayUpi ? " · UPI" : ""}
     </span>
   );
 }
@@ -896,7 +976,8 @@ function ResultsStep({
 }) {
   const prefs = profile.preferences ?? {
     maxNewCards: 2,
-    maxAnnualFee: 2000,
+    maxAnnualFee: 999,
+    minAnnualFee: 0,
     preferRupayUpi: true,
     preferLtf: false,
     avoidCoBranded: true,
@@ -910,9 +991,18 @@ function ResultsStep({
     const next = { ...profile, preferences: { ...prefs, [key]: v } };
     rerun(next);
   }
+  function setFeeBand(v: FeeBand) {
+    const band = FEE_BANDS.find((b) => b.value === v)!;
+    const next = {
+      ...profile,
+      preferences: { ...prefs, minAnnualFee: band.min, maxAnnualFee: band.max },
+    };
+    rerun(next);
+  }
 
   type SortKey = "default" | "fee_asc" | "fee_desc" | "income_asc" | "income_desc";
   const [sortBy, setSortBy] = useState<SortKey>("default");
+  const [showAll, setShowAll] = useState(false);
 
   const cardById = useMemo(() => {
     const m = new Map<string, CardType>();
@@ -999,15 +1089,18 @@ function ResultsStep({
           />
         </label>
         <label className="inline-flex items-center gap-1.5">
-          Max fee ₹
-          <input
-            type="number"
-            min={0}
-            step={500}
-            value={prefs.maxAnnualFee}
-            onChange={(e) => setMax("maxAnnualFee", Number(e.target.value) || 0)}
-            className="w-20 rounded-md border border-border bg-bg px-1.5 py-0.5 text-fg outline-none focus:border-accent/50"
-          />
+          Annual fee
+          <select
+            value={feeBandFromValues(prefs.minAnnualFee, prefs.maxAnnualFee)}
+            onChange={(e) => setFeeBand(e.target.value as FeeBand)}
+            className="rounded-md border border-border bg-bg px-2 py-0.5 text-fg outline-none focus:border-accent/50"
+          >
+            {FEE_BANDS.map((b) => (
+              <option key={b.value} value={b.value}>
+                {b.label}
+              </option>
+            ))}
+          </select>
         </label>
       </div>
     </div>
@@ -1021,7 +1114,7 @@ function ResultsStep({
           <div className="mx-auto h-1 w-40 overflow-hidden rounded-full bg-bg-hover">
             <div className="h-full w-1/3 shimmer rounded-full" />
           </div>
-          <p className="mt-4 text-sm text-fg-muted">Crunching the math across portfolios…</p>
+          <p className="mt-4 text-sm text-fg-muted">Crunching the math across all options…</p>
         </div>
       </div>
     );
@@ -1029,11 +1122,13 @@ function ResultsStep({
   if (!result) return null;
   const top = sortedPortfolios[0];
   const rest = sortedPortfolios.slice(1);
+  const visibleRest = showAll ? rest.slice(0, 4) : rest.slice(0, 2);
+  const hasMore = rest.length > visibleRest.length;
   return (
     <div>
       <StepHeader
         icon={<TrendingUp className="h-4 w-4" />}
-        title="Your recommended portfolio"
+        title="Recommendations"
         sub={
           result.llmEnriched
             ? "Curated dataset · enriched with 2026 LLM check"
@@ -1062,24 +1157,38 @@ function ResultsStep({
 
       {!top ? (
         <div className="mt-6 rounded-xl border border-border bg-bg-subtle/40 p-6 text-center text-sm text-fg-muted">
-          No portfolios fit your filters. Try toggling off RuPay-only / LTF / No-cobranded, or raising max fee.
+          No cards fit your filters. Try toggling off RuPay-only / LTF / No-cobranded, or raising max fee.
         </div>
       ) : (
         <>
-          <div className="mt-5">
+          <div className="mt-6">
             <PortfolioCard portfolio={top} cards={cards} primary />
           </div>
 
-          {rest.length > 0 && (
-            <div className="mt-6">
-              <div className="mb-2 text-xs font-medium uppercase tracking-wider text-fg-subtle">
-                Other strong portfolios
+          {visibleRest.length > 0 && (
+            <div className="mt-10">
+              <div className="mb-4 flex items-center gap-3">
+                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-border-strong to-transparent" />
+                <span className="text-[11px] font-medium uppercase tracking-[0.18em] text-fg-subtle">
+                  Other options
+                </span>
+                <div className="h-px flex-1 bg-gradient-to-r from-transparent via-border-strong to-transparent" />
               </div>
-              <div className="space-y-3">
-                {rest.map((p, i) => (
+              <div className="space-y-4">
+                {visibleRest.map((p, i) => (
                   <PortfolioCard key={i} portfolio={p} cards={cards} />
                 ))}
               </div>
+              {hasMore && (
+                <div className="mt-5 flex justify-center">
+                  <button
+                    onClick={() => setShowAll(true)}
+                    className="inline-flex items-center gap-1.5 rounded-lg border border-border bg-bg-subtle/40 px-4 py-2 text-sm text-fg-muted transition hover:border-accent/40 hover:bg-accent/5 hover:text-accent"
+                  >
+                    Load more
+                  </button>
+                </div>
+              )}
             </div>
           )}
         </>
@@ -1131,53 +1240,51 @@ function PortfolioCard({
   cards: CardType[];
   primary?: boolean;
 }) {
+  const portfolioCards = portfolio.cardIds
+    .map((id) => cards.find((x) => x.id === id))
+    .filter((x): x is CardType => Boolean(x));
   return (
     <div
-      className={`rounded-2xl border p-5 ${
+      className={`rounded-2xl border p-5 sm:p-6 ${
         primary
           ? "border-accent/30 bg-gradient-to-br from-bg-card to-bg-subtle shadow-glow"
           : "border-border bg-bg-subtle/40"
       }`}
     >
-      <div className="flex items-baseline justify-between">
+      {/* Header: label + estimated savings */}
+      <div className="flex flex-wrap items-start justify-between gap-3">
         <div>
-          <div className="text-xs uppercase tracking-wider text-fg-subtle">
-            {primary ? "Best portfolio" : "Alternative"}
+          <div className="text-[10px] font-medium uppercase tracking-[0.16em] text-fg-subtle">
+            {primary ? "Top match" : "Alternative"}
           </div>
-          <div className="mt-1 flex flex-wrap gap-1.5">
-            {portfolio.cardIds.map((id) => {
-              const c = cards.find((x) => x.id === id);
-              return (
-                <span
-                  key={id}
-                  className="inline-flex items-center rounded-full border border-border bg-bg px-2.5 py-1 text-xs text-fg"
-                >
-                  {c?.name ?? id}
-                  {c && <NetworkBadge card={c} />}
-                  {c && (
-                    <span className="ml-1.5 text-[10px] text-fg-subtle">
-                      ({eligibilityBadge(c)})
-                    </span>
-                  )}
-                </span>
-              );
-            })}
+          <div className="mt-2 flex flex-wrap items-center gap-2">
+            {portfolioCards.map((c) => (
+              <span
+                key={c.id}
+                className="inline-flex items-center rounded-full border border-border bg-bg/60 px-2.5 py-1 text-xs font-medium text-fg"
+              >
+                {c.name}
+                <NetworkBadge card={c} />
+              </span>
+            ))}
           </div>
         </div>
         <div className="text-right">
-          <div className="text-xs text-fg-subtle">Net annual savings</div>
-          <div className="text-2xl font-semibold tabular-nums text-accent-mint">
+          <div className="text-[10px] font-medium uppercase tracking-[0.16em] text-fg-subtle">
+            Estimated annual savings
+          </div>
+          <div className="mt-1 text-3xl font-semibold tabular-nums text-accent-mint sm:text-4xl">
             ₹{portfolio.netSavings.toLocaleString("en-IN")}
           </div>
+          {portfolio.totalAnnualFee > 0 && (
+            <div className="mt-0.5 text-xs text-fg-subtle">
+              after ₹{portfolio.totalAnnualFee.toLocaleString("en-IN")} in fees
+            </div>
+          )}
         </div>
       </div>
 
-      <div className="mt-4 grid grid-cols-3 gap-2 text-xs">
-        <Stat label="Rewards" value={portfolio.totalAnnualValue} />
-        <Stat label="Fees" value={portfolio.totalAnnualFee} negative />
-        <Stat label="Net" value={portfolio.netSavings} highlight />
-      </div>
-
+      {/* Per-card details */}
       <div className="mt-5 space-y-3">
         {portfolio.perCardBreakdown.map((b) => {
           const c = cards.find((x) => x.id === b.cardId);
@@ -1185,52 +1292,80 @@ function PortfolioCard({
           const routed = Object.entries(b.categoryRouting)
             .filter(([, v]) => (v ?? 0) > 0)
             .sort((a, b) => (b[1] as number) - (a[1] as number));
+          const isLtf = (c.annualFee ?? 0) === 0 && (c.joiningFee ?? 0) === 0;
+          const lounge = c.loungeVisits;
+          const summaryParts: string[] = [];
+          if (b.rewardValue > 0)
+            summaryParts.push(`₹${b.rewardValue.toLocaleString("en-IN")} rewards`);
+          if (b.welcomeValue > 0)
+            summaryParts.push(`₹${b.welcomeValue.toLocaleString("en-IN")} welcome`);
+          if (b.milestoneValue > 0)
+            summaryParts.push(`₹${b.milestoneValue.toLocaleString("en-IN")} milestone`);
+          if (!isLtf && b.effectiveFee > 0)
+            summaryParts.push(`₹${b.effectiveFee.toLocaleString("en-IN")} fee`);
           return (
-            <div key={b.cardId} className="rounded-xl border border-border bg-bg/50 p-3">
-              <div className="flex items-baseline justify-between">
-                <div>
-                  <div className="text-sm font-medium">
-                    {c.name}
+            <div key={b.cardId} className="rounded-xl border border-border bg-bg/40 p-4">
+              <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+                <div className="min-w-0">
+                  <div className="flex items-center text-base font-semibold text-fg">
+                    <span className="truncate">{c.name}</span>
                     <NetworkBadge card={c} />
-                    <span className="ml-1.5 text-[10px] text-fg-subtle">
-                      ({eligibilityBadge(c)})
-                    </span>
+                    {isLtf && (
+                      <span className="ml-1.5 inline-flex items-center rounded-md border border-accent-mint/30 bg-accent-mint/10 px-1.5 py-0.5 text-[10px] font-medium uppercase tracking-[0.08em] text-accent-mint">
+                        LTF
+                      </span>
+                    )}
                   </div>
-                  <div className="text-xs text-fg-subtle">{c.issuer}</div>
+                  <div className="mt-0.5 text-xs text-fg-muted">
+                    {c.issuer} · {eligibilityBadge(c)}
+                  </div>
                 </div>
-                <div className="text-xs text-fg-subtle">
-                  net{" "}
-                  <span className="tabular-nums text-fg">
+                <div className="text-right">
+                  <div className="text-[10px] font-medium uppercase tracking-[0.14em] text-fg-subtle">
+                    Annual value
+                  </div>
+                  <div className="text-lg font-semibold tabular-nums text-fg">
                     ₹{b.net.toLocaleString("en-IN")}
-                  </span>
+                  </div>
                 </div>
               </div>
-              <div className="mt-1 text-[11px] text-fg-subtle">
-                rewards ₹{b.rewardValue.toLocaleString("en-IN")} · milestone ₹
-                {b.milestoneValue.toLocaleString("en-IN")} · welcome ₹
-                {b.welcomeValue.toLocaleString("en-IN")} · fee ₹
-                {b.effectiveFee.toLocaleString("en-IN")}
-              </div>
-              {(c.loungeVisits?.domestic || c.loungeVisits?.international) && (
-                <div className="mt-1 text-[11px] text-accent-mint">
-                  Lounge: {c.loungeVisits.domestic ?? 0} domestic
-                  {c.loungeVisits.international
-                    ? ` · ${c.loungeVisits.international} international`
-                    : ""}{" "}
-                  / yr
+
+              {summaryParts.length > 0 && (
+                <div className="mt-3 text-sm text-fg-muted">{summaryParts.join("  ·  ")}</div>
+              )}
+
+              {(lounge?.domestic || lounge?.international) && (
+                <div className="mt-2 text-xs text-accent-mint">
+                  {lounge.domestic ? `${lounge.domestic} domestic lounge visits/yr` : ""}
+                  {lounge.domestic && lounge.international ? " · " : ""}
+                  {lounge.international ? `${lounge.international} international/yr` : ""}
                 </div>
               )}
+
               {routed.length > 0 && (
-                <div className="mt-2 flex flex-wrap gap-1">
-                  {routed.slice(0, 6).map(([cat, amt]) => (
+                <div className="mt-3 flex flex-wrap gap-1.5">
+                  {routed.slice(0, 3).map(([cat, amt]) => (
                     <span
                       key={cat}
-                      className="rounded-md bg-bg-hover px-1.5 py-0.5 text-[10px] text-fg-muted"
+                      className="rounded-md border border-border bg-bg-hover/60 px-2 py-0.5 text-[11px] text-fg-muted"
                     >
                       {CATEGORY_LABELS[cat as SpendCategory]}: ₹
                       {Math.round(amt as number).toLocaleString("en-IN")}/yr
                     </span>
                   ))}
+                </div>
+              )}
+
+              {c.url && (
+                <div className="mt-3">
+                  <a
+                    href={c.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-xs font-medium text-accent transition hover:text-accent-glow"
+                  >
+                    View official details <ArrowRight className="h-3 w-3" />
+                  </a>
                 </div>
               )}
             </div>
@@ -1239,38 +1374,13 @@ function PortfolioCard({
       </div>
 
       {portfolio.rationale && (
-        <div className="mt-4 rounded-xl border border-accent/20 bg-accent/5 p-3 text-sm text-fg">
-          <div className="mb-1 flex items-center gap-1.5 text-[10px] font-medium uppercase tracking-wider text-accent">
-            <Sparkles className="h-3 w-3" /> Why this portfolio
+        <div className="mt-4 rounded-xl border border-accent/20 bg-accent/5 p-4 text-sm text-fg">
+          <div className="mb-1.5 flex items-center gap-1.5 text-[10px] font-medium uppercase tracking-[0.16em] text-accent">
+            <Sparkles className="h-3 w-3" /> Why this match
           </div>
           {portfolio.rationale}
         </div>
       )}
-    </div>
-  );
-}
-
-function Stat({
-  label,
-  value,
-  negative,
-  highlight,
-}: {
-  label: string;
-  value: number;
-  negative?: boolean;
-  highlight?: boolean;
-}) {
-  return (
-    <div className="rounded-lg border border-border bg-bg/40 p-2">
-      <div className="text-[10px] uppercase tracking-wider text-fg-subtle">{label}</div>
-      <div
-        className={`text-sm font-medium tabular-nums ${
-          highlight ? "text-accent-mint" : negative ? "text-fg-muted" : "text-fg"
-        }`}
-      >
-        {negative ? "−" : ""}₹{value.toLocaleString("en-IN")}
-      </div>
     </div>
   );
 }
@@ -1286,12 +1396,13 @@ function StepHeader({
 }) {
   return (
     <div>
-      <div className="inline-flex items-center gap-1.5 rounded-full border border-border bg-bg-subtle px-2.5 py-1 text-[11px] text-fg-muted">
-        {icon}
-        <span>step</span>
+      <div className="flex items-center gap-2 text-accent">
+        <span className="inline-flex h-7 w-7 items-center justify-center rounded-lg bg-accent/10 text-accent">
+          {icon}
+        </span>
+        <h2 className="text-xl font-semibold tracking-tight text-fg sm:text-2xl">{title}</h2>
       </div>
-      <h2 className="mt-3 text-xl font-semibold sm:text-2xl">{title}</h2>
-      <p className="mt-1 text-sm text-fg-muted">{sub}</p>
+      <p className="mt-1.5 text-sm text-fg-muted">{sub}</p>
     </div>
   );
 }
