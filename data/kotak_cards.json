@@ -1,0 +1,523 @@
+[
+  {
+    "id": "kotak_indigo",
+    "name": "IndiGo Kotak Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefit",
+      "Kick start your IndiGo Kotak Credit Card journey with a welcome benefit voucher of 2,500 IndiGo BluChips.",
+      "Milestone Benefits"
+    ],
+    "caveats": [
+      "For RuPay cardholders: all UPI on Credit Card spends will accrue 1 IndiGo BluChip per ₹100 spent except for spends done in exclusion MCC codes where no rewards will be awarded."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/indigo-credit-card.html"
+  },
+  {
+    "id": "kotak_indigo_xl",
+    "name": "IndiGo Kotak XL Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 2
+    },
+    "highlights": [
+      "Welcome Benefits",
+      "Kick start your IndiGo Kotak Credit Card journey with a welcome benefit voucher of 4000 IndiGo BluChips and a 6E Eats voucher.",
+      "Milestone Benefits"
+    ],
+    "caveats": [
+      "The page links to the available lounges under the lounge program and applicable terms and conditions on lounge access; linked documents were not opened.",
+      "For RuPay cardholders: all UPI on Credit Card spends will accrue 2 IndiGo BluChips per ₹100 spent except for spends done in exclusion MCC codes where no rewards will be awarded."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/indigo-xl-credit-card.html"
+  },
+  {
+    "id": "kotak_cashback",
+    "name": "Kotak Cashback+ Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 750,
+    "annualFee": 750,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "5% cashback on online spends across food delivery, groceries, and entertainment:"
+      },
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 3,
+        "notes": "3% cashback on fuel and 1% fuel surcharge waiver:"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.5,
+        "notes": "0.5% cashback on every other eligible spends:"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Cashback+ Card Benefits value chart",
+      "5% cashback on online spends across food delivery, groceries, and entertainment:",
+      "3% cashback on fuel and 1% fuel surcharge waiver:"
+    ],
+    "caveats": [
+      "The page refers to MITC for details of Kotak Cashback+ Credit Card fees and charges; linked MITC was not opened."
+    ],
+    "bestFor": [
+      "Dining",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-cashback-plus-credit-card.html"
+  },
+  {
+    "id": "kotak_league_platinum",
+    "name": "League Platinum Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5.33,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5.33,
+        "notes": "Earn up to 8 reward points on every Rs.150 spent across all spends done on Kotak League Credit Card.",
+        "monthlyCap": 150
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Benefits mentioned include reward options, fuel surcharge waiver, priority assistance, lost or stolen fraud cover and much more.",
+      "Premier Rewards Program",
+      "Enjoy 8 Reward Points on spends done against every Rs.150 spent."
+    ],
+    "caveats": [
+      "Maximum fuel surcharge waiver is up to ₹3,500 in an anniversary year.",
+      "Fuel transactions will not earn reward points.",
+      "Maximum railway surcharge waiver allowed in a calendar year is Rs.500."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/league-platinum-card.html"
+  },
+  {
+    "id": "kotak_air",
+    "name": "Kotak Air+ Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 3000,
+    "annualFee": 3000,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 2500,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 4
+    },
+    "highlights": [
+      "Earn Air Miles",
+      "Earn 5 Air Miles for every ₹100 spent on Flight & Hotel Booking through Kotak Unbox.",
+      "Earn 2 Air Miles for every ₹100 spent for other purchases."
+    ],
+    "caveats": [
+      "Domestic lounge access will be capped at 2 lounges per calendar quarter.",
+      "The page links to international lounge list, domestic lounge list, and applicable T&C on lounge access; linked documents were not opened.",
+      "Accelerated Air Miles earn for Flight/Hotel Booking on Kotak Unbox is capped at 15,000 Air Miles per statement cycle."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-air-plus-credit-card.html"
+  },
+  {
+    "id": "kotak_kotak_air_credit_card_html",
+    "name": "Kotak Air Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 999,
+    "annualFee": 999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 16
+    },
+    "highlights": [
+      "Travel dreams are now within your reach.",
+      "Turn your everyday spends into Air Miles and redeem them for travel.",
+      "Travel & Earn"
+    ],
+    "caveats": [
+      "Accelerated Air Miles on flights & hotel bookings are capped at 5,000 per statement cycle, equivalent to ₹2.5 lakh in spends.",
+      "Subject to customer spending ₹60,000 or more in previous calendar quarter, the customer will be able to enjoy complimentary lounge access in next quarter.",
+      "Benefit: 4 complimentary lounge access subject to customer making quarterly spends of ₹60,000 or more."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-air-credit-card.html"
+  },
+  {
+    "id": "kotak_indianoil",
+    "name": "IndianOil Kotak Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 500,
+    "annualFee": null,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn 3 Reward Points on every INR 150 spent."
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 0.5,
+        "notes": "All UPI on Credit Card transactions will accrue 0.5% Reward Points on every INR 150 spent, across spend categories."
+      },
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 5,
+        "notes": "5% savings is calculated as 4% back in the form of Reward points and 1% back as Fuel Surcharge waiver."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Let rising fuel prices not come in between your dreams to travel the roads less known.",
+      "IndianOil Kotak Credit Card is made for those who want to get the most of their travel every day.",
+      "Enjoy a rewarding experience on Fuel, Dining, Groceries and much more."
+    ],
+    "caveats": [
+      "Earn 24 Reward Points on every INR 150 spent, capped at 1200 Reward Points per statement cycle.",
+      "Earn 12 Reward Points on every INR 150 spent, capped at 800 Reward Points per statement cycle.",
+      "1% fuel surcharge waiver on transactions between INR 100 to INR 5000 with maximum surcharge waiver of INR 100 per statement cycle only at IndianOil outlets."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/indian-oil-credit-card.html"
+  },
+  {
+    "id": "kotak_pvr_inox",
+    "name": "PVR INOX Kotak Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 20,
+        "notes": "Get a flat 20% discount on Food & Beverages at any PVR INOX theater or on the PVR INOX App/Website on your next visit to the movies."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Get a flat 5% discount on Movie Tickets at any PVR INOX theater or on the PVR INOX App/Website for your next visit to the movies."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 10000,
+        "label": "Earn tickets worth Rs.300 each for achieving every spends milestone of Rs.10,000."
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Watching the most loved movies at the big screens has never been this inviting.",
+      "For movie lovers, the PVR INOX Kotak Credit Card offers movie tickets and discounted Food & Beverage at cinemas.",
+      "Get 1 PVR INOX Movie Ticket on every spend of ₹10,000 in a monthly billing session."
+    ],
+    "caveats": [
+      "The page refers to detailed T&C on MITC and CA page; linked page was not opened.",
+      "For detailed steps to redeem, the page refers to the “Claim your PVR INOX Coupon” tab on the Kotak Website; linked tab was not opened.",
+      "The value of each M Coupon is capped at Rs.300."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/pvr-inox-kotak-credit-card.html"
+  },
+  {
+    "id": "kotak_upi_rupay",
+    "name": "Kotak UPI RuPay Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "Earn 3 Reward Points per ₹100 spent."
+      }
+    ],
+    "excludedCategories": [
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Credit meets Convenience with Kotak UPI RuPay Credit Card.",
+      "Link your card on UPI Apps and make payments instantly.",
+      "Reward Benefit"
+    ],
+    "caveats": [
+      "The page links to more information regarding how to make UPI Payments with RuPay Credit Card; linked page was not opened.",
+      "W.e.f. 01st June 2025, Insurance, Government, Online Skill based gaming transaction categories as well as Utility spends beyond 35,000 in a statement cycle will also not earn reward points.",
+      "The page links to more information on how to link RuPay Credit Card on UPI Apps; linked page was not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/kotak-upi-rupay-credit-card.html"
+  },
+  {
+    "id": "kotak_solitaire_business",
+    "name": "Kotak Solitaire Business Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 3499,
+    "annualFee": 3499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 1,
+      "domestic": 4
+    },
+    "highlights": [
+      "Relax in style with exclusive airport lounge access",
+      "International Lounge Access Powered by Priority Pass:",
+      "Benefit: 1 complimentary international lounge visit per year."
+    ],
+    "caveats": [
+      "The page links to international lounge list, domestic lounge list, and detailed terms & conditions on lounge access; linked documents were not opened.",
+      "Maximum Fuel Surcharge Waiver: ₹5,000 in an anniversary year.",
+      "Cheque Bounce Charges: 2% of bounce amount subject to minimum of ₹500."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/solitaire-business-credit-card.html"
+  },
+  {
+    "id": "kotak_kotak811_dream_different",
+    "name": "Kotak811 Dream Different Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Interest free cash withdrawal",
+      "Continued interest free period on fresh retail purchases.",
+      "Fuel surcharge waiver: 1% across all petrol pumps for transactions between Rs.500 and Rs.4000, maximum Rs.3500 per year."
+    ],
+    "caveats": [
+      "Fuel surcharge waiver: 1% across all petrol pumps for transactions between Rs.500 and Rs.4000, maximum Rs.3500 per year.",
+      "Railway surcharge waiver: 1.8% for transactions on irctc.co.in and 2.5% at Indian railway booking counters, maximum Rs.500 per year.",
+      "The page links to eligibility and more credit card options; linked pages were not opened."
+    ],
+    "bestFor": [
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards/811-dream-different-credit-card.html"
+  }
+]

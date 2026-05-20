@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "idfc_business_max",
+    "name": "Business Max Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "On every ₹200 spent on UPI transactions above ₹2000",
+      "UPI-ready card.",
+      "Earn up to 3 reward points* on UPI transactions"
+    ],
+    "caveats": [
+      "You can apply for a Business Max Credit Card with a maximum limit of ₹1 lakh through the application journey."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/business-max-credit-card?utm_source=website&utm_medium=PDPBusinessMax&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_business_multiplier",
+    "name": "Business Multiplier Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1000,
+    "annualFee": 1000,
+    "feeWaiverSpend": 500000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 1,
+      "international": 1
+    },
+    "highlights": [
+      "Reward Points",
+      "Up to 10 Reward Points on",
+      "Multiply rewards on every business move"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/business-multiplier-credit-card?utm_source=website&utm_medium=PDPBusinessMultiplier&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_diamond_reserve",
+    "name": "Diamond Reserve Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 3000,
+    "annualFee": 3000,
+    "feeWaiverSpend": 600000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 27,
+        "notes": "Earn Up to 27% Reward Points"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5% Cashback on EMI"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "spends with 3X Reward Points"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 100,
+        "notes": "Joining Fee Payment Benefit: 100% cashback up to ₹200 (Limited period offer)",
+        "monthlyCap": 200
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "o 10X reward points for incremental spends above ₹20,000 in a statement cycle and on your birthday."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Travel Rewards",
+      "Reward Points",
+      "Complimentary Airport Lounge Access"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/diamond-reserve-credit-card?utm_source=website&utm_medium=PDPDaimondRes&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_gaj",
+    "name": "GAJ Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 12500,
+    "annualFee": 0,
+    "feeWaiverSpend": 1000000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 33.33,
+        "notes": "with up to 50 reward points per ₹150 spent",
+        "monthlyCap": 150
+      },
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 33.33,
+        "notes": "with 50 reward points per ₹150 spent on hotels via our mobile app."
+      },
+      {
+        "categories": [
+          "flights_domestic"
+        ],
+        "rate": 16.67,
+        "notes": "with 25 reward points per ₹150 spent on flights via our mobile app."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3.33,
+        "notes": "with up to 5 reward points per ₹150 spent on the credit card.",
+        "monthlyCap": 150
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "on international spends with 3 reward points per ₹150."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "with up to 50 reward points per ₹150 spent",
+      "for detailed Reward points information",
+      "Rewards as grand as Gaj:"
+    ],
+    "caveats": [
+      "Terms and Conditions",
+      "Access up to 24 complimentary golf rounds/lessons per year. T&C Apply* Unlock a golf round/lesson per month on spending ₹20,000 and ₹40,000, respectively in the previous statement cycle."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/gaj?utm_source=website&utm_medium=PDPGaj&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_wow_black",
+    "name": "WOW Black Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 750,
+    "annualFee": 150000,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": 5000,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5% Cashback up to ₹1,000",
+        "monthlyCap": 1000
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "Whether you're traveling abroad or making international purchases from India, pay zero forex markup fees on all your international transactions and earn up to 4X rewards on these international spends too."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "3X Reward Points"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 8,
+        "notes": "16.7% Bonus Reward Points (8% value back)​"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "10% Bonus Reward Points (5% value back)"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Welcome Benefits",
+      "Lounge access",
+      "Welcome benefits of ₹5,000+"
+    ],
+    "caveats": [
+      "Spend ₹20,000 in the current calendar month to avail the benefit in the next month T&C Apply",
+      "Yes. With the FIRST WOW! Black Credit Card, you get 25% off up to ₹100 every month on movie ticket bookings made through District by Zomato. This benefit can be availed once per calendar month and is subject to availability on the platform.",
+      "The Bonus Reward Points on are capped at 8,000 Reward Points per month"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/wow-black-credit-card?utm_source=website&utm_medium=PDPWOWBlack&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_ashva",
+    "name": "ASHVA Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2999,
+    "annualFee": 2999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "• Up to 10X Reward Points on incremental spends above ₹ 20,000 in a statement cycle.",
+        "monthlyCap": 20000
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.67,
+        "notes": "1X = 1 Reward Point per ₹150 spent"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 40,
+        "notes": "Earn Up to 40X Reward Points"
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 10,
+        "notes": "30X Bonus points on hotels, 15X Bonus points on Flights plus Up to 10X points on credit card purchases."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.67,
+        "notes": "1X = 1 Reward point per ₹150 spent \\| 1 Reward point = ₹0.25"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 800000,
+        "label": "On spending ₹8,00,000 or more in a card anniversary year, you will get 7,500 reward points. The reward points will be credited on payment of annual fee for the next year. Transactions on primary, add-on and associated FIRST Digital (UPI) Cr",
+        "rewardInr": 7500
+      }
+    ],
+    "loungeAccessInr": 0,
+    "loungeVisits": {
+      "domestic": 16,
+      "international": 16
+    },
+    "highlights": [
+      "Ashva Credit Card: Premium Rewards with Global Travel Benefits",
+      "Higher Tier of rewards",
+      "Earn Up to 40X Reward Points Redemption value of up to ₹0.40 per reward point"
+    ],
+    "caveats": [
+      "Excluded transactions: Cash withdrawals, fees, charges, and GST are not eligible for rewards.",
+      "T&C Apply",
+      "Save on international transactions with forex markup at just 1%. T&C Apply"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/ashva?utm_source=website&utm_medium=PDPAshva&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_mayura",
+    "name": "MAYURA Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 5999,
+    "annualFee": 5999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 13,
+        "notes": "​ Crafted as a masterpiece of elegance, IDFC FIRST Bank’s Mayura Credit Card celebrates refined living with lifestyle privileges. From exclusive benefits like zero forex charges, 40X rewards on travel bookings that offers up to 13% value back, to complimentary"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "• Up to 10X Reward Points on incremental spends above ₹ 20,000 in a statement cycle.",
+        "monthlyCap": 20000
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.67,
+        "notes": "1X = 1 Reward Point per ₹150 spent"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 40,
+        "notes": "Earn Up to 40X Reward Points"
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 10,
+        "notes": "30X Bonus points on hotels, 15X Bonus points on Flights plus Up to 10X points on credit card purchases."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 16,
+      "international": 16
+    },
+    "highlights": [
+      "Higher Tier of rewards",
+      "Earn Up to 40X Reward Points Redemption value of up to ₹0.50 per Reward Point",
+      "Earn 12,000 Reward Points worth up to ₹6,000"
+    ],
+    "caveats": [
+      "Excluded transactions: Cash withdrawals, fees, charges, and GST are not eligible for rewards.",
+      "T&C Apply",
+      "You will pay no foreign exchange fees when you use your card for international purchases. T&C Apply"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/metal-credit-card/mayura?utm_source=website&utm_medium=PDPMayura&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_wow",
+    "name": "WOW Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": "visa",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": 5000,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "Earn 4X Reward Points on every travel spend"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "Earn up to 4X Reward Points on Every Transaction"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping"
+        ],
+        "rate": 4,
+        "notes": "4X Reward Points on online, offline, and international spends"
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 1,
+        "notes": "1X Reward Point on Insurance premium payments, Utility bill payments, FASTag recharges and Railway spends."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.5,
+        "notes": "1X= 1 Reward Point per ₹200 spent \\| 1 Reward Point = ₹0.25"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "LIFETIME-FREE",
+      "Earn 4X Reward Points on every travel spend",
+      "Lounge access"
+    ],
+    "caveats": [
+      "Link your existing FD or book a new FD to increase your credit limit instantly through the IDFC FIRST Bank Mobile App, starting from ₹5,000. *T&C Apply",
+      "T&C Apply",
+      "What is the maximum and minimum credit limit for NRI?"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/wow?utm_source=website&utm_medium=PDPWOW&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_indigo",
+    "name": "IndiGo Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 0.5,
+        "notes": "0.5 BluChips on every ₹100 spent on UPI"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 1200000,
+        "label": "Cardmembers will receive a Bonus voucher of 5000 IndiGo BluChips on every spend milestone. Spend Milestones being INR 2 Lakh spends, 5 Lakh spends, 8 Lakh spends, 10 Lakh spends, and 12 Lakh spends.",
+        "rewardInr": 5000
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefits of 8,000 BluChips",
+      "5000 IndiGo BluChips voucher on joining fee payment",
+      "3000 IndiGo BluChips voucher on 1L spends within 90 days"
+    ],
+    "caveats": [
+      "The IndiGo IDFC FIRST Credit Card is a one-of-a-kind dual credit card that gives you both Mastercard and RuPay cards through a single application - unlocking wider acceptance and maximum payment flexibility.",
+      "T&C Apply",
+      "No, there is no difference in the benefits of earning IndiGo BluChips except for, joining fee benefits for which FD backed card holders would not be eligible."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.idfcfirst.bank.in/credit-card/indigo-credit-card?utm_source=website&utm_medium=PDPIndigoIDFCFIRST&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_select",
+    "name": "SELECT Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 199,
+    "annualFee": 199,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10X Reward Points"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "FIRST Select Credit Card - Premium travel benefits and 10X rewards"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 10,
+        "notes": "The FIRST Select Credit Card is designed for individuals who appreciate balance-premium privileges without any fees. This lifetime-free card comes with up to 10X reward points, easy EMI options and exciting merchant offers. Enjoy a host of travel privileges wi"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Enjoy 5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation*.",
+        "monthlyCap": 1000
+      },
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 20,
+        "notes": "Earn bonus 20 Reward Points for every ₹100 spent on hotel bookings with the IDFC FIRST Mobile Banking app powered by Tripstacc."
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "education",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Reward Points",
+      "10X Reward Points",
+      "Celebrate every milestone with the perfect card"
+    ],
+    "caveats": [
+      "•If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded.",
+      "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded",
+      "T&C Apply"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 1200000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/select?utm_source=website&utm_medium=PDPSelect&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_classic",
+    "name": "CLASSIC Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 150001500,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Enjoy exciting benefits with lifestyle privileges with the FIRST Classic Credit Card. With Zero Joining & Annual fee and up to 10X Reward Points, this"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Enjoy 5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation*.",
+        "monthlyCap": 1000
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 100,
+        "notes": "Limited period offer: 100% cashback up to ₹200 i.e. ₹50 each on the first 4 UPI transactions",
+        "monthlyCap": 200
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "Earn up to 3X reward points on your spends"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10X Reward points"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Reward Points",
+      "10X Never Expiring Rewards",
+      "A lifetime-free card packed with valuable benefits"
+    ],
+    "caveats": [
+      "•If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded.",
+      "•If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded",
+      "Read terms and conditions"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 300000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/classic?utm_source=website&utm_medium=PDPClassic&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_first_hello_cashback",
+    "name": "FIRST Hello Cashback Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1000,
+    "annualFee": 1000,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 1,
+        "notes": "Additional 1% Cashback on Hotel and Flights"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Up to 5% Cashback benefit"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Earn up to 5% cashback worth ₹18,000 per year on spends across various categories. The more you spend, the more you get.",
+        "monthlyCap": 18000
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback on UPI spends"
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "notes": "Scan and pay using IDFC FIRST Bank app and earn 1% Cashback on your UPI spends"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 10000,
+        "label": "Online spends done on essential categories and fuel will not count towards the ₹10,000 online spends milestone."
+      },
+      {
+        "spendThreshold": 10000,
+        "label": "Online spends done on essential categories and fuel even if done using online channel will not count towards the ₹10,000 online spends milestone. Also, note that this milestone is for online spends only and spends through any other channel "
+      },
+      {
+        "spendThreshold": 10000,
+        "label": "Which transactions count towards ₹10,000 online spends milestone?"
+      },
+      {
+        "spendThreshold": 10000,
+        "label": "All online spends except spends done on essential categories and fuel even if done using online channel will not count towards the ₹10,000 online spends milestone. Also, note that this milestone is for online spends only and spends through "
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "hello cashback credit card",
+      "Cashback for everyone,",
+      "cashback annually"
+    ],
+    "caveats": [
+      "Cashback on online spends capped at ₹1,000 in a statement cycle. Total Cashback capped at ₹1,500 in a statement cycle.",
+      "T&C apply",
+      "Maximum Cashback that can be earned on online spends is ₹1,000 in a statement cycle. Total Cashback that can be earned is ₹1,500 in a statement cycle."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/hello-cashback-credit-card?utm_source=website&utm_medium=PDPHelloCB&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_millennia_credit_card_apply_page",
+    "name": "Millennia Credit Card Apply Page",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10X Reward Points."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Upto 10X rewards on incremental monthly spends basis threshold and on birthday spends."
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 6,
+        "notes": "6x rewards on online transactions."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Earn cashback on EMI: 5% cashback up to ₹500 within 90 days.",
+        "monthlyCap": 500
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Activate UPI and earn rewards.",
+      "Lifetime free.",
+      "10X Reward Points."
+    ],
+    "caveats": [
+      "There is no expiry date to the reward points accrued on IDFC FIRST Bank Credit Cards except for LIC Classic and LIC Select Credit Cards."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/ntb-diy/apply?cardType=MMVP&utm_source=website&utm_medium=PDPMillenia&utm_campaign=ApplyNow"
+  },
+  {
+    "id": "idfc_first_earn_secured_rupay",
+    "name": "FIRST EARN Secured RuPay Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 499,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10% cashback of up to ₹250 on first transaction",
+        "monthlyCap": 250
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Joining Fee + 10% cashback up to ₹250 on 1",
+        "monthlyCap": 250
+      },
+      {
+        "categories": [
+          "offline_shopping",
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "notes": "Redefine your spending experience with IDFC FIRST Bank’s FIRST EA₹N Credit Card. This UPI-ready credit card, backed by your fixed deposit, guarantees approval while offering up to 1% cashback on UPI spends via the IDFC FIRST Bank mobile app and 0.5% cashback o"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.5,
+        "notes": "0.5% Cashback"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Start Earning 1% Cashback"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "cashback on UPI spends",
+      "10% cashback of up to ₹250 on first transaction",
+      "Joining Fee + 10% cashback up to ₹250 on 1"
+    ],
+    "caveats": [
+      "0.5% cashback on all utility, insurance, and wallet load \\| *Cashback will be capped at ₹500 in a statement cycle",
+      "Surcharge of 1% on payment for Rent and Property Management, subject to a minimum of ₹249 (+GST) per transaction",
+      "Read terms and conditions"
+    ],
+    "bestFor": [
+      "Travel",
+      "Online shopping",
+      "RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.idfcfirst.bank.in/credit-card/secured-rupay-credit-card?utm_source=website&utm_medium=PDPFIRSTEARN&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_hpcl_power_fuel",
+    "name": "HPCL Power Fuel Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 199,
+    "annualFee": 199,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": 250,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5% cashback (up to ₹1,000) on the transaction value of 1st EMI conversion",
+        "monthlyCap": 1000
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 50000,
+        "label": "₹50,000 spends milestone includes all the purchases (excluding ATM Cash Withdrawal, Balance Transfer, monthly EMIs, fees and charges) net of reversals/refunds"
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Ride Towards Rewards with Precision!",
+      "Enjoy Rewards: Ride, Earn, Redeem",
+      "5% cashback (up to ₹1,000) on the transaction value of 1st EMI conversion"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 7000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card?utm_source=website&utm_medium=PDPPower&utm_campaign=Knowmore"
+  },
+  {
+    "id": "idfc_lic",
+    "name": "LIC Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 3000,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "utilities"
+        ],
+        "rate": 10,
+        "notes": "Upgrade your lifestyle with the LIC Select Credit Card, a rewarding choice for LIC policyholders and savvy spenders alike. This lifetime-free card offers attractive rewards, exclusive privileges on travel spending, and 10X rewards on LIC premium payments. From"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10X Rewards on LIC Insurance Premium"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5X Rewards on Other Spends"
+      },
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 40,
+        "notes": "Earn 40% Reward Points on hotel bookings​"
+      },
+      {
+        "categories": [
+          "flights_domestic"
+        ],
+        "rate": 20,
+        "notes": "Earn 20% Reward Points on flight bookings​"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Accelerated rewards on LIC Premium payments, online and offline spends; Domestic airport lounge access and more!",
+      "Savings & Rewards",
+      "Insurance Covers"
+    ],
+    "caveats": [
+      "If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded.",
+      "OVL Charges - 2.5% of the over-limit amount subject to a minimum charge of ₹550",
+      "Late Payment Fee - 15% of Total Amount Due (subject to a minimum of ₹100 and a maximum of ₹1300)"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.idfcfirst.bank.in/credit-card/lic-credit-card?utm_source=website&utm_medium=PDPLIC&utm_campaign=Knowmore"
+  }
+]

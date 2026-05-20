@@ -1,0 +1,2225 @@
+# YES BANK Credit Cards
+
+Extracted only from the official YES BANK URLs supplied in the request. Same-page official YES BANK content components and official YES BANK page content API responses referenced by those pages were used. No side searches or third-party pages were used.
+
+## Paisabazaar PaisaSave RuPay Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/paisabazaar-rupay-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** YES BANK Paisabazaar PaisaSave RuPay Credit Card  
+
+### Official extracted card text
+
+- Top Benefits
+  - Earn cashback on other
+  - spends
+  - Save on Lifestyle Spends
+  - Earn maximum cashback on Dining & Travel spends
+  - Accelerated Cashback
+- Frequently Asked Questions
+  - Cashback accrued on all your spends will get credited as reward points to the credit card account, wherein 6% cashback equals 12 reward points per INR 200 spent on Dining & Travel and 1% cashback will be equal to 2 reward points per INR 200 on other spends.
+  - How will I accrue cashback on my transactions done through PaisaSave credit card?
+  - The cashback earned using YES BANK PaisaSave Credit Card is accrued as reward points in your credit card account. You can login to your YES Rewardz account to redeem your cashback points against statement credit in 1:1 ratio to adjust it against your credit card bills. Please note, no charges will be levied on converting reward points to statement credit.
+  - YES Rewardz Credit Card
+  - How to redeem the cashback points earned using YES BANK PaisaSave Credit Card?
+  - For existing users of YES Mobile or IRIS by YES Bank, the UPI PIN will be same as mobile banking MPIN and can be used to authenticate UPI transactions using YES BANK RuPay Credit Card
+  - Can I use my mobile banking MPIN for authentication on UPI apps?
+  - Yes, you can change UPI PIN of your YES BANK RuPay Credit Card account on the UPI apps.
+  - For existing users of YES Mobile or IRIS by YES Bank, changing your UPI PIN will change your mobile banking MPIN.
+  - Can I change my UPI PIN?
+  - Yes, when you change the UPI PIN of your YES BANK RuPay Credit Card account on the UPI apps, your mobile banking MPIN will also change.
+  - Will my MPIN change when I change my UPI PIN?
+  - No, UPI PIN will be different than Credit Card PIN.
+  - For existing users of YES Mobile or IRIS by YES, your UPI PIN will be same as your MPIN.
+  - For other users, you will have to set a separate UPI PIN on the UPI apps to authenticate UPI payments using YES BANK RuPay Credit Card
+  - Can I use my Credit Card PIN for authentication on UPI apps?
+- What comes with this card?
+  - Power of UPI Payments using Credit Cards
+  - Convenience of Virtual only Card, No physical card plastic will be issued.
+  - No Joining Fee, No Renewal Fee
+  - 1% Waiver on Fuel Surcharge
+- Rewards
+  - This card is rewarding
+  - 6% cashback
+  - 12 Reward Points per INR 200 spent on Dining & Travel transactions *(a)(b)(c)(d)
+  - 1% cashback
+  - 2 Reward Points per INR 200 spent on Other spends *(a)(b)(c)
+- What's more?
+  - Pay in parts for your transactions as low as INR 1500
+  - Instant EMI
+  - Convert payments into EMI with on-call service at attractive interest rates
+  - EMI on Call
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+- Spend safely with YES BANK PaisaSave Credit Card
+  - Contactless Transactions
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more
+  - Safe Online Transactions
+  - Secure your online transactions with Mastercard SecureCode or Verified by VISA
+  - Card Protection Plan
+  - Stay protected against card loss, theft, any related fraud and emergencies
+- Eligibility
+  - Only Customers holding YES Bank Paisabazaar Paisasave Credit Card are eligible.
+  - Eligibility criteria
+- Terms and conditions / exclusions
+  - Terms & Conditions
+  - * For transactions done on or before 14th December 2025, cashback applicable will be, 3% cashback credited as 6 reward points(RP) per INR 200 spent online and 1.5% cashback will be credited as 3 reward points(RP) per INR 200 spent on UPI transactions above INR 2000.
+  - a) Cashback will get credited as Reward Points to the Credit Card account wherein 6% cashback will be credited as 12 reward points (RP) per INR 200 spent on dining & travel transactions except UPI transactions and 1% cashback will be credited as 2 reward points (RP) per INR 200 spent on other transactions |1 RP = INR 1 | No charges on Redemption
+  - 6% cashback will be awarded on specific Travel and dining MCCs: 5812, 5813, 5814, 4511, 4582, 4722, 7011, 3501, 3509, 3513, 3520, 3530, 3543, 3553, 3583, 3637, 3640, 3642, 3649, 3657, 3659, 3690, 3812, 3020.
+  - For UPI transactions above INR 2000 on all categories, 1% cashback i.e. 2 reward points (RP) per INR 200 will be awarded except for transaction mentioned in exclusion categories.
+  - b)Cashback earned can be redeemed as Statement Credit ( Bill Payment Credit) from YESRewardz platform and can be adjusted against the outstanding credit card balance.
+  - c) Cashback not applicable on - EMI transactions , Utility, Insurance, Fuel, Rent payments, Wallet loading, Education, Jewelry, Govt services, and Hospitals, Pharmacy Stores, Toll, Telecom equipment’s, Cash advance, Passenger Railways, Automotive Service Shops, Automobile and Truck Dealers–Sales, Service, Repairs, Parts and Leasing, Automobile and Truck Dealers– (Used Only)–Sales, Motorcycle Shops and Dealers, Automotive Parts and Accessories Stores, Motor Vehicle Supplies and New Parts, Telecommunications Services, Vocational/Trade Schools, Medical and Dental Laboratories, Medical Services and Health Practitioners (Not Elsewhere Classified), Nursing and Personal Care Facilities, Direct Marketing- Insurance Service, Direct Marketing- Combination Catalog and Retail Merchant, Miscellaneous General Services, Advertising Services, Consulting, Public Relations, Miscellaneous Business Services, Accounting/Bookkeeping Services, Professional Services, Doctors and UPI transaction below INR 2000 [MCCs – 6513, 4900, 8299, 8211, 8220, 8241, 6300, 5094, 5944, 6538, 9399, 9311, 8062, 5912, 4812, 4784, 4112, 7538, 5511, 5521, 5571, 5533, 5013, 4814, 8249, 8099, 8071, 8050, 5960, 5965, 7299, 7311, 7392, 7399, 8931, 8999, 8011, 5172, 5541, 5542, 5983]
+  - d)Rewards are capped at 3000 per statement cycle, beyond which base reward points will continue to accrue on all transactions.
+- Overview
+  - This co-branded credit card is brought to you in collaboration with our partner Paisabazaar. The value proposition of the co-brand product may be funded jointly by YES BANK Ltd and the co-brand partner basis the financial arrangement between both the parties. Accordingly, there may be fee and revenue sharing between the two parties.
+  - This Card can be availed by existing Paisabazaar Paisasave Cardholders only. You may visit iris by YES mobile app to apply for the same.
+- Fees and charges
+  - Zero Joining Fees
+  - No Annual Membership Fee (Renewal)
+  - Interest Rate of 3.99% per month on Revolving Credit, Cash Advances and Overdue amount.
+  - For details on other Fees and charges please refer MITC
+- Steps to link YES BANK PaisaSave RuPay Credit Card on UPI
+  - 4. Select your PaisaSave RuPay Credit Card to be linked and confirm.
+  - (For existing mobile banking users, UPI PIN will be same as MPIN. For other customers, customer will be prompted for setting up UPI PIN.)
+  - 5. Your PaisaSave RuPay Credit Card is successfully linked on your UPI app.
+  - Steps to link PaisaSave RuPay Credit Card on UPI apps
+  - 1. Launch UPI app and enter your app login credentials
+  - 2. Select the option “Add Credit Card/ Link Credit Card”
+  - 3. Select “YES BANK” from the banks’ list
+- UPI transactions using PaisaSave RuPay Credit Card
+  - 5. Enter your UPI PIN and confirm
+  - 6. You will see the UPI transaction successfully done using your Credit Card
+  - 1.Launch UPI app and enter your app login credentials
+  - 2. Scan Merchant QR Code or enter Merchant UPI ID
+  - 3. Enter transaction amount
+  - 4. Select your PaisaSave RuPay Credit Card from the drop down list
+
+## YES BANK RuPay Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/rupay-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** RuPay UPI Credit Card - Apply for Lifetime Free RuPay Credit Card Online | YES BANK  
+**Official meta description:** Apply for a lifetime-free RuPay Credit Card online. Enjoy easy UPI payments, accelerated rewards on shopping, dining, bills, and more with YES BANK UPI RuPay Credit Card.  
+
+### Official extracted card text
+
+- What comes with YES BANK Rupay Credit Card?
+  - Power of UPI
+  - payments using Credit Card
+  - Convenience of Virtual only Card.
+  - No physical card
+  - plastic will be issued
+  - Lifetime-Free Credit Card
+  - Accelerated Reward Points on UPI
+  - transactions using Credit Card
+- Top Benefits of YES BANK Rupay Credit Card
+  - On UPI transactions using Credit Card
+  - Accelerated Reward Points
+  - Earn reward points on your spends and redeem with YES Rewardz
+  - Exciting Reward Points
+  - Preferential Foreign Currency Markup of 2.75% only
+  - Foreign Currency Markup
+- What's more with RuPay Credit Card?
+  - Pay in parts for your transactions as low as INR 1500.
+  - Instant EMI
+  - Convert payments into EMI with on-call service at attractive interest rates.
+  - EMI on Call
+  - Get a loan amount within the card limit to fulfil immediate fund requirements.
+  - Quick Loan
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+- Spend safely with
+  - Scan and Pay Transactions
+  - Scan merchant QR code and experience safety and security of UPI payments on Credit Cards
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more
+- Frequently Asked Questions
+  - You can link your YES BANK RuPay Credit Card across all NPCI approved apps.
+  - Q. On which UPI apps can I link my RuPay Credit Card?
+  - RuPay Credit Cards are widely accepted across India at ATMs, point-of-sale (POS) terminals, and online merchants. They can be used for shopping, dining, travel, and more, ensuring a seamless payment experience both online and offline.
+  - Q. Where are RuPay Credit Cards Accepted?
+  - Yes, the limit is up to ₹1 lakh per transaction, but it may vary based on YES BANK's policies and your specific card type.
+  - Q. Is there a transaction amount limit for using a linked Credit Card on UPI?
+  - No, UPI PIN will be different than Credit Card PIN.
+  - For existing users of YES Mobile or IRIS by YES, your UPI PIN will be same as your MPIN.
+  - For other users, you will have to set a separate UPI PIN on the UPI apps to authenticate UPI payments using YES BANK RuPay Credit Card.
+  - Q. Can I use my Credit Card PIN for authentication on UPI apps?
+  - Existing users of YES Mobile or IRIS by YES, the UPI PIN will be same as mobile banking MPIN and can be used to authenticate UPI transactions using YES BANK RuPay Credit Card.
+  - Q. Can I use my mobile banking MPIN for authentication on UPI apps?
+  - Yes, you can change UPI PIN of your YES BANK RuPay Credit Card account on the UPI apps.
+  - For existing users of YES Mobile or IRIS by YES, changing your UPI PIN will change your mobile banking MPIN.
+  - Q. Can I change my UPI PIN?
+  - Yes, when you can change the UPI PIN of your YES BANK RuPay Credit Card account on the UPI apps, your mobile banking MPIN will also change.
+  - Q. Will my MPIN change when I change my UPI PIN?
+  - The existing functionality of UPI will be followed and you will not be able to make transaction on that particular UPI app for few hours. However, you will be able to use YES BANK RuPay Credit Card on other UPI Apps and for online transctions.
+  - Q. What happens if I made multiple incorrect UPI PIN attempts using YES BANK RuPay Credit Card?
+  - If you have changed your mobile number, kindly update the same also for YES BANK RuPay Credit Card. After updating this, please re-register the credit card on the UPI app(s).
+  - Q. How can I link my YES BANK RuPay Credit Card on UPI App if I have changed my mobile number?
+  - No, person-to-person (P2P) transactions are not allowed using the linked YES BANK RuPay Credit Card on UPI apps. You can only do person-to-merchant (P2M) transactions.
+  - Q. Can I make UPI payments to any other person or to other Credit Card using the linked YES BANK RuPay Credit Card on UPI apps?
+  - Visit the YES BANK website and navigate to the credit card section. Select the RuPay card, fill out the application form with your personal and financial details, and submit the required documents. Alternatively, you can visit a YES BANK branch for assistance.
+  - Q. How to apply for an YES BANK RuPay Credit Card?
+- Eligibility
+  - All VISA and MasterCard Credit Card holders of YES BANK
+  - (except any NRI, FD Backed, Corporate, Commercial, Cobranded and Purchase Credit Cards)
+  - If you are already holding any RuPay YES BANK Credit Card, you are not eligible for this card.
+  - Eligibilty Criteria For Rupay Credit Card
+- Fees and charges
+  - Zero First Year Membership Fee
+  - Zero Renewal Membership Fee
+  - Interest Rate of 3.99% per month(47.88% annually) on Revolving Credit, Cash Advances, and overdue amount.
+  - For details on other Fees and charges please refer MITC
+  - Fees and Charges For Rupay Credit Card
+- Rewards
+  - This card is rewarding
+  - 4 reward points a
+  - On every ₹200 spent on UPI transactions above ₹2000
+  - 2 reward points b
+  - On every ₹200 spent on all online spends
+  - Fuel Surcharge waiver
+  - 1% surcharge waiver for transaction between INR 400 – INR 5,000
+- Steps to link YES BANK RuPay Credit Card on UPI apps
+  - 4. Select your YES BANK RuPay Credit Card to be linked and confirm.
+  - (For existing mobile banking users, UPI PIN will be same as MPIN. For other customers, customer will be prompted for setting up UPI PIN.)
+  - 5. Your YES BANK RuPay Credit Card is successfully linked on your UPI app.
+  - 1. Launch UPI app and enter your app login credentials
+  - 2. Select the option “Add Credit Card/ Link Credit Card”
+  - 3. Select “YES BANK” from the banks’ list
+- UPI transactions using YES BANK RuPay Credit Card
+  - 5. Enter your UPI PIN and confirm
+  - 6. You will see the UPI transaction successfully done using your Credit Card
+  - 1.Launch UPI app and enter your app login credentials
+  - 2. Scan Merchant QR Code or enter Merchant UPI ID
+  - 3. Enter transaction amount
+  - 4. Select your YES BANK RuPay Credit Card from the drop down list
+- Terms and conditions / exclusions
+  - Terms and Conditions apply
+  - a) Maximum 5000 reward points in a month
+  - b) Capping of YES Rewardz Points earned on Utility Spends (MCC 4900) is 150 per statement cycle and no YES Rewardz Points on Rent, Wallet and fuel, Government & Marketing/ Advertising Category transactions, Cash withdrawals, Cash Advance Fee & Charges, Post Purchase EMI, EMI on Call & Instant EMI transactions.
+  - Government Services MCC
+  - 9034, 9211, 9222, 9223, 9311, 9399, 9402, 9405, 9700, 9701, 9702, 9751, 9754, 9950
+  - Marketing/Advertising MCC
+  - 5960, 5962, 5964, 5965, 5966, 5967, 5968, 5969, 7311
+  - Rent
+  - 6513
+  - Wallet
+  - 6540
+  - Fuel
+  - 5542,5983,5172,5541
+  - Cash Withdrawals/Cash Advance
+  - 6011
+  - Note: Total Fuel Surcharge waiver in statement cycle is capped at INR 125. On fuel transactions, the fuel surcharge is not levied by the issuing Bank and on certain fuel transactions, the rate of surcharge may be Rs. 10 + GST instead of 1% of transaction amount + GST. Taxes levied on fuel surcharge (if any) will need to be borne by the customer and will not be waived.
+- rupay credit card richtext
+  - RuPay Credit Card
+  - Welcome to the YES Bank Rupay Credit Card experience, where financial empowerment meets convenience and rewards. Our RuPay credit card offers benefits designed to enhance your lifestyle. Enjoy exclusive privileges such as reward points and robust fraud protection. With seamless acceptance across a wide network of merchants and integrated UPI payment options, YES BANK RuPay Credit Card ensures a hassle-free and versatile payment experience. Get your RuPay Credit Card and make your UPI transactions rewarding.
+
+## YES BANK ACE Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/ace-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** Apply for ACE Credit Card Online | YES BANK  
+**Official meta description:** Apply for YES BANK ACE Credit Card. Enjoy 4 Reward Points on every ₹200 spent, fuel surcharge waiver, and purchase protection up to ₹50,000.  
+
+### Official extracted card text
+
+- What comes with this card? 
+  - 8 Reward Points for ₹200 spent on online Shopping
+  - 4 Reward Points for ₹200 spent on Offline Shopping
+  - Fuel surcharge waiver at stations in India
+  - Buy 1 Get 1 offer on Coffee at Malls
+- Top Benefits of ACE Credit Card
+  - Avail great offers across travel, dining, shopping, wellness and more, in select cities
+  - Lifestyle Benefit
+  - Earn reward points on your spends and redeem with YES Rewardz
+  - Exciting Reward Points
+  - Preferential Foreign Currency Markup of 2.75% only
+  - Foreign Currency Markup
+  - Insurance cover of upto INR 50,000 against accidental damage for 6 months for mobile & electronic purchased online
+  - Purchase Protection e
+  - Buy one Get one offer on Coffee at major coffee outlets in Malls across India
+  - Coffee offer f
+- What's more?
+  - Pay in parts for your transactions as low as INR 1500.
+  - Instant EMI
+  - Get a pre-approved loan at an attractive interest rate on your YES BANK Credit Card without blocking the credit limit.
+  - Express Loan
+  - Convert payments into EMI with on-call service at attractive interest rates.
+  - Post Purchase EMI
+  - Get a loan amount within the card limit to fulfil immediate fund requirements.
+  - Quick Loan
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+- Spend safely with
+  - Contactless Transactions
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more
+  - Keep Your Card Safe
+  - Never disclose your password, OTP,PIN to anyone either through mail or over phone. Never respond to unsolicited calls asking for Card Activation, Verification, PIN reset, Rewards, Offers, KYC updation, etc.
+  - Password for IVR transactions
+  - SMS YESIVR last 4 digits of your YES BANK Credit Card number to 9212738927 from registered mobile number
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- Rewards
+  - This card is rewarding
+  - 8 YES Rewardz Points a
+  - On every INR 200 for Online b Shopping (except on Select categories)
+  - 4 YES Rewardz Points a
+  - On every INR 200 for Offline Shopping (except on Select categories)
+  - 2 YES Rewardz Points a
+  - On every INR 200 on Select c categories.
+  - Reward Points will not be awarded for Rent, Wallet, Fuel, UPI, Government & Marketing / Advertising category transactions, cash withdrawals and transactions converted to EMI (Post Purchase EMI, EMI on Call & Instant EMI).
+- Overview
+  - Looking to unlock a world of exciting rewards and fuel your lifestyle? Look no further than the YES Bank ACE Credit Card! This powerful card lets you shop big, earn points, and enjoy exclusive benefits, opening doors to a richer experience. Apply today for your credit card and elevate your shopping experience to new heights!
+- Eligibility
+  - Between 21 to 60 years of age
+  - Salaried or self employed
+  - Minimum Net Salary of INR 25,000 per month or Income Tax Return of INR 7.5 lakhs and above
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card. If you want RuPay variant ( applicable only for existing Mastercard/Visa holders) you can apply for Virtual RuPay Card. Click Here to Apply
+  - ACE Credit Card Eligibility
+- Fees and charges
+  - First Year Membership Fee of INR 499, reversed on spends of INR 5,000 within One month of card set up
+  - Renewal Membership Fee of INR 499, reversed on spends of INR 50,000 within 12 months prior to the renewal
+  - Interest Rate of 3.99% per month (47.88% annually), on Overdue amount and 2.49% per month against Fixed Deposit
+  - For details on applicable Fees and charges please refer MITC
+  - ACE Credit Card Fees and charges
+- ace Page Multiple Ways
+  - Mobile Baking App To Manage Your Banking Activities
+  - Say 'Hi'
+  - New-age app for holistic and seamless banking
+  - Add +91-82912-01200 to your contacts and type ‘Hi’
+  - Experience best in class NetBanking
+  - Earn exciting rewards
+  - Avail loan in seconds
+  - Quick and secure fund transfer
+  - Instant bill payments
+  - 100+ features and services
+  - iris by YES BANK
+  - WhatsApp Banking
+  - YES Online
+  - Scan the QR code to download iris by YES BANK app
+- Rewards
+  - Terms and Conditions
+  - Glossary
+  - a) YES Rewardz Points will not be awarded on Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions. The Merchant Category Codes (MCC) are set by the network (Visa, MasterCard, RuPay), not by YES BANK.
+  - Category
+  - MCC
+  - Rental
+  - 6513
+  - Wallet Load
+  - 6540
+  - Fuel
+  - 5172, 5541, 5542, 5983, 9752
+  - Government Services
+  - 9034, 9211, 9222, 9223, 9311, 9399, 9402, 9405, 9700, 9701, 9702, 9751, 9754, 9950
+  - Marketing/Advertising
+  - 5960, 5962, 5964, 5965, 5966, 5967, 5968, 5969, 7311
+  - b) Maximum cap of 5000 reward points per statement cycle
+  - c) Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard and VISA as per the table below, referred to as Select Categories. Not valid on EMI on Call & Instant EMI transactions. Capping of YES Rewardz Points earned on Utility Spends (MCC 4900) is 150 per statement cycle.
+  - Description
+  - 4899
+  - Cable, Satellite and Other Pay Television/Radio/Streaming Services
+  - 4900
+  - Utilities—Electric, Gas, Heating Oil, Sanitary, Water
+  - 6300
+  - Insurance Sales, Underwriting, and Premiums
+  - 6381
+  - Insurance Premiums
+  - 8211
+  - Schools, Elementary and Secondary
+  - 8220
+  - Colleges, Universities, Professional Schools, and Junior Colleges
+  - 8241
+  - Schools, Correspondence
+  - 8244
+  - Schools, Business and Secretarial
+  - 8249
+  - Schools, Trade and Vocational
+  - 8299
+  - Schools and Educational Services—not elsewhere classified
+  - d) Total waiver in statement cycle is capped at INR 100. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - e) To know more about purchase protection plan. Click here
+  - f) The offer is available at only eligible outlets inside select malls across India. Terms and Conditions Apply. To know more Click Here
+- Rewards
+  - *To Know More, Click Here
+- Ace Subscription Plan Platform
+  - Rewards Subscription Plan
+  - Now choose the reward points you want
+
+## YES BANK SELECT Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/select-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** Apply for SELECT Credit Card Online | YES BANK  
+**Official meta description:** Apply for YES BANK SELECT Credit Card. Enjoy 2X Rewards on shopping, preferential forex markup, and purchase protection up to INR 50,000.  
+
+### Official extracted card text
+
+- What comes with this card? 
+  - Accelerated Rewards on Online Shopping
+  - Preferential Foreign Currency Markup at 2.75%
+  - Dedicated Reward Redemption Portal
+  - Buy 1 Get 1 offer on Movie ticket with District
+  - Buy 1 Get 1 offer on Coffee at Malls
+- Top Benefits of SELECT Credit Card
+  - Earn 2X Reward on every INR 200 spent on Online Shopping.
+  - Reward Points Program
+  - Get great offers across travel, dining, shopping, wellness and more, in select cities.
+  - Lifestyle Benefits
+  - Preferential Foreign Currency Markup of 2.75% only.
+  - Foreign Currency Markup
+  - Insurance cover of upto INR 50,000 against accidental damage for 6 months for mobile & electronic purchased online
+  - Purchase Protection g
+  - Buy one Get one offer on Movie tickets booked On District
+  - Movie ticket offer g
+  - Buy one Get one offer on Coffee at major coffee outlets in Malls across India
+  - Coffee offer h
+- What's more?
+  - Pay in parts for your transactions as low as INR 1500.
+  - Instant EMI
+  - Convert payments into EMI with on-call service at attractive interest rates.
+  - Post Purchase EMI
+  - Get a loan amount within the card limit to fulfil immediate fund requirements.
+  - Quick Loan
+  - Your bills will be paid on time, every month..
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+  - Get a pre-approved loan at an attractive interest rate on your YES BANK Credit Card without blocking the credit limit
+  - Express Loan
+- Spend safely with
+  - Contactless Transactions
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more
+  - Keep Your Card Safe
+  - Never disclose your password, OTP,PIN to anyone either through mail or over phone. Never respond to unsolicited calls asking for Card Activation, Verification, PIN reset, Rewards, Offers, KYC updation, etc.
+  - Password for IVR transactions
+  - SMS YESIVR last 4 digits of your YES BANK Credit Card number to 9212738927 from registered mobile number
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- Rewards
+  - This card is rewarding
+  - 8 YES Rewardz Points a
+  - On every INR 200 for Online b Shopping (except on Select categories)
+  - 4 YES Rewardz Points a
+  - On every INR 200 for Offline Shopping (except on Select categories)
+  - 2 YES Rewardz Points a
+  - On every INR 200 on Select c categories.
+  - YES Rewardz Points will not be awarded on Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions.
+- select Page Multiple Ways
+  - Mobile Baking App To Manage Your Banking Activities
+  - Say 'Hi'
+  - New-age app for holistic and seamless banking
+  - Add +91-82912-01200 to your contacts and type ‘Hi’
+  - Experience best in class NetBanking
+  - Earn exciting rewards
+  - Avail loan in seconds
+  - Quick and secure fund transfer
+  - Instant bill payments
+  - 100+ features and services
+  - iris by YES BANK
+  - WhatsApp Banking
+  - YES Online
+  - Scan the QR code to download iris by YES BANK app
+- Overview
+  - With the YES Bank SELECT Credit Card, your online shopping sprees becomes more rewarding. Enjoy lounge access, exclusive rewards on dining, travel along with robust security features. Experience the next level of convenience with our Credit Cards designed to make every transaction more gratifying. Apply now to get accelerated rewards with SELECT Credit Card.
+- Select Credit Card Subscription Plan Platfo
+  - Rewards Subscription Plan
+  - Now choose the reward points you want
+- Fees and charges
+  - First year membership fee of INR 599 applicable taxes (waived on total retail spends of ₹10,000 within One month of card setup date)
+  - Renewal membership fee of INR 599 applicable taxes (waived on total retail spends of ₹1 lakh within 12 months prior to card renewal date)
+  - Interest Rate of 3.99% per month (47.88% annually), on Revolving Credit, Cash Advances and Overdue Amount.
+  - For details on applicable Fees and charges please refer MITC
+  - SELECT Credit Card Fees and charges
+- Terms and conditions / exclusions
+  - Terms and Conditions
+  - Glossary
+  - a) YES Rewardz Points will not be awarded on Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions. The Merchant Category Codes (MCC) are set by the network (Visa, MasterCard, RuPay), not by YES BANK.
+  - Category
+  - MCC
+  - Rental
+  - 6513
+  - Wallet Load
+  - 6540
+  - Fuel
+  - 5172, 5541, 5542, 5983, 9752
+  - Government Services
+  - 9034, 9211, 9222, 9223, 9311, 9399, 9402, 9405, 9700, 9701, 9702, 9751, 9754, 9950
+  - Marketing/Advertising
+  - 5960, 5962, 5964, 5965, 5966, 5967, 5968, 5969, 7311
+  - b) Maximum cap of 5000 reward points per statement cycle
+  - c) Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard and VISA as per the table below, referred to as Select Categories. Not valid on EMI on Call & Instant EMI transactions. Capping of YES Rewardz Points earned on Utility Spends (MCC 4900) is 150 per statement cycle.
+  - Description
+  - 4899
+  - Cable, Satellite and Other Pay Television/Radio/Streaming Services
+  - 4900
+  - Utilities—Electric, Gas, Heating Oil, Sanitary, Water
+  - 6300
+  - Insurance Sales, Underwriting, and Premiums
+  - 6381
+  - Insurance Premiums
+  - 8211
+  - Schools, Elementary and Secondary
+  - 8220
+  - Colleges, Universities, Professional Schools, and Junior Colleges
+  - 8241
+  - Schools, Correspondence
+  - 8244
+  - Schools, Business and Secretarial
+  - 8249
+  - Schools, Trade and Vocational
+  - 8299
+  - Schools and Educational Services—not elsewhere classified
+  - d) Terms and conditions apply. Click here to view T&C and The list of golf courses is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers.
+  - e) Total waiver in statement cycle is capped at INR 125. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - f) To know more about purchase protection plan. Click here
+  - g) Maximum discount of up to INR 150 on your second movie ticket once per user per calendar month. Offer is valid on Movie tickets only.
+  - h) The offer is available at only eligible outlets inside select malls across India. Terms and Conditions Apply. To know more Click Here
+- select prosperity edge credit card richtext
+  - *To Know More, Click Here
+- Eligibility
+  - 21 to 60 years of age
+  - Salaried or self employed
+  - Minimum Net Salary of INR 50,000 per month or Income Tax Return of INR 7.5 Lakhs and above.
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card. If you want RuPay variant ( applicable only for existing Mastercard/Visa holders) you can apply for Virtual RuPay Card. Click Here to Apply
+  - SELECT Credit Card Eligibility
+
+## YES BANK KLICK Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/klick-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** Klick Credit Card  
+**Official meta description:** Maximize your lifestyle with the YES Bank Elite Credit Card. Apply now to open an account and enjoy accelerated rewards, international lounge access, and dining privileges.  
+
+### Official extracted card text
+
+- What comes with this card?
+  - Zero Joining Fees & Annual Fees
+  - 1% Fuel Surcharge Waiver
+  - 2 YES Rewardz for every INR 200 spent on non-UPI transactions *
+- Key Benefits 
+  - Get rewarded for all
+  - your non-UPI
+  - transactions*
+  - Spend Easy, Get rewards on the Go
+  - Stay secure with a 100% virtual card
+  - Safe & Secure Payments
+  - Earn reward on non-UPI spends
+  - Daily spends. Daily rewards
+- Overview
+  - The Klick Credit Card is designed to meet all your UPI P2M payment needs. Experience the brilliance of a card crafted for the modern consumer and say goodbye to joining fees and hello to a world of rewards and cashbacks. Existing YES BANK Credit Cardholders are not eligible for this card.
+- Frequently Asked Questions
+  - Download the Kiwi app and complete the online form and KYC process, including video KYC, to get your YES Bank Klick Credit Card.
+  - Q. How can I apply for a Yes Bank Klick Card?
+  - Yes, you can change your UPI PIN by visiting “Settings” in IRIS by YES Bank mobile application.
+  - Q. Can I change my UPI PIN?
+  - Your YES Bank Klick RuPay Credit Card is generated instantly. This is a virtual card and there is no physical card variant.
+  - Q. How long will it take for my Credit Card to get delivered?
+  - Yes, the YES Bank Klick Credit Card is only available on the RuPay network. This card is specially issued to enable customers to link and use the card on UPI platform.
+  - Q. Is Yes bank Klick Credit Card only available on Rupay network?
+  - You can view card details in the Credit Card section on the IRIS by YES Bank app by following below mentioned steps:
+  - Click on Credit Card tab on IRIS home screen
+  - Select “show card details” displayed under your card
+  - You will be able to see complete card details.
+  - Q. How do I view my card details if there is no physical card?
+  - You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers:
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - 1800 103 1212(Toll Free for Mobile & Landlines in India)
+  - +91 22 4935 0000 (When Calling from Outside India)
+  - OR
+  - Email us at yestouchcc@yesbank.in
+  - Q. Whom do I contact in case of any queries on/issues with my Yes Bank Klick Credit Card?
+  - You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - YES BANK Account Holders:
+  - Net Banking: Register for the Net Banking facility and easily make Credit Card payments online. Click here to visit Net Banking.
+  - IRIS by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. Click here.
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - IRIS by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - *Currently available only on Android devices
+  - Q. How can I repay my Yes Bank Klick Credit Card bill?
+- Terms and conditions / exclusions
+  - Terms & Conditions
+  - Glossary
+  - * Capping of YES Rewardz Points on Utility Spends (MCC 4900) is INR 150 per statement cycle and no YES Rewardz Points on Rent, Wallet, Fuel, Government & Marketing/advertising categories, Cash withdrawals, Cash advance, fees and charges, Post purchase EMI, EMI on Call and instant EMI transactions
+  - Government Services MCC
+  - 9034, 9211, 9222, 9223, 9311, 9399, 9402, 9405, 9700, 9701, 9702, 9751, 9754, 9950
+  - Marketing/Advertising MCC
+  - 5960, 5962, 5964, 5965, 5966, 5967, 5968, 5969, 7311
+  - Rent
+  - 6513
+  - Wallet
+  - 6540
+  - Fuel
+  - 5542, 5983, 5172, 5540
+  - Cash Withdrawals/Cash Advance
+  - 6011
+  - On fuel transaction fuel surcharge is not levied by card issuing bank. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - Fuel surcharge may vary from 1% to 2.5% + GST of the amount spent on fuel transaction and is payable by cardholder.
+  - Total Fuel Surcharge waiver in statement cycle is capped at INR 250. Only surcharge will be waived, GST as levied on surcharge will not be waived. Taxes levied on fuel surcharge (if any) will not be waived and will need to be borne by the cardholder.
+  - Any program or offering administered by the Third-Party Application Provider (TPAP), such as the KIWI app would be the sole responsibility of the TPAP.
+
+## YES BANK MARQUEE Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/marquee-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** Marquee Credit Card - Apply for Marquee Credit Card Online | YES Bank  
+**Official meta description:** Experience exclusive privileges with the YES BANK Marquee Credit Card. Enjoy exceptional joining benefits, earn Rewardz Points on every spend, and indulge in movie ticket offers. Apply now!  
+
+### Official extracted card text
+
+- What comes with this card?
+  - Accelerated YES Rewardz Points on Online Spends
+  - Buy 1 Get 1 Offer a with Book My Show
+  - 40,000 YES Rewardz Points as Joining Benefits b
+  - Purchase Protection Plan c
+  - Best in industry Foreign Currency Mark-up of 1%
+- Top Benefits of MARQUÉE Credit Card
+  - Secure Online transactions with Verified by VISA
+  - Secure Online Payments
+  - Complimentary ETPrime Subscription voucher worth INR 4,500 on Joining Fees realization
+  - ETPrime Subscription j
+  - Preferential Foreign Currency Markup of 1% only
+  - Foreign Currency Markup
+  - Buy 1 Get 1 Offer on Movie tickets booked on BookMyShow
+  - Movie Ticket offer
+  - Earn YES Rewardz Points on Online Spends
+  - Accelerated Rewards
+  - Contactless transaction with NFC-enabled technology
+  - Contactless Transactions
+  - Complimentary Access to domestic and international Airport lounges.
+  - Lounge Access
+  - On payment of Renewal Fees
+  - Earn 20000 Bonus YES Rewardz Points
+  - Insurance coverage upto INR 50,000
+  - Purchase Protection Plan
+- What's more?
+  - Pay in parts for your transactions as low as INR 1500
+  - Instant EMI
+  - Convert payments into EMI with on-call service at attractive interest rates
+  - EMI on Call
+  - Get a loan amount within the card limit to fulfil immediate fund requirements
+  - Quick Loan
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+  - Get a pre-approved loan at an attractive interest rate on your YES BANK Credit Card without blocking the credit limit
+  - Express Loan
+- Spend safely with
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more Know More
+  - Keep Your Card Safe
+  - Never disclose your password, OTP,PIN to anyone either through mail or over phone. Never respond to unsolicited calls asking for Card Activation, Verification, PIN reset, Rewards, Offers, KYC updation, etc.
+  - Password for IVR transactions
+  - SMS YESIVR last 4 digits of your YES BANK Credit Card number to 9212738927 from registered mobile number Know More
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- Rewards
+  - This card is rewarding
+  - 36 YES Rewardz Points g
+  - On every INR 200 for Online h Shopping (except on Select categories
+  - 18 YES Rewardz Points g
+  - On every INR 200 for Offline Shopping (except on Select categories)
+  - 10 YES Rewardz Points g
+  - On every INR 200 on Select i categories.
+  - YES Rewardz Points will not be awarded on Rental, Wallet and Fuel, Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions
+- Fees and charges
+  - First Year Membership Fee of INR 9,999 + Applicable Taxes
+  - Renewal Membership Fee of INR 4,999 + Applicable Taxes, waived on total retail spends of INR 10,00,000 in a year and get waiver on subsequent renewal fee
+  - Interest Rate of 2.99% per month (35.88% annually) on Overdue amount
+  - For details on other Fees and charges please refer MITC
+  - MARQUÉE Credit Card Fees and charges
+- Terms and conditions / exclusions
+  - Terms & Conditions
+  - Terms & Conditions:
+  - a) Maximum 3 tickets (Buy 1 Get 1) per calendar month. Offer valid only for Movies tickets (Discount is capped at INR 800 per ticket). Click Here to view T&C.
+  - b) YES Rewardz Points will be credited in the subsequent month of the payment of the Card Membership Fees by the customer.
+  - c) Terms and Conditions apply. Insurance cover against accidental damage for 6 months for mobile & electronic devices purchased online. Click Here to Know More.
+  - d) Terms and conditions apply. Click here to view T&C and The list of golf courses is subject to change at the sole discretion of the network partner (VISA) and without any prior notice to YES BANK or its Cardmembers.
+  - e) Terms and Conditions applied. Domestic Lounge Access is subject to meeting Spends threshold. Click here to view Terms and Conditions and list of eligible Domestic Lounges. Please visit www.prioritypass.com to view the eligible International Lounges. For International Lounge access, a refundable authorization amount of $1 shall be charged on each eligible card presented at the entrance to the Participating Lounge, as a transaction for validation.
+  - f) Total waiver in statement cycle is capped at INR 1000. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - g) Valid on retail purchases only. Not applicable on Rent, Wallet and Fuel, Government , Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions.
+  - Category
+  - MCC
+  - Rental
+  - 6513
+  - Wallet Load
+  - 6540
+  - Fuel
+  - 5172,5541,5542,5983,9752
+  - Government Services MCC
+  - 9034,9211,9222,9223,9311,9399,9402,9405,9700,9701,9702,9751,9754,9950
+  - Marketing/Advertising MCC
+  - 5960,5962,5964,5965,5966,5967,5968,5969,7311
+  - h) Maximum Capping of Rewards Points per statement cycle 1L.
+  - i) Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard and VISA as per the table below, referred to as Select Categories. Not valid on EMI on Call & Instant EMI transactions. Capping of YES Rewardz Points earned on Utility Spends (MCC 4900) is 1250 per statement cycle.
+  - Description
+  - 4899
+  - Cable, Satellite and Other Pay Television/Radio/Streaming Services
+  - 4900
+  - Utilities—Electric, Gas, Heating Oil, Sanitary, Water
+  - 6300
+  - Insurance Sales, Underwriting, and Premiums
+  - 6381
+  - Insurance Premiums
+  - 8211
+  - Schools, Elementary and Secondary
+  - 8220
+  - Colleges, Universities, Professional Schools, and Junior Colleges
+  - 8241
+  - Schools, Correspondence
+  - 8244
+  - Schools, Business and Secretarial
+  - 8249
+  - Schools, Trade and Vocational
+  - 8299
+  - Schools and Educational Services—not elsewhere classified
+  - j) Steps to Follow to redeem ET-Prime Voucher :
+  - 1. Click here to go to the ET website
+  - 2. If you are not logged in, first log in to The Economic Times website, OR if you are already logged in then you'll see a pop-up to enter the voucher code
+  - 3. Enter the code, press the submit button and your ET Prime membership will get activated with the registered email/mobile number.
+- Eligibility
+  - 21 to 60 years of age
+  - Salaried or self employed
+  - Minimum Net Salary of INR 3 Lakhs per month or Income Tax Return of INR 36 Lakhs and above
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card. If you want RuPay variant ( applicable only for existing Mastercard/Visa holders) you can apply for Virtual RuPay Card. Click Here to Apply
+  - MARQUÉE Credit Card Eligibility
+- Overview
+  - Embrace indulgence without worry with the YES Bank MARQUÉE Credit Card. It offers unparalleled online purchase protection, rewarding experiences, and exclusive benefits that elevate your everyday.
+  - Designed to cater to the needs of the discerning customer, this credit card offers a host of benefits that redefine your shopping experience.
+- marquee Page Multiple Ways
+  - Mobile Baking App To Manage Your Banking Activities
+  - Say 'Hi'
+  - New-age app for holistic and seamless banking
+  - Add +91-82912-01200 to your contacts and type ‘Hi’
+  - Experience best in class NetBanking
+  - Earn exciting rewards
+  - Avail loan in seconds
+  - Quick and secure fund transfer
+  - Instant bill payments
+  - 100+ features and services
+  - iris by YES BANK
+  - WhatsApp Banking
+  - YES Online
+  - Scan the QR code to download iris by YES BANK app
+- marquee cc richtext
+  - *To Know More, Click Here
+
+## YES BANK Wellness Plus Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/wellness-plus-cards  
+**Extracted on:** 2026-05-20  
+**Official page title:** YES BANKs Wellness Plus Credit Cards- Know eligibility, benefits & much more | YES BANK  
+**Official meta description:** Avail & enjoy YES BANKs Wellness Plus Credit Cards complimentary heath & fitness sessions & lounge benefits. Know about eligibility, benefits, key attractions & much more. Apply Now.  
+
+### Official extracted card text
+
+- Wellness Plus Cards Benefits1
+  - Terms & Conditions apply
+  - a. Benefits are powered by Aditya Birla Wellness Pvt Ltd. All booking to be made through AB Multiply App.
+  - b. Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard under Pharmacy(MCC: 5912 and 8099). Not valid on EMI on Call & Instant EMI transactions.
+  - c. Valid on retail purchases only. Not applicable on fuel transactions, Cash Advance, Fee and Charges, EMI on Call & Instant EMI transactions.
+  - d. Applicable only on standing instruction based YES PayNow transaction. Not applicable for register and pay or adhoc payments. Additionally, please note – a. De-registration of a biller within 6 months on YES PayNow will result in reversal of reward points earned for that particular biller transaction. b. De-registration of biller post 6 months of YES PayNow registration, followed by re-registration will not earn any reward points.
+  - e. Terms and conditions apply. The list of lounges is subject to change at the sole discretion of MasterCard and without any prior notices to YES BANK or its Cardmembers.
+  - f. Applicable only if the flight ticket was booked on YES BANK Credit Card. Feature applicable only for Primary Cardmember.
+  - g. Total waiver in statement cycle is capped at INR 500. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - h. In case of lost /stolen card or any suspicious transaction on your YES BANK credit card, you can block your card immediately by sending an SMS. SMS BLKCC to 9840909000 from your registered mobile number. Click here to know more.
+  - Click here for value chart
+- Wellness Plus Cards Benefits
+  - Health Benefits a
+  - Complimentary annual preventive Health Check-up (up to 31 parameters)
+  - Complimentary annual Eye & Dental Check-up
+  - Unlimited consultation with General Practitioner, Specialist & Nutritionist through App
+  - 12 Complimentary Fitness sessions (Gym,Yoga,Zumba, etc.) per month
+  - All these benefits can be availed through Aditya Birla Mutliply App. Click here to view the User Guide.
+  - Preferred Reward Points Program
+  - 30 Reward Points per INR 200 spent on to Chemist/ Pharmaceutical stores b
+  - 6 Reward Points per INR 200 spent on all other categories c
+  - 5X Reward Points on first 3 transactions of the biller registered on YES PayNow (valid only on first 5 billers registered) d .Please click here to know more
+  - Reward Points Redemption
+  - Please visit YES Rewardz to know more or redeem Reward Points
+  - Dedicated Website for Flight/Hotel/Movie ticket booking on Reward Points redemption
+  - Exclusive Catalogue of Products
+  - Redemption of Reward Points against Air Miles (10 Reward Points = 1 InterMile / 1 Club Vistara Point)
+  - MasterCard Domestic Lounge Program e
+  - Enjoy Domestic Lounge access (limited to 2 visits per quarter) for Primary Cardmembers across 30 + Lounges in India e
+  - Please click here to know more
+  - Insurance Coverage
+  - Life Insurance Cover of INR 1 Cr for death due to Flight Accidents f
+  - Medical Insurance cover of INR 25 Lakhs for emergency hospitalization when travelling overseas f
+  - Credit Shield cover in case of accidental death of Primary Cardmember
+  - Interest Rate on Revolving Credit
+  - Interest Rate of 3.5% per month (42% annually) on Revolving Credit, Cash Advances and Overdue Amount
+  - Fuel Surcharge Waiver
+  - 1% Fuel surcharge waiver g at all fuel stations across India for transaction between INR 400 to INR 5,000
+  - Lifestyle Benefit
+  - Please visit YES Privileges to know more
+  - Avail great offers across travel, shopping, wellness and more, in select cities
+  - Contactless Card Technology
+  - Contactless transaction on the Card enabled with NFC Technology
+  - Wellness Plus Credit Card is enabled with contactless technology, facilitating fast, convenient and secure payments at retail outlets. You can use your card to make quick transactions at merchant locations accepting contactless cards
+  - Password for IVR transactions
+  - To generate the OTP for IVR Transactions for your YES BANK Credit Card– SMS ‘YESIVR<space> last 4 digits of your YES BANK Credit Card number’ to 9212738927 from your registered mobile number
+  - Enjoy below services on your Credit Card
+- Fees and charges
+  - Annual membership fees
+  - First Year Membership Fee of Rs. 1499* + Applicable Taxes
+  - Renewal Membership Fee of Rs. 1499* + Applicable Taxes
+  - Disclaimer : *Applicable for new Cards onboarded on or after 1st Jul, 2022. For Cards onboarded prior to this date, the fees applicable at the time of card issuance would continue.
+- Wellness Plus Card Privileges
+  - Get exciting offers on your YES BANK Credit Cards while shopping, Travel, and more on YES PRIVILEGES - Click here
+  - Instant EMI
+  - There are some things in life that you want instantly. We understand your needs and present to you our unique ‘Instant EMI’ feature on your YES BANK Credit Card.
+  - You can now take your dream holiday or the long-awaited wide screen television and repay in Equated Monthly Installments (EMIs) with your YES BANK Credit Card. You can earn rewards points on your transactions that are converted into EMIs
+  - Key Attractions:
+  - Zero documentation
+  - No Processing fees
+  - Repayment options from 3 months to 24 months
+  - Convert Transaction starting from as low as INR 2,500
+  - Interest Rates ranging from 12% p.a. to 15% p.a.
+  - List of Partners:
+  - Now you can shop with your YES BANK Credit Card for groceries, gadgets, trendy apparel or booking travel tickets, pay in easy instalments at the following merchant partner.
+  - Please click here view list of stores and click here to view list of online partners
+  - For detailed Terms and Conditions please click here
+- wellness plus cards credit card payment
+  - Easy ways to make YES BANK Credit Card Bill Payment
+  - You can pay your YES BANK Credit Card Bill through the following convenient channels.
+  - 1) For YES BANK Account Holders:
+  - YES ONLINE (NetBanking) : Register yourself for the YES BANK’s NetBanking facility and make Credit Card payments online. Click here to visit YES ONLINE (NetBanking)
+  - ATM Funds Transfer : You can transfer funds from your Savings/Current Account to your Credit Card Account at any YES BANK ATM
+  - Standing Instruction : You can submit written instructions to automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account
+  - 2) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment - You can make your payment through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment : You can make your YES BANK Credit Card payment by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please do mention your name and mobile number on the back of the cheque
+  - Net Banking : Make payment through any Bank’s NetBanking account using BillDesk facility. Click here
+  - Cash Payment : You can also make payment through Cash at YES BANK Branches. Please refer to the Schedule of Charges in the Most Important Terms & Conditions for charges applicable for cash payments
+  - YES Mobile App : You can pay through your YES BANK Savings Account or any other bank account
+  - YES Pay App : You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT : You can pay your Credit Card bill with your YES BANK account or any other bank account using BillDesk facility
+  - *Currently available only on android devices
+- Wellness Plus credit Card Keyattractions RichText
+  - key attractions
+  - COMPLIMENTARY HEALTH CHECK-UPS
+  - Avail Complimentary preventive health check-ups
+  - COMPLIMENTARY FITNESS SESSIONS
+  - 12 sessions per month (Gym,Yoga,Zumba, etc.)
+  - LOUNGE BENEFITS
+  - 2 complimentary domestic visits per calendar quarter
+- Overview
+  - Welcome to YES BANK’s Wellness Credit Card Program powered by Aditya Birla Wellness Pvt Ltd. We understand that being healthy is of utmost importance to you. With Wellness Plus Card, enjoy exclusive privileges around your wellbeing whether it is health checkups or lifestyle benefits or consultations with doctors, this card is an all in one card to assist you in your SelfCare journey.
+  - Eligibility for Wellness Plus Credit Card
+  - 1. Age Criteria: Minimum 21 years to maximum 60 years
+  - 2. Salaried or Self Employed
+  - 3. Minimum Net Salary of INR 25,000 per month or Income Tax Return of INR 7.5 Lacs and above
+  - 4. Cities Covered: Ahmedabad, Bangalore, Chandigarh, Chennai, Delhi & NCR, Hyderabad, Jaipur, Kolkata, Mumbai, Pune, Thane and Navi Mumbai.
+  - To track your Application status, click here or please call our 24*7 YES TOUCH Customer Care Number 1800-103-6000 quoting the 13 digit unique application reference number sent to your mobile number.
+- What comes with this card?
+  - Complimentary Health Check-up
+  - INR 500 Amazon Voucher (if availed within 90 days of card issuance/renewal)
+  - Accelerated Reward Points on Chemist & Pharmaceutical Stores
+  - Complimentary
+  - Fitness Sessions
+  - 24*7 consultations with doctors
+  - Digital Health Assessment with face scan
+  - Lounge access
+- Top Benefits 
+  - Annual preventive Health Check-up (31 parameters)
+  - Annual Eye & Dental Check-up
+  - Unlimited consultation
+  - with General Practitioner,
+  - Specialist & Nutritionist
+  - through App
+  - Complimentary Health Benefits a
+  - 12 complimentary fitness sessions (Gym, Yoga, Zumba, etc.) per month
+  - Fitness Sessions For You
+  - Enjoy Domestic Lounge access (limited to 2 visits per quarter) for
+  - Primary Cardmembers across
+  - 30 + Lounges in India
+  - Lounge Benefits e
+  - with face scan using Activ Health App to know your vitals 2/annum
+  - Digital Health Assessment
+- Rewards
+  - This card is rewarding
+  - 30 Reward Points b
+  - On every INR 200 spent on Chemists / Pharmaceutical stores
+  - 6 Reward Points c
+  - On spending INR 200 on other categories
+- What's more?
+  - Pay in parts for your transactions as low as INR 2,500
+  - Convert payments into EMI with on-call service at attractive interest rates
+  - EMI on Call
+  - Get a loan amount within the card limit to fulfil immediate fund requirements
+  - Quick Loan
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+  - Get a pre-approved loan at an attractive interest rate on your YES BANK Credit Card without blocking the credit limit
+  - Express Loan
+- Eligibility
+  - Between 21-60 years of age
+  - Salaried or Self-employed individuals
+  - Minimum net salary of INR 20,000 per month or Income Tax Return of INR 7.5 lakh and above
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card. If you want RuPay variant ( applicable only for existing Mastercard/Visa holders) you can apply for Virtual RuPay Card. Click Here to Apply
+  - Only available in Ahmedabad, Bangalore, Chandigarh, Chennai, Delhi & NCR, Hyderabad, Jaipur, Kolkata, Mumbai, Pune, Thane and Navi Mumbai
+  - Eligibility criteria
+- Fees and charges
+  - First Year Membership Fee of INR 1499*+ Applicable Taxes
+  - Renewal Membership Fee of INR 1499*+ Applicable Taxes
+  - *Applicable for new Cards onboarded on or after 1st Jul, 2022. For Cards onboarded prior to this date, the fees applicable at the time of card issuance would continue.
+  - Interest Rate of 3.99% per month (47.88% annually), on Revolving Credit, Cash Advances and Overdue Amount.
+  - For details on other Fees and charges please refer MITC
+- Spend safely with
+  - Contactless Transactions
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more.
+  - Safe Online Transactions
+  - Secure your online transactions with Mastercard SecureCode
+  - or Verified by VISA.
+  - To generate your one-time password, please Click Here
+  - Keep Your Card Safe
+  - Never disclose your password, OTP,PIN to anyone either through mail or over phone. Never respond to unsolicited calls asking for Card Activation, Verification, PIN reset, Rewards, Offers, KYC updation, etc.
+  - SMS YESIVR<space>last 4 digits of your YES BANK Credit Card
+  - number to 9212738927 from registered mobile number.
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- Terms and conditions / exclusions
+  - Terms and Conditions apply
+  - Glossary:
+  - a) Benefits are powered by Aditya Birla Wellness Pvt Ltd. All Health related bookings to be made through Activ Health App. Click here for Health Check-up list and Click here for Fitness centers list.
+  - b) Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard under Pharmacy (MCC: 5912). Not valid on EMI on Call & Instant EMI transactions.
+  - c) Valid on retail purchases only. Not applicable on Rental, Wallet, fuel transactions, Cash Advance Fee, Government & Marketing / Advertising category transactions, EMI on Call & Instant EMI transactions. Capping of YES Rewardz Points earned on Utility Spends (MCC 4900) is 300 per statement cycle.
+  - Category
+  - MCC
+  - Rental
+  - 6513
+  - Wallet Load
+  - 6540
+  - Fuel
+  - 5172,5541,5542,5983,9752
+  - Government Services MCC
+  - 9034,9211,9222,9223,9311,9399,9402,9405,9700,9701,9702,9751,9754,9950
+  - Marketing/Advertising MCC
+  - 5960,5962,5964,5965,5966,5967,5968,5969,7311
+  - d) Total waiver in statement cycle is capped at INR 250. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - e) Terms and conditions apply. The list of lounges is subject to change at the sole discretion of MasterCard and without any prior notices to YES BANK or its Cardmembers.
+  - f) Applicable only if the flight ticket was booked on YES BANK Credit Card. Feature applicable only for Primary Cardmember.
+- Wellness Plus Card Offers
+  - Special offer for applying
+  - through the above link
+  - Get a FREE Amazon voucher worth ₹500* on spending ₹1000 within first 30 days.
+- wellness plus cards richtext
+  - *To Know More, Click Here
+
+## YES Private Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-private-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** YES Private Credit Card  
+
+### Official extracted card text
+
+- YES private credit card
+  - 1st Year Membership Fee: Rs.50,000 + Applicable Taxes.
+  - Renewal Membership Fee: Rs.10,000 + Applicable Taxes, reversed on spends of Rs. 25,00,000 within 12 months prior to the renewal
+  - W.e.f 24 th Dec’2023: Get 20 Reward Points on domestic and 40 Reward Points on international spends for every INR 200 (1 Reward Point = upto 25 p)
+  - 0.50% Foreign Currency Mark up charges on all international spends
+  - Attractive rate of interest of 2.99% on revolving credit, on cash advance and/or on overdue amount
+  - Oberoi E-Gift Vouchers worth INR 9,000 KNOW MORE
+  - Annual benefits of 4 Lakh Plus for the card holder
+  - For details on applicable fees and charges, please refer MITC KNOW MORE
+- yes private credit card payment accordion 1
+  - Net Banking: Register yourself for the YES BANK Net Banking and make Credit Card payments online. Click here to visit NetBanking
+  - Standing Instruction: You can submit a written instruction to automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - ATM Funds Transfer: You can transfer funds from your Savings/Current Account to your Credit Card Account at any YES BANK ATM.
+  - For YES BANK Account Holders:
+- yes private credit card payment accordion 2
+  - NEFT: You can make payment for your Credit Card through NEFT fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code:YESB0CMSNOC to make payment through NEFT.
+  - Billdesk: Click on the given link to make the payment using Billdesk facility for payment from other Bank NetBanking. https://yesonline.yes.bank.in/extensions/partials/credit-card/credit-card-otherbank.html
+  - Cheque Payment: You can make your Credit Card payment by cheque, quoting your 16 digit YES BANK Credit Card Number, and drop the cheque at nearest YES BANK drop box. Please mention your name and mobile number on the back of the cheque.
+  - Cash Payment: You can also make payment through Cash at YES BANK Branches. Please refer to the schedule of Charges in the Most Important Terms & Conditions for charges applicable for cash payments.
+  - For All Customers:
+- yes private credit card important document richtext
+  - FAIR PRACTICE CODE FOR CREDIT CARD
+  - Yes Private Usage Guide
+  - Credit Card-Card Member Agreement
+  - Yes Private MITC Credit Cards (English) , (Assamese) , (Bengali) , (Gujarati) , (Hindi) , (Kannada) , (Khasi) , (Malayalam) , (Manipuri) , (Marathi) , (Mizo) , (Oriya) , (Punjabi) , (Sindhi) , (Tamil) , (Telugu) , (Urdu) .
+  - BCSBI
+  - Fair Practice Code For Credit Card Operations
+- yes private faq1
+  - Please call our 24*7 Yes Private Concierge and Services at 1800 121 4444/1800 103 0210 or write to us at yesprivatecc@yes.bank.in .
+  - I want more information on the benefits of Yes Private.
+- yes private faq2
+  - You can generate/change your four digit PIN by simply visiting NetBanking under the Credit Card Tab.
+  - I want to generate a New PIN/Change my PIN
+- yes private faq3
+  - There is no limitation. Enjoy unlimited access under the LoungeKey programme (At International lounges across 750+ locations) and MasterCard Lounge programme (At Domestic lounges across select cities in India).
+  - Is there a restriction/limit on my airport lounge access?
+- yes private faq4
+  - No, the Lounge Key feature will be enabled on your Yes Private Credit Card. Enjoy hassle free access to eligible lounges by simply flashing your Yes Private Credit Card and voicing out the LoungeKey membership to the personnel at the entrance!
+  - If I sign-up for Lounge Key, is there a separate card I have to carry?
+- yes private faq5
+  - We accept all modes of payment. If you're a YES BANK account holder, just provide us standing instructions for payment and let us take care of it for you!
+  - YES BANK Account Holders:
+  - NetBanking - Register yourself for YES BANK NetBanking and make Credit Card payments online.
+  - Standing Instruction - Instruct us to automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - For All Customers
+  - NEFT - Pay using NEFT fund transfer mode from other bank accounts. ( IFSC code: YESB0CMSNOC )
+  - Billdesk - Pay using Billdesk facility here .
+  - Cheque Payment - Quote your 16 digit Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Cash Payment - Pay with Cash at YES BANK Branches. Please refer to the schedule of Charges in the Most Important Terms & Conditions for charges applicable for cash payments.
+  - What are the easy ways to make Yes Private Credit Card Bill Payment?
+- yes private faq6
+  - Simply click here to create a 3D Secure password and secure all your online transactions with MasterCard® SecureCode™.
+  - How do I register for MasterCard® SecureCode™?
+- yes private category 1
+  - Travel
+  - Discover enthralling travel destinations, exclusive experiences and personalised offers to suit your evolved tastes.
+  - Discover enthralling travel destinations, exclusive experiences and personalised offers to suit your evolved tastes. Whether it’s flying the world in a private jet, cruising the oceans, indulging yourself at luxury resorts or visiting exotic locales, Yes Private brings you the best of it all.
+- yes private category 6
+  - Privileges
+  - Whether you’re making international spends, refuelling your vehicles or extending the benefits to your loved ones, the privileges never end at Yes Private.
+  - Whether you’re making international spends, refuelling your vehicles or providing for your loved ones, the privileges never end at Yes Private. Get set to enjoy interest rates and foreign currency markups, with your Credit Card.
+- yes private category 3
+  - PEACE OF MIND
+  - Live carefree with insurance and emergency services that are right at your fingertips, anywhere in the world.
+  - Live carefree with insurance and emergency services that are right at your fingertips, anywhere in the world. With cash advance services and accident coverage, Yes Private remains with you when you need it the most.
+- yes private category 4
+  - Wellness
+  - Get unparalleled access to the best medical professionals for you and your family with round-the-clock concierge services.
+  - Get unparalleled access to the best medical professionals for you and your family with round-the-clock concierge services. Yes Private equips you to stay in the best of health with a dedicated doctor available on call and securely digitized medical records.
+- yes private category 5
+  - Rewards
+  - With Yes Private, earn valuable rewards every time you use your Credit Card. Redeem these points across a wide selection of handpicked options
+  - With Yes Private, earn valuable rewards every time you use your Credit Card. Redeem these points across a wide selection of handpicked options. Start with 2 Lakh* Reward points and reap the benefits of using your Yes Private Credit Card everywhere, every time.
+  - *Applicable to priced card
+- yes private category 2
+  - Lifestyle
+  - Spend your leisure time savouring our carefully curated fine dining experiences & indulging yourself with complimentary access to exclusive clubs.
+  - Spend your leisure time savouring our carefully curated fine dining experiences & indulging yourself with complimentary access to exclusive clubs. It's time to enjoy the perks of your success with unmatched access to the world’s leading restaurants and recreational & sports clubs!
+- Yes private banner slide
+  - Yes for You !
+  - the World is
+- Global Privileges
+- Delightful global privileges for the International Indian!
+- Yes Private Banking & Concierge Services
+- International Concierge Services to assist you in availing the bespoke benefits on your card!
+- Exclusivity
+- Reserved only for a privileged few, by invitation only!
+
+## YES BANK Reserv Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/cards/credit-card/reserv-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** RESERV Credit Card - Apply for RESERV Credit Card Online | YES Bank  
+**Official meta description:** Unlock premium benefits with the YES BANK Reserv Credit Card. Enjoy bonus reward points, complimentary airport lounge access, and top-notch security features. Experience the ultimate in convenience and luxury. Apply today!  
+
+### Official extracted card text
+
+- What comes with this card? 
+  - Complimentary International Airport Lounge Access
+  - Preferential Foreign Currency Markup of 1.75%
+  - Attractive Interest Rate of Only 2.99% on Revolving Credit
+  - 25% Discount Offer on BookMyShow l
+- Top Benefits of RESERV Credit Card
+  - Earn 8000 bonus Reward Points if
+  - renewal fee is charged
+  - (Applicable
+  - 2nd year
+  - onwards)
+  - Earn 8000 Bonus Reward Points
+  - Get up to 1.75%
+  - markup on
+  - foreign currency
+  - Preferential Foreign Currency Markup
+  - Enjoy easy travels with
+  - lounge access benefits
+  - on your card
+  - International and Domestic Lounge Access
+  - Insurance cover of upto INR 50,000 against accidental damage for 6 months for mobile & electronic purchased online
+  - Purchase Protection h
+- What's more?
+  - Pay in parts for your transactions as low as INR 1500.
+  - Instant EMI
+  - Convert payments into EMI with on-call service at attractive interest rates.
+  - Post Purchase EMI
+  - Get a loan amount within the card limit to fulfil immediate fund requirements.
+  - Quick Loan
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+  - Get a pre-approved loan at an attractive interest rate on your YES BANK Credit Card without blocking the credit limit.
+  - Express Loan
+- Fees and charges
+  - First Year Membership Fee of INR 2,499 applicable taxes, waived off on total retail spends of INR 40,000/- done within one month of card set up date
+  - Renewal Membership Fee of INR 2,499 applicable taxes, waived off on total retail spends of INR 3,00,000/- or more within 12 months prior to card renewal date
+  - Interest Rate of 2.99% per month (35.88% annually) on Overdue amount
+  - For details on other Fees and charges please refer MITC
+  - RESERV Credit Card Fees and charges
+- Spend safely with
+  - Contactless Transactions
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more
+  - Keep Your Card Safe
+  - Never disclose your password, OTP,PIN to anyone either through mail or over phone. Never respond to unsolicited calls asking for Card Activation, Verification, PIN reset, Rewards, Offers, KYC updation, etc.
+  - Password for IVR transactions
+  - SMS YESIVR last 4 digits of your YES BANK Credit Card number to 9212738927 from registered mobile number
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- Rewards
+  - This card is rewarding
+  - 24 YES Rewardz Points a
+  - On every INR 200 for Online b Shopping (except on Select categories)
+  - 12 YES Rewardz Points a
+  - On every INR 200 for Offline Shopping (except on Select categories)
+  - 6 YES Rewardz Points a
+  - On every INR 200 on Select c categories.
+  - Reward Points will not be awarded for Rent, Wallet, Fuel, UPI, Government & Marketing / Advertising category transactions, cash withdrawals and transactions converted to EMI (Post Purchase EMI, EMI on Call & Instant EMI).
+- reserve Page Multiple Ways
+  - Mobile Baking App To Manage Your Banking Activities
+  - Say 'Hi'
+  - New-age app for holistic and seamless banking
+  - Add +91-82912-01200 to your contacts and type ‘Hi’
+  - Experience best in class NetBanking
+  - Earn exciting rewards
+  - Avail loan in seconds
+  - Quick and secure fund transfer
+  - Instant bill payments
+  - 100+ features and services
+  - iris by YES BANK
+  - WhatsApp Banking
+  - YES Online
+  - Scan the QR code to download iris by YES BANK app
+- Overview
+  - Secure your prized possessions and enjoy a worry-free online shopping experience with our RESERV Credit Card. Discover the comprehensive benefits that come with this credit card , designed to safeguard your purchases and make every transaction more rewarding. Secure your online purchases and elevate your lifestyle with the RESERV Credit Card.
+- Eligibility
+  - Between 21-60 years of age
+  - Salaried or self employed
+  - Minimum Net Salary of INR 2 lakh per month or Income Tax Return of INR 18 lakh and above
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card. If you want RuPay variant ( applicable only for existing Mastercard/Visa holders) you can apply for Virtual RuPay Card. Click Here to Apply
+  - RESERV Credit Card Eligibility
+- Terms and conditions / exclusions
+  - Terms and Conditions
+  - Glossary
+  - a) Valid on retail purchases only. Not applicable on UPI transactions on RuPay Credit Card, Rent, Wallet and fuel Government & Marketing / Advertising category transactions, Cash withdrawals, Cash Advance Fee & Charges, Post Purchase EMI, EMI on Call & Instant EMI transactions.
+  - Category
+  - MCC
+  - Rental
+  - 6513
+  - Wallet Load
+  - 6540
+  - Fuel
+  - 5172,5541,5542,5983,9752
+  - Government Services MCC
+  - 9034,9211,9222,9223,9311,9399,9402,9405,9700,9701,9702,9751,9754,9950
+  - Marketing/Advertising MCC
+  - 5960,5962,5964,5965,5966,5967,5968,5969,7311
+  - b) Maximum Capping of Rewards Points per statement cycle 36000.
+  - c) Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard and VISA as per the table below, referred to as Select Categories. Not valid on EMI on Call & Instant EMI transactions. Capping of YES Rewardz Points earned on Utility Spends (MCC 4900) is 750 per statement cycle.
+  - Description
+  - 4899
+  - Cable, Satellite and Other Pay Television/Radio/Streaming Services
+  - 4900
+  - Utilities—Electric, Gas, Heating Oil, Sanitary, Water
+  - 6300
+  - Insurance Sales, Underwriting, and Premiums
+  - 6381
+  - Insurance Premiums
+  - 8211
+  - Schools, Elementary and Secondary
+  - 8220
+  - Colleges, Universities, Professional Schools, and Junior Colleges
+  - 8241
+  - Schools, Correspondence
+  - 8244
+  - Schools, Business and Secretarial
+  - 8249
+  - Schools, Trade and Vocational
+  - 8299
+  - Schools and Educational Services—not elsewhere classified
+  - d) Terms and conditions apply. Click here to view T&C and The list of golf courses is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers.
+  - e) Terms and Conditions applied. Domestic Lounge Access is subject to meeting Spends threshold. Click here to view Terms and Conditions and list of eligible Domestic Lounges. Please visit www.prioritypass.com to view the eligible International Lounges. For International Lounge access, a refundable authorization amount of $1 shall be charged on each eligible card presented at the entrance to the Participating Lounge, as a transaction for validation.For RuPay variant cards: a refundable authorization amount of upto $35 shall be charged on each eligible card presented at the entrance to the Participating Lounge; visit https://www.loungekey.com/yesbankrupaycc to view the eligible International Lounges.
+  - f) Total waiver in statement cycle is capped at INR 500. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - g) To know more about purchase protection plan. Click here
+- reserve exclusive credit card richtext
+  - *To Know More, Click Here
+- Reserve Subscription Plan Platform
+  - Rewards Subscription Plan
+  - Now choose the reward points you want
+
+## YES BANK EMI Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/emi-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** EMI Credit Card - Apply for EMI Credit Card Online | YES Bank  
+**Official meta description:** Experience the convenience of the YES BANK EMI Credit Card with buy now and pay later options and automatic EMI conversion. Manage your expenses effortlessly with flexible payment solutions. Apply now.  
+
+### Official extracted card text
+
+- Emi Credit Card Benefits
+  - Automatic EMI Conversion
+  - Automatic Conversion a of transaction into EMI as per below logic
+  - Transaction Value
+  - EMI Rate and period
+  - Transaction value from INR 5,000 to INR 10,000
+  - 3 months EMI at 16% per annum
+  - Transaction value from INR 10,001 to INR 20,000
+  - 6 months EMI at 16% per annum
+  - Transaction value from INR 20,001 to INR 500,000
+  - 12 months EMI at 16% per annum
+  - Please click here to check the detailed terms & conditions
+  - Cashback Program
+  - 1% Cashback on transactions b not converted into EMI
+  - Maximum Cashback cap is INR 500 per month
+  - Insurance Coverage
+  - Credit Shield cover in case of accidental death of Primary Cardmember
+  - Please click here to know more
+  - Interest Rate on Revolving Credit
+  - Interest Rate of 3.5% per month (42% annually) on Revolving Credit, Cash Advances and Overdue Amount
+  - Fuel Surcharge Waiver
+  - 1% Fuel surcharge waiver c at all fuel stations across India for transaction between INR 400 to INR 5,000
+  - Foreign Currency Markup
+  - Foreign Currency Markup of 3.5% only
+  - Password for IVR transactions
+  - To generate the OTP for IVR Transactions for your YES BANK Credit Card– SMS ‘YESIVR<space> last 4 digits of your YES BANK Credit Card number’ to 9212738927 from your registered mobile number
+  - *Terms & Conditions apply.
+  - a. Applicable only for eligible transactions. Processing Fees and interest applicable. Click here for detailed Terms & Conditions.
+  - b. Valid on transactions not automatically converted to EMI. Not applicable on fuel transactions, Cash Advance, Fee and Charge. Click here for detailed Terms & Conditions.
+  - c. Total waiver in statement cycle is capped at INR 250. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - d. In case of lost /stolen card or any suspicious transaction on your YES BANK credit card, you can block your card immediately by sending an SMS. SMS BLKCC to 9840909000 from your registered mobile number
+- Fees and charges
+  - Annual membership fees
+  - First Year Membership Fee of INR 499 + Applicable Taxes
+  - Renewal Membership Fee of INR 499 + Applicable Taxes, waived on total retail spends of INR 1,20,000 within 12 months prior to card renewal date.
+- Emi Credit Card Privileges
+  - Get exciting offers on your YES BANK Credit Cards while shopping, Travel and more YES PRIVILEGES. Click here
+  - Instant EMI
+  - There are some things in life that you want instantly. We understand your needs and present to you our unique ‘Instant EMI’ feature on your YES BANK Credit Card.
+  - You can now take your dream holiday or the long-awaited wide screen television and repay in Equated Monthly Installments (EMIs) with your YES BANK Credit Card. You can earn rewards points on your transactions that are converted into EMIs
+  - Key Attractions:
+  - Zero documentation
+  - No Processing fees
+  - Repayment options from 3 months to 24 months
+  - Convert Transaction starting from as low as INR 2,500
+  - Interest Rates ranging from 12% p.a to 15% p.a
+  - List of Partners:
+  - Now you can shop with your YES BANK Credit Card for groceries, gadgets, trendy apparel or booking travel tickets, pay in easy instalments at the following merchant partner.
+  - Please click here view list of stores and click here to view list of online partners
+  - For detailed Terms and Conditions please click here
+  - Card Protection Plan
+  - YES BANK brings to you CPP Card Protection, India's first comprehensive card protection service. It can be used in the event of card loss, theft, any related fraud and emergencies. You can safeguard all cards including credit, debit, and Pre-paid cards with CPP Card Protection. In case of card loss or theft that may have occurred anywhere in the world, all that you need to do is call CPP's 24-hour helpline, to report loss of card(s).
+  - Card Protection Plan Features
+  - Classic Plus
+  - Premium Plus
+  - Platinum Plus
+  - Annual Membership Fee
+  - Rs 1749
+  - Rs 2249
+  - Rs 2899
+  - Additional members covered in one CPP membership
+  - Single
+  - Spouse
+  - Spouse & Parents
+  - 24 hour loss reporting
+  - Y – All cards
+  - Emergency Cash in India (per CPP Membership)
+  - Rs 5,000
+  - Rs 20,000
+  - Emergency Hotel Bills/ Travel tickets Overseas
+  - Rs 80,000
+  - Rs 120,000
+  - Rs 160,000
+  - Emergency Hotel Bills/ Travel tickets in India
+  - Rs 40,000
+  - Rs 60,000
+  - F-Secure Mobile Security (in case of Smartphones )
+  - Y
+  - Internet security by F-Secure (in case of laptops and PCs)
+  - Roadside Assistance -Breakdown support, battery jumpstart, flat tyre support, fuel delivery, vehicle towing etc.
+  - Temporary Smartphone replacement (in case of stolen phones)
+  - Credit Report and Analysis Benefit
+  - Fraud against loss, theft, online, skimming, counterfeit, phishing
+  - Rs 100,000
+  - Rs 200,000
+  - Rs 300,000
+  - Number of days covered prior to notification to Card Issuer
+  - 30 days
+  - Mobile Wallet Protection (Per Membership)
+  - Rs. 50,000
+  - Rs. 100,000
+  - Number of Days Covered (Prior to notification)
+  - 3 days
+- emi credit card creditcardpayment
+  - Easy ways to make YES BANK Credit Card Bill Payment
+  - You can pay your YES BANK Credit Card Bill through the following convenient channels.
+  - For YES BANK Account Holders:
+  - YES ONLINE (NetBanking): Register yourself for the YES BANK’s Net Banking facility and make Credit Card payments online. Click here to visit YES ONLINE (NetBanking)
+  - ATM Funds Transfer: You can transfer funds from your Savings/Current Account to your Credit Card Account at any YES BANK ATM
+  - Standing Instruction: You can submit written instructions to automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account
+  - For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment - You can make your payment through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: You can make your YES BANK Credit Card payment by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please do mention your name and mobile number on the back of the cheque
+  - NetBanking: Make payment through any Bank’s NetBanking account using BillDesk facility. Click here
+  - Cash Payment: You can also make payment through Cash at YES BANK Branches. Please refer to the Schedule of Charges in the Most Important Terms & Conditions for charges applicable for cash payments
+  - YES Mobile App: You can pay through your YES BANK Savings Account or any other bank account
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using BillDesk facility
+  - *Currently available only on android devices
+- emi credit card keyattractions richtext
+  - key attractions
+  - AUTOMATIC EMI
+  - Eligible transactions automatically converted into EMI
+  - EARN CASHBACK
+  - 1% Cashback on other transactions
+  - 1% Fuel Surcharge Waiver at all fuel stations in India
+- Overview
+  - Purchase now and pay later. With our EMI card, your transactions will automatically get converted into EMI across a tenure ranging from 3 months to 12 months and you can pay at your convenience.
+  - Eligibility for EMI Credit Card
+  - 1: Age Criteria: Minimum 21 years to maximum 60 years
+  - 2: Salaried or Self Employed
+  - 3: Minimum Net Salary of INR 25,000 per month or Income Tax Return of INR 5 Lacs and above
+  - To track your Application status, click here or please call our 24*7 YES TOUCH Customer Care Number 1800-103-1212 quoting the 13 digit unique application reference number sent to your mobile number.
+  - For Samsung Pay, click here
+  - For Bharat QR, click here
+  - For Credit Card E Welcome Kit, click here
+- Overview
+  - EMI Credit Card
+  - Unlock the ultimate shopping experience with our EMI Credit Card. Enjoy the convenience of making purchases today and paying later with easy EMI options ranging from 3 to 12 months. Unlock the power of flexible payments and stress-free shopping. Apply for your Credit Card today and experience the joy of financial freedom with YES Bank.
+- What comes with EMI Credit Card?
+  - Hassle-free Automatic EMI Conversion
+  - Fuel Surcharge Waiver Across India
+- Top Benefits of EMI Credit Card
+  - Enjoy easy automated conversions to EMIs on pre-set transaction values.
+  - Get up to 3.5% markup on foreign currency
+  - Preferential Foreign Currency Markup
+  - Get 1% cashback of up to ₹ 500 per month on transactions not converted into EMIs
+- Rewards
+  - This card is rewarding
+  - 1% Cashback
+  - Earn cashback of up to INR 500 per month on transactions not converted into EMIs
+  - 18% Rate of Interest
+  - Auto convert your transactions into easy EMIs with attractive interest rate of 18%
+  - 1% Processing Fee
+  - Transactions converted into EMI with low processing fee of 1% of transaction amount
+  - For details, click here
+- What's more with EMI Card?
+  - Pay in parts for transactions as low as ₹1,500 at 80,000+ partner stores.
+  - Convert payments into EMI with on-call service at attractive interest rates
+  - EMI on Call
+  - Get a loan amount within the card limit to fulfil immediate fund requirements
+  - Quick Loan
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+  - Get a pre-approved loan at an attractive interest rate on your YES BANK Credit Card without blocking the credit limit
+  - Express Loan
+- Eligibility
+  - Between 21 and 60 years of age
+  - Salaried or self employed
+  - Minimum Net Salary of INR 25,000 per month or Income Tax Return of INR 7.5 lakhs and above
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card. If you want RuPay variant ( applicable only for existing Mastercard/Visa holders) you can apply for Virtual RuPay Card. Click Here to Apply
+  - EMI Credit Card Eligibility
+- Fees and charges
+  - First Year & Renewal Membership Fees of INR 499 + Applicable Taxes (For new cards onboarded on or after 28th Aug,2024)
+  - First Year & Renewal Membership Fees of INR 749 + Applicable Taxes (For new cards onboarded between 1st July,2022 and 28th Aug,2024) For Cards onboarded prior to this date, the fees applicable at the time of card issuance would continue
+  - Interest Rate of 3.99% per month (47.88% annually), on Revolving Credit, Cash Advances and Overdue Amount.
+  - For details on other Fees and charges please refer MITC
+  - EMI Credit Card Fees and charges
+- Spend Safely with
+  - Contactless transactions
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more
+  - Safe online transactions
+  - Secure your online transactions with Mastercard SecureCode or Verified by VISA
+  - To generate your one-time password, please Click Here
+  - Keep Your Card Safe
+  - Never disclose your password, OTP,PIN to anyone either through mail or over phone. Never respond to unsolicited calls asking for Card Activation, Verification, PIN reset, Rewards, Offers, KYC updation, etc.
+  - SMS YESIVR last 4 digits of your YES BANK Credit Card number to 9212738927 from registered mobile number
+- emi mobileapp asset
+  - Mobile Baking App To Manage Your Banking Activities
+  - Say 'Hi'
+  - New-age app for holistic and seamless banking
+  - Add +91-82912-01200 to your contacts and type ‘Hi’
+  - Experience best in class NetBanking
+  - Earn exciting rewards
+  - Avail loan in seconds
+  - Quick and secure fund transfer
+  - Instant bill payments
+  - 100+ features and services
+  - iris by YES BANK
+  - WhatsApp Banking
+  - YES Online
+  - Scan the QR code to download iris by YES BANK app
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. Click here to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- Emi Credit Card Offers Sec
+  - Special offer for applying
+  - through the above link
+  - Get a FREE Amazon voucher worth ₹500* on spending ₹1000 within first 30 days.
+- emi credit card richtext
+  - *To Know More, Click Here
+
+## YES BANK BYOC Credit Card
+
+**Official page:** https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/byoc-credit-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** Personalized BYOC Credit Card – Customize Your Credit Card | YES BANK  
+**Official meta description:** Build your Credit Card with personalized options with YES BANK. Choose credit card image, material, cashback or reward points, and customize offers to match your lifestyle!  
+
+### Official extracted card text
+
+- Key Benefits Byoc
+  - Pick your Card Plastic Type
+  - Choose a regular plastic card or stay woke by opting for an Eco-friendly card or go premium by opting for a Metal card.
+  - Pick your Card Image
+  - Wrap your card with an image from the wide category of images pre-uploaded in the image gallery that reflects your vibe or go with the stock image.
+  - Please Note – Option only available for Plastic and Eco-Friendly card
+  - Pick your Perk
+  - Pick between unlimited cashbacks on your card spends or never expiring reward points
+  - In Cashback option, earn 1% cashback on all transactions a
+  - In Reward Points option, get 8 Reward Points for every INR 200 spent on all transactions a
+  - *Applicable on Retail transactions only. Not valid on Fuel transactions, Cash advance, fee & charges, EMI on call & Instant EMI transactions.
+  - Pick your Plan
+  - Build your personalized list of Offers by selecting Merchant Offers as per your needs with a flexibility to change your plan every month based on your changing needs. Earn 10% cashback on any amount spent on these merchants, as per the selected plan, subject to maximum of INR 100 per merchant per statement cycle.
+  - Offer Plans
+  - Click Here for Value Chart Rewards
+  - Click Here for Value Chart Cashback
+- Other Benefits Byoc
+  - Other Benefits
+  - Domestic Lounge Program a
+  - 1 complimentary Domestic Airport Lounge visit in India per calendar quarter for Primary Cardmember. Please click here to know more
+  - Enjoy complimentary Domestic Airport Lounge access through MasterCard Lounge program.
+  - MasterCard World Golf Program
+  - Enjoy 4 complimentary rounds of green fees waiver per calendar year at select Golf courses in India b
+  - Enjoy one complimentary Golf Lesson every calendar month at select golf courses in India
+  - For bookings, please contact MasterCard Golf Concierge on 1800 102 6263
+  - Click here to know more
+  - Reward Points Redemption
+  - Please visit www.yesrewardz.com to know more or to redeem your Reward Points c
+  - Dedicated website for Flight/Hotel/Movie ticket booking on Reward Points redemption
+  - Choose from an exclusive catalogue of products
+  - Redemption of Reward Points against Air Miles (8 Reward Points = 1 InterMile/1 Club Vistara Point)
+  - Interest Rate on Revolving Credit
+  - Interest Rate of 3.5% per month (42% annually) on Revolving Credit, Cash Advances and Overdue Amount
+  - Fuel Surcharge Waiver
+  - Get 1% Fuel surcharge waiver at all fuel stations across India for transactions between INR 400 to INR 5,000 d
+  - Lifestyle Benefits
+  - Please visit YES Privileges to know more
+  - Avail great offers across travel, dining, shopping, wellness and more
+  - Contactless Card Technology
+  - Contactless Card enabled with NFC Technology.
+  - BYOC Credit Card is enabled with contactless technology, facilitating fast, convenient and secure payments at retail outlets. You can use your card to make quick transactions at merchant locations accepting contactless cards
+  - Secure Password for Online transactions
+  - Secure your online transactions with MasterCard® SecureCode™
+  - Click here to create your 3D Secure Password
+  - Password for IVR transactions
+  - To generate the OTP for IVR Transactions for your YES BANK Credit Card– SMS ‘YESIVR<space> last 4 digits of your YES BANK Credit Card number’ to 9212738927 from your registered mobile number
+  - Enjoy below services on your Credit Card
+  - Glossary
+  - a) Terms and conditions apply. The list of airport lounges is subject to change at the sole discretion of MasterCard and without any prior notices to YES BANK or its Cardmembers.
+  - b) Terms and Conditions apply. The list of golf courses is subject to change at the sole discretion of MasterCard and without any prior notices to YES BANK or its Cardmembers.
+  - c) Visit www.yesrewardz.com to know more
+  - d)Total waiver in statement cycle is capped at INR 250. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - In case of lost /stolen card or any suspicious transaction on your YES BANK credit card, you can block your card immediately by sending an SMS. SMS BLKCC to 9840909000 from your registered mobile number
+- Fees and charges
+  - One time fee (Chargeable in first statement)
+  - Eco-Friendly Card Fee: INR 249 + Applicable Taxes
+  - Metal Card Fee: INR 3,499 + Applicable Taxes
+  - Monthly fee (will be summation of the below fees, as per the perks picked at the time of applying for the card and /or active merchant offer plans)
+  - Card Perk (Core Benefit) Fee of INR 49 + Applicable Taxes (Both for Cashback / Rewards card)
+  - Subscription Plan Fee*
+  - Subscription Plan
+  - Silver
+  - Gold
+  - Platinum
+  - Monthly fee
+  - INR 99
+  - INR 149
+  - INR 249
+  - *Applicable Taxes in all three pricing above
+- Privileges Byoc
+  - Get exciting offers on your YES BANK Credit Cards while shopping, travel, and more on YES PRIVILEGES- Click here
+  - Instant EMI
+  - There are some things in life that you want instantly. We understand your needs and present to you our unique ‘Instant EMI’ feature on your YES BANK Credit Card.
+  - You can now take your dream holiday or the long-awaited wide screen television and repay in Equated Monthly Installments (EMIs) with your YES BANK Credit Card. You can earn rewards points on your transactions that are converted into EMIs.
+  - Key Attractions
+  - Zero documentation
+  - No Processing fees
+  - Repayment options from 3 months to 24 months
+  - Convert Transaction starting from as low as INR 1,500
+  - Interest Rates ranging from 14% p.a. to 15% p.a.
+  - List of Partners
+  - Now you can shop with your YES BANK Credit Card for groceries, gadgets, trendy apparel or booking travel tickets, pay in easy instalments at the following merchant partner.
+  - Please click here to view list of stores and click here to view list of online partners
+  - For detailed Terms and Conditions please click here
+- Credit Card Payments BYOC
+  - Easy ways to make YES BANK Credit Card Bill Payment
+  - You can pay your YES BANK Credit Card Bill through the following convenient channels.
+  - For YES BANK Account Holders:
+  - YES ONLINE (NetBanking): Register yourself for the YES BANK’s Net Banking facility and make Credit Card payments online. Click here to visit YES ONLINE (NetBanking)
+  - ATM Funds Transfer: You can transfer funds from your Savings/Current Account to your Credit Card Account at any YES BANK ATM
+  - Standing Instruction: You can submit written instructions to automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account
+  - For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment- You can make your payment through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: You can make your YES BANK Credit Card payment by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please do mention your name and mobile number on the back of the cheque
+  - Net Banking: Make payment through any Bank’s NetBanking account using BillDesk facility. Click here
+  - Cash Payment: You can also make payment through Cash at YES BANK Branches. Please refer to the Schedule of Charges in the Most Important Terms & Conditions for charges applicable for cash payments
+  - YES Mobile App: You can pay through your YES BANK Savings Account or any other bank account
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using BillDesk facility
+  - *Currently available only on android devices
+- Subscription Plan Rules Byoc
+  - Subscription Plan/Cashback Details
+  - Subscription Plan Rules:
+  - Customers have the freedom to opt for Subscription Plan and merchant available within the plan. Three plans are available – Silver, Gold and Platinum.
+  - Once opted, subscription plan will start and fees will be charged in the statement generated.
+  - Customer will have the freedom to change the plan any time during the month. Changed plan will come into effect from beginning of next statement cycle. If the subscription plan is changed after the statement cycle begins, benefits will still be earned basis the plan which was there on first day of statement.
+  - Cashback for ongoing statement cycle will be earned on spends on the merchant selected in Subscription plan.
+  - Cashback for spends on current month will be posted in the subsequent month’s statement.
+  - Refer various examples below for better understanding of plan change, cashback posting and fee charged on the plans:
+  - Example 1
+  - Example 2
+  - Example 3
+  - Cashback: Earn 10% cashback upto INR 100 per merchant opted under the subscription plan per statement cycle. Cashback earned against spends will be posted in subsequent statement.
+  - Please refer below example for better understanding:
+  - Billing Cycle
+  - 12th Jan - 12th Feb
+  - Merchant
+  - A & B
+  - Spends on merchant A in billing cycle
+  - INR 800
+  - Spends on merchant B in billing cycle
+  - INR 1200
+  - Cashback earned for spends on A & B to be posted in statement generated on 12th March
+  - Total Cashback earned – 10% up to per 100 per merchant per statement cycle
+  - Cashback earned for spends on merchant A
+  - INR 80
+  - Cashback earned for spends on merchant b
+  - INR 100
+  - Total cashback (posted on 12th March)
+  - INR 180
+- BYOC FAQs RichText
+  - BYOC CUSTOMER FAQ
+  - Q. What is BYOC?
+  - BYOC stands for Build Your Own Card.
+  - Q. How is BYOC different from other credit cards?
+  - BYOC is a highly customizable Credit Card where you get to choose your card material, benefits such as Reward or Cashback, Image on Credit Card and the merchants where you wish to get cashback.
+  - Q. How can I apply for this card?
+  - You can apply online for this card.
+  - Click Here to start your journey.
+  - Q. Can I change the front image of card post issuance?
+  - Front image cannot be changed once the credit card is issued (standard charges applied as per MITC).
+  - Q. Can I change my Subscription Plan?
+  - Yes, it can be changed anytime but the plan will come into effect from next statement cycle and will be charged as per the statement cycle.
+  - Click here for detailed information
+  - Q. Can I switch my core benefit from reward to cashback or vice versa post issuance? Can it be done while reissuing the card?
+  - No, it’s not possible to switch between the core benefits once the card is issued. It cannot be changed during reissuance as well.
+  - Q. Can I change my card material when going for reissuance?
+  - As per current product structure, changing the same is not allowed.
+  - Q. Can I apply for BYOC card without opting for any subscription plan?
+  - Yes, you are allowed to take the card without any Subscription Plan also.
+  - Q. Is there any capping on earning the 1% Cashback on the BYOC cashback variant?
+  - No, there is no capping on the earning. You can earn 1 % unlimited cashback on all spends (except fuel transactions).
+  - Q. Is there any capping on earning Reward Points on the BYOC Reward variant?
+  - No, there is no capping. Customer can earn unlimited reward points (8 RP per INR 200 spent) on all spends (except fuel transactions).
+  - Q. Can I call and ask the Bank employees to make changes in my plan?
+  - Only you can create this card and make changes in future. Bank employees can’t make any changes in the features and benefits. You can opt for the offer plans, unsubscribe, change the plans by clicking BYOC tab on pre login home screen of YES Mobile App or through YES Service portal accessible through www.yesbank.in
+  - Q. How the charges will be calculated on my BYOC card basis the selection of subscription plans? What happens in case I change the same multiple times?
+  - Click here to understand the pricing, cashback posting and subscription plan in detail.
+  - For detail YES BANK Credit Card related FAQs Click Here
+- Overview
+  - We confer upon you the power to choose and build your own Credit Card. Experience the world of exclusive privileges with the BYOC Credit Card. Pamper yourself with rich benefits, features and a world of choices on the card which you build.
+  - With BYOC, you can pick to flaunt a Metal Card or support the go-green initiative by picking an Eco-friendly Card. Not just that, with BYOC you can personalize your card by choosing from a carefully selected range of pictures from the image gallery or pick the most suitable merchant offers as per your needs. Pamper yourself with these superior benefits, features, and exciting choices on the card, built For You by You.
+  - Eligibility for BYOC Credit Card
+  - 1. Age Criteria: Minimum 21 years to maximum 60 years
+  - 2. Salaried or Self Employed
+  - 3. Minimum Net Salary of INR 25,000 per month or Income Tax Return of INR 7.5 Lacs and above
+  - To track your Application status, click here or please call our 24*7 YES TOUCH Customer Care Number - 1800-103-1212 quoting the 13 digit unique application reference number sent to your mobile number.
+- Overview
+  - Experience the power of personalization with BYOC – the Credit Card crafted for you, by you.
+  - Enter the world of exclusive privileges and pamper yourself with rich benefits, features and a wide range of choices, completely tailored to fit your lifestyle!
+- What comes with this card?
+  - Earn Cashback or Reward Points
+  - 10% Cashback on your
+  - chosen Merchants
+  - Complimentary Domestic Airport Lounge Access
+  - Complimentary ET Prime f Membership on 1st anniversary
+- How to build your card?
+  - Select your card material from the options of plastic, eco-friendly and metal.
+  - Pick your card material
+  - Wrap your card with a pre-uploaded image from our image gallery.
+  - Customize your Plan
+  - Customize merchant offers as per your needs, change plans monthly, and earn 10% cashback.
+  - Pick your plan *
+  - Choose from 1% cashback on all transactions 1 or 8 YES Rewardz points for every ₹200 spent 2 .
+- Rewards
+  - This card is rewarding
+  - Air miles
+  - 8 Reward Points = 1 InterMile / 1 Club Vistara Point
+- What's more?
+  - Pay in parts for your transactions as low as INR 1500.
+  - Convert payments into EMI with on-call service at attractive interest rates
+  - Post Purchase EMI
+  - Get a loan amount within the card limit to fulfil immediate fund requirements
+  - Quick Loan
+  - Your bills will be paid on time, every month.
+  - YES PayNow
+  - Register standing instructions for your bill payments, subscriptions, insurance payments, and more.
+  - E-mandate
+  - Get a pre-approved loan at an attractive interest rate on your YES BANK Credit Card without blocking the credit limit
+  - Express Loan
+- Eligibility
+  - Between 21 and 60 years of age
+  - Salaried or self employed
+  - Minimum Net Salary of INR 25,000 per month or Income Tax Return of INR 7.5 lakhs and above
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card. If you want RuPay variant ( applicable only for existing Mastercard/Visa holders) you can apply for Virtual RuPay Card. Click Here to Apply
+  - BYOC Credit Card Eligibility
+- Fees and charges
+  - One-time fee – Chargeable in the first statement:
+  - Eco-Friendly Card Fee: INR 249 + taxes
+  - Metal Card Fee: INR 3,499 + taxes
+  - Monthly fee – Chargeable as per perks and active merchant plans (will be summation of the below fees, as per the perks picked at the time of applying for the card and /or active merchant offer plans)
+  - Card Perk (Core Benefit) Fee:BYOC Cashback : INR 99+taxes (INR 49+ taxes for cards on-boarded before 1st Oct’23) BYOC Rewards : INR 49 + taxes
+  - Re-issuance Fee
+  - Card Material
+  - Regular
+  - Bio-Degradable
+  - Metal
+  - Fees
+  - INR 100 + GST
+  - INR 349 + GST
+  - INR 3599 + GST
+  - Interest Rate of 3.99% per month (47.88% annually), on Revolving Credit, Cash Advances and Overdue Amount.
+  - For details on other Fees and charges please refer MITC
+  - BYOC Credit Card Fees and charges
+- Spend Safely with
+  - Contactless Transactions
+  - Experience fast, convenient, and secure payments at retail outlets with NFC technology
+  - Card Control
+  - Stay in control of your card via your phone by managing card block/unblock, domestic and international credit limits, and more
+  - Keep Your Card Safe
+  - Never disclose your password, OTP,PIN to anyone either through mail or over phone. Never respond to unsolicited calls asking for Card Activation, Verification, PIN reset, Rewards, Offers, KYC updation, etc.
+  - SMS YESIVR last 4 digits of your YES BANK Credit Card number to 9212738927 from registered mobile number
+- Frequently Asked Questions
+  - Yes, Maximum Reward Points is capped up to 600 per statement cycle. Customer can earn YES Rewardz Points (8 RPs per INR 200 spent) on all spends (except Rental, Wallet & Fuel transactions).
+  - Only you can create this card and make changes in future. Bank employees can’t make any changes in the features and benefits. You can opt for the offer plans, unsubscribe, change the plans through YES Service portal accessible through www.yesbank.in
+  - YES Service Portal à Credit Card à BYOC Change Subscription Plan
+  - For standard FAQs- Click Here
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) For YES BANK Account Holders:
+  - NetBanking: Register yourself for the YES BANK NetBanking and make Credit Card payments online.
+  - Standing Instruction: You can submit a written instruction to automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment - “You can make your payment through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC”
+  - Billdesk: Click on the given link to make the payment using Billdesk facility
+  - Cheque Payment: You can make your Credit Card payment by cheque, quoting your 16 digit Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Cash Payment: You can also make payment through Cash at YES BANK Branches. Please refer to the schedule of Charges in the Most Important Terms & Conditions for charges applicable for cash payments.
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) YES FIRST Credit Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 4935 0000 (When Calling from Outside India)
+  - Email us at yesfirstcc@yesbank.in
+  - b) YES Prosperity Credit Cards
+  - 1800 103 1212 (Toll Free for Mobile & Landlines in India)
+  - Email us at yestouchcc@yesbank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+  - You can apply online for this card
+  - Q.Can I switch my core benefit from reward to cashback or vice versa post issuance? Can it be done while reissuing the card?
+  - Yes, Maximum Cashback is capped up to INR 1000 per statement cycle. You can earn 1 % cashback on all spends (except Rental & Fuel transactions).
+- Byoc Credit Card Offers Sec
+  - Apply Today & get a FREE Amazon voucher worth ₹500* on spending ₹1000 within first 30 days.
+- byoc credit card richtext
+  - *To Know More, Click Here
+- How to build your card?
+  - Choose from 1% cashback on all
+  - transactions 1 or 8 reward points for
+  - every ₹200 spent 2 .
+  - Wrap your plastic or eco-friendly card
+  - with a pre-uploaded image from our image gallery
+- Terms and conditions / exclusions
+  - Terms and Conditions
+  - a) Not applicable on Rental, Wallet, Utility and Fuel Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions. Maximum Cashback is capped up to INR 1000 per statement cycle for BYOC Cashback Cards only
+  - Category
+  - MCC
+  - Rental
+  - 6513
+  - Wallet Load
+  - 6540
+  - Fuel
+  - 5172,5541,5542,5983,9752
+  - Government Services MCC
+  - 9034,9211,9222,9223,9311,9399,9402,9405,9700,9701,9702,9751,9754,9950
+  - Marketing/Advertising MCC
+  - 5960,5962,5964,5965,5966,5967,5968,5969,7311
+  - b) Not applicable on Rental payments, Wallet & Fuel Government & Marketing / Advertising category transactions, Cash withdrawals, Post Purchase EMI & Instant EMI transactions. Capping of YES Rewardz Points earned on Utility Spends (MCC 4900) is 600 per statement cycle for BYOC Rewards Cards only.
+  - c) The list of lounges is subject to change at the sole discretion of the Bank and can be changed by the Bank without prior notice to YES BANK or its Cardmembers.
+  - d) The list of golf courses is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers. Click here
+  - e) Total waiver in statement cycle is capped at INR 125. Only surcharge will be waived, GST as levied on surcharge will not be waived. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - f) Steps to Follow to redeem ET-Prime Voucher :
+  - 1. Click here to go to the ET website
+  - 2. If you are not logged in, first log in to The Economic Times website, OR if you are already logged in then you'll see a pop-up to enter the voucher code
+  - 3. Enter the code, press the submit button and your ET Prime membership will get activated with the registered email/mobile number.
+
+## YES Prosperity Business Card
+
+**Official page:** https://www.yes.bank.in/business-banking/cards/credit-cards/yes-prosperity-business-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** YES Prosperity Business Credit Card- Know Eligibility, Benefits & Much More | YES BANK  
+**Official meta description:** Avail & enjoy YES Prosperity Business credit card multiple reward points, insurance coverage, International Lounge Program & offers. Know about eligibility, benefits, key attractions & much more. Apply Now.  
+
+### Official extracted card text
+
+- Yes Prosperity Business Credit Card Benefits
+  - Annual Reward Points:
+  - Earn 10,000 Reward Points on annual spends of INR 6 Lakhs or more in each anniversary year c, *
+  - *Anniversary year is defined as 12 months from the date of set-up or date of renewal
+  - Reward Points Program
+  - 2X i.e 8 Reward Points for every INR 200 on Airlines, Hotels, Dinning, Vehicle Rentals & Travel Services (Capped at 1500 Reward Points per statement cycle) a
+  - 4 Reward Points for every INR 200 on all categories e other than ‘Select categories’
+  - 2 Reward Points for every INR 200 on Select categories d
+  - Important Note: 10,000 Reward Points on 1st transaction within 30 days of card approval only for paid card with annual fee of INR 2499
+  - Reward Points Redemption:
+  - Dedicated Website for Flight/Hotel/Movie ticket booking on Reward Points redemption
+  - Exclusive Catalogue of Products to choose from
+  - Redemption of Reward Points against Air Miles (8 Reward Points = 1 InterMile / 1 Club Vistara Point)
+  - Please visit YesRewardz to know more or redeem Reward Points
+  - Interest Rate on Revolving Credit
+  - Interest Rate of 3.6% per month (42% annually) on Revolving Credit, Cash Advances and Overdue Amount
+  - Preferential Foreign Currency Markup
+  - Preferential Foreign Currency Markup of 2.50% only
+  - International Lounge Program*
+  - ​ Cards issued on Mastercard: Complimentary Priority Pass Membership (available upon request) with 3 complimentary visits per calendar year at airports outside India. A charge of US $27+GST will be applicable for usage beyond 3 visits, all guest visits and usage at Airports within India i
+  - Cards issued on VISA: Avail 3 Complimentary Airport Lounge Visits per calendar year through the LoungeKey Program. Present your Visa branded YES BANK Credit Card to access Lounges outside India displaying the LoungeKey logo. A charge of US $27+GST will be applicable for usage beyond 3 visits and all guest visits i
+  - Priority Pass membership is applicable only for the Primary Cardmember (for cards issued on Mastercard), and is non-transferable to any other person(s). To apply for your Priority Pass membership, please download the Application Form and follow the steps mentioned in the form.
+  - For complete list of lounges, please visit www.prioritypass.com (for cards issued on Mastercard) and www.loungekey.com/yesbankcreditcards (for cards issued on VISA)
+  - Terms and conditions apply. The list of lounges is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without prior notice to YES BANK or its Cardmembers. Please visit please visit www.prioritypass.com (for cards issued on Mastercard) and www.loungekey.com/yesbankcreditcards (for cards issued on VISA)
+  - Domestic Lounge Program
+  - Primary Cardmembers enjoy Domestic Lounge access, limited to 1 visits per quarter, across 30+ lounges in India. Please click here to know more
+  - Terms and Conditions apply. The list of lounges is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers
+  - Complimentary Golf Program
+  - Waiver of green fee at select golf courses in India**
+  - Enjoy one complimentary golf lesson every calendar month
+  - Term and Conditions apply. The list of golf courses is subject to change at the sole discretion of the network partner(VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers. Click here to know more
+  - Insurance Coverage
+  - INR 50 Lakhs Air accidental cover in case of death due to a flight accident g
+  - INR 15 Lakhs cover on medical emergencies, while travelling overseas g
+  - INR 2.5 Lakhs credit shield cover on accidental death of Primary Cardmember
+  - For more details click here
+  - Fuel Surcharge Waiver**
+  - 1% Fuel surcharge is waived across fuel stations in India for transactions between INR 400/- to INR 5,000/
+  - ** Total waiver in a statement cycle is capped at INR 500. Only the surcharge component will be waived off, GST as levied on surcharge will not be waived off. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - Contactless Card Technology
+  - YES Prosperity BUSINESS Credit Card is enabled with contactless technology, facilitating fast, convenient and secure payments at retail outlets. You can use your card to make quick transactions at merchant locations accepting contactless cards
+  - Secure Password for Online Transactions
+  - Secure your online transactions with MasterCard SecureCode or Verified by VISA
+  - to create your 3D Secure Password
+  - Password for IVR transactions
+  - To generate the OTP for IVR Transactions for your YES BANK Credit Card– SMS ‘YESIVR<space> last 4 digits of your YES BANK Credit Card number’ to 9212738927 from your registered mobile number.
+  - For more details please click here
+  - Enjoy below services on your Credit Card
+- Yes Prosperity Business Credit Card Benefits 1
+  - Glossary :
+  - Valid on Airlines, Hotels, Dinning, Vehicle Rentals & Travel Services done on Merchant Category Codes (MCC) defined by Mastercard, VISA and Rupay. Not valid on EMI on Call & Instant EMI transactions. Accelerated reward points on is capped at 1500 Reward Points per statement cycle. Once the MAX Cap is reached the customer will earn as per eligible reward structure. Please find the list of MCC here . MCC are subject to change at the sole discretion of the Networks ( Visa/Mastercard/Rupay).
+  - This feature is applicable on renewal membership fee realization
+  - Applicable for retail transaction only
+  - Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard and VISA as per the table below, referred to as Select Categories. Not valid on EMI on Call & Instant EMI transactions
+  - MCC
+  - Description
+  - 4111
+  - Transportation—Suburban and Local Commuter Passenger, including Ferries
+  - 4131
+  - Bus Lines
+  - 4900
+  - Utilities—Electric, Gas, Heating Oil, Sanitary, Water
+  - 5411
+  - Grocery Stores, Supermarkets
+  - 5960
+  - Direct Marketing—Insurance Services
+  - 6300
+  - Insurance Sales, Underwriting, and Premiums
+  - 8211
+  - Schools, Elementary and Secondary
+  - 8220
+  - Colleges, Universities, Professional Schools, and Junior Colleges
+  - 8241
+  - Schools, Correspondence
+  - 8244
+  - Schools, Business and Secretarial
+  - 8249
+  - Schools, Trade and Vocational
+  - 8299
+  - Schools and Educational Services—not elsewhere classified
+  - 9211
+  - Court Costs Including Alimony and Child Support
+  - 9222
+  - Fines
+  - 9311
+  - Tax Payments
+  - 9399
+  - Government Services—not elsewhere classified
+  - 9402
+  - Postal Services—Government Only
+  - 9405
+  - Intra-Government Purchases—Government Only
+  - 4784
+  - Bridge and Road Fees, Tolls
+  - 5499
+  - Miscellaneous Food Stores - Convenience Stores, Markets, Specialty Stores
+  - Valid on retail purchases only. Not applicable on fuel transactions, Cash Advance Fee & Charges, Priority Pass & LoungeKey Charges, EMI on Call & Instant EMI transactions
+  - Applicable only on standing instruction based YES PayNow transaction. Not applicable for register and pay or adhoc payments. Additionally, please note – a. De-registration of a biller within 6 months on YES PayNow will result in reversal of reward points earned for that particular biller transaction. b. De-registration of biller post 6 months of YES PayNow registration, followed by re-registration will not earn any reward points
+  - Applicable only when the flight is booked on your YES Prosperity BUSINESS Credit Card
+  - In case of lost /stolen card or any suspicious transaction on your YES BANK credit card, you can block your card immediately by sending an SMS. SMS BLKCC <Space><Last 4 digits of card number> to 9840909000 from your registered mobile number
+  - These charges will reflect in your credit card statement within 90 days from the date of usage of Priority Pass or LoungeKey for lounge usage
+  - Click here for Value Chart
+- Fees and charges
+  - For customers onboarded on or after 15-12-2022
+  - First Year Membership Fee of INR 399 + Applicable Taxes, waived on total retail spends of INR 10,000/- or more within 30 days of card set up date
+  - For customers onboarded on or after 01-02-2022
+  - Renewal Membership Fee of INR 399 + Applicable Taxes, waived on total retail spends of INR 1,00,000/- or more within 12 months prior to card renewal date
+- YProsB CC RichText
+  - The YES Prosperity BUSINESS Credit Card is designed to take care of all your Business needs
+  - Eligibility for YES Prosperity BUSINESS Credit Card
+  - a.Age Criteria: Minimum 21 years to maximum 70 years
+  - b. Self Employed, Proprietors and Partners of Partnership firms
+  - c. Minimum Income Tax Return of INR. 7.5 Lakhs
+  - To track the status of your Credit Card application, please call our 24*7 YES TOUCH Customer Care Number 1800-103-1212 quoting the 13 digit unique application reference number sent to your mobile number.
+  - For Samsung Pay , click here
+  - For Bharat QR , click here
+  - For Credit Card E Welcome Kit, click here
+- What comes with this card?
+  - Green fee waiver on golf rounds
+  - 1 Domestic lounge access per quarter
+  - 8 reward points on ₹200 spent on selected categories
+  - Attractive Foreign Currency Markup Fee of 2.50%
+  - 1% fuel surcharge waiver
+- Top benefits
+  - Grow your business with great offers on travel, dining, business savings and more.
+  - Business benefits
+- Rewards
+  - This card is rewarding
+  - 8 YES Rewardz Points
+  - On every INR 200 for spends on all categories*a (Air/Hotel/Dinning/Travel/Rented Vehicles) other than ‘Select categories’*b - (capped at INR 1500 Points per statement)
+  - 4 YES Rewardz Points
+  - 4 Reward Points for every INR 200 on all categories other than ‘Select categories *b
+  - 2 YES Rewardz Points
+  - 2 Reward Points for every INR 200 on Select category
+  - 10,000 Reward Points
+  - On annual spends of INR 6 Lakhs or more in each anniversary year
+- Eligibility
+  - Between 21 and 70 years of age
+  - Self-employed individuals, proprietors, and partners of partnership firms
+  - Minimum Income Tax Return of INR 7.5 lakhs If you are already holding any YES BANK Credit Card, you are not eligible for this card.
+  - YES_Prosperity_Rewards_CC_eligibility-criteria
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- yes prosperity business card richtext
+  - *To Know More, Click Here
+- Yes Prosperity Business Credit Card Subscription Plan Platfo
+  - Rewards Subscription Plan
+  - Now choose the reward points you want
+- yes prosperity business cc page multiple ways
+  - Mobile Baking App To Manage Your Banking Activities
+  - Say 'Hi'
+  - New-age app for holistic and seamless banking
+  - Add +91-82912-01200 to your contacts and type ‘Hi’
+  - Experience best in class NetBanking
+  - Earn exciting rewards
+  - Avail loan in seconds
+  - Quick and secure fund transfer
+  - Instant bill payments
+  - 100+ features and services
+  - iris by YES BANK
+  - WhatsApp Banking
+  - YES Online
+  - Scan the QR code to download iris by YES BANK app
+
+## YES First Business Card
+
+**Official page:** https://www.yes.bank.in/business-banking/cards/credit-cards/yes-first-business-card  
+**Extracted on:** 2026-05-20  
+**Official page title:** YES FIRST Business Credit Card- Know Eligibility, Benefits & Much More | YES BANK  
+**Official meta description:** Avail & enjoy YES FIRST Business credit card multiple reward points, insurance coverage, International Lounge Program & offers. Know about eligibility, benefits, key attractions & much more. Apply Now.  
+
+### Official extracted card text
+
+- Yes First Business Card Benefits
+  - Annual Bonus Reward Points:
+  - Earn 20,000 Reward Points on achieving annual spends of INR 12 Lakhs or more in each anniversary year c, *
+  - *An Anniversary year is defined as 12 months from the date of set- up or date of renewal
+  - Reward point program
+  - 2X i.e 16 Reward Points for every INR 200 on Airlines, Hotels, Dinning, Vehicle Rentals & Travel Services (Capped at 3,000 Reward Points per statement cycle) a
+  - 8 Reward Points for every INR 200 on all categories e other than ‘Select categories’
+  - 4 Reward Points for every INR 200 on Select categories d
+  - Important Note: 20,000 Reward Points on 1st transaction within 30 days of card approval only for paid card with annual fee of INR 4999
+  - Reward Points Redemption:
+  - Dedicated Website for Flight/Hotel/Movie ticket booking on Reward Points redemption
+  - Exclusive Catalogue of Products to choose from
+  - Redemption of Reward Points against Air Miles (8 Reward Points = 1 InterMile / 1 Club Vistara Point)
+  - Please visit YesRewardz to know more or redeem Reward Points
+  - Interest Rate on Revolving Credit
+  - Interest Rate of 3.6% per month (42% annually) on Revolving Credit, Cash Advances and Overdue Amount
+  - Preferential Foreign Currency Markup
+  - Preferential Foreign Currency Markup of 1.75% only
+  - International Lounge Program*
+  - ​ Cards issued on Mastercard: Complimentary Priority Pass Membership (available upon request) with 6 complimentary visits per calendar year at airports outside India. A charge of US $27+GST will be applicable for usage beyond 6 visits, all guest visits and usage at Airports within India i .
+  - Cards issued on VISA: Avail 6 Complimentary Airport Lounge Visits per calendar year through the LoungeKey Program. Present your Visa branded YES BANK Credit Card to access Lounges outside India displaying the LoungeKey logo. A charge of US $27+GST will be applicable for usage beyond 6 visits and all guest visits i .
+  - *Priority Pass membership is applicable only for the Primary Cardmember (for cards issued on Mastercard), and is non-transferable to any other person(s). To apply for your Priority Pass membership, please download the Application Form and follow the steps mentioned in the form.
+  - For complete list of lounges, please visit www.prioritypass.com (for cards issued on Mastercard) and www.loungekey.com/yesbankcreditcards (for cards issued on VISA)
+  - Terms and conditions apply. The list of lounges is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without prior notice to YES BANK or its Cardmembers. Please visit please visit www.prioritypass.com (for cards issued on Mastercard) and www.loungekey.com/yesbankcreditcards (for cards issued on VISA)
+  - Domestic Lounge Program
+  - Primary Cardmembers enjoy Domestic Lounge access, limited to 2 visits per quarter, across 30+ lounges in India. Please click here to know more.
+  - Terms and Conditions apply. The list of lounges is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers
+  - Complimentary Golf Program
+  - Waiver of green fee at select golf courses in India**
+  - Enjoy one complimentary golf lesson every calendar month
+  - Terms and conditions apply. The list of golf courses is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers. Click here to know more
+  - Insurance Coverage
+  - INR 1 Crore air accidental cover in case of death due to a flight accident g
+  - INR 25 Lakhs cover on medical emergencies, while travelling overseas g
+  - INR 5 Lakhs credit shield cover on accidental death of Primary Cardmember
+  - For more details click here
+  - Fuel Surcharge Waiver**
+  - 1% Fuel surcharge is waived across fuel stations in India for transactions between INR 400/- to INR 5,000/
+  - ** Total waiver in a statement cycle is capped at INR 1,000. Only the surcharge component will be waived off, GST as levied on surcharge will not be waived off. Please note that Fuel surcharge may vary from 1% to 2.5% of the amount spent on fuel transaction. The rate of surcharge varies depending upon the fuel retail outlets and their acquiring banks.
+  - Contactless Card Technology
+  - The YES FIRST BUSINESS Credit Card is enabled with contactless technology, facilitating fast, convenient and secure payments at retail outlets. You can use your card to make quick transactions at merchant locations accepting contactless cards
+  - Secure Password for Online Transactions
+  - Secure your online transactions with MasterCard SecureCode or Verified by VISA
+  - Click here to create your 3D Secure Password
+  - Password for IVR transactions
+  - To generate the OTP for IVR Transactions for your YES BANK Credit Card– SMS ‘YESIVR<space> last 4 digits of your YES BANK Credit Card number’ to 9212738927 from your registered mobile number.
+  - For more details please click here
+  - Enjoy below services on your Credit Card
+- Yes First Business Card Benefits 1
+  - Glossary :
+  - Valid on Airlines, Hotels, Dinning,Vehicle Rental & Travel Services done on Merchant Category Codes (MCC) defined by Mastercard, VISA and Rupay. Not valid on EMI on Call & Instant EMI transactions. Accelerated reward points on is capped at 3,000 Reward Points per statement cycle. Once the MAX Cap is reached the customer will earn as per eligible reward structure. Please find the list of MCC here . MCC are subject to change at the sole discretion of the Networks ( Visa/Mastercard/Rupay).
+  - This feature is applicable on renewal membership fee realization
+  - Applicable for retail transaction only
+  - Valid on all retail transactions done on Merchant Category Codes (MCC) as defined by Mastercard and VISA as per the table below, referred to as Select Categories. Not valid on EMI on Call & Instant EMI transactions
+  - MCC
+  - Description
+  - 4111
+  - Transportation—Suburban and Local Commuter Passenger, including Ferries
+  - 4131
+  - Bus Lines
+  - 4900
+  - Utilities—Electric, Gas, Heating Oil, Sanitary, Water
+  - 5411
+  - Grocery Stores, Supermarkets
+  - 5960
+  - Direct Marketing—Insurance Services
+  - 6300
+  - Insurance Sales, Underwriting, and Premiums
+  - 8211
+  - Schools, Elementary and Secondary
+  - 8220
+  - Colleges, Universities, Professional Schools, and Junior Colleges
+  - 8241
+  - Schools, Correspondence
+  - 8244
+  - Schools, Business and Secretarial
+  - 8249
+  - Schools, Trade and Vocational
+  - 8299
+  - Schools and Educational Services—not elsewhere classified
+  - 9211
+  - Court Costs Including Alimony and Child Support
+  - 9222
+  - Fines
+  - 9311
+  - Tax Payments
+  - 9399
+  - Government Services—not elsewhere classified
+  - 9402
+  - Postal Services—Government Only
+  - 9405
+  - Intra-Government Purchases—Government Only
+  - 4784
+  - Bridge and Road Fees, Tolls
+  - 5499
+  - Miscellaneous Food Stores - Convenience Stores, Markets, Specialty Stores
+  - Valid on retail purchases only. Not applicable on fuel transactions, Cash Advance Fee & Charges, Priority Pass & LoungeKey Charges, EMI on Call & Instant EMI transactions
+  - Applicable only on standing instruction based YES PayNow transaction. Not applicable for register and pay or adhoc payments. Additionally, please note – a. De-registration of a biller within 6 months on YES PayNow will result in reversal of reward points earned for that particular biller transaction. b. De-registration of biller post 6 months of YES PayNow registration, followed by re-registration will not earn any reward points
+  - Applicable only when the flight is booked on your YES FIRST BUSINESS Credit Card
+  - In case of lost /stolen card or any suspicious transaction on your YES BANK credit card, you can block your card immediately by sending an SMS. SMS BLKCC <Space><Last 4 digits of card number> to 9840909000 from your registered mobile number
+  - These charges will reflect in your credit card statement within 90 days from the date of usage of Priority Pass or LoungeKey for lounge usage
+  - Click here for Value Chart
+- Fees and charges
+  - For customers onboarded on or after 15-12-2022
+  - First Year Membership Fee of INR 999 + Applicable Taxes, waived on total retail spends of INR 20,000/- or more within 30 days of card set up date
+  - For customers onboarded on or after 01-02-2022
+  - Renewal Membership Fee of INR 999 + Applicable Taxes, waived on total retail spends of INR 3,00,000/- or more within 12 months prior to card renewal date
+- YFB CC RichText
+  - At YES BANK, we understand that your business comes first. Presenting the YES FIRST BUSINESS Credit Card!
+  - a. Age Criteria: Minimum 21 years to Maximum 70 years
+  - b. Self Employed, Proprietors and Partners of Partnership firms
+  - c. Minimum Income Tax Return of INR. 10 Lakhs
+  - To track the status of your Credit Card application, please call our 24*7 YES TOUCH Customer Care Number 1800-103-6000 quoting the 13 digit unique application reference number sent to your mobile number.
+  - For Samsung Pay , click here
+  - For Bharat QR , click here
+  - For Credit Card E Welcome Kit, click here
+- What comes with this card?
+  - Green fee waiver on golf rounds
+  - 6 complimentary International lounge annually (outside India)
+  - 16 reward points on ₹200 spent on selected categories
+  - Attractive Foreign Currency Markup Fee of 1.75%
+  - 1% fuel surcharge waiver
+- Top benefits
+  - Earn reward points on your spends and redeem with YES Rewardz
+  - Bonus Reward Points
+  - Get up to 1.75% markup on foreign currency
+  - Travel comfortable with lounge access
+  - benefits on
+  - your card
+  - International and Domestic Lounge Access
+  - Grow your business with great offers on travel, dining, business savings and more.
+  - Business benefits
+- Rewards
+  - This card is rewarding
+  - 16 YES Rewardz Points
+  - On every INR 200 for spends on all categories*a (Air/Hotel/Dinning/Travel/Rented Vehicles) other than ‘Select categories’*b - (capped at INR 3000 Points per statement)
+  - 8 YES Rewardz Points
+  - 8 Reward Points for every INR 200 on all categories other than ‘Select categories*b’
+  - 4 YES Rewardz Points
+  - 4 Reward Points for every INR 200 on Select category
+  - 20,000 Reward Points
+  - On annual spends of INR 12 Lakhs or more in each anniversary year
+- Eligibility
+  - Between 21 and 70 years of age
+  - Self-employed individuals, proprietors, and partners of partnership firms
+  - Minimum Income Tax Return of INR 10 lakhs
+  - If you are already holding any YES BANK Credit Card, you are not eligible for this card.
+- Fees and charges
+  - First Year Membership Fee of INR 999+ applicable taxes, waived on total retail spends of INR 20,000/- or more within One month of card set up date
+  - Renewal Membership Fee of INR 999+ applicable taxes, waived on total retail spends of INR 3,00,000/- or more within 12 months prior to card renewal date
+  - Interest Rate of 3.99% per month (47.88% annually), on Revolving Credit, Cash Advances and Overdue Amount.
+  - For details on other Fees and charges please refer MITC
+- Frequently Asked Questions
+  - A. You can pay the YES BANK Credit Card Bill through the following convenient channels
+  - a) YES BANK Account Holders:
+  - NetBanking: Register for the Net Banking facility and easily make Credit Card payments online. to visit Net Banking click here .
+  - iris by YES BANK (Mobile banking app): You can pay through your YES BANK Savings Account or any other bank account.
+  - Standing Instruction: Automatically debit a pre-determined portion of your monthly outstanding from your Savings/Current Account to your Credit Card Account.
+  - b) For All Customers:
+  - For NEFT/IMPS/RTGS mode of payment: Pay through NEFT/IMPS/RTGS fund transfer mode from other bank accounts. Please add your YES BANK Credit Card as a beneficiary. Use IFSC code: YESB0CMSNOC
+  - Cheque Payment: Make YES BANK Credit Card payments by cheque, quoting your 16-digit YES BANK Credit Card Number, and drop the cheque at any of our drop boxes in your city. Please mention your name and mobile number on the back of the cheque.
+  - Net Banking: Use the Bill Desk facility and make payments through any bank’s Net Banking. click here .
+  - Cash Payment: You can also make cash payments at YES BANK branches. To know the applicable charges, please refer to the Schedule of Charges.
+  - iris by YES BANK (Mobile banking app):- You can pay through your YES BANK Savings Account or any other bank account.
+  - YES Pay App: You can also pay your Credit Card bill with your YES BANK account or any other bank account using UPI*
+  - YES ROBOT: You can pay your Credit Card bill with your YES BANK account or any other bank account using the BillDesk facility
+  - * Currently available only on Android devices
+  - * Cardmember to exercise due caution and refrain from making payments through modes other than those authorized by the bank
+  - Q. What are the easy ways to make YES BANK Credit Card Bill Payment?
+  - A. You may contact us on our 24*7 YES TOUCH Customer Care on the below numbers
+  - a) MARQUEE/ RESERV / YES First Cards
+  - 1800 103 6000 (Toll Free for Mobile & Landlines in India)
+  - +91 22 5079 5101 (When Calling from Outside India)
+  - Email us at yesfirstcc@yes.bank.in
+  - b) For All other Credit Cards
+  - Email us at yestouchcc@yes.bank.in
+  - Q. How do I contact YES BANK Credit Cards Customer Care?
+- yes first business card richtext
+  - *To Know More, Click Here
+- Yes First Business Card Subscription Plan Platfo
+  - Rewards Subscription Plan
+  - Now choose the reward points you want
+- yes first business cc page multiple ways
+  - Mobile Baking App To Manage Your Banking Activities
+  - Say 'Hi'
+  - New-age app for holistic and seamless banking
+  - Add +91-82912-01200 to your contacts and type ‘Hi’
+  - Experience best in class NetBanking
+  - Earn exciting rewards
+  - Avail loan in seconds
+  - Quick and secure fund transfer
+  - Instant bill payments
+  - 100+ features and services
+  - iris by YES BANK
+  - WhatsApp Banking
+  - YES Online
+  - Scan the QR code to download iris by YES BANK app

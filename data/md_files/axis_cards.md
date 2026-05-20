@@ -1,0 +1,4419 @@
+# Axis Bank Cards
+
+## IndiGo Axis Bank Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/indigo-axis-bank-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** IndiGo Axis Bank Credit Card – Apply & Get ₹1200 Voucher & Travel Benefits  
+**Official meta description:** IndiGo Axis Bank Credit Card offers ₹1200 welcome vouchers, milestone rewards, 3 BluChips per ₹100 on IndiGo spends, dining benefits & much more. Apply now instantly!  
+
+### Official extracted card text
+
+- IndiGo Axis Bank Credit Card
+- Turn your daily spends into IndiGo BluChips - unlocking flights, rewards, and unforgettable journeys. Swipe with purpose, earn with ease, and fly in style!
+- Welcome Benefit
+- Voucher worth 1,200 IndiGo BluChips as a welcome benefit on payment of the joining fee.
+- Annual benefit
+- Voucher worth 1,200 IndiGo BluChips every year as a renewal benefit on payment of the annual fee.
+- Milestone benefits
+- Voucher worth 1,200 IndiGo BluChips on achieving spends milestone of ₹1.5 Lakhs and again at ₹3 Lakhs cumulative annual spends.
+- Accelerated earns
+- Earn 3 IndiGo BluChips on every ₹100 spent on all IndiGo channels.
+- Base earns
+- Earn 1 IndiGo BluChip on every ₹100 spent on all eligible categories. For options to redeem,
+- Lounge access
+- Enjoy 1 complimentary domestic airport lounge access per quarter (applicable on spends of ₹50,000 in the preceding 3 months).
+- EMI purchases
+- For transactions exceeding ₹1500, you may contact the Bank to convert a credit card purchase into EMIs. For additional information,
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday.
+- Celebrate every milestone:
+- Earn 2 IndiGo BluChips on every ₹100 spent on groceries and dining.
+- Relax before you fly
+- Earn as you spend:
+- Joining/Annual Fee
+- ₹799 + GST
+- Finance charges
+- 3.75% per month (55.55% per annum)
+- Cash withdrawl fee
+- 2.5% of Transaction (Minimum ₹500)
+- Fee for cash payment
+- ₹175
+- Late payment charges
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- LPF charged on Outstanding balance (Total amount due - Payments)
+- NOTE - An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.
+- Over limit charge
+- 2.5% (Minimum ₹500) of Over limit amount
+- Returned Payment Charge
+- (Cheque / ECS / ACH / SI
+- bounce charge)
+- 2% of payment amount (Minimum ₹500)
+- Statement Request (beyond 3 months)
+- NIL
+- Reissue of lost, stolen or
+- damaged card
+- Foreign currency transactions
+- 3.50% of Transaction value on International Transactions
+- DCC Surcharge
+- 1.5% surcharge on DCC transactions
+- Rent surcharge
+- 1% transaction fee ( uncapped)
+- MCC- 6513
+- Education transaction
+- A transaction fee of 1% will be applicable on education payments made via third-party apps (not limited to) such as CRED, PayTM, Cheq, and Mobikwik.
+- MCCs: 8211, 8220, 8241, 8244, 8249, 8299
+- Note- DCC & International markup fee will be applicable on educational transactions.
+- Wallet load transaction
+- 1% Fee will be applicable for cumulative spends on ₹10,000 or more for wallet loads within a statement period
+- MCC: 6540
+- Fuel transaction fee
+- 1% Fee will be applicable for cumulative spends of ₹50,000 or more on fuel within a statement period
+- MCCs: 5983,5541,5542,5172
+- Utility transaction fee
+- 1% fee will be applicable for cumulative spends of ₹25000 or more on utilities within a statement period
+- MCCs - 4814, 4899, 4900
+- Your Indigo Axis Credit Card awaits you!
+- Eligibility for IndiGo Credit Card
+- Primary cardholder should be 18-70 years of age
+- Applicant should be a resident of India
+- Documentation for IndiGo Credit Card
+- PAN Card photocopy or Form 60
+- Proof of income - Latest payslip / Form 16 / IT return
+- Resident proof - Driver's license / Electricity Bill / Landline telephone bill
+
+## Rewards Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/rewards-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Rewards Credit Card - Get Rewards & Cashback \| Axis Bank  
+**Official meta description:** Axis Bank Rewards Credit Card has great offers on apparel and department stores and comes with an accelerated reward structure. Apply for a credit card online now!  
+
+### Official extracted card text
+
+- REWARDS Credit Card
+- When you make purchases with a Rewards Credit Card, you can earn rewards which shall help you save money and gain other benefits. Earn welcome benefit, milestone, membership benefits and complimentary lounge access with Axis Bank's
+- Credit Card.
+- Welcome benefit
+- Enjoy 5,000
+- EDGE REWARD
+- Points on cumulative net spends of ₹1,000 or above within 30 days of card issuance.
+- Reward points
+- Unlimited 2
+- Points earned on every ₹125 spend.
+- Membership benefits
+- Enjoy a bouquet of memberships up to ₹1,000 every anniversary year.
+- Milestone Benefits
+- Earn 1,500
+- points on net spends of ₹30,000 per statement cycle.
+- 150 instant discount on Swiggy
+- ₹150 instant discount on Swiggy on a minimum Transaction value of ₹500
+- Complimentary Lounge Access
+- Enjoy 2 complimentary lounge access per quarter at select domestic airports with your
+- Fuel surcharge waiver
+- Get 1% fuel surcharge on fuel purchases at all fuel stations across India.
+- Insurance benefits
+- Purchase protection cover up to ₹1 lakh
+- Dining delights
+- Enjoy exceptional dining experiences at top restaurants across India
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- Earn 10X reward points on every ₹125 spent on apparel and departmental stores.
+- Customers will receive accelerated points for spend upto ₹7,000 per statement month on specific categories.
+- Reward points will be credited directly to the customer's
+- EDGE account
+- Eligible customers will get the membership link via SMS on registered mobile number within 60 days of becoming eligible.
+- The Offer is applicable only twice a calendar month per Card.
+- Use code
+- "AXISREWARDS"
+- at the time of checkout.
+- benefit Access to domestic airport lounges is based on a minimum eligible spend of ₹50,000 in the previous 3 calendar months.
+- Valid on transactions between ₹400 to ₹5,000 only; maximum benefit up to ₹400 per statement cycle.
+- GST charged on fuel surcharge is non-refundable.
+- No reward points are earned on fuel transactions.
+- Cover up to $300 for the following:
+- Delay of check-in baggage
+- Loss of travel documents
+- Cover up to $500 for loss of check-in baggage.
+- Credit shield of ₹1 lakh.
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- for more details and full terms & conditions.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- Charges
+- Joining Fee
+- ₹1000
+- Standard annual Fee (2nd year Onwards)
+- Add-on card joining fee
+- Nil
+- Add-on card annual fee
+- Finance charges
+- 3.75% per month (55.55% annual)
+- Cash withdrawal fee
+- 2.5% (Min ₹500) of the Cash Amount
+- Fee for cash payment
+- ₹175
+- Card replacement
+- Duplicate statement fee
+- Waived
+- Overdue penalty or late payment fee
+- Nil if outstanding amount is less than ₹500
+- 500 if outstanding amount is between ₹501 and ₹5,000
+- ₹750 if outstanding amount is between ₹5,001 and ₹10,000
+- ₹1000 if outstanding amount is greater than ₹10,001
+- If the Minimum Amount Due (MAD) is not paid, Late Payment Charges (LPC) will be levied per the existing LPC structure. Additional charges of ₹100 will be levied only if the MAD payment is not made prior to
+- the Payment Due Date (PDD) for two consecutive billing periods.
+- Overlimit penalty
+- 2.5% of the over-limit amount (Min ₹500)
+- Charge slip retrieval fee
+- Outstation cheque fee
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to min ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Fuel transaction surcharge
+- 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹5,000)
+- Foreign currency transaction fee
+- 3.50% of the Transaction Value
+- Mobile alerts for transactions
+- Balance enquiry charges
+- Reward redemption fee
+- No
+- Eligibility for REWARDS Credit Card
+- Primary cardholder should be between 18 to 70 years of age
+- Applicant should be a Resident of India
+- Please note that this list is only indicative. Documents required may vary on a case-to-case basis.
+- Documentation for REWARDS Credit Card
+- PAN Card photocopy or Form 97
+- Proof of income - Latest payslip / Form 16 / IT return copy as income proof
+- Residence proof - Passport / Ration Card/ Electricity bill / Landline telephone bill
+- Credit Card Value Chart on Annual Spends of ₹2,00,000
+- Benefits of
+- Annual Spends (₹)
+- Savings / Value of Axis
+- Points (₹)
+- 1,000
+- Complimentary access to selected Domestic Lounges (if offer availed 2 times a quarter*)
+- 12,000
+- Swiggy Discounts**
+- 4,800
+- 3,600
+- Rewards on Annual Spends (excluding all restricted categories)
+- 1,50,000
+- 480
+- Accelerated Rewards of 10X
+- 1,00,000
+- 2,880
+- Milestone Benefit***
+- 900
+- Bouquet of Membership Benefits
+- Fuel Surcharge^^
+- 20,000
+- 200
+- Total Annual Savings^
+- 22,060
+- Total Benefits on
+- Credit Card is more than ₹22,000 (value chart is for illustrative purpose only)
+- *Based on assumption that customer visits lounge 2 times a quarter. Cost of lounge is assumed at ₹1,500
+- **Based on assumption that customer orders from Swiggy twice a month of minimum order value of ₹200
+- ***Based on assumption that milestone benefit of ₹30,000 per month is achieved 3 times a year
+- **** Based on assumption that customer transacts ₹1,000 within 30 days of card issuance
+- ^^Valid on transactions between ₹400 and ₹5,000 only. GST charged on fuel surcharge is non-refundable.
+- ^The Redemption Value of Each
+- Point = ₹0.20
+- The terms & conditions of Axis Bank Rewards credit card will be updated with effect from 20th June, 2025.
+- Please
+
+## IndianOil Axis Bank Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Fuel Credit Card - Apply for Indian Oil Credit Card \| Axis Bank  
+**Official meta description:** IndianOil Axis Bank Credit Card is designed to benefit you on every fuel transaction. Enjoy accelerated reward points and surcharge waiver at fuel outlets.  
+
+### Official extracted card text
+
+- IndianOil Axis Bank Credit Card
+- Earn valueback on fuel
+- Instant savings of up to 15% on flights and hotels
+- Discount on movie tickets
+- Earn
+- EDGE REWARD
+- Points
+- Accelerated reward points at any IOCL fuel outlets
+- With your IndianOil Axis Bank Credit Card, you may unlock a world of advantages and benefits. The purpose of this card is to link you to rewards and loyalty points. It offers a plethora of value back benefits on fuel transactions, spend based waiver, discounts on movie tickets, and more.
+- Welcome benefit - Earn 100% valueback on fuel
+- Get upto 1250
+- Points on first fuel transactions with your IndianOil Axis Bank Credit Card within first 30 days of card issuance.
+- to view the terms and conditions.
+- Enjoy benefit of 4% value back on fuel transactions by earning 20 reward points per ₹100 spent at any IOCL fuel outlet in India.
+- Accelerated reward points at online shopping
+- Enjoy benefit of 1% value back on online shopping by earning 5 reward points per ₹100 spent.
+- Fuel surcharge waiver
+- Free yourself from paying fuel surcharge waiver of 1%
+- Spend based waiver
+- Spend more than ₹3,50,000 in a card anniversary year and you will be eligible for annual fee waiver
+- Instant discount on Bookmyshow
+- Get instant discount upto 10% on your movie ticket booked via Bookmyshow app or website.
+- loyalty points
+- Earn 1
+- Point on ₹100 spend with your Credit Card. For options to redeem your points, check the
+- loyalty rewards catalogue.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- Transact in India at IOCL fuel outlet, settlement amount should be between ₹400 to ₹4000 to avail the offer
+- Where, Settlement amount = Original amount + Fuel surcharge + 18% GST on fuel surcharge.
+- Maximum eligible spends per calendar month: ₹5000
+- Accelerated EDGE Rewards will be credited within 24 days from the date of transaction.
+- Please
+- for a complete list of Indian Oil fuel outlets.
+- Only Applicable for fuel category.
+- Transact at online merchants between ₹100 and ₹5,000 to avail the offer.
+- Maximum eligible spends per calendar month: ₹5,000
+- Transact in India at IOCL fuel outlet, settlement amount should be between ₹400 to ₹4000 to avail the offer. Maximum waiver of ₹50 per statement cycle
+- Fuel Spends In India at any fuel outlet between ₹400 to ₹4000 to avail the offer. Maximum waiver of ₹50 per statement cycle.
+- GST charged on fuel surcharge is non-refundable
+- Only applicable for fuel MCC category
+- Rent transactions and wallet load transactions will not be considered for waiver
+- All EMI transactions, cash withdrawals, fees, charges & GST, Insurance spends, temporary credit and reversal of temporary credit for a disputed transaction will not be considered for waiver.
+- You need to apply necessary offer from the offers section of Bookmyshow website or app.
+- For detailed T&C
+- Point on ₹100 spend with your
+- . For options to redeem your points, check the
+- Spends on Insurance, Gold/Jewellery , Wallet, Rent, Utilities, Government Institutions, Education will not be eligible for earning
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- for more details and full terms & conditions.
+- Instant savings of up to 15% on flights & hotels via Goibibo and MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- Stay informed about the fees and charges on your Credit Card to manage your finances better and make confident spending decisions.
+- DESCRIPTION
+- CHARGES
+- Joining Fee
+- ₹500
+- Annual fee
+- 1st Year: Nil
+- 2nd Year onwards: ₹500
+- Add-on card joining fee
+- Nil
+- Add-on card annual fee
+- Card replacement fee
+- Cash payment fee
+- ₹175
+- Duplicate Statement fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Hotlisting charges
+- Balance enquiry charges
+- Finance charges (Retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Cash withdrawal fees
+- 2.5% (Min. ₹500) of the cash amount
+- Overdue penalty or Late payment fees
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500, No Max Cap on Fee
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- G.S.T
+- As per existing government norms
+- Reward Redemption fee
+- ₹99 per transaction on the EDGE REWARDS platform
+- Rent Transaction fee
+- 1% plus taxes will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India.
+- Dynamic Currency Conversion markup
+- 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in
+- Indian but registered in foreign nation.
+- Transaction fee
+- - 1% will be applicable on education payments made via third-party apps. However, payments and transactions made directly through education institutional websites, or their POS machines will not incur this fees.
+- - Cumulative spends exceeding ₹10,000 on wallet loads, ₹50,000 on fuel, ₹25,000 on utilities, and ₹10,000 on online skill-based gaming platforms within a statement period will attract a 1% transaction fee
+- Eligibility for Axis Bank Indianoil Credit Cards
+- Primary Cardholder should be 18-70 years of age
+- Add-on cardholder should be over 15 years
+- The individual should either be a Resident of India or a Non-Resident Indian
+- *The above criteria are only indicative. The bank reserves the right to approve or decline applications for credit card.
+- Documentation for Axis Bank Indianoil Credit Card
+- PAN Card photocopy or Form 60
+- Proof of income
+- Latest payslip / Form 16 / IT return copy as income proof
+- Residence proof
+- Driving License / Electricity Bill / Landline Telephone Bill
+- bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- Details
+- Annual Spends(₹)
+- Annual Benefits(₹)
+- Fuel Spends at IOCL
+- 60,000
+- 2,400
+- N/A
+- 600
+- Online Shopping
+- 42,000
+- 420
+- Movie ticket booking on BookMyShow
+- 12,000
+- 1,200
+- 54,000
+- 108
+- Activation Benefits
+- 250
+- Annual Fee Waiver
+- Total
+- 1,68,000
+- 5,478
+- Annual Free Fuel (in Litres)*
+- 60 Litres
+- Considering fuel price at ₹90/litre
+
+## Axis Bank Kwik Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Axis Bank Kwik Credit Card - No Joining and Annual Fees  
+**Official meta description:** Kwik Credit Card- Get a seamless UPI transaction with our exclusive lifetime free Axis Bank Kwik Credit Card. You can earn EDGE reward points on every purchase. Apply now!  
+
+### Official extracted card text
+
+- Axis Bank Kwik Credit Card
+- Experience the convenience of UPI with your KWIK Rupay Credit Card
+- Linked to UPI \| Earn rewards on every spend \| No Joining/ Annual Fees
+- Credit Card on UPI
+- Instant Virtual Card
+- Earn EDGE reward Points
+- Lifetime Free Card
+- Enjoy the dual benefits of a credit card along with the seamless transaction experience of UPI (unified payments interface) with Axis Bank Kwik Credit Card and earn EDGE reward points every time you spend.
+- More about Credit Card on UPI
+- Enjoy seamless UPI transaction experience on your Axis Bank Kwik Credit Card through any UPI app.
+- End to End Virtual Experience
+- Don't wait for a physical card, receive a virtual card instantly on approval. Link with UPI and start transacting
+- Easy Activation
+- Get started by activating your card through any of the following options:
+- EDGE reward points
+- Earn 2
+- EDGE REWARD
+- points on every ₹200 spent on domestic and international transactions.
+- Fuel Surcharge Waiver
+- Enjoy a 1% fuel surcharge waiver on fuel purchases between ₹400 and ₹4,000, with a maximum waiver of up to ₹150 per month.
+- Zero joining and Annual Fees.
+- 1. Link your Credit Card to UPI App, set UPI PIN to activate your card
+- 2. Login into Axis Bank Mobile App or Internet Banking -> Go to Credit Card -> Unbox your Kwik Credit Card with the Activation Code mentioned in welcome letter and set card PIN or enable manage usage settings
+- No reward points on wallet load, fuel, rental payments, cash withdrawals, insurance, repayments, jewellery, education, govt. services, EMI transactions, credit card on UPI transactions less than ₹2000
+- Points earned through eligible earn actions will be credited to the customer's
+- account by 7 working days of the following week. For detailed T&Cs refer
+- edgerewards.axisbank.co.in/lms/terms-conditions
+- *The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as INR 10 + GST instead of 1% + GST
+- Description
+- Charges
+- Joining Fee
+- Nil
+- Annual Fee
+- Card Replacement fee
+- NA
+- Cash Payment fee
+- ₹175/-
+- Duplicate Statement Fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Balance enquiry charges
+- Finance Charges (Retail purchases and Cash)
+- 3.7% per month (55.55% per annum)
+- Late payment fees*
+- Nil if total payment Due is up to ₹500
+- ₹500 if total payment due is between ₹501 - ₹5000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is ₹10,001 and above
+- Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Cash Withdrawal Fee
+- Min. ₹500 up to 2.5% of the cash withdrawal amount
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- Reward Redemption fee
+- -Rewards redemption fee of ₹99 per redemption transaction will be applicable on EDGE rewards platform.
+- - Rewards redemption fee of ₹199 per redemption transaction will be applicable for conversion/transfer of EDGE points/miles to other miles partner loyalty programs.
+- Rent Transaction fee (Applicable from 20th Dec, 2024)
+- 1% fee per transaction will be applicable on rental transactions
+- Dynamic Currency Conversion markup (Applicable from 5th March 2023)
+- 1.5% will be applicable on international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation
+- Wallet load transaction fee
+- (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable for cumulative spends of ₹10,000 or more for wallet loads per statement cycle
+- Fuel Transaction fee
+- 1% fee will be applicable for cumulative spends of ₹50,000 or more on per statement cycle.
+- Education Transaction fee
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Utility Transaction fee
+- 1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Online skill-based gaming fee
+- 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms per statement cycle
+- A credit card which is
+- easy on your pocket
+- View all Credit Cards
+- More about Credit Card on UPI - Axis Bank Kwik Credit Card
+- Linking
+- Set UPI Pin
+- Scan and Pay
+- Bill Payment
+- Manage your card
+- To link your Axis Bank Kwik Credit Card with UPI
+- Follow the steps below to link your Axis Bank Kwik Credit Card to UPI app and enjoy instant virtual transactions.
+- 01
+- Download any UPI Application (eg. PhonePe, BHIM, GPay, Paytm)
+- 02
+- Verify your mobile number on the application and complete registration
+- 03
+- Click on Button "Link RuPay Credit Card", post successful registration
+- 04
+- Select Credit Card Issuer Bank
+- 05
+- Select your Axis Bank Credit Card to be linked
+- 06
+- Proceed to generate UPI PIN
+- Select Generate PIN option > Select Axis Bank RuPay Credit Card
+- Enter Axis Bank Kwik Credit Card Details:
+- a. Please refer the Last 6 digits and expiry date on Kiwi App to proceed with PIN set
+- OTP will be triggered to your registered mobile number
+- Enter OTP and Set PIN of your choice
+- Transact seamlessly with Scan & Pay Feature
+- Please keep domestic POS transactions enabled to carry out UPI transactions
+- Scan Merchant QR Code or enter Merchant UPI ID
+- Enter Amount or pay auto-fetched amount
+- Select Axis Bank Kwik Credit Card
+- Enter UPI PIN and Confirm
+- Payment confirmation status will be displayed on screen
+- Credit Card Bill Payment
+- "Open any UPI App, click on "Pay to UPI Id" option and enter UPI Id as cc.91
+- @axisbank Example:
+- cc.9192498680825514@axisbank
+- Name of the Cardholder will be displayed for confirmation
+- Enter the payment amount and UPI PIN to pay
+- Manage your card on Axis Mobile App
+- Go to Credit Cards Section and click on Kwik Credit Card.
+- Enter activation code available in physical/digital welcome letter.
+- You will be routed to Card Control Settings page where you can change your card control settings.
+
+## IndiGo Axis Bank Premium Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/indigo-axis-bank-premium-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** IndiGo Axis Bank Premium Credit Card - Earn More, Travel Smarter  
+**Official meta description:** Apply online for IndiGo Axis Bank Premium Credit Card. Enjoy travel rewards, complimentary lounge visits, milestone vouchers & low forex charges on global spends.  
+
+### Official extracted card text
+
+- IndiGo Axis Bank Premium Credit Card
+- IndiGo Axis Bank Premium Credit Card unlocks a world of exciting travel rewards-every purchase brings you closer to your next adventure with IndiGo BluChips. So go ahead, swipe, earn and fly
+- Welcome benefit
+- Voucher worth 5000 IndiGo BluChips along with one complimentary 6E Eats voucher as a Welcome gift on payment of joining fee
+- Annual benefit
+- Voucher worth 5000 IndiGo BluChips along with one complimentary 6E Eats voucher every year as a renewal benefit on payment of annual fee
+- Milestone Benefits
+- Unlock 4 vouchers worth 5000 IndiGo BluChips on achieving spends milestone at ₹2 Lakhs, ₹5 Lakhs, ₹8 lakhs and ₹12 Lakhs spends.
+- Accelerated earns
+- Earn 7 IndiGo BluChips on every ₹100 spent on all IndiGo channels.
+- Base earns
+- Collect 2 IndiGo BluChip on every ₹100 spent on all eligible categories. For options to redeem,
+- Lowered forex mark-up
+- Travel and spend internationally with ease and enjoy a low forex mark-up of 2.5% on all foreign currency transactions.
+- BookMyShow offer
+- Enjoy Buy One Get One offer on movie tickets, once every month on BookMyShow.
+- Lounge access
+- Get a complimentary priority pass membership along with your credit card and enjoy 2
+- EMI purchases
+- For transactions exceeding ₹1500, you may contact the Bank to convert a credit card purchase into EMIs. For additional information,
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday.
+- Relax before you fly
+- Get a complimentary priority pass membership along with your credit card and enjoy 2 complimentary international lounge visits using your credit card at Priority Pass Lounge. Click here to know more about participating lounges.
+- Enjoy 2 complimentary domestic airport lounge visits per quarter (applicable on spends of ₹50,000 in the preceding 3 months).
+- for T&C on domestic lounge access and
+- for T&C on international lounge access.
+- Earn 3 IndiGo BluChips on every ₹100 spent on groceries and hotel.
+- Dining Delight
+- Enjoy exceptional dining experiences at top restaurants across India, with the Axis Bank Dining Delights Program.
+- to know more
+- Joining/Annual Fee
+- ₹5,000
+- Finance charges
+- 3.75% per month (55.55% per annum)
+- Cash withdrawl fee
+- 2.5% of Transaction (Minimum ₹500)
+- Fee for cash payment
+- ₹175
+- Late payment charges
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- LPF charged on Outstanding balance (Total amount due - Payments)
+- NOTE - An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.
+- Over limit charge
+- 2.5% (Minimum ₹500) of Over limit amount
+- Returned Payment Charge
+- (Cheque / ECS / ACH / SI
+- bounce charge)
+- 2% of payment amount (Minimum ₹500)
+- Statement Request (beyond 3 months)
+- NIL
+- Reissue of lost, stolen or damaged card
+- Foreign currency transactions
+- 2.50% of Transaction value on International Transactions
+- DCC Surcharge
+- 1.5% surcharge on DCC transactions
+- Rent surcharge
+- 1% transaction fee ( uncapped)
+- MCC- 6513
+- Education transaction
+- A transaction fee of 1% will be applicable on education payments made via third-party apps (not limited to) such as CRED, PayTM, Cheq, and Mobikwik.
+- MCCs: 8211, 8220, 8241, 8244, 8249, 8299
+- Note- DCC & International markup fee will be applicable on Educational transactions.
+- Wallet load transaction
+- 1% Fee will be applicable for cumulative spends on ₹10,000 or more for wallet loads within a statement period
+- MCC: 6540
+- Fuel transaction fee
+- 1% Fee will be applicable for cumulative spends of ₹50,000 or more on fuel within a statement period
+- MCCs: 5983,5541,5542,5172
+- Utility transaction fee
+- 1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities within a statement period
+- MCCs - 4814, 4899, 4900
+- Eligibility for IndiGo Axis Bank Premium Credit Card
+- Primary cardholder should be 18-70 years of age
+- Net income should be a minimum of ₹6 lakhs p.a.
+- Applicant should be a resident of India
+- Documentation for IndiGo Axis Bank Premium Credit Card
+- PAN Card photocopy or Form 60
+- Proof of income - Latest payslip / Form 16 / IT return
+- Resident proof - Driver's license / Electricity Bill / Landline telephone bill
+- Your Indigo Premium Axis Credit Card awaits you!
+
+## Axis Bank Neo Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Neo Credit Card: Lifetime Free with Offers on Zomato, Myntra & More \| Axis Bank  
+**Official meta description:** Apply for Axis Bank Neo Credit Card: Lifetime free with no annual fee. Enjoy flat ₹120 off on Zomato, up to 15% off on Myntra & BookMyShow, & 5% off on Paytm recharges. Apply now.  
+
+### Official extracted card text
+
+- Axis Bank Neo Credit Card
+- Lifetime free Credit Card
+- Activation benefits & rewards
+- Exclusive offers for big savings
+- Robust security features
+- NEO Credit Card
+- Axis Bank's NEO Credit Card is designed for the modern lifestyle, offering a seamless blend of rewards, convenience, and savings. This card provides exclusive benefits like cashback on movie tickets, discounts on dining, and great deals on shopping platforms. With robust security features,
+- easy EMI options, and no hidden costs, the NEO Credit Card ensures a rewarding experience. It's your gateway to smarter spending and bigger savings.
+- Flat ₹120 off on Zomato
+- ₹120 off on food delivery with your NEO Credit Card
+- 5% off on utility bill payments via Paytm
+- Get 5% off on mobile recharges/Broadband payment/DTH recharge done through Paytm.
+- Enjoy the 'Power of 10'
+- 10% off on Blinkit - Up to ₹250 off on min spends of ₹750, valid once per month.
+- Enjoy exceptional dining experiences at top restaurants across India
+- Spend securely
+- All Axis Neo Credit Cards are equipped with an EMV certified
+- Stay protected with Zero Lost Card Liability
+- Report an Axis Bank Neo Credit Card as misplaced or stolen immediately by calling the Axis Bank
+- Convert purchases to EMI
+- Contact Axis Bank to easily convert substantial credit card expenditures into EMIs
+- Earn
+- Points
+- Receive
+- points for transactions and use them to redeem 500+ rewards and offers.
+- Activation Benefit
+- 100% cashback up to ₹300 on first utility bill payment within first 30 days of card issuance
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- Use Coupon Code 'AXISNEO' to avail the discount
+- Maximum discount is capped at ₹120 per order
+- Offer applicable on minimum spends of ₹499 -
+- Effective from 1st July-2025
+- Discount valid two times per month.
+- For detailed terms and conditions,
+- click here.
+- Enjoy a maximum discount of ₹150 each month, with a minimum transaction requirement of ₹299.
+- Customers may take advantage of this discount once monthly.
+- 10% off on every purchase of movie ticket on BookMyShow with maximum monthly benefits up to ₹100.
+- ₹150 off on Myntra on minimum spends of ₹999 on selected styles - Valid till 31st March'26
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- for more details and full terms & conditions.
+- All Axis Neo Credit Cards are equipped with an EMV certified chip and PIN system, ensuring unmatched security.
+- The EMV chip technology significantly lowers the risk of counterfeit and skimming fraud.
+- Report an Axis Bank Neo Credit Card as misplaced or stolen immediately by calling the Axis Bank customer service at 18605005555 or 18604195555
+- With zero lost card liability, you are protected against any fraudulent use of your card from the moment the loss is reported.
+- *Terms and Conditions apply. For more details, refer to card member agreement clause no. 18
+- Contact Axis Bank to easily convert substantial credit card expenditures into EMIs using options like Internet Banking, the Mobile App, or Customer Service. This conversion option is available for transactions exceeding
+- ₹1,500 on the Neo Credit Card.
+- To know more,
+- Earn 1 point for every ₹200 spent on the Neo Credit Card.
+- For options to redeem points, check the
+- Catalogue
+- to view the terms and conditions.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off up to Rs. 1000 on Tira
+- The Neo Credit Card comes with various fees and charges, including joining fees, annual fees, cash payment fees, withdrawal fees, and applicable penalties.
+- Description
+- Charges
+- Joining Fee
+- ₹250
+- Lifetime Free for select* channels
+- Annual Fee (Second year onwards)
+- 1st Year: Nil
+- 2nd Year onwards: ₹250
+- Add-on Card Joining Fee
+- Nil
+- Add-on Card Annual Fee
+- Card Replacement Fee
+- Cash Payment Fee
+- ₹175
+- Duplicate Statement Fee
+- Waived
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Mobile Alerts for Transactions
+- Free
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Finance Charges (Retail Purchases & Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹500) Of The Cash Amount
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater
+- than ₹10,000
+- An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.
+- Over Limit Penalty
+- 2.5% of over the limit amount (Min. ₹500)
+- Cheque return or dishonour Fee or Auto-debit Reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- As per existing Government norms
+- Reward Redemption fee
+- Yes
+- Rent Transaction fee
+- 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India.
+- Dynamic Currency Conversion markup
+- 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation.
+- Fuel Transaction Surcharge
+- 1% of transaction amount
+- Education Payment Charges
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Wallet Load Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on wallet loads per statement cycle
+- Fuel Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 50,000 or more on fuel transactions per statement cycle
+- Utility Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 25,000 or more on utilities per statement cycle
+- Online Skill-Based Gaming Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on online skill-based gaming platforms in a statement cycle
+- Eligibility for NEO Credit Card
+- Primary Cardholder should be 18-70 years of age
+- Add-on cardholder should be over 18 years
+- The individual should either be a Resident of India or a Non-Resident Indian
+- *The above criteria are only indicative. The bank reserves the right to approve or decline applications for credit card.
+- Documentation for NEO Credit Card
+- PAN card photocopy or Form 60
+- Proof of income - Latest payslip / Form 16 / IT Return
+- Residence proof - Driving License / Electricity Bill / Landline Telephone Bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- Power to save up to ₹10,000 in a calendar year.
+- Details
+- Monthly Benefits (₹)
+- Annual Benefits (₹)
+- Activation Benefit:100% Cashback up to ₹300 on first Utility bill payment within first 30 days of card issuance*
+- 300
+- Food ordering at Zomato
+- 240
+- 2,880
+- Utility Bill Payments via Paytm
+- 150
+- 1,800
+- Grocery shopping at Blinkit
+- 3,000
+- Movie spends on Bookmyshow
+- 100
+- 1,200
+- Online shopping at Myntra**
+- 10
+- 120
+- Edge Rewards
+- Total Benefit (Year 1)
+- 9,300
+- Total Benefit(Year 2 onwards)
+- 9,000
+- Annual Benefit as a % of spends***
+- *Activation Benefits, applicable for first year only
+- *** For Illustrative purposes only
+- Terms and Conditions
+- The terms and conditions of Axis Bank NEO Credit Card have been updated w.e.f.20th June,2025. Please
+- Related Product for Credit Card
+- Fibe Axis Bank Credit Card
+- Up to 3% cashback on every transaction*
+- CC on UPI enabled credit card for seamless transactions
+- Complimentary domestic lounge access basis spends*
+- Annual Fee:
+- Platinum Credit Card
+- A perfect card for movie lovers. Enjoy 25% cashback on movie tickets
+- EDGE REWARD
+- on every ₹200 spent on credit card domestically
+- ₹500
+- Fee waiver
+- Axis Bank MY Zone Easy Credit Card
+- Contactless enabled secured credit card
+- with every ₹200 spent
+- 25% cashback on movies
+
+## Flipkart Axis Bank Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Flipkart Axis Bank Credit Card Online - Cashback & Rewards  
+**Official meta description:** Apply for the Flipkart Axis Bank Credit Card Which provides exclusive benefits. Enjoy instant savings, rewards and exclusive shopping benefits with the Flipkart Credit Card today.  
+
+### Official extracted card text
+
+- Flipkart Axisbank Credit Card
+- Flipkart Axis Bank Credit Card
+- Welcome benefits
+- ₹350 worth of activation benefits on your Flipkart Axis Bank Credit Card.
+- Cashback with every transaction
+- Earn 7.5% cashback on Myntra spends* capped at ₹4000 per statement quarter
+- Fuel surcharge waiver
+- Get 1% fuel surcharge waiver on fuel purchases at all fuel stations across India
+- Dining delights
+- Enjoy exceptional dining experiences at top restaurants across India
+- Convert purchases to EMI
+- Exciting EMI offers on Flipkart On any transaction over ₹2,500, contact the bank to convert a big credit card purchase into EMIs
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- The Flipkart Axis Bank Credit Card fees and charges are listed in the table below:
+- Description
+- Charges
+- Joining fee
+- ₹NIL (Limited period offer)
+- Annual Fee
+- 2nd year Onwards: ₹500
+- Annual fee waived off on annual spends greater than ₹3,50,000.
+- Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends counted in availing annual fee waiver.
+- Add-on card joining fee
+- Nil
+- Add-on card annual fee
+- Card replacement fee (w.e.f 10/10/20)
+- Cash payment fee
+- ₹175
+- Duplicate Statement fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Hotlisting charges
+- Balance enquiry charges
+- Finance charges (Retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Cash withdrawal fees
+- 2.5% (Min. ₹500) of the cash amount
+- Overdue Penalty or Late Payment Fees
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is
+- cleared.
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to min ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- Reward Redemption fee
+- No
+- Rent Transaction fee (Applicable from 5th March 2023)
+- 1% fee per transaction will be applicable on rental transactions
+- Dynamic Currency Conversion markup (Applicable from 5th March 2023)
+- 1.5% markup will be applicable on international transactions performed in Indian currency at international locations or transactions performed in Indian currency with merchants located in India but registered in foreign nation
+- Education Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Utility Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Wallet Load Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle
+- Online Skill Based Gaming Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on online skill based gaming platforms per statement cycle
+- For all above fees and charges, taxes as per Government norms shall be applicable
+- Eligibility for Flipkart Axis Bank Credit Card
+- Primary cardholder should be between the age of 18 and 70 years
+- The individual should be a Resident of India
+- *Please note that these criteria are only indicative and the bank reserves the ultimate right to approve or decline applications for Flipkart Axis Bank Credit Card.
+- Documentation for Flipkart Axis Bank Credit Card
+- PAN card photocopy or Form 60
+- Proof of income - Latest payslip / Form 16 / IT Return
+- Residence proof - Driving License / Electricity Bill / Landline Telephone Bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- Details
+- Annual Spends (₹)
+- Cashback(₹)
+- Discount/Benefits (₹)
+- Spends on Myntra
+- 1,00,000
+- 7,500
+- Spends on Flipkart and Cleartrip
+- 90,000
+- 4,500
+- Preferred merchant spends
+- 35,000
+- 1,400
+- Other Spends
+- 80,000
+- 800
+- Fuel Spends
+- 18,000
+- 180
+- Dining Spends
+- 40,000
+- 500
+- 6,000
+- 350
+- Annual Fee Waiver
+- Total Annual Spends
+- 3,63,000
+- 14,700
+- 7030
+- Total Annual Benefits*
+- 21,730
+- 6%
+- For card member agreement,
+- For terms & conditions,
+- *The Flipkart Axis Bank credit card is a multi-cobranding partner arrangement comprising of Flipkart, Myntra and Cleartrip
+- Flipkart voucher worth ₹250 on making the first transaction using your Flipkart Axis Bank
+- Credit Card within 30 days of card issuance. For terms and conditions
+- (not applicable for first year free offer)
+- Get 50% off upto ₹100 on Swiggy food orders for first time Swiggy users. Use code
+- "AXISFKNEW". For terms and conditions,
+- BookMyShow voucher worth ₹250 on making the first transaction using your Flipkart Axis
+- Bank Credit Card within 30 days of card issuance. Limited Period Offer w.e.f Feb 1st 2026. For
+- terms and conditions
+- Only paid cards with Joining Fee and Annual Fee are eligible for the welcome benefit of Flipkart Voucher worth INR 250. First-Year Free cards (with no Joining Fee) are not eligible for this voucher.
+- All cards (paid and first-year free) are eligible for the Swiggy welcome benefit of 50% off
+- upto ₹100 on Swiggy food orders
+- Earn 7.5% cashback on Myntra spends* capped at INR 4000 per statement quarter
+- Earn 5% cashback on Flipkart and Cleartrip spends* capped at ₹4000 per statement quarter per merchant
+- Earn unlimited 4% cashback on Preferred Merchants.
+- for a list of Preferred Merchants
+- Earn unlimited 1% cashback on other eligible categories*
+- Cashback will be directly credited in your credit card statement
+- For terms & conditions for preferred partners,
+- Valid on transactions between ₹400 and ₹4000 only; maximum benefits up to ₹400* per statement cycle
+- GST charged on fuel surcharge is non-refundable
+- No cashback is earned on fuel transactions
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program. Click
+- for more details and full terms & conditions.
+- Exciting EMI offers on Flipkart
+- On any transaction over ₹2,500, contact the bank to convert a big credit card purchase into EMIs
+- To know more, please
+- For EMI transactions made using FLIPKART AXIS BANK Credit Card which have later been cancelled at merchant site, customer must also cancel the EMI by calling our Phone Banking team on 1800 103 5577 (toll-free) before the first EMI is debited, to avoid an excess reversal of cashback.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- The terms and conditions of Flipkart Axis Bank Credit Card will be updated w.e.f. 20th June, 2025. Please
+- to know more.
+- INDIANOIL AXIS BANK Credit Card
+- Now seamlessly pay with UPI using your credit card
+- Earn up to 1,250
+- EDGE REWARD
+- Points
+- on first fuel transaction
+- 4% value back on fuel spends at IndianOil outlets
+- Food & Dining
+- Axis Bank Select Credit Card
+- Get 10,000
+- worth ₹2,000 on the activation of the card within 30 days of issuance (not applicable for free cards)
+- Get ₹500 off on a minimum transaction of ₹2,500 on Big Basket app/website, through Select credit card, valid once a month
+- Get ₹200 off on a minimum transaction of ₹1000 on Swiggy, valid twice a month
+- ₹3000
+- (NIL for Burgundy Customers)
+- Travel
+- AXIS BANK PRIVILEGE Credit Card
+- 12,500
+- redeemable against vouchers worth ₹2,500 upon levy of joining fees*
+- Get additional 10,000
+- on spends of ₹2.5 lakhs
+- Buy one get one offer on movie tickets booked via District app. Up to ₹250 off, valid once a month
+- ₹1500
+
+## IndianOil Axis Bank Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+
+**Source note:** This supplied link is the same official URL already extracted above for **IndianOil Axis Bank Credit Card**. To avoid repeating information, the full write-up is not duplicated. No alternate card details were added because no different official Axis Bank URL was supplied for this entry.
+
+## Axis Bank My Zone Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** My Zone Credit Card - Apply Online for Rewards & Shopping Offers \| Axis Bank  
+**Official meta description:** Apply for Axis Bank My Zone Credit Card online and enjoy exciting rewards, dining offers, shopping benefits and exclusive lifestyle privileges on everyday spends.  
+
+### Official extracted card text
+
+- Axis Bank My Zone Credit Card
+- My Zone Credit Card
+- Buy One Get One Free on movie tickets
+- Enjoy 100% discount on your second movie ticket booked via District app using your MY ZONE Credit Card
+- Complimentary Sony LIV Premium annual subscription
+- Receive a SonyLIV premium annual subscription valued at ₹1499 for free
+- Instant discount on Swiggy
+- Flat ₹120 off on food delivery at Swiggy with your My Zone Credit Card
+- Enjoy complimentary lounge access
+- Benefit from one complimentary access per calendar quarter to select airport lounges in India with your Axis Bank My Zone Credit Card.
+- Earn EDGE REWARDS
+- Earn four EDGE REWARD points for every ₹200 spent using your
+- credit card.
+- Rewards on achieving milestone spends
+- You will be eligible to earn 1,000 EDGE REWARD Points on achieving annual spends of ₹1.5 lakhs in your card anniversary year
+- Fuel up and get a waiver on surcharge
+- 1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank MY Zone Credit Card
+- Spend securely
+- Enhance your security with an EMV certified chip credit card, designed to minimize the risk of counterfeit and
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- Convert purchases to EMI
+- For any transactions exceeding ₹1,500, contact the bank to convert your large credit card purchases into manageable EMIs.
+- The fees and charges for My Zone Credit Card are applicable to all card holders. The My Zone Credit Card fees include cash payment fee, joining fee and an annual fee.
+- Description
+- Charges
+- Joining fee
+- ₹500
+- Annual Fee
+- Add-on Card Joining Fee
+- Nil
+- Add-on Card Annual Fee
+- Card Replacement Fee
+- Cash Payment Fee
+- ₹175
+- Duplicate Statement Fee
+- Waived
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Mobile Alerts for Transactions
+- Free
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Finance Charges (Retail Purchases & Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹500) of the cash amount
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹
+- 5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is
+- greater
+- than ₹10,000
+- An additional charge of ₹100 will be levied on missing payment of MAD by the due date for two consecutive cycles. This charge will continue to be levied for every payment cycle until the MAD is cleared
+- Over Limit Penalty
+- 2% of the payment amount subject to minimum of ₹500
+- Cheque Return or Dishonour Fee or Auto-debit Reversal
+- Surcharge on Purchase or Cancellation of Railway Tickets
+- As prescribed by IRCTC / Indian Railways
+- Fuel Transaction Surcharge Transaction
+- 1% of transaction amount (Refunded for fuel transactions between ₹400 to ₹4,000. Maximum benefits up to
+- ₹400 per month)
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- Reward Point Redemption fee
+- yes
+- As per existing Government norms
+- Rent Transaction fee
+- 1% of transaction amount. GST applicable as notified by Government of India
+- Dynamic Currency Conversion MarkUp
+- 1.5% Of Transaction Amount Applicable On International Transactions Performed In Indian Currency At International Location Or Transactions Performed In Indian Currency With Merchants Located In India But Registered In Foreign Nation. GST applicable as notified by Government of India
+- Education Transaction Fee
+- 1% on each education payments done through third party apps. GST applicable as notified by Government of India
+- Wallet Load Transaction Fee
+- 1% on cumulative wallet load transactions of ₹10,000 or more in a statement cycle. GST applicable as notified by Government of India
+- Fuel Transaction Fee
+- 1% on cumulative fuel transactions of ₹50,000 or more in a statement cycle. GST applicable as notified by Government of India
+- Utility Transaction Fee
+- 1% on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period. GST applicable as notified by Government of India
+- Online skill-based gaming Transaction Fee
+- 1% on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period. GST applicable as notified by Government of India
+- Eigibility for MY ZONE Credit Card
+- Primary cardholder should be between 18 to 70 years of age
+- Applicant should be a Resident of India or Non-Resident Indian
+- These criteria are only indicative and the bank reserves the right to approve or decline applications for credit cards.
+- Documentation for MY ZONE Credit Card
+- PAN card photocopy or Form 60
+- Proof of income - Latest payslip / Form 16 / IT return copy as income proof
+- Residence proof - Passport / Ration Card/ Electricity bill / Landline telephone bill
+- *This list is only indicative. Documents required may vary on a case-to-case basis.
+- Enjoy a 100% discount on your second movie ticket at District when using your MY ZONE Credit Card.
+- Get up to ₹200 off per month.
+- Remember to apply the coupon code AXIS200 to receive this discount.
+- Note: No reward points are earned on movie transactions.
+- Receive a SonyLIV premium annual subscription valued at ₹1499 for free with your first purchase within first 30 days of issuance.
+- Customers eligible for promotional offers will receive their voucher code via SMS to their registered mobile number within 45 days following the issuance of the card.
+- Customers are eligible for SonyLIV Premium membership renewal on spending ₹1.5 lakhs* in a card anniversary year. Offer is applicable only on paid cards. Spends threshold will not include Rent and Wallet transactions. Applicable to customers onboarded before 31st March, 2025.
+- Voucher codes for promotional offers will also be sent via SMS to eligible customers within 60 days after the payment of the annual fees.
+- Use coupon code AXIS120 to avail the discount.
+- Maximum discount is capped at ₹120 per order.
+- Offer applicable on minimum spends of ₹500.
+- Customer can redeem the code upto 2 times a month per user ID on Swiggy.
+- This offer shall be valid on all restaurant orders where alliance offers are applicable.
+- Alliance offers include all third party offers including Bank/Wallet/Fintech partner offers.
+- Offer not applicable on Haldiram's Restaurants across India.
+- Benefit unlocked on spends of ₹50,000 in previous 3 months.
+- For more details and terms and condition for Visa lounges, please
+- For more details and terms and condition for Visa lounges
+- and for MasterCard lounges,
+- click here.
+- Earn four
+- EDGE REWARD
+- points for every ₹200 spent using your
+- For redemption options, please refer to the EDGE REWARDS Catalogue available on the official website.
+- No reward points will be credited for Movie, Fuel, Insurance, Wallet, Rent, Utilities, Jewellery, Education, Government Institutions and EMI transactions.
+- Shopping Discount at AJIO
+- Save up to ₹1,000 at AJIO on minimum purchases of ₹2,999 using the coupon code AJIOAXISMZ, valid from 1st May, 2023. This offer is applicable on select styles. Click
+- for detailed terms and conditions.
+- Get a fuel surcharge refund for transactions at all fuel stations across India when using your MY ZONE Credit Card. This offer is valid for transactions between ₹400 and ₹4,000, with a maximum benefit of up to ₹400 per
+- statement cycle.
+- GST charged on fuel surcharge is non-refundable.
+- Applicable on CC on UPI transactions as well.
+- Enhance your security with an EMV certified chip credit card, designed to minimize the risk of counterfeit and skimming fraud.
+- All credit cards come with chip and PIN protection, providing unmatched security.
+- for more details and full terms & conditions.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off up to ₹1000 on Tira
+- Please
+- to avail the offers.
+- You will be eligible to earn 1,000 EDGE REWARD Points on achieving annual spends of ₹1.5 lakhs in your card anniversary year. Applicable to customers onboarded from 1st April, 2025.
+- Spends will be evaluated 60 days after your card anniversary date to ensure any reversals or cancellations are excluded.
+- Eligible customers will be automatically credited with 1,000 EDGE REWARD Points within 90 days of achieving Milestone.
+- Spends on Movie, Fuel, Insurance, Utility, Rent, Wallet, Jewelry, Education, Government Institutions will be excluded from the calculation.
+- To know more,
+- The value chart for MYZONE Credit Card lists the cashback and points earned based on your transactions. You can avail benefits worth upto ₹12,999 using your MYZONE Credit Card annually.
+- Details
+- Monthly Benefit (₹)
+- Annual Benefit (₹)
+- Sony Liv Activation Benefit
+- 1,499
+- Movie spends at District
+- 200
+- 2,400
+- Food ordering at Swiggy
+- 240
+- 2,880
+- Fuel Spends
+- 30
+- 360
+- Domestic Airport Lounge Access
+- 2,000
+- EDGE Rewards
+- 600
+- Total Benefits (Year1)
+- Upto 9739
+- Total Benefit (Year2 onwards)
+- Upto 13,499
+- Annual benefits as a percentage of spends*
+- 6.7%
+- Applicable for first year only
+- Applicable once per card
+- Assuming fuel spends of ₹3000 monthly
+- If used twice in a year
+- # Calculations assuming ₹1,50,000 yearly spends on eligible MCC categories
+- *For illustrative purposes only
+- The terms and conditions of Myzone Credit Card will be updated w.e.f. 20th June,2025. Please click
+- The terms and conditions of MyZone credit card will be updated from 15th Aug, 2025
+
+## Axis Bank Ace Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** ACE Credit Card: 5% Cashback on Bills, Lounge Access & Dining Offers \| Axis Bank  
+**Official meta description:** Get Axis Bank ACE Credit Card & earn 5% cashback on utility bill payments, up to 15% off at dining restaurants across India, 4 complimentary lounge visits & 1% fuel surcharge waiver. Apply now.  
+
+### Official extracted card text
+
+- Axis Bank ACE Credit Card
+- Cashback on all transactions*
+- Complimentary lounge access
+- Fuel surcharge waiver
+- Dining delights
+- ACE Credit Card
+- Welcome to the world of cashback! This card becomes your everyday companion with accelerated cashback on all your spends.
+- Cashback on every spend*
+- 5% cashback* on Utility bill payments (electricity, internet, gas, and more) &DTH and mobile recharges on google pay
+- Lounge access
+- Enjoy 4 complimentary lounge visits per calendar year at select domestic airports with your ACE credit card. For list of airports and detailed terms and conditions,
+- 1% fuel surcharge waiver on fuel purchases at all fuel stations across India
+- Valid on transactions between ₹400 to ₹4000; Maximum benefit of up to ₹500 per statement
+- Indulge in delectable cuisines and enjoy up to 15% off at 4000+ partner restaurants in India.
+- for more details
+- Disclaimer:
+- These are portfolio offers and are subject to change.
+- Convert purchases to EMI
+- No matter how big your next credit card purchase, go right ahead. Just contact us and convert your transaction of ₹2,500 or more into EMI. To know more,
+- 4% cashback* on swiggy, zomato & ola
+- 1.5% cashback* on all other spends
+- For terms and conditions,
+- GST charged on fuel surcharge won't be refundable
+- No cashback is earned on fuel transactions
+- Description
+- Charges
+- Joining Fee
+- ₹499
+- 0 (for select channels - limited time offer)
+- Annual Fee
+- Annual Fee: ₹499 2nd year onward
+- nd
+- year onward: Annual fee waived off on annual spends greater than ₹2,00,000/- {Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends counted in availing annual fee waiver}
+- Card Replacement fee
+- Nil
+- Cash Payment fee
+- ₹175
+- Duplicate Statement Fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Balance enquiry charges
+- Finance charges (retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Cash withdrawal Fee
+- 2.5% (min. ₹500) of the cash amount
+- Overdue penalty or Late payment fees
+- Nil if total payment due is upto ₹500
+- ₹500 if total payment due is between ₹501 - ₹5000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is ₹10,001 and above
+- Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- Reward redemption fee
+- No
+- Rent transaction fee (applicable from 5th March 2023)
+- 1% fee per transaction will be applicable on rental transactions. GST will be applicable.
+- Dynamic currency conversion markup
+- 1.5% will be applicable on each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation.
+- Education transaction fee (applicable from 20th Dec, 2024)
+- 1% fee per transaction will be applicable on education payments made via third party apps.
+- Utility transaction fee (applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Wallet load transaction fee (applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel transaction fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle
+- Online skill based gaming transaction fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on online skill based gaming platforms per statement cycle
+- For all above fees and charges, taxes as per government norms shall be applicable
+- Eligibility for ACE Credit Card
+- Please note that these criteria are only indicative and the bank reserves the ultimate right to approve or decline applications for ACE credit Card.
+- Primary cardholder should be between the age of 18 and 70 years.
+- The individual should be a resident of India.
+- Documentation for ACE Credit Card
+- Unless there are case variations, the required documents for Axis Bank ACE Credit Card application include a copy of your PAN card or Form 60, residence proof, identity proof, a colour photograph and proof of income in the form of latest payslip / Form 16 / IT return copy.
+- Keep your documents for ACE Credit Card ready
+- The following documents are required:
+- PAN card photocopy
+- Colour photograph
+- Latest payslip/Bank statement/Form 16/IT return copy as proof of income
+- Residence proof (any one of the following):
+- Passport
+- Driving license
+- Voter ID card
+- Aadhaar card
+- Identity proof (any one of the following):
+- PAN card
+- Please note that this list is only indicative. Documents required may vary on a case-to-case basis.
+- Details
+- Annual Spends (₹)
+- Cashback (₹)
+- Discount/Benefits (₹)
+- Utility bill pay & recharge on google pay (5%)
+- 1,50,000 (min. ₹12,500 per month)
+- 6,000
+- Online food delivery (swiggy & zomato) (4%)
+- Ride sharing (Ola) (4%)
+- Other spends (1.5%)
+- 66,000
+- 990
+- Lounge visits (4 per year)
+- 4,000
+- Fuel spends (1% surcharge waiver)
+- 24,000
+- 240
+- Dining spends (up to 15% off upto ₹500 monthly)
+- 40,000
+- 600 (1.5% CB)
+- Joining fee reversal
+- Annual fee waiver
+- Total annual spends
+- 2,80,000
+- 7,590
+- 11,238
+- Total annual benefits
+- 18,828 (~6.72%)
+- *Please note that above figures are indicative
+- The terms and Conditions of Axis Bank Ace Credit Card have been updated with effect from 20th June 2025. Please
+- to know more.
+- A Credit Card for
+- smart spending starts here
+
+## Rewards Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/rewards-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+
+**Source note:** This supplied link is the same official URL already extracted above for **Rewards Credit Card**. To avoid repeating information, the full write-up is not duplicated. No alternate card details were added because no different official Axis Bank URL was supplied for this entry.
+
+## Airtel Axis Bank Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Airtel Axis Bank Credit Card - Cashback Offers on Airtel Products \| Axis Bank  
+**Official meta description:** Airtel Axis Bank Credit Card provides you with cashback and rewards on mobile, internet, DTH, and utility bill payments, grocery & food shopping, etc. Apply online now!  
+
+### Official extracted card text
+
+- Airtel Axis Bank Credit Card
+- Welcome benefits
+- World of cashback options
+- Fuel surcharge waiver
+- Open a gateway to a world of privileges and benefits with your Airtel Axis Bank Credit Card. This card is designed to connect you to exclusive offers and other added delights. It comes with a world of cashback options and welcome benefits.
+- Some of the features and Terms and conditions on Airtel Axis Bank Credit Card will be revised w.e.f. 12th Apr'26. For more details,
+- Welcome benefit
+- Get amazon eVoucher worth ₹250 on first transaction made within first 30 days of card issuance.
+- Cashback/Benefits
+- 25% cashback* on Airtel Mobile, Broadband, WiFi and DTH bill payments via Airtel Thanks App (Max cap p.m is twice the base cashback earned during the same statement month)
+- Complimentary lounge access
+- Enjoy 4 complimentary lounge visits to select airport lounges within India per calendar year with your Airtel Axis Bank Credit Card
+- 1% fuel surcharge waiver on fuel purchases at all fuel stations across India
+- Dining delights
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program
+- Convert purchases to EMI
+- No matter how big your credit card purchase, go right ahead. Just contact us and convert your transaction of ₹1,500 or more into easy EMI.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every wednesday
+- (offer not applicable for cards issued without Joining fee)
+- Please
+- for terms and conditions.
+- 10% cashback* on utility bill payments such as gas, electricity, etc., via Airtel Thanks App (Max cap p.m is the base cashback earned during the same statement month)
+- 1% cashback/base cashback on all other spends *Cashback not applicable on excluded MCC categories.
+- 10% value back* on Zomato, Blinkit and District Movies. (Max value back of ₹200 per partner per month, Mov of ₹499 applicable for Zomato and Blinkit)
+- Cashback will directly be credited in your credit card statement
+- Valid on transactions between ₹400 to ₹4000; Maximum benefit up to ₹500 per statement
+- GST charged on fuel surcharge won't be refundable
+- No cashback is earned on fuel transactions
+- for more details and full terms & conditions.
+- Enjoy 4 complimentary lounge visits to select airport lounges within India per calendar year with your Airtel Axis Bank Credit Card on minimum spends of ₹50,000 in previous 3 months*
+- for a list of associated airports and terms and conditions.
+- to know more about converting purchases to EMI.
+- Instant savings of up to 15% on flights & hotels via Goibibo and MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- Stay informed about the fees and charges on your Credit Card to manage your finances better and make confident spending decisions
+- Description
+- Charges
+- Joining fee - primary card
+- ₹NIL (Limited Period offer*)
+- *Not valid for existing Axis Bank Credit Card customers
+- Joining fee - Add-on Card
+- Waived
+- Annual fee - Primary Card
+- Annual Fee: ₹500 2nd year onward
+- annual fee waived off on annual spends greater than ₹
+- 2,00,000/- {rent transactions ( MCC 6513 ) and wallet load
+- transactions ( MCC 6540 ) will not be eligible for spends
+- counted in availing annual fee waiver}
+- Annual fee - add-on card
+- Card replacement fee - primary card
+- Nil
+- Card replacement fee - Add-on Card
+- ₹100/-
+- Cash payment fee
+- ₹175/-
+- Duplicate statement Fee
+- Charge slip retrieval fee or copy request fee
+- Mini statement SMS
+- Outstation cheque fee
+- Transaction alert SMS
+- Free
+- Balance enquiry charges
+- Finance charges (retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Late payment fees
+- Nil if total payment due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- Additional ₹100 on missing payment of minimum amount due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Cash Withdrawal Fee
+- Min. ₹500 up to 2.5% of the cash withdrawal amount
+- Over limit Fees
+- Min. ₹500 up to 2.5% of the over limit amount
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500
+- Foreign currency transaction fee
+- 3.50% of the transaction value
+- Reward dedemption fee
+- No
+- Rent Transaction fee
+- 1% fee per transaction will be applicable on rental transactions. GST will be applicable as notified by
+- Dynamic Currency Conversion markup
+- 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation.
+- Wallet load transaction fee
+- (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable for cumulative spends of ₹10,000 or more for wallet loads per statement cycle
+- Fuel Transaction fee
+- 1% fee will be applicable for cumulative spends of ₹50,000 or more on per statement cycle.
+- Education Transaction fee
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Utility Transaction fee
+- 1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Online skill-based gaming fee
+- 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms per statement cycle
+- For all above fees and charges, taxes as per Government norms shall be applicable
+- Eligibility for Airtel Axis Bank Credit Card:
+- Primary cardholder should be between the age of 18 and 70 years
+- The individual should be a resident of India
+- *Please note that these criteria are only indicative and the bank reserves the ultimate right to approve or decline applications for Airtel Axis Bank Credit Card.
+- Documents for Airtel Axis Bank Credit Card:
+- Unless there are case variations, the required documents for Airtel Axis Bank Credit Card application include a copy of your PAN card or Form 60, residence proof, identity proof, a colour photograph and proof of income in the form of latest payslip / Form 16 / IT return copy.
+- Keep your documents for Airtel Axis Credit Card ready
+- The following documents are required:
+- PAN card photocopy
+- Colour photograph
+- Latest payslip/bank statement/Form 16/IT return copy as proof of income
+- Residence proof (any one of the following):
+- Passport
+- Driving license
+- Voter ID card
+- Aadhaar card
+- Identity proof (any one of the following):
+- PAN card
+- Please note that this list is only indicative. Documents required may vary on a case-to-case basis.
+- Assuming INR 3 Lakh annual spends (effective 12th Apr'26)
+- Category
+- Benefit
+- Annual spends
+- Benefits in ₹
+- Activation benefit
+- 250
+- Airtel billpay & recharge
+- 25%
+- 20,000
+- 3,800
+- Utility bill payments via Airtel Thanks app
+- 10%
+- 1,900
+- Value back at Preferred Partner (Zomato, Blinkit & District Movies)
+- 60,000
+- 6000
+- 1%
+- 10,000
+- Other spends
+- 1,90,000
+- 1900
+- Total annual benefits
+- ₹13,950 (~4.65%)
+- *Please note that above figures are indicative
+- The terms and conditions of Airtel Axis Bank Credit Card will be updated w.e.f. 20th April, 2024. Please
+- How to Apply - Airtel Axis Bank Credit Card
+- To apply for this card, please visit Airtel Thanks app
+
+## Axis Horizon Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-horizon-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Axis Horizon Travel Credit Card Online \| Axis Bank  
+**Official meta description:** Get the Axis Horizon Credit Card & enjoy benefits like complimentary lounge access, insurance cover, exciting rewards & more. Apply for the Horizon Travel Credit Card now!  
+
+### Official extracted card text
+
+- Axis HORIZON Credit Card
+- HORIZON Credit Card
+- Welcome Benefits
+- 5000 EDGE Miles credited on the first transaction greater than or equal to ₹1000 within
+- Renewal Benefits
+- 1500 EDGE Miles worth ₹1,500 on completion of anniversary year
+- Accelerated Rewards
+- 5 EDGE Miles on every ₹100 spent on Axis Bank Travel EDGE portal and direct airline websites.
+- Base Rewards
+- 2 EDGE Miles per ₹100 on all other spends
+- Lounge Access
+- 2 International airport lounge access per calendar quarter
+- Fuel Surcharge Waiver
+- 1% Surcharge waiver for fuel transaction between ₹400 - ₹5000​ (max. capping of ₹400 per statement month)
+- Insurance Cover
+- Lost card liability cover of ₹10 Lakh
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- 5000 EDGE Miles credited on the first transaction greater than or equal to ₹1000 within 30 days of the card issuance date
+- For terms & conditions,
+- 8 Complimentary domestic airport lounge visits per calendar quarter (VISA) and 6 complimentary visits per calendar quarter (Mastercard)
+- GST charged on fuel surcharge is non-refundable
+- for more details and full terms & conditions.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- Description
+- Charges
+- Joining fee
+- ₹3000+GST for Primary
+- No fee for Add-on
+- Annual Fee
+- Cash advance fee
+- 2.5% of Transaction amount (Minimum ₹ 500)
+- Late payment charges
+- Nil if outstanding amount is less than ₹ 500
+- ₹ 500 if Outstanding amount is between ₹ 501 and ₹ 5000
+- ₹ 750 if outstanding amount is between ₹ 5001 and ₹ 10000
+- ₹ 1200 if outstanding amount is greater than ₹ 10000
+- Additional ₹ 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared
+- Over limit charge
+- 2.5% (Minimum ₹500) of Overlimit amount
+- Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge)
+- 2% of the payment amount subject to Min. ₹500
+- Railway ticket booking surcharge
+- As prescribed by IRCTC / Indian Railways
+- Fuel Surcharge
+- 1% fuel surcharge waiver on all fuel transactions between ₹ 400 to ₹ 5000, with a max cap of ₹ 400 on wavier in the statement month
+- Statement Request (beyond 3 months)
+- NIL
+- Reissue of lost, stolen or damaged card
+- Foreign currency transactions
+- 3.50% of Transaction value on International Non DCC Transactions
+- Cash deposit at branches
+- ₹175 per deposit
+- Finance Charges - Interest
+- 3.75% (55.55% annual)
+- Rent Surcharge
+- 1% will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India.
+- DCC Markup
+- 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation.
+- 1& 2
+- Wallet load transaction fee
+- 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel transaction fee
+- 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle
+- Education transaction fee
+- 1% fee on education payments made via third party apps
+- Utility transaction fee
+- 1% fee on cumulative spends of ₹ 25,000 or more on utilities per statement cycle
+- Online skill-based gaming transaction fee
+- 1% fee on cumulative spends of ₹ 10,000 or more on online skill-based gaming platforms in a statement cycle
+- International cash withdrawal amount billed post conversion to INR via DCC viz dynamic currency conversion (i.e., a service offered at certain international ATMs which allows a Card Member to convert a transaction denominated in a foreign currency to local currency i.e., Indian Rupees at the point of withdrawal/sale) may include any fees / charges levied by the ATM acquiring bank or ATM service provider.
+- For international transactions in US Dollars, 3.5% mark-up on the INR equivalent of the US Dollars, at the conversion rates published by the card networks. For international transactions effected in currencies other than the US Dollar, the transaction would first be converted into US Dollars, at the conversion rates published by the card networks.
+- Eligibility for HORIZON Credit Card
+- Primary Cardholder should be 18-70 years of age
+- The individual should either be a Resident of India
+- *The above criteria are only indicative, and the bank reserves the ultimate right to approve or decline applications for the
+- HORIZON
+- Credit Card.
+- Documentation for HORIZON Credit Card
+- PAN Card photocopy / Colour photograph
+- Proof of income
+- Latest payslip / Form 16 / IT return / Form 60
+- Residence proof
+- Driving License / Electricity Bill / Landline Telephone Bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- Benefits on HORIZON Credit Card
+- Annual Spends(₹)
+- Annual Benefits(₹)
+- Spend per card
+- 8,00,000
+- Accelerated
+- EDGE REWARD
+- Points (5 EDGE Miles for every ₹100 spent. 1
+- Mile = ₹1)
+- 1,60,000
+- 8000
+- Base
+- Points (2
+- Miles for every ₹100 spent. 1
+- 4,00,000
+- Spends on- 'No Earn categories'
+- 2,10,000
+- Welcome Benefits 5000
+- Miles*
+- 100
+- 5000
+- Domestic Lounge Access **
+- 19,200
+- International Lounge Access ***
+- 16,200
+- 30,000
+- 200
+- Total Benefits on HORIZON Credit Card is more than ₹58,200
+- This is for illustrative purpose only
+- * Only applicable for the first year
+- ** Considering customers utilize 6 visits per calendar quarter, 24 visits annually
+- *** Considering customers utilize 2 visits per calendar quarter, 8 visits annually
+- # 1% fuel surcharge waived off for transactions between ₹400- ₹5000. This is capped at ₹400 per statement
+- The Terms & Conditions of Axis Horizon Credit Card w.e.f. 20th June, 25. Please
+- to know more.
+
+## Axis Bank Select Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Axis Bank SELECT Credit Card- Apply Online \| Axis Bank  
+**Official meta description:** Axis Bank SELECT Credit Card is designed for lifestyle benefits including discounts on food and groceries and golf passes. Apply online for credit card at Axis Bank!  
+
+### Official extracted card text
+
+- Axis Bank Select Credit Card
+- Minimum Investment of ₹500
+- Flexible Tenure
+- Save Regularly
+- Axis EDGE Rewards
+- The Terms & Conditions of Axis Bank Select Credit Card will be updated w.e.f. 20th June, 2025. Please click
+- to know more.
+- Welcome Benefits
+- Get 10,000
+- EDGE REWARD
+- Points worth ₹2000 on your first card transaction (Not applicable for
+- life time free credit card
+- / burgundy account holders)
+- Buy one get one offer on movie tickets
+- Enjoy 100% discount on your second movie ticket booked via District app using your Select credit card.
+- BigBasket Offers
+- Flat ₹500 off p.m. on minimum purchase of ₹2500 on BigBasket mobile app/ website
+- Discount offers on Swiggy
+- Flat ₹200 off on Swiggy mobile app/website
+- Airport Lounge Access
+- Get up to 12 complimentary international airport lounge access
+- Annual benefits
+- Priority Pass membership renewal on annual spending of ₹3 lakh.
+- Milestone benefits
+- 5000
+- points on spending ₹3 lakhs in a card anniversary year.
+- Rewards on every transaction
+- Earn 10 Axis
+- points on every ₹200 spent*.
+- Golf Access
+- Enjoy 6 complimentary Golf rounds per year.
+- Extraordinary Weekends
+- Explore curated experiences designed exclusively for our premium customers.
+- Fuel surcharge waiver
+- Get a 1% fuel surcharge refund on fuel purchases at all fuel stations across India.
+- Comprehensive insurance cover
+- Keep yourself, your family and your assets safe with
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- First transaction to be done within 30 days of card issuance
+- The points will be credited in your
+- account within T+15 business day where "T" is the transaction date
+- The offer is applicable once per month per user
+- Offer is applicable on transactions done through Select Credit Card.
+- The voucher code for the offer is AXISSELECTCC
+- Use code "
+- AXIS200
+- " at the time out checkout
+- Valid twice a month on minimum transaction of ₹1000 per order.
+- Offer valid on transactions done through Select Credit Card
+- Get up to 12 complimentary international airport lounge access through Priority Pass membership.
+- here for the terms and conditions for Priority Pass membership.
+- Enjoy 2 complimentary domestic lounge visits per quarter on spending ₹50,000 in the last 3 months.
+- for terms & conditions regarding the domestic lounge.
+- Priority Pass will renew automatically upon meeting ₹3 Lakhs Spends in preceding card anniversary year.
+- Priority Pass membership renewal on annual spend of ₹3 lakh.
+- Renewal of offers on: BigBasket and Swiggy
+- Complete annual fee waiver on spending of ₹8 lakhs in a card anniversary year.
+- Spends threshold for 5000 EDGE points and Annual fee waiver will exclude Insurance, rent, fuel, educational services, utilities & telecom, government services, wallet & Gold.
+- Earn 2X per ₹200 on 'Retail Shopping*' spends.
+- Spends* done on Insurance, rent, fuel, eduactional services, utilities & telecom, wallet, Gold/Jewellwey, government services will not be eligible for earning
+- points.
+- Earn 2X
+- Points upto cumulative transactions of ₹20,000 per month. For transaction above ₹20,000 per month earn 10
+- **Retail shopping will include spends across : Dept Stores, Grocery Stores, Clothing and Accessory Stores, Women's Wear Stores, Children's Wear Stores, Family Clothing Stores, Misc Apparel and Accessory Stores.
+- EDGE REWARD Points will be debited for credit card transactions which are converted to EMI. On cancellation of the EMI transaction, points shall not be credited back for the original transaction.
+- For options to redeem points, refer to
+- catalogue.
+- Unlock additional 6 complimentary golf rounds wihin the same anniversary year on achieving the spends of ₹3 Lakhs in that anniversary year, the validity for the same will be current anniversary year.
+- www.extraordinaryweekends.com
+- and register for your complimentary golf rounds/lessons.
+- for the terms & conditions regarding Golf Access.
+- or contact the concierge at
+- 1800 103 4962
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- for more details and full terms & conditions.
+- Valid on transactions between ₹400 and ₹4,000 only. You get maximum benefits of up to ₹400 per statement cycle.
+- Service tax charged on fuel surcharge is non-refundable.
+- No reward points are earned on fuel transactions.
+- The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹10 + GST instead of 1% + GST.
+- Purchase protection of up to ₹1 lakh
+- Cumulative cover upto $500 for the following:
+- Loss of travel documents
+- Delay of Check-in baggage
+- Loss of check-in baggage cover
+- Terms and conditions apply.
+- for more detailed cover and claim procedure for more detailed cover and claim procedure.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- Get up to ₹250 off, twice per month
+- Apply the code AXISSELECT to get this discount
+- This offer will be valid wef 20th June 2025
+- The Axis Bank SELECT Credit Card fees are listed in the table below.
+- Description
+- Charges
+- Standard Joining Fee
+- ₹3000 (NIL for Burgundy)
+- Standard Annual Fee (2nd year onwards)
+- Standard Add-on Card Joining Fee
+- Nil
+- Standard Add-on Card Annual Fee
+- Finance Charges (Retail Purchases & Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹ 500) of cash Amount
+- Fee for Cash Payment
+- ₹175
+- Card Replacement
+- Duplicate Statement Fee
+- Waived
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is up to ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared.
+- Over Limit Penalty
+- 2.5% of the overlimit amount (Min. ₹500)
+- Chargeslip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹ 500
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Fuel Transaction Surcharge
+- 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- Rent Surcharge Fee*
+- 1% of the rental transaction amount plus taxes
+- Dynamic Currency Conversion markup fee**
+- 1.5% of each international transaction plus taxes
+- Mobile Alerts for Transactions
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Reward Redemption fee
+- Rs. 99
+- Wallet load transaction fee
+- 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel transaction fee
+- 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle
+- Education transaction fee
+- 1% fee on education payments made via third party apps
+- Utility transaction fee
+- 1% fee on cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Online skill-based gaming transaction fee
+- 1% fee on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle
+- GST, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India.
+- Please note: Axis Bank Select Credit card is complimentary exclusively for Burgundy Customers. In the event of discontinuation of Burgundy status, an annual fee of ₹3000 + G.S.T will be applicable.
+- *A rent surcharge fee of 1% will be applicable on each rental transaction done on Axis Bank credit card. GST will be applicable as notified by Government of India. The Rent transactions
+- will be identified through Merchant Category Code 6513. The revision is effective from 20-12-24.
+- **A Dynamic Currency Conversion (DCC) markup fee of 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian
+- currency with merchants located in Indian but registered in foreign nation. DCC markup fee will not be applicable on Burgundy Private Credit Card. The revision is effective from 20-12-24.
+- Eligibility for Axis Bank Select Credit Card
+- You should be between 18 and 70 years of age to apply as the primary cardholder.
+- You must be a resident of India
+- Your net income should be a minimum of ₹6 lakhs per annum.
+- *The above criteria are only indicative. The bank reserves the right to approve or decline applications for credit card.
+- Documentation for Axis Bank Select Credit Card
+- PAN Card photocopy
+- Proof of income
+- Latest payslip / Form 16 / IT Return
+- Residence proof
+- Driving License / Electricity Bill / Landline Telephone Bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- The Terms & Conditions of Axis Bank Select Credit Card have been updated w.e.f. 20th June,25. Please
+
+## Cashback Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/cashback-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Cashback Credit Card in India \| Axis Bank  
+**Official meta description:** Cashback credit card: Apply for a credit card with cash back & enjoy upto 7% cashback on online spends, welcome benefit and annual fee waiver worth Rs.1000 each! Get your Axis Bank Cashback Credit Cards now!  
+
+### Official extracted card text
+
+- Cashback Credit Card
+- Axis Bank Cashback Credit Card
+- Welcome Benefits
+- Enjoy EDGE Reward points worth ₹1000 upon first transaction within 30 days of card issuance.
+- Higher Cashback on Online Spends
+- Enjoy up to 7% cashback on online spends. Spend more to unlock higher cashback
+- Earn up to ₹4,000 per statement month
+- Base Cashback on Offline & Travel Spends
+- Receive unlimited base cashback of 0.75% on all offline & travel related spends
+- Bonus Cashback on Utilities & Bill Payments
+- Get 0.5% cashback up to ₹100 on utilities bill payments
+- Spend Based Waiver
+- Spend ₹4,00,000 and above in an anniversary year to be eligible for annual fee waiver
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- Automatic cashback redemption
+- Cashback credited before next statement with no minimum amount requirement
+- For terms and conditions,
+- Your monthly net spends are split into below brackets:
+- Earn 2% cashback for spends up to ₹5000,
+- Earn 5% cashback for spends > ₹5,000 &
+- Earn 7% cashback on spends > ₹40,000
+- Example- For monthly net spends of ₹70,000, 2% cashback will apply on 5,000, 5% cashback on 35,000 and 7% cashback on 30,000
+- for more details and full terms & conditions.
+- Eligibility Criteria for the Axis Bank Cashback Credit Card
+- Primary cardholders should be between the age of 18 and 70 years.
+- The individual should be a resident of India.
+- *The above criteria are only indicative. The bank reserves the right to approve or decline applications for Axis Bank Cashback Credit Card.
+- PAN Card photocopy or Form 97
+- Proof of income
+- Latest payslip / Form 16 / IT return
+- Residence proof
+- Driving License / Electricity Bill / Landline Telephone Bill
+- bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- Financial Charges
+- Joining fee
+- ₹1000+ GST for Primary Card. Not applicable on Addon Card
+- Annual Fee
+- Cash advance fee
+- 2.5% of Transaction (Minimum ₹500)
+- Late payment charges
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,001
+- If the Minimum Amount Due (MAD) is not paid, Late Payment Charges (LPC) will be levied per the existing LPC structure. Additional charges of ₹100 will be levied only if the MAD payment is not made prior to the Payment Due Date (PDD) for two consecutive billing periods.
+- Over limit charge
+- 2.5% (Minimum ₹500) of Overlimit amount
+- Cash Deposit at Branches
+- ₹175
+- Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge)
+- 2% of payment amount (Minimum ₹500)
+- Railway ticket booking surcharge Fuel Surcharge
+- As prescribed by IRCTC / Indian Railways
+- Fuel Surcharge waiver
+- Fuel surcharge waiver facility is not applicable. Hence fuel surcharge levied by merchant will not be reversed
+- Statement Request (beyond 3 months)
+- NIL
+- Reissue of lost, stolen or damaged card
+- Foreign currency transactions
+- 3.50% of Transaction value on International Non DCC Transactions
+- Finance Charges - Interest
+- 3.75% (55.55% annual)
+- Rent Surcharge
+- 1% per transaction plus taxes will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India.
+- DCC Markup
+- 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. 1&2
+- Benefits of Axis Bank Cashback Credit Card
+- Annual Spends(₹)
+- Savings (₹)
+- Welcome Benefit: EDGE Reward Points worth INR 1000*
+- 1,000
+- Annual Spends at Online Channels**
+- 2,40,000
+- 10,200
+- Annual Spends at Offline Channels
+- 1,20,000
+- 900
+- Annual Spends on Travel and related services
+- 60,000
+- 450
+- Utilities- Bill Payments (10 k per month)***
+- 600
+- Spends in excluded categories
+- 30,000
+- Annual Spends fee waiver (spends > INR 4 Lacs)
+- Total Annual Savings^^
+- Total spends -4,50,000
+- Total Annual Savings^^ - 14,150
+- The total annual savings on Axis Bank Cashback Credit Card is more than INR 14,000. (Value Chart is for illustrative purpose only)
+- *Only applicable for the first year
+- **Considering monthly net spends of INR 20,000 on online channels with non-restricted MCCs.
+- ***Bonus Cashback capped at Rs 100/month
+
+## Axis Bank Magnus Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-magnus-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Magnus Credit Card Online in India \| Axis Bank  
+**Official meta description:** Axis Bank Magnus Credit Card is a travel & stay card and has various benefits including hotel discounts, concierge service, and more. Apply for credit card online!  
+
+### Official extracted card text
+
+- Axis Bank Magnus Credit Card
+- The Terms and Conditions of Axis Bank Magnus Credit Card have been updated w.e.f 1st September'23.
+- Please
+- to Know More.
+- The Terms and Conditions of Axis Bank Magnus for Burgundy Credit Card have been updated w.e.f 20th April'24. Please
+- The Terms and Conditions of Axis Bank Magnus Credit Card have been updated w.e.f 20th April'24. Please
+- The Terms & Conditions of Axis Bank Magnus for Burgundy Credit Card have been updated w.e.f 20th June'25. Please
+- The Terms & Conditions of Axis Bank Magnus Credit Card have been updated w.e.f 20th June'25. Please
+- ONLY THE BEST,
+- WHEREVER YOU GO
+- Magnus Credit Card
+- Travel & Stay
+- WELCOME BENEFIT
+- Choose any one voucher worth ₹12,500* from below options:
+- Luxe gift card or The Postcard Hotels gift voucher or Yatra gift voucher
+- COMPLIMENTARY INTERNATIONAL LOUNGE ACCESS
+- Avail unlimited complimentary international lounge visits and 4 additional guest visits per year with the priority pass card
+- (Guest visits have been revised to 4 per year w.e.f 20
+- th
+- April'24).
+- DOMESTIC LOUNGE ACCESS
+- Enjoy unlimited visits to select airport lounges in India.
+- Exclusive offer at The Leela Palace Hotels & Resorts
+- 15% savings on bed and breakfast rates at The Leela Palace Hotels & Resorts. Valid till 30th September, 2026
+- *Customers holding new Magnus Credit Card for Burgundy can choose any one voucher worth ₹5,000 from below options:
+- Luxe gift card, PostCard Hotels gift voucher or Yatra gift voucher. (Not applicable for customers upgraded from Magnus to Magnus Credit Card for Burgundy).
+- CRAFTED FOR THE
+- CONNOISSEUR IN YOU
+- Lifestyle & Entertainment
+- Enjoy up to 30% discount at over 4,000 restaurants across India.
+- DESIGNED TO ELEVATE
+- YOUR MIND, BODY & SOUL
+- Health & Wellness
+- INSURANCE BENEFITS
+- Stay protected with our purchase protection, lost card liability programs and more.
+- WITH YOU EVERY STEP
+- OF THE WAY
+- More Benefits
+- Annual Fee Waiver
+- Annual fee of ₹12,500 + Taxes waived off* on spend of ₹25 Lakhs in preceding year.
+- Benefits on fees and charges
+- Lowered interest rate of 3% on extended credit.
+- Reduced mark-up fee of 2% on foreign transactions.
+- No cash withdrawal fees.
+- Fuel surcharge waiver of 1% for transactions between ₹400 to ₹4000
+- (Capped at ₹400 per month. The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as INR
+- 10 + GST instead of 1% + GST).
+- Rewards program
+- Earn 12 EDGE Reward points per ₹200 on spends up to ₹1.50 Lakhs and 35 EDGE Reward points per ₹200 on incremental spends above ₹1.50 lakhs in a calendar month.
+- 5X Reward points on spends via Travel EDGE.
+- Earn 2 partner
+- miles for every 5 EDGE Reward points across 20 travel partners.
+- *35 EDGE reward points are capped on spends up to your assigned credit card limit + ₹1.50 Lakhs per calendar month.
+- Customers holding new Magnus Credit Card for Burgundy will earn up to 4 partner miles for every 5 EDGE Reward points across 20 travel partners.
+- Know
+- about the eligibility criteria to apply for MAGNUS Credit Card for Burgundy
+- Magnus Credit Card for Burgundy holders Annual Fee of Rs. 30,000 + Taxes waived off on spend of Rs. 30 Lakhs in preceding
+- year
+- Your Axis Magnus Credit Card awaits you!
+- your Axis Bank Magnus Credit Card
+- Eligibility Segment
+- Eligibility criteria for Axis Bank Magnus Credit Card:
+- Primary cardholder should be between the age of 18-70 years
+- Add-on cardholder should be over 18 years
+- Net Salary of ₹24 lakhs per annum or Net Annual Income Tax Return filed for ₹24 Lakhs.
+- Resident of India
+- *The above criteria are only indicative. The bank reserves the right to approve or decline applications for credit card.
+- Documentation:
+- The below documents are required for application:
+- PAN card photocopy or Form 60
+- Latest payslip/Form 16/IT return copy as the proof of income
+- Residence proof (Passport/Driving license/Electricity bill/ Landline telephone bill)
+- *The above list is only indicative. Documents required may
+- vary on a case to case basis.
+- Offers & Experiences
+- Delights
+- Extraordinary
+- Weekends
+- Mastercard
+- Reach Us
+- Contact us for any benefit redemption,
+- queries, complaints and feedback.
+- Call us on: 1800 419 0065
+- Write to us at: www.axisbank.com/support
+- Help & Assistance
+- Card member agreement
+- Code of Commitment
+- MITC
+
+## Reserve Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/reserve-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Reserve Credit Card Online \| Axis Bank  
+**Official meta description:** Reserve Credit Card - Apply for Axis Bank Luxury Credit Card and enjoy benefits like concierge service, golf rounds, dining privileges, etc. Apply for credit card online!  
+
+### Official extracted card text
+
+- Reserve Credit Card
+- Welcome to Reserve
+- credit card
+- that is enriched with a suite of best-in-class privileges and unbridled indulgences.
+- Designed to make every journey special, this card will delight you every step of the way. Because when it comes to you, luxury always leads the way.
+- Experience the finer side of travel
+- Complimentary
+- airport concierge services
+- W.e.f 20th April 2024, Complimentary Luxury Airport Transfers has been discontinued.
+- Limitless comfort
+- Priority Pass membership with unlimited visits
+- Unlimited domestic
+- lounge visits
+- Elevated levels of service and comfort, reserved exclusively for you
+- Club ITC Culinaire
+- membership
+- Accorplus
+- Handcrafted Club
+- Marriott Asia Pacific membership
+- W.e.f 1st October 2025, offers on Oberoi hotels and resorts have been discontinued.
+- 15% savings at
+- Postcard Hotel
+- Tee off in style
+- Complimentary golf rounds
+- Indulge in the extra-ordinary
+- Complimentary EazyDiner Prime membership
+- Complimentary tickets on BookMyShow
+- Handpicked experiences at extraordinaryweekends.com
+- Beyond expectations, always
+- Rewards Program
+- Reach out to our concierge desk at
+- 1800 103 4962
+- For any card related queries, complaints and feedback, call us on
+- 1800 419 0065
+- or write to us at:
+- http://www.axisbank.com/support
+- For most important terms and conditions,
+- For Card Member Agreement,
+- Important: Activate your new Credit Card within first 30 days. Failure to do so will result in card closure as per RBI guidelines
+- For important information with regards to Reserve credit cards issued before 10th July, 2020:
+- The above mentioned benefits will also be applicable to cards issued before 10th July 2020...
+- The following benefits will be discontinued w.e.f. 31st Aug 2020:
+- Luxury dining experience upon card issuance
+- Annual benefit of Tata CliQ voucher worth Rs.10,000
+- Annual benefit of Club Vistara Gold membership
+- 50% cashback on movies
+- Golf benefits will be revised down to 50 rounds in a year
+- To get your metal card, Eazydiner membership and a new Priority card with 5 year validity...
+- The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 1st September'23. Please
+- to know more.
+- The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 20th April'24. Please click
+- Complimentary Swiggy One Membership on Axis Bank Reserve Credit Card. Please
+- The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f. 20th June, 2025. Please
+- Visa Offers
+- Extraordinary Weekends
+- Give a missed call on
+- 18004194470
+- or
+- click here.
+- Request a call back
+
+## My Zone Easy Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/my-zone-easy-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for My Zone Easy Credit Card Online \| Axis Bank  
+**Official meta description:** MY ZONE EASY Credit Card is a FD backed credit card and offers exciting offers on movie ticket bookings, dining, shopping, etc. Apply for credit cards at Axis Bank!  
+
+### Official extracted card text
+
+- MY ZONE EASY Credit Card
+- Assured approval
+- Movie ticket cashback
+- High cash withdrawals
+- Free credit for 50 days
+- Get your Fixed Deposit backed secured credit card, with minimal documentation and guaranteed approval.
+- MY ZONE EASY Credit Card Features & Benefits
+- Exciting cashback on movie tickets, delightful dinners, convert purchases to EMI, earn EDGE REWARD points and avail more such benefits on My Zone Easy Credit Card.
+- Get 25% cashback on movie tickets
+- 25% cashback on online and box office movie ticket purchases all week with your MY Zone Easy Credit Card*
+- Contactless-enabled card
+- Forget swiping, just tap the card and make a secure transaction of up to ₹5000.
+- Withdraw as much cash as required
+- Cash withdrawals upto 100% of your credit limit from day one
+- Enjoy free credit for 50 days
+- No extra charge on purchase transactions for upto 50 days*
+- Get a guaranteed approval
+- Any application for the Axis Bank MY Zone Easy Credit Card gets guaranteed approval
+- Spend securely
+- The card is equipped with the Platinum Chip contactless technology, which offers clear authentication of credit payments, combined with easy fraud detection.
+- Fuel up and get a waiver on surcharge
+- You get a 1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank MY Zone Easy Credit Card.
+- Convert purchases to EMI
+- On any transaction over ₹2,500, contact the Bank to convert a big credit card purchase into EMIs
+- Earn EDGE REWARDS
+- Earn EDGE REWARD points on your transactions and enjoy 500+ rewards and offers to redeem them. Get 4 points for every ₹200 spent on domestic transactions.
+- Indulge in delectable cuisines with Axis Bank Dining Delights offering a minimum 15%* off at our partner restaurants in India.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- Descriptions
+- Charges
+- Standard Joining Fee
+- ₹500
+- Standard Annual Fee
+- Standard Add-on Card Joining Fee
+- NIL
+- Standard Add-on Card Annual Fee
+- Finance Charges (Retail purchases & cash)
+- 3.40% per month (49.36% per annum)
+- Cash Withdrawal Fees
+- 2.5% (minimum ₹500) of the cash amount
+- Fee for Cash Payment
+- ₹175
+- Card Replacement
+- Overdue Penalty or Late Payment Fee
+- Nil if the total payment due is less than ₹500
+- ₹500 if the total payment due is between ₹501 and ₹5,000
+- ₹750 if the total payment due is between ₹5,001 and ₹10,000
+- ₹1200 if the total payment due is greater than ₹10,000
+- An additional charge of ₹100 will be applicable
+- on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This
+- charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Overlimit penalty
+- 2.5% of the over limit amount (Minimum. ₹500)
+- Emergency card replacement fee when overseas (through VISA)
+- As per VISA Global Customer Assistance Services (GCAS)
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by Indian Railways
+- Fuel transaction surcharge
+- 1% of transaction amount (refunded for fuel transactions between ₹400 and ₹4000)
+- Foreign currency transaction Fee
+- 3.50% of the transaction value
+- Mobile alerts for transactions
+- Waived
+- Hotlisting charges
+- Balance enquiry charges
+- Cheque return or dishonour fee or auto debit reversal
+- 2% of the payment amount subject to a minimum ₹500 and maximum ₹1,522
+- Reward redemption fee
+- Yes
+- Rent transaction fee
+- 1% on transaction will be applicable on each rental transaction done on MCC
+- 6513
+- Dynamic currency conversion markup
+- 1.5% + taxes for each international transaction performed in
+- Indian currency at International location or transactions performed in Indian currency with merchants
+- located in India but registered in foreign nation
+- Charge structure is subject to change from time to time at the sole discretion of Axis Bank.
+- As per Ministry of Finance guidelines, GST as per existing government norms is being levied on all fees, interests & other charges on all credit cards. No refund shall be provided for GST charged on fuel transaction surcharge.
+- *No reward points are earned on movie offer transactions. The amount of cashback in a calendar year is limited to ₹1000.
+- *Only transactions made at merchants registered as MCC 7832 or MCC 7922 are eligible for movie cashback
+- *Applicable only if there is no outstanding on the card account i.e., previous bill has been settled in full by the payment due date. Not applicable on cash transactions.
+- The chip cannot be duplicated, ruling out counterfeiting and skimming, making it safer than other cards. The card is Chip and PIN protected for additional security
+- A 1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank MY Zone Easy Credit Card.
+- Fuel surcharge refund on spending at all fuel stations across India with MY Zone Easy Credit Card. Valid on transactions between ₹400 and ₹4,000 only. Maximum benefits up to ₹400* per statement cycle.
+- The goods and services tax (GST) charged on fuel surcharge is non-refundable.
+- *No reward points are earned on fuel transactions.
+- The fuel surcharge is not levied by the card-issuing bank on certain fuel transactions. The fuel surcharge may be levied as ₹10 instead of 1% with additional GST.
+- The fuel surcharge is not levied by the card-issuing bank on certain fuel transactions. The fuel surcharge may be levied as ₹10 + GST instead of 1% + GST.
+- To know more,
+- to Convert purchases to EMI
+- EDGE REWARD points for transactions and 500+ rewards and offers to redeem points. Earn 4 points on domestic spends for every ₹ 200 spent.
+- For options to redeem points,
+- check the EDGE REWARDS Catalogue
+- Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip
+- 10% off on orders via Swiggy and Amazon Fresh
+- 10% off upto ₹ 1000 on Tira
+- Eligibility for MY ZONE EASY Credit Card
+- A Fixed Deposit at any Axis Bank branch is required.
+- Minimum Fixed Deposit amount is ₹15,000, while maximum amounts to ₹25 lakhs.
+- Minors are not eligible for the card.
+- Additionally, the MY Zone Easy Credit Card cannot be issued against:
+- 1. Tax Saver Fixed Deposits.
+- 2. Flexi-Deposits (Auto-sweep Fixed Deposits).
+- 3. Fixed Deposits in the name of HUFs (Hindu undivided families), societies, trusts, or companies.
+- Please
+- to view card member agreement
+- to view Lien Declaration
+- Cards for you
+- You'll find the right card for every need in life.
+
+## Privilege Easy Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Privilege Easy Credit Card Online \| Axis Bank  
+**Official meta description:** The Axis Bank Privilege Easy Credit Card comes with an activation benefit of Shopping or Travel vouchers* worth ₹ 5,000. Apply for the FD backed credit card online!  
+
+### Official extracted card text
+
+- Privilege Easy Credit Card
+- Assured approval
+- Activation benefit
+- Milestone benefit
+- Lounge benefit
+- backed secured credit card with minimal documentation and guaranteed approval. Enjoy the dual benefits of building your credit score while earning interest on your fixed deposit. Ideal for first-time credit card
+- users or those looking to improve their credit history. Hassle-free process with flexible credit limits linked to your deposit.
+- Avail activation benefit, milestone benefit, annual benefits,
+- , waiver on surcharge, and more with the Privilege Easy Credit Card.
+- Get 12500
+- EDGE REWARD
+- points, worth ₹2500 redeemable against vouchers upon levy of joining fees and on completion of 1st transaction within 30 days of card issuance.
+- Get additional 10,000 EDGE reward points worth ₹2000 upon achieving spends milestone of ₹2.5 lakhs in a card anniversary year.
+- Annual benefits
+- Annual fees of ₹1,500 will be reversed on achieving spends* of ₹5 lakhs in the previous card anniversary year.
+- Access numerous airport lounges
+- Two complimentary access per calendar quarter to select domestic airport lounges with Axis Bank Privilege Easy Credit Card.
+- Dining delights
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- Fuel up and get a surcharge waiver
+- Fuel surcharge refund on spends at all fuel stations across India with Axis Bank Privilege Easy Credit Card.
+- Earn Axis
+- for transactions and 500+ rewards and offers to redeem points. Earn points for these transactions:
+- Spend securely
+- With an EMV certified chip
+- , PIN protection provides advanced security. This chip reduces the possibility of counterfeit and skimming fraud.
+- Convert purchases to EMI
+- On any transaction over ₹2,500, contact the bank to convert a big Credit Card purchase into EMIs.
+- Comprehensive insurance cover
+- Purchase Protection Plan up to ₹1 lakhCredit Shield of ₹1 lakh
+- Buy one get one offer on movie tickets
+- Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege credit card
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- points, worth ₹2500 redeemable against vouchers upon levy of joining fees and on completion of 1st transaction within 30 days of card issuance. Free cards, first year free cards and priority segment customers are not eligible for this benefit.
+- for detailed terms and conditions.
+- Get additional 10,000
+- points worth ₹2000 upon achieving spends milestone of ₹2.5 lakhs in a card anniversary year.
+- Annual fees of ₹1,500 will be reversed on achieving spends* of ₹2.5 lakhs in the previous card anniversary year.
+- Spends threshold for annual fee reversal will exclude rent and wallet transactions. The merchant category code of rent is 6513 and wallet is 6540. This revision is effective from 05-03-2023.
+- For complete list of lounges, please
+- click here.
+- Extraordinary weekends
+- From being a chef for a day to sailing into the sunset on a yacht, create memories to cherish for a lifetime with the extraordinary weekends.
+- To book your experience
+- visit
+- or contact the concierge at 08880 023 023.
+- for more details and full terms & conditions.
+- Valid on transactions between ₹400 and ₹4,001 only
+- Service tax charged on fuel surcharge is non-refundable. No reward points are earned on fuel transactions
+- Maximum benefits up to ₹400 per month
+- 10 Axis
+- on every ₹200 spent
+- For options to redeem points, check the Axis
+- Catalogue.
+- To know more,
+- Credit Shield ₹1 Lakh
+- Loss Travel Document Cover upto $300
+- Delay in Check in baggage cover up to $300
+- Loss of Check-In Baggage Cover upto $500
+- Terms and Conditions apply.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+
+## Pride Platinum Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/pride-platinum-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Pride Platinum Credit Card Online \| Axis Bank  
+**Official meta description:** Axis Bank Pride Platinum Credit Card is exclusively for Indian Defense Personnel and Government of India employees. Visit Axis Bank to know the features available.  
+
+### Official extracted card text
+
+- Pride Platinum Credit Card
+- Pride Privileges
+- Dining Delights Discounts
+- Fuel Surcharge Waiver
+- Convert Purchases to EMI
+- Exclusively tailored to suit the brave personnel serving in Indian Defence Forces and the Government of India employees, Pride Platinum Credit Card offers15% discount at partnered restaurants, fuel surcharge waiver up to ₹ 250, earn
+- eDGE loyalty reward points for each transaction
+- which can later be redeemed. You can spend securely with our EVM certified PIN protected credit card chips and conversion to EMIs of transactions more than ₹ 2500.
+- The benefits of the Pride Platinum Credit Card include Dining Delights membership, waiver on fuel surcharge and free add-on cards. You can find the features and benefits listed below:
+- Get pride privileges
+- Personalised card with the shades of the Indian Tricolour
+- Indulge in delectable cuisines with Axis Bank Dining Delights offering upto
+- Fuel up and get a waiver on surcharge
+- 1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank Pride Platinum Credit Card
+- Get free add-on cards for loved ones
+- Available for cardholder's spouse, parents, children, and siblings over 18 years of age
+- Spend securely
+- With an EMV certified chip credit card, all credit cards are chip and PIN protected for unrivalled protection.
+- Stay protected with Zero Lost Card Liability
+- With zero lost card liability, you are protected against any fraudulent use
+- On any transaction over ₹2,500, contact the Bank to convert a big credit card
+- Earn
+- Points
+- Receive
+- EDGE REWARD
+- Points for your
+- PRIDE PLATINUM
+- Credit Card transactions
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- The dedicated 4th embossing line for serving the nation.
+- Valid on transactions between ₹400 and ₹4,000 only
+- Maximum benefits up to ₹250 per statement cycle*
+- GST charged on fuel surcharge is non-refundable
+- *No
+- Points are earned on fuel transactions made using the credit card
+- With zero lost card liability, you are protected against any fraudulent use of your card from the moment the loss is reported.
+- Report an Axis Bank Pride Platinum Credit Card as misplaced or stolen immediately by calling the Axis Bank customer service at
+- 1860 500 5555
+- or
+- 1860 419 5555
+- *Terms and Conditions apply. For details, refer to card member agreement clause no. 18.
+- Credit Card transactions and use them to redeem 500+ rewards and offers. Earn points for these transactions:
+- 4 points on every ₹200 spent on the Credit Card.
+- For options to redeem points, check the
+- Catalogue
+- for detailed Terms and conditions.
+- Indulge in delectable cuisines with Axis Bank Dining Delights offering upto 15% discount at our partner restaurants in India.
+- Offer Details: 15% off up to ₹500
+- Minimum Order Value ₹2500
+- Valid once per card per month.
+- for more information.
+- EMV certified chip reduces the possibility of counterfeit and skimming fraud.
+- On any transaction over ₹2,500, contact the Bank to convert a big credit card purchase into EMIs, through multiple options - Internet Banking, Mobile App or Customer Service channel.
+- To know more click
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- The fees and charges for Pride Platinum Credit Card include annual fees, cash payment and withdrawal fees, and certain penalties (if any) amongst others. Some Pride Platinum Credit Card fees are however subject to certain waivers.
+- Descriptions
+- Charges
+- Joining Fee
+- Nil
+- Annual Fee
+- 1st Year: Nil
+- 2nd Year onwards: ₹250 (Waived on spends of ₹20,000 in the preceding year)
+- Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends counted in availing annual fee waiver
+- Add-on Card Joining Fee
+- Add-on Card Annual Fee
+- Card Replacement
+- Cash Payment Fee
+- ₹175
+- Duplicate Statement Fee
+- Waived
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Mobile Alerts for Transactions
+- Free
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Finance Charges (Retail Purchases & Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹500) of the Cash Amount
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.
+- Over Limit Penalty
+- 2.5% of over the limit amount (Min. ₹500)
+- Cheque return or dishonour Fee or Auto-debit Reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- EDGE REWARDS Redemption
+- As per existing Government norms
+- Reward Redemption fee
+- Yes
+- Interest Free Period
+- The interest-free period on your card will range from 18 to 23 days from the statement generation date
+- Rent Transaction fee
+- 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India.
+- Dynamic Currency Conversion markup
+- 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup will not be applicable on Burgundy Private Credit Card
+- Education Payment Charges
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Wallet Load Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle
+- Utility Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Online Skill-Based Gaming Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle
+- Eligibility for Pride Platinum Credit Card
+- Listed below are the eligibity criteria that one needs to fulfill in order to apply for a Pride Platinum Credit Card.
+- Individuals eligible for Axis Bank Pride Platinum Credit Card:
+- Primary cardholder should be between the age of 18 and 70 years
+- Add-on cardholder should be over 18 years
+- Individual should either be a Resident of India or Non-Resident Indian
+- These criteria are only indicative. The bank reserves the right to approve or decline applications for credit cards.
+- Documents for Pride Platinum Credit Card
+- The required documents for pride Platinum Credit Card application include a copy of your PAN card or Form 60, one residential proof, one identity proof and a colour photograph along with a proof of income in the form of latest payslip/Form 16/IT return copy.
+- Keep your documents ready
+- The following documents are required:
+- PAN card photocopy or Form 60
+- Colour photograph
+- Latest payslip/Form 16/IT return copy as proof of income
+- Residential proof (any one of the following):
+- Passport
+- Ration Card
+- Electricity bill
+- Landline telephone bill
+- Identity proof (any one of the following):
+- Driving license
+- PAN card
+- Aadhaar card
+- This list is only indicative. Documents required may vary on a case-to-case basis.
+- Quick Downloads
+- Pride Platinum Credit Card holder needs to abide by the terms and conditions. By signing the cardholder agreement, you agree to all the terms and conditions of the Pride Platinum Credit Card.
+- Terms and conditions
+- Please click here for the terms and conditions
+- Download pdf
+- Card member agreement
+- Please click here for the Card Member Agreement
+- Credit Card is your go-to tool for making purchases or paying for services on credit.
+- Viw all Credit Cards
+
+## Pride Signature Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for PRIDE SIGNATURE Credit Card Online \| Axis Bank  
+**Official meta description:** Pride Signature Credit Card is a tri-coloured personalised card which comes with benefits like airport lounge access, dining delights, etc. Apply now at Axis Bank!  
+
+### Official extracted card text
+
+- Pride Signature Credit Card
+- Pride Privileges
+- Complimentary Lounge Access
+- Dining Delights Discount
+- Fuel Surcharge Waiver
+- Pride Signature Credit Card is a tri-colored personalised card which comes with a host of benefits. The Pride Signature Credit Card provides complimentary access to airport lounges within India, minimum 15% discount at all partner restaurants and fuel surcharge waiver on fuel transactions of up to ₹400 per month.
+- Benefits of Pride Signature Credit Card include pride privileges like customised card, complimentary lounge access, delightful dining experience, waiver on surcharge, earn
+- EDGE REWARD
+- Points and much more.
+- Get pride privileges
+- Personalised card with the shades of the Indian Tricolour
+- Avail complimentary lounge access
+- Enjoy 2 complimentary visits to select airport lounges within India per calendar quarter with your Axis Bank Pride Signature Credit Card
+- Become a Dining Delight member
+- Offer Details: 15% off up to ₹500 Minimum Order Value ₹2500 Valid once per card per month.
+- Fuel up and get a waiver on surcharge
+- 1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank Pride Signature Credit Card
+- Get free add-on cards for loved ones
+- Available for cardholder's spouse, parents, children, and siblings over 18 years of age
+- Spend securely
+- With an EMV certified chip credit card, all credit cards are chip and PIN protected for unrivalled protection
+- Stay protected with Zero Lost Card Liability
+- Report an Axis Bank Pride Signature Card as misplaced or stolen, immediately, by calling the Axis Bank customer service at 1860 500 5555 or
+- Earn
+- Points
+- points for transactions and 500+ rewards and offers to redeem points. Earn points for these transactions:
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- The dedicated 4th embossing line for serving the nation.
+- For more details and terms and conditions, please
+- for Avail complimentary lounge access
+- for more information
+- Valid on transactions between ₹400 and ₹4,000 only
+- Maximum benefits up to ₹400 per statement cycle*
+- GST charged on fuel surcharge is non-refundable
+- *No
+- Points are earned on fuel transactions made using the Credit Card
+- EMV certified chip reduces the possibility of counterfeit and skimming fraud
+- Report an Axis Bank Pride Signature Card as misplaced or stolen, immediately, by calling the Axis Bank customer service at
+- 1860 500 5555
+- or
+- 1860 419 5555
+- With zero lost card liability, you are protected against any fraudulent use of your card from the moment the loss is reported
+- *Terms and Conditions apply. For details, refer to Card Member Agreement clause no. 18
+- 8 points for every ₹200 spent through your Credit Card
+- For options to redeem points, check the
+- Catalogue
+- for detailed Terms and conditions.
+- Discover new cuisines and flavours while you enjoy minimum 15% off* at partner restaurants with Axis Bank Dining Delights.
+- Check
+- offer details
+- Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip
+- 10% off on orders via Swiggy and Amazon Fresh
+- 10% off upto ₹1000 on Tira
+- The fees and charges for Axis Bank Pride Signature Credit Card are listed in the table below.
+- Description
+- Charges
+- Joining Fee
+- Nil
+- Annual Fee
+- 1st Year: Nil
+- 2nd Year onwards: ₹500 (Waived on spends of ₹40,000 in the preceding year)
+- Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends counted in availing annual fee waiver
+- Add-on card joining fee
+- Add-on card annual fee
+- Card replacement fee
+- Cash payment fee
+- ₹175
+- Duplicate Statement fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Hotlisting charges
+- Balance enquiry charges
+- Finance charges (Retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Cash withdrawal fees
+- 2.5% (Min. ₹500) of the cash amount
+- Fuel Transaction Surcharge waiver
+- 1% of transaction amount (Refunded for fuel transactions between ₹400 to ₹4,000). Maximum benefits up to ₹400 per month)
+- Overdue Penalty or Late Payment Fees
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to min. ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.50% of the transaction value
+- As per existing Government norms
+- Reward Redemption fee
+- Yes
+- Rent Transaction fee
+- 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India.
+- Dynamic Currency Conversion markup
+- 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup will not be applicable on Burgundy Private Credit Card
+- Education Payment Charges
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Wallet Load Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on wallet loads per statement cycle
+- Fuel Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 50,000 or more on fuel transactions per statement cycle
+- Utility Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 25,000 or more on utilities per statement cycle
+- Online Skill-Based Gaming Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on online skill-based gaming platforms in a statement cycle
+- Eligibility for Pride Signature Credit Card
+- Applying for a Pride Signature Credit Card requires you to fulfil certain eligibility criteria. You can access the list of the eligibility criteria, below.
+- Individuals eligible for Axis Bank Pride Signature Credit Card:
+- Indian Defence personnel
+- Primary cardholder between the age of 18 years and 70 years
+- Add-on cardholder should be over 18 years
+- Individual should either be a Resident of India or Non-Resident Indian
+- These criteria are only indicative. The bank reserves the right to approve or decline applications for credit cards.
+- Documentation for Pride Signature Credit Card
+- Proof of income, residence, identity, etc. will be needed as documents for Pride Signature Credit Card. Documents like PAN card, photocopy or Form 60, ration card, etc. will also be required as documents. The details of documents needed are enlisted here.
+- Keep your documents ready
+- The following documents are required:
+- PAN card photocopy or Form 60
+- Colour photograph
+- Latest payslip / Form 16 / IT return copy as proof of income
+- Residence proof (any one of the following):=
+- Passport
+- Ration Card
+- Electricity bill
+- Landline telephone bill
+- Identity proof (any one of the following):
+- Driving License
+- PAN Card
+- Aadhaar card
+- This list is only indicative. Documents required may vary on a case-to-case basis.
+- A credit card which is
+- easy on your pocket
+- Download Application Form - PRIDE SIGNATURE Credit Card
+- The Pride Signature Credit Card application form is available in the 'apply' column on the home page. Contact the helpline numbers for any queries regarding Pride Signature Credit Card form.
+- Terms and Conditions
+- Please click here for the terms and conditions
+- Download pdf
+- Card Member Agreement
+- Please click here for the Card Member Agreement
+
+## Signature Credit Card With Lifestyle Benefits
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/signature-credit-card-with-lifestyle-benefits  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Signature Credit Card with lifetime benefits \| Axis Bank  
+**Official meta description:** Axis Bank Signature Credit Card is comes with benefits including movie ticket cashback, discount on dining, etc. Visit Axis Bank to know the features available.  
+
+### Official extracted card text
+
+- Signature Credit Card With Lifestyle Benefits
+- Get a card with a world of privileges like Satya Paul vouchers, cashback on movie tickets, discount on dining and lots more
+- View Offers
+- Special Benefits
+- High Security
+- Airport Lounge Access
+- Signature Credit Card
+- This credit card is no longer available. Explore our wide range of Axis Bank
+- to find the one that best suits your needs.
+- The Signature Credit Card you can get 15% discount on dining as benefits of Signature Credit Card. Complimentary access to airport lounges with the Signature Credit Card.
+- Signature Credit Card Features & Benefits
+- The benefits of Signature Credit Card give you access to numerous airport lounges, offer global emergency assistance, waiver on surcharge, and International Concierge services and more.
+- Convert purchases to EMI
+- On any transaction over ₹ 1,500, contact the bank to convert a big credit card purchase into EMIs.
+- To know more,
+- Keep yourself, your family and assets safe
+- Purchase Protection upto ₹ 1,00,000
+- Access numerous airport lounges
+- Visa Offer: Complimentary access to airport lounges within India with an Axis Bank Signature Credit Card.
+- Get 50% cashback on movie ticket bookings
+- You can enjoy 50% cashback on movie tickets purchased through BookMyShow with Signature Credit Card.*
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- Fuel up and get a waiver on surcharge
+- Fuel surcharge refund on spends at all fuel stations across India with a Select Credit Card from Axis Bank.
+- Earn Axis
+- Axis EDGE REWARD points for transactions and 500+ rewards and offers to redeem points.
+- Earn points for these transactions:
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday.
+- Loss Travel Document cover/Delay of check in baggage cover upto 300 USD
+- Terms and Conditions apply.
+- . for detailed Cover and Claim Procedure.
+- . for more details and terms and conditions.
+- Priority Pass: Access to over 700 VIP lounges in over 90 countries and 275 cities with Priority Pass.
+- Only membership to the Priority Pass program is complimentary for the primary cardholder. Any visits to the lounge by the primary cardholder/add-on cardholder/guest would be chargeable. Please refer to the terms and conditions.
+- *No reward points are earned on movie offer transactions. Maximum cashback in a calendar year is limited to ₹ 2,000.
+- for detailed terms and conditions.
+- for more details and full terms & conditions.
+- Valid on transactions between ₹ 400 and ₹ 4,000 only
+- Service tax charged on fuel surcharge is non-refundable. No reward points are earned on fuel transactions
+- Maximum benefits upto ₹ 400 per statement cycle
+- 10 points on every ₹ 200 spent on the
+- credit card
+- domestically
+- 20 points on every ₹ 200 spent on the credit card internationally
+- 100 points on the first online transaction
+- For options to redeem points, check the
+- Catalogue.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off up to ₹ 1000 on Tira
+- To avail lifestyle benefits, Signature Credit Card fees have to be incurred. Fees and charges for Signature Credit Card would be joining fee, annual fee, late fee and others. The annual fee will be waived upon crossing the threshold limit.
+- Charges
+- Standard Joining Fee
+- ₹5000 (Special invitation price - ₹3000)
+- Standard Annual Fee (2nd year onwards)
+- ₹3000 (Waived on achievement of spends threshold of ₹3 Lakhs in the preceding year)
+- Standard Add-on Card Joining Fee
+- Nil
+- Standard Add-on Card Annual Fee
+- Membership to the Priority Pass Program for Primary Cardholder
+- Complimentary
+- Membership to the Priority Pass Program for Add-On customer
+- USD 99
+- Finance Charges (Retail Purchases & Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹250) of the Cash Amount
+- Fee for Cash Payment
+- ₹175/-
+- Card Replacement
+- Emergency Card Replacement Fee when overseas (through VISA)
+- As per VISA Global Customer Assistance Services (GCAS).
+- Duplicate Statement Fee
+- Waived
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹ 1200 if total payment due is greater than ₹10,000
+- Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared.
+- Over Limit Penalty
+- 2.5% of the overlimit amount (Min. ₹500)
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Fuel Transaction Surcharge
+- 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- Rent Surcharge Fee*
+- 1% of the rental transaction amount plus taxes
+- Dynamic Currency Conversion markup fee**
+- 1.5% of each international transaction plus taxes
+- Mobile Alerts for Transactions
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Reward Redemption fee
+- Wallet load transaction fee
+- 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel transaction fee
+- 1% fee on cumulative spends of ₹ 50,000 or more on fuel transactions per statement cycle
+- Education transaction fee
+- 1% fee on education payments made via third party apps
+- Utility transaction fee
+- 1% fee on cumulative spends of ₹ 25,000 or more on utilities per statement cycle
+- Online skill-based gaming transaction fee
+- 1% fee on cumulative spends of ₹ 10,000 or more on online skill-based gaming platforms in a statement cycle
+- GST, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India.
+- *A rent surcharge fee of 1% will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513. The revision is effective from 20-12-24.
+- **A Dynamic Currency Conversion (DCC) markup fee of 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup fee will not be applicable on Burgundy Private Credit Card. The revision is effective from 20-12-24.
+- Eligibility for Signature Credit Card
+- Eligibility for Signature Credit Card requires the primary cardholder to be between 18 to 70 years. The applicant must be a resident of India with a net annual income of ₹ 9,00,000. The add-on cardholder should be at least 18 years old. Listed below are the Signature Credit Card eligibility criteria.
+- Individuals eligible for Signature Credit Card with Lifestyle Benefits:
+- Primary cardholder between the age of 18 years and 70 years
+- Add-on cardholder should be over 18 years
+- Net income of ₹ 9,00,000 per annum
+- Resident of India
+- These criteria are only indicative. The bank reserves the right to approve or decline applications for credit cards.
+- All Axis Bank Wealth clients are eligible for the Signature Credit Card. Please contact your wealth relationship manager for further details.
+- Documents for Signature Credit Card
+- Any one of the passport, ration card, electricity or landline telephone bill for identity proof will be required as documents for Signature Credit Card. Other documents include PAN card photocopy or Form 60. The applicant's latest payslip, Form 16, or IT return copy will be needed as income proof.
+- Keep your documents ready
+- The following documents are required:
+- PAN Card photocopy or Form 60.
+- Colour photographs.
+- Latest Payslip/Form 16/IT return copy as proof of income.
+- Residence proof: (any one of the following)
+- Passport
+- Ration Card
+- Electricity Bill
+- Landline Telephone Bill
+- This list is only indicative. Documents required may vary on a case-to-case basis.
+- Power to save up to Rs 6000 and earn 1800 EDGE Loyalty REWARDS Points in a calendar year.
+- Annual Spends Amount (₹)
+- Savings Amount (₹)
+- Total Axis
+- Points Earned
+- Complimentary membership to the Priority Pass program worth $99* providing access to 600 VIP lounges
+- ₹ 5940
+- Complimentary access to selected lounges affiliated with VISA, 2 times in calendar quarter**
+- ₹ 1600
+- 50% discount on movie tickets***
+- ₹ 4000
+- ₹ 2000
+- Complimentary movie tickets through bookmyshow****
+- ₹ 3000
+- Rewards on Domestic Spends^^
+- ₹ 4,96,800
+- 4968
+- Rewards on International Spends^^^
+- ₹ 55,200
+- ₹ 1104
+- Upto 15% discount at selected Fine dining restaurants^^^
+- ₹ 12,000
+- ₹ 1800
+- 1% fuel surcharge waiver on monthly fuel spends on ₹ 4000^^^^
+- ₹ 48,000
+- ₹ 480
+- Comprehensive Insurance cover worth 2.25 Crores^^^^
+- ₹ 7000
+- Sub Total
+- ₹ 21,820
+- ₹ 6072
+- TOTAL BENEFITS on the Axis Bank Signature Credit card with Lifestyle Benefits is more than ₹ 33,000 (value chart is only for illustrative purpose)
+- * Conversion Rate considered is $1=₹ 60. Access to the lounges through priority Pass attracts charges payable by the customer. The Priority Card membership will be renewed from 2nd year onwards on customer request.
+- **This is based on the assumption that the customer visits the lounge once every 6 months. The cost for a lounge visit is assumed at ₹ 800
+- *** This is based on the assumption that the customer will book 4 tickets worth ₹ 250 on a quarterly basis. The maximum Cashback the customer is eligible for is ₹ 2000 in the calendar year.
+- **** This is based on the assumption that the customer will book 2 tickets worth ₹ 250/month through www.bookmyshow.com, on first come, first serve basis and is subject to availability.
+- ^^ 90% of the total spends are allocated against domestic spends.
+- ^^^This is based on the assumption that the customer will visit the Visa Fine Dining Restaurants at least once every quarter. For details on the Fine Dining offers from Visa, pls visit www.axisbank.com/atozoffers
+- ^^^^Valid on transactions between ₹ 400 and ₹ 4000 only. GST charged on fuel surcharge is non-refundable. No reward points are earned on fuel transactions.
+- ^^^^^ The market value of the Insurance cover is subject to change.
+- ^The Redemption Value of each Axis
+- points = ₹ 0.20
+- Travel
+- Axis Bank REWARDS Credit Card
+- Milestone benefit of 1,500
+- EDGE REWARD
+- Points
+- Bouquet of membership up to ₹1,000 every anniversary year
+- ₹150 instant discount on Swiggy.
+- Joining Fee:
+- ₹1000
+- Annual Fee:
+- INDIANOIL AXIS BANK Credit Card
+- Now seamlessly pay with UPI using your credit card
+- Earn up to 1,250
+- on first fuel transaction
+- 4% value back on fuel spends at IndianOil outlets
+- ₹500
+- Fee waiver
+- Axis Bank MY Zone Easy Credit Card
+- Contactless enabled secured credit card
+- with every ₹200 spent
+- 25% cashback on movies
+
+## Platinum Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/platinum-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Platinum Credit Card Online \| Axis Bank  
+**Official meta description:** Axis Bank Platinum Credit Card comes with benefits like fuel surcharge waivers, discount on movie tickets, convert transactions into EMIs, etc. Apply online now!  
+
+### Official extracted card text
+
+- Platinum Credit Card
+- Enjoy exciting privileges along with the benefits of global emergency assistance
+- View Offers
+- Cashback on Movie Ticket Purchases
+- High Security
+- Fuel Surcharge Waiver
+- Convert Purchases to EMI
+- Axis Bank Platinum Credit Card offers unrivaled safety with an EMV certified chip and comes with a variety of other privileges. The benefits of Platinum Credit Card include up to 25% cashback on movie tickets, fuel surcharge waiver on fuel transactions up to ₹400 a
+- month, while allowing you to convert transactions of more than ₹2500 into EMIs through multiple options. Also, you get a minimum of 15%* off at our partner restaurants.
+- The benefits of Platinum Credit Card include easy access to Visa's International Global Card Assistance Services, waivers on fuel surcharge,
+- EDGE REWARD
+- points and conversion of big Credit Card purchase into EMIs. Additional benefits include:
+- Enjoy cashback on movie ticket bookings
+- 25% cashback on online and box office ticket purchases on all days of the week.*
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- Fuel up and get a waiver on surcharge
+- 1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank Platinum Credit Card
+- Spend securely
+- With an EMV certified chip credit card, all credit cards are chip and PIN protected for unrivaled protection.
+- On any transaction over ₹2,500, simply contact the bank to convert such Credit Card purchase into EMIs through multiple options
+- Earn
+- EDGE REWARDS Points
+- Receive
+- Points on Platinum Credit Card transactions. Use them to redeem 500+ rewards and offers. Earn points for these transactions:
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- *No reward points are earned on movie offer transactions. Amount of cashback in a calendar year is limited to ₹1,000.
+- *Only transactions made at merchants registered as MCC 7832 or MCC 7922 are eligible for movie cashback.
+- For terms and conditions,
+- for more details and full terms & conditions.
+- Valid on transactions between ₹400 and ₹4,000 only.
+- Maximum benefits up to ₹400* per statement cycle.
+- GST charged on fuel surcharge is non-refundable.
+- The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹10 instead of 1 percent with additional GST.
+- The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions,
+- the fuel surcharge may be levied as ₹10 + GST instead of 1% + GST.
+- *No EDGE REWARD Points are earned on fuel transactions made using your Axis Bank Credit Card.
+- EMV certified chip reduces the possibility of counterfeit and skimming fraud.
+- On any transaction over ₹2,500, simply contact the bank to convert such Credit Card purchase into EMIs through multiple options - Internet Banking, Mobile App or Customer Service channel.
+- To know more
+- Points
+- 6 points on every ₹200 spent on the credit card domestically
+- 12 points on every ₹200 spent on the credit card internationally
+- 100 points on first online transaction
+- For options to redeem points, check the
+- Catalogue
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- The fees and charges for Platinum Credit Card include joining fees, annual fees, cash payment and withdrawal fees and certain penalties (if any) amongst others. Some Platinum Credit Card fees are however subject to certain waivers.
+- Description
+- Charges
+- Standard Joining Fee
+- ₹500 (Waived on spends of ₹5,000 within 45 days of card setup), for cards setup on or after February 07, 2011
+- Nil, for cards setup before February 07, 2011
+- Standard Annual Fee
+- From 2nd year: ₹200 (Waived on spends of ₹1,00,000 in the preceding year), for cards set up on or after February 07, 2011
+- Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends calculated in availing annual fee waiver
+- Standard Add-on Card Joining Fee
+- ₹100, for cards setup before February 07, 2011
+- Nil, for cards setup on or after February 07, 2011
+- Standard Add-on Card Annual Fee
+- Nil
+- Finance Charges (Retail Purchases & Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹500) of the Cash Amount
+- Fee for Cash Payment
+- ₹175/-
+- Card Replacement (lost or stolen or re-issue)
+- Emergency Card Replacement Fee when overseas (through VISA)
+- As per VISA Global Customer Assistance Services (GCAS).
+- Duplicate Statement Fee
+- Waived
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional charge of ₹ 100 will be applicable
+- on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This
+- charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Over Limit Penalty
+- 2.5% of over the limit amount (Min. ₹500)
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds
+- 2% of the payment amount, with a minimum
+- fee of INR 500 and no maximum cap on the fee.
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Fuel Transaction Surcharge
+- 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- Mobile Alerts for Transactions
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Reward Redemption fee
+- Yes
+- Rent Transaction fee
+- 1% (+GST) capped at ₹1,500/transaction will be applicable on each rental transaction done on MCC 6513
+- Dynamic Currency Conversion Markup
+- 1.5% + taxes for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation
+- Urgent and Important:
+- With effect from March 1, 2012, a convenience fee* of ₹50 per payment will be charged for a cash payment of credit card bills at our branches.
+- *The charges will reflect in the next billing cycle along with the service taxes applicable
+- For Platinum Advantage Credit Card Holders, effective from January 1, 2012, the annual fee will be reduced to ₹200 from ₹500. In light of the same, the cashback offers on dining and fuel spends will be discontinued; whereas the 25% cashback on movie spends (with a limit of ₹1,000 per the calendar year) and 1 % surcharge waiver on fuel spends will remain.
+- Terms & Conditions - Platinum Credit Card
+- The card member agreements are applicable to Platinum Credit Card. Most Important Terms (MITs) are also part of Terms and Conditions for a Platinum Credit Card and are to be read along with the Cardholder Agreement.
+- Please
+- to view the Terms and Conditions.
+- to view the Card Member Agreement.
+
+## Flipkart Axis Bank Super Elite Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/flipkart-axis-bank-super-elite-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Flipkart Axis Bank SuperElite Credit Card \| Axis Bank  
+**Official meta description:** Axis Bank Flipkart SuperElite Credit Card provides welcome benefits like 500 Flipkart SuperCoins, exciting memberships of YouTube, Gaana, Lenskart and much more!  
+
+### Official extracted card text
+
+- Flipkart Axis Bank Super Elite Credit Card
+- Welcome Benefits
+- Earn 500 SuperCoins on card activation
+- Earn SuperCoins on every spend
+- Fuel Surcharge Waiver
+- Flipkart Axis Bank SuperElite Credit Card
+- Earn even as you spend! For every transaction you do on your Flipkart Axis Bank SuperElite Credit card, reward points are credited to your SuperCoins balance in the Flipkart app.
+- 500 SuperCoins on card activation.
+- Special features
+- Additional 12 SuperCoins per ₹100 spent on Flipkart by plus members.
+- 2 months trial membership of YouTube Premium
+- 3 months trial subscription of Gaana Plus
+- 1 year membership of Lenskart Gold
+- Extra ₹500 off on Myntra select styles* (* - valid on maximum 3 transactions on orders above ₹2,999).
+- 15% off on domestic flight booking via Flipkart Flights* (* - maximum discount of up to ₹1,500).
+- Flat 30% off on the first medicine order from Flipkart Health.
+- For terms & conditions,
+- Additional 6 SuperCoins per ₹100 spent on Flipkart by non-plus members
+- 2 Supercoins per ₹100 on all other spendings.
+- The fees and charges for Flipkart Axis Bank SuperElite Credit Card are listed in the table below:
+- Description
+- Charges
+- Joining fee
+- ₹500
+- Annual fee
+- 2nd year Onwards: ₹ 500
+- Annual fee waived off on annual spends greater than ₹2,00,000.
+- Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends counted in availing annual fee waiver
+- Add-on card joining fee
+- Nil
+- Add-on card annual Fee
+- Card replacement fee (w.e.f 10/10/20)
+- ₹100
+- Cash payment fee
+- ₹175
+- Duplicate statement fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Hotlisting charges
+- Balance enquiry charges
+- Finance charges (Retail purchases & cash)
+- 3.75% per month (55.55% per annum)
+- Cash withdrawal fees
+- 2.5% (Min. ₹500) of the cash amount
+- Overdue penalty or late payment fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹ 10,000
+- Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Over limit penalty
+- 2.5% of over the limit amount (Min. ₹500).
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to (Min. ₹500)
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- Rent Transaction fee (Applicable from 5th March 2023)
+- 1% fee per transaction will be applicable on rental transactions
+- Dynamic Currency Conversion markup (Applicable from 5th March 2023)
+- 1.5% will be applicable on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation
+- Education Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Utility Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Wallet Load Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle
+- Online Skill Based Gaming Transaction Fee (Applicable from 20th Dec, 2024)
+- 1% fee will be applicable on cumulative spends of ₹10,000 or more on online skill based gaming platforms per statement cycle
+- For all above fees and charges, taxes as per Government norms shall be applicable
+- Eligibility for Flipkart Axis Bank SuperElite Credit Card
+- Primary cardholder should be between the age of 18 and 70 years
+- The individual should either be a resident of India or a non-resident Indian (NRI)
+- Note that these criteria are only indicative and Axis Bank reserves the ultimate right to approve or decline applications for Flipkart Axis Bank SuperElite Credit Card.
+- Documentation for Flipkart Axis Bank Credit Card application
+- Unless there are case variations, the required documents for Flipkart Axis Bank Credit Card application include a copy of your PAN card or Form 60, residence proof, identity proof, a colour photograph and proof of income in the form of latest payslip / Form 16 / IT return copy.
+- Keep your documents for Flipkart Axis Bank Credit Card ready
+- The following documents are required:
+- PAN card photocopy or Form 60
+- Colour photograph
+- Latest payslip/Form 16/IT return copy as proof of income
+- Residence proof (any one of the following):
+- Passport
+- Ration Card
+- Electricity bill
+- Landline telephone bill
+- Identity proof (any one of the following):
+- Driving license
+- PAN card
+- Aadhaar card
+- Please note that this list is only indicative. Documents required may vary on a case-to-case basis.
+- Disclaimer:
+- The credit card decision would be communicated within 21 working days
+- Kwik Axis Bank Credit Card
+- Credit Card on UPI
+- Earn 2
+- EDGE REWARD
+- Points
+- per ₹200 spent
+- 1% fuel surcharge waiver
+- Food & Dining
+- Axis Bank Select Credit Card
+- Get 10,000
+- worth ₹2,000 on the activation of the card within 30 days of issuance (not applicable for free cards)
+- Get ₹500 off on a minimum transaction of ₹2,500 on Big Basket app/website, through Select credit card, valid once a month
+- Get ₹200 off on a minimum transaction of ₹1000 on Swiggy, valid twice a month
+- ₹3000
+- (NIL for Burgundy Customers)
+- Axis Bank AURA Credit Card
+- Get welcome decathlon OMNI Gift Card worth ₹750
+- Earn 2 points per spend of ₹200 and 5x reward points on Insurance
+- Get 48 online video doctor consultations free per year, Get 48 interactive fitness video training sessions free per year, Get discount upto ₹500 on health checkup
+- ₹749
+
+## Titanium Smart Traveler Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Titanium Smart Traveller Credit Card Online \| Axis Bank  
+**Official meta description:** Axis Bank Titanium Smart Traveller Credit Card comes with benefits for frequent travellers like EDGE rewards, converting transactions into EMIs, etc. Apply online now!  
+
+### Official extracted card text
+
+- Titanium Smart Traveler Credit Card
+- Titanium Smart Traveler
+- A card with extra travel benefits to make your
+- journeys more rewarding
+- View Offers
+- Fuel Surcharge Waiver
+- Convert Purchases to EMI
+- Extra EDGE points on spends abroad
+- Titanium Smart Traveller Credit Card
+- Titanium Smart Traveller Credit Card takes care of all your travelling needs without any hassle since it comes with extra travel benefits. It is the right choice for frequent travellers for it comes with additional perks and benefits. You can convert all your purchases above ₹ 2500
+- into EMI as a benefit of Smart traveler credit card. Also you will get Axis
+- and fuel surcharge waiver as other benefits.
+- Benefits of Titanium Traveller Credit Card are manifold and extend to various things like reward points, waiver of fuel surcharge, points on abroad spending, conversion of purchases to EMI, dining delights etc.
+- Fuel up and get a waiver on surcharge
+- 1% fuel surcharge waiver on all fuel transactions in India with an Axis Bank Titanium Credit Card
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- On any transaction over ₹ 1,500, contact the Bank to convert a big credit card purchase into EMIs through multiple options
+- Earn Axis
+- points for transactions and 500+ rewards and offers to redeem points. Earn points for these transactions:
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday.
+- Valid on transactions between ₹ 400 and ₹ 4,000 only
+- Maximum benefits up to ₹ 400* per statement cycle
+- GST charged on fuel surcharge is non-refundable
+- *No reward points are earned on fuel transactions
+- The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹ 10 instead of 1 percent with additional GST.
+- The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹ 10 + GST instead of 1% + GST.
+- 8 points on every ₹ 200 spent on the credit card while traveling abroad
+- 4 points for ever ₹ 200 spent on hotels, holiday packages, airlines, train and bus bookings in India
+- 2 points on every ₹ 200 spent on the
+- credit card
+- For options to redeem points, check the
+- Catalogue
+- *No Axis
+- Points will be awarded on fuel spends, balance transfer, cash withdrawal and transactions converted to EMI
+- No reward points will be credited for rent, utilities and insurance payments.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off up to ₹ 1000 on Tira
+- for more details and full terms & conditions.
+- On any transaction over ₹ 1,500, contact the Bank to convert a big credit card purchase into EMIs through multiple options - Internet Banking, Mobile App or Customer Service channel.
+- To know more,
+- Titanium Smart Traveller Credit Card Fees are applicable to all cardholders. Fees and charges for Titanium Smart Traveller Credit Card will be reflected in the next billing cycle along with applicable service taxes.
+- Description
+- Charges
+- Standard Joining Fee
+- ₹ 250 (Waived on spends of ₹ 2,500 within 45 days of card setup) for cards setup on or after February 07, 2011
+- Nil, for cards setup before February 07, 2011
+- Standard Annual Fee
+- ₹100 (from 2nd year onwards. Waived on spends of ₹ 50,000 in the preceding year), for cards setup on or after February 07, 2011
+- Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends calculated in availing annual fee waiver
+- Standard Add-on Card Joining Fee
+- ₹ 100 for cards setup before February 07, 2011
+- Nil, for cards setup on or after February 07, 2011
+- Standard Add-on Card Annual Fee
+- Nil
+- Finance Charges (Retail Purchases & Cash)
+- Titanium: 3.75% per month (55.55% per annum)
+- Fee for Cash Payment
+- ₹ 175/-
+- Card Replacement (lost or stolen or re-issue)
+- Emergency Card Replacement Fee when overseas (through VISA)
+- As per VISA Global Customer Assistance Services (GCAS).
+- Duplicate Statement Fee
+- Waived
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹ 500
+- ₹ 500 if total payment due is between ₹ 501 - ₹ 5,000
+- ₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000
+- ₹ 1200 if total payment due is greater than ₹10,000
+- An additional charge of ₹100 will be applicable
+- on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This
+- charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Over Limit Penalty
+- 2.5% of the overlimit amount (Min. ₹ 500)
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds
+- 2% of the payment amount, with a minimum
+- fee of INR 500 and no maximum cap on the fee
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Fuel Transaction Surcharge
+- 1% of transaction amount (Refunded for fuel transactions between ₹ 400 and ₹ 4000)
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- Mobile Alerts for Transactions
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Reward Redemption fee
+- Yes
+- Rent Transaction fee
+- - 1% on transaction will be applicable on each rental transaction done on MCC
+- 6513
+- Dynamic Currency Conversion Markup
+- 1.5% + taxes for each international transaction performed in
+- Indian currency at International location or transactions performed in Indian currency with merchants
+- located in India but registered in foreign nation
+- Urgent and Important:
+- With effect from 1st March 2012, Convenience fee* of ₹ 50 per payment will be charged for cash payment of credit card bills at our branches.
+- *The charges will reflect in the next billing cycle along with the service taxes applicable.
+- With effect from May 1, 2013, Complimentary MasterCard Airport Lounge Access programme will not be applicable for Titanium Credit Cards.
+- A credit card which is
+- easy on your pocket
+- View all Credit Cards
+- Terms and conditions for Titanium Smart Traveller Credit Card are applicable to all Credit Cardholders, applicants for Credit Cards, customers of Axis Bank, members of the general public, and are subject to changes.
+- Please
+- to view the terms and conditions
+- to view the card member agreement
+
+## Samsung Axis Bank Infinite Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-infinite-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Samsung Axis Bank Infinite Credit Card Online \| Axis Bank  
+**Official meta description:** Samsung Axis Bank Infinite Credit Card comes with benefits like cashback on Samsung products, reward points, complimentary Priority Pass, etc. Apply online now!  
+
+### Official extracted card text
+
+- Samsung Axis Bank Infinite Credit Card
+- Welcome Benefit
+- World of Cashback
+- Accelerated rewards
+- Complimentary Airport Lounge Access
+- Welcome to your Samsung Axis Bank Infinite Credit Card. This future-ready card is crafted with exclusive benefits and privileges that are designed to be in sync with your ever-evolving world.
+- We are currently not accepting applications for SAMSUNG AXIS BANK INFINITE Credit Card. Therefore, please proceed to apply for the SAMSUNG AXIS BANK SIGNATURE Credit Card instead.
+- 30000 EDGE REWARD Points upon 3 transactions within 30 days from card issuance date
+- Cashback Benefits
+- 10% cashback on Samsung purchases (including EMI transactions)
+- 15 EDGE REWARD POINTS on every ₹100 spent with our preferred partners bigbasket, Tata1mg, UrbanCompany, Myntra, Zomato
+- Complimentary lounge access
+- Enjoy 8 complimentary lounge visits per calendar year at select domestic airports with your Samsung Axis Bank Infinite credit card. For details
+- Fuel surcharge Waiver
+- 1% fuel surcharge waiver up to ₹500 per statement
+- EAZY DINER
+- Enjoy complimentary 1 year of free Eazy Diner prime membership with your Samsung Axis Bank Infinite Credit Card subject to activation of card
+- Priority Pass Membership
+- Get complimentary Priority Pass membership (worth 99$) with 6 complimentary International lounge visits in a year.
+- Convert Purchases to EMI
+- No matter how big your credit card purchase, go right ahead. Just contact us and convert your transaction of ₹2500 or more into easy EMI.
+- For terms & conditions,
+- Cashback is capped at ₹5,000 per month and ₹20,000 per annum
+- Cashback will be directly credited in your credit card statement
+- 15 EDGE REWARDS points on every ₹100 spent with our preferred partner bigbasket, Tata1mg, UrbanCompany, Myntra, Zomato
+- 15 EDGE REWARD POINTS on every ₹100 spent on all international transactions.
+- 5 EDGE REWARD POINTS* on every ₹100 spent, on all other domestic transactions
+- Enjoy 8 complimentary lounge visits per calendar year at select domestic airports with your Samsung Axis Bank Infinite credit card. For details on list of Airports & associated T&Cs
+- Access to domestic airport lounges will be based on a minimum eligible spend of ₹50,000 in previous 3 months (effective May 01, 2024)
+- Valid on transaction between ₹400 to ₹5000;
+- GST on fuel surcharge is non refundable
+- No cashback is earned on fuel transaction
+- Enjoy complimentary 1 year of free Eazy Diner prime membership with your Samsung Axis Bank Infinite Credit Card subject to activation of card within 30 days from the date of issuance.
+- to know more.
+- for detailed terms & conditions.
+- No matter how big your credit card purchase, go right ahead. Just contact us and convert your transaction of ₹2500 or more into easy EMI. Click
+- Dining delight
+- Indulge in delectable cuisines and enjoy 15% off upto ₹500, can be availed once per month at 4000+ partner restaurants in India, minimum order value ₹2500.
+- Individuals eligible for Samsung Axis Bank Infinite Credit Card:
+- Please note that these criteria are only indicative and the bank reserves the ultimate right to approve or decline applications for Samsung Axis Bank Infinite Credit Card
+- Primary cardholder should be between the age of 18 and 70 years
+- The individual should be a Resident of India
+- Documents for Samsung Axis Bank Credit Card application:
+- Unless there are case variations, the required documents for Samsung Axis Bank Infinite Credit Card application
+- include a copy of your PAN card or Form 60, residence proof, identity proof, a colour photograph and proof of income in the form of latest
+- payslip / Form 16 / IT return copy.
+- Keep your documents for Samsung Axis Bank Infinite Credit Card ready
+- The following documents are required:
+- PAN card photocopy
+- Colour photographs
+- Latest payslip/Bank statement/Form 16/IT return copy as proof of income
+- Residence proof: (any one of the following)
+- Passport
+- Driving License
+- Voter ID Card
+- Aadhaar card
+- Identity proof (any one of the following):
+- PAN card
+- Please note that this list is only indicative. Documents required may vary on a case-to-case basis.
+- Samsung Axis Bank Infinite Credit Card Fees and Charges
+- Stay informed about the fees and charges on your Credit Card to manage your finances better and make confident spending decisions.
+- Descriptions
+- Charges
+- Joining Fee - Primary Card
+- ₹5000/-
+- Joining fee - Add-on Card
+- Waived
+- Annual fee - Primary Card
+- Annual Fee: ₹5000 2nd year onward
+- Annual fee waived off on annual spends greater than ₹7,00,000/-
+- Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends counted in availing annual fee waiver
+- Annual fee - Add-on Card
+- Card replacement fee - Primary Card
+- ₹100/-
+- Card replacement fee - Add-on Card
+- Cash Payment Fee
+- ₹175/-
+- Duplicate Statement fee
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Mini statement SMS
+- Outstation cheque fee
+- Transaction Alert SMS
+- Balance enquiry charges
+- Finance charges (Retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Late Payment Fees
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional ₹100 charge will belevied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.
+- Cash withdrawal fees
+- 2.5% (Min. ₹500) of the cash amount
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to minimum Rs. 500
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- As per existing Government norms
+- Rent Transaction Fee
+- Rent Transaction fee of 1% per transaction will be applicable on each rental transaction done on Samsung Axis Bank Infinite Credit Card. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513.
+- Dynamic Currency Conversion
+- Dynamic Currency Conversion markup of 1.5% plus taxes will be applicable on Samsung Axis Bank Infinite Credit Card for each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation.
+- Edge Rewards Fees
+- A redemption fee of ₹99 will apply per transaction on the
+- platform. A fee of ₹199 will be charged per transaction for converting or transferring
+- Points to partner loyalty programs.
+- Transaction Fees
+- A transaction fee of 1% will be applicable on education payments made via third-party apps. However, payments and transactions made directly through education institutional websites or their POS machines will not incur this fees.
+- Cumulative spends exceeding ₹10,000 on wallet loads, ₹50,000 on fuel, ₹25,000 on utilities, and ₹10,000 on online skill-based gaming platforms within a statement period will attract a 1% transaction fee.
+- Category
+- Benefit
+- Annual Spends
+- Benefits in INR
+- Activation Benefit:
+- (Edge Reward Points on completing 3 transactions within 30 days of card issuance)
+- ₹6000
+- Samsung Purchases (including EMI)
+- 10%
+- ₹2,00,000
+- ₹20,000
+- Purchases from Zomato
+- (₹1500*2 times a month) =3000*12
+- 3%
+- ₹36,000
+- ₹1080
+- Purchases from BigBasket
+- ₹8000 per month*12months
+- ₹96000
+- ₹2880
+- Purchases from Myntra
+- ₹5000*4 times a year
+- ₹600
+- Purchases from Urban Company
+- ₹3000*4 times a year
+- ₹12,000
+- ₹360
+- Purchases from Tata 1Mg
+- ₹800 per month * 12 months
+- ₹24,000
+- ₹720
+- International Spends
+- ₹1,00,000
+- ₹3000
+- (Upto ₹500 per statement cycle)
+- ₹8000per month * 12 months
+- 1%
+- ₹96,000
+- ₹960
+- Other Domestic Spends
+- ₹10000 per month *12months
+- ₹1,20,000
+- ₹1200
+- (8 domestic airport lounge access per annum)
+- ₹8,000
+- Complimentary Priority Pass Membership
+- ₹7,890
+- Total
+- ₹704000
+- ₹52690
+
+## Fibe Axis Bank Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/fibe-axis-bank-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Fibe Axis Bank Credit Card Online \| Axis Bank  
+**Official meta description:** Apply for Fibe Axis Bank Credit Card for a smarter way to pay. Enjoy rewards, contactless payments, and exclusive offers on dining, shopping & more. Get yours today!  
+
+### Official extracted card text
+
+- Fibe Axis Bank Credit Card
+- Up to 3% cashback on daily spends
+- Enjoy a lifetime free credit card
+- 1% fuel surcharge waiver
+- Midweek special offers
+- A lifetime free credit card loaded with cashback, dining discounts, UPI convenience, and complimentary airport lounge access.
+- Credit Card on UPI
+- Up to 3% cashback on every transaction
+- 3% cashback* on food delivery, entertainment & local commute
+- Credit Card on UPI Transactions
+- Link your Fibe Axis Bank Credit Card with UPI to enjoy quick and seamless UPI experience.
+- Airport Lounge Access
+- Enjoy 4 complimentary domestic lounge visit to select airport lounges per calendar year.
+- To view select airport lounge list and T&C,
+- Fuel Surcharge waiver
+- 1% Fuel surcharge waiver is applicable for fuel spends between ₹400 & ₹5000.
+- Enjoy exceptional dining experiences at top restaurants across India
+- Lifetime Free Card
+- Get your Fibe Axis Bank Credit Card at zero joining and Annual Fee
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- 1% cashback* on all other spends.
+- To view cashback T&C,
+- to know the steps for linking your credit card to UPI.
+- 1% Fuel surcharge waiver is applicable for fuel spends between ₹400 & ₹5000. Max waiver up to ₹400 per month.
+- The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹10 + GST instead of 1% + GST.
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- for more details and full terms & conditions.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- Description
+- Charges
+- Joining Fee
+- Nil
+- Annual Fee
+- Card Replacement fee
+- Cash Payment fee
+- ₹175/-
+- Duplicate Statement Fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Balance enquiry charges
+- Finance Charges (Retail purchases and Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fee
+- 2.5% (Min. ₹500) of the cash amount
+- Overdue penalty or Late payment fees
+- Nil if total payment Due is up to ₹500
+- ₹500 if total payment due is between ₹501 - ₹5000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is ₹10,001 and above
+- An additional charge of ₹ 100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods.
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹ 500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- Fuel Transaction fee
+- 1% fee will be applicable on cumulative spends of ₹50,000/- or more on fuel transactions per statement cycle
+- Rent Transaction fee
+- 1% fee per transaction on rental transactions
+- Utility Transaction fee
+- 1% fee will be applicable on cumulative spends of ₹25,000/- or more on utility transactions per statement cycle
+- Education Transaction fee
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Wallet Load Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹10,000/- or more on wallet load transactions per statement cycle
+- Online Skill Based Gaming Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹10,000/- or more on Online skill based gaming platforms in a statement cycle
+- Dynamic Currency Conversion markup
+- 1.5% + taxes on international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation
+- Eligibility for Fibe Axis Bank Credit Card
+- Primary Cardholder should be 18-70 years of age
+- The individual should either be a Resident of India or a Non-Resident Indian
+- *Fibe Axis Bank Credit Card is sourced only to exisitng to Fibe customers. The above criteria are only indicative. The bank reserves the right to approve or decline applications for credit card.
+- Documentation for Fibe Axis Bank Credit Card
+- PAN Card photocopy or Form 60
+- Proof of income - Latest payslip / Form 16 / IT Return
+- Residence proof - Driving License / Electricity Bill / Landline Telephone Bill
+- Please note that this list is only indicative. Documents required may vary on a case-to-case basis.
+- How to Link & Use Fibe Axis Bank Credit Card on UPI
+- 01
+- 1 - Link your Fibe Axis Bank Credit Card on UPI Application
+- a. Download any UPI Application (eg. BHIM, Paytm)
+- b. Verify your mobile number on the application and complete registration
+- c. Click on Button "Link RuPay Credit Card", post successful registration
+- d. Select Credit Card Issuer Bank
+- e. Select your Fibe Axis Bank Credit Card to be linked
+- f. Proceed to generate UPI PIN
+- 02
+- 2 - Transact seamlessly with Scan & Pay Feature
+- a. Scan Merchant QR Code or enter Merchant UPI ID
+- b. Enter Amount or pay auto-fetched amount
+- c. Select Fibe Axis Bank Credit Card
+- d. Enter UPI PIN and Confirm
+- e. Payment confirmation status will be displayed on screen
+- 03
+- 3 - Credit Card Bill Payment
+- a. Open any UPI App, click on "Pay to UPI Id" option and enter UPI Id as cc.91@axisbank Example:
+- cc.9192498680825514@axisbank
+- b. Name of the Cardholder will be displayed for confirmation
+- c. Enter the payment amount and UPI PIN to pay
+- 04
+- 4 - Manage your card on Axis Mobile App
+- a. Go to
+- Section and click on Fibe Axis Bank Credit Card.
+- b. Enter activation code available in physical welcome letter.
+- c. You will be routed to Card Control Settings page where you can change your card control settings.
+- For detailed FAQs on Credit Card on UPI,
+- Swipe your Credit Card into a world of convenience
+- Airport Lounge Access Credit Card
+- Experience the ultimate travel luxury with Airport Lounge Access Credit Cards, offering lounge access and exclusive travel perks.
+- Rupay Credit Card
+- Go local, go smart with RuPay Credit Card and enjoy awesome rewards and secure, hassle-free transactions across India.
+- Lifetime Free Credit Card
+- Enjoy financial freedom with our Lifetime Free Credit Card - no annual fees, just exclusive discounts and offers.
+- Lifestyle Credit Card
+- Unlock endless rewards and convenience with our Lifestyle Credit Card, where every swipe brings you exciting benefits.
+- Terms and Conditions
+- The terms and conditions of Fibe Axis Bank Credit Card will be updated w.e.f. 20th June, 2025. Please
+- to know more.
+
+## Axis Bank Shoppers Stop Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-shoppers-stop-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Axis Bank Shoppers Stop Credit Card - Apply for Credit Card Online \| Axis Bank  
+**Official meta description:** Axis Bank Shoppers Stop Credit Card comes with benefits like cashback at shopper's stop, fuel surcharge waivers, dining delights, rewards, etc. Apply for Shoppers Stop Credit Card now!  
+
+### Official extracted card text
+
+- Axis Bank Shoppers Stop Credit Card
+- Welcome Benefits
+- Enjoy First Citizen reward points worth ₹300 upon first transaction within 30 days of card issuance
+- Reward Points
+- Unlimited 20 First Citizen accelerated points for every ₹200 spent on private label brands of Shopper's Stop
+- Fuel Surcharge Waiver
+- Get 1% fuel surcharge on fuel purchases at all fuel outlets across India
+- Get Complimentary Shoppers Stop vouchers worth ₹2250 redeemable at Shoppers Stop and Homestop
+- Enjoy exclusive privileges of complimentary Golden Glow Membership
+- Unlimited 12 First Citizen accelerated points for every ₹200 spent on beauty products and other brands at Shopper's Stop
+- Unlimited 2 First Citizen points earned on every ₹200 spent elsewhere
+- Reward points will be credited directly to the customer's First Citizen Loyalty account
+- Exclusive discounts on EazyDiner
+- Enjoy a 15% instant discount on EazyDiner with Axis Bank Shoppers Stop Credit Card
+- Maximum discount is capped at ₹500 per month
+- Offer is applicable on a minimum order value of ₹2500
+- Valid on transactions between ₹400 to ₹5000 only; maximum benefit up to ₹400 per statement cycle
+- GST charged on fuel surcharge is non-refundable
+- Check your eligibility for Axis Bank Shoppers Stop Credit Cards
+- Primary Cardholder should be 18-70 years of age.
+- The individual should be a Resident of India.
+- *The above criteria are only indicative. The bank reserves the right to approve or decline applications for credit card.
+- PAN Card photocopy
+- Proof of income
+- Latest payslip / Form 16 / IT return
+- Residence proof
+- Driving License / Electricity Bill / Landline Telephone Bill
+- bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- The Axis Bank Shoppers Stop Credit Card fees and charges are listed in the table below:
+- DESCRIPTION
+- CHARGES
+- Joining fee
+- ₹500 (only for new card issuance)
+- Annual Fee
+- ₹500 (Waived for cumulative spend of Rs. 1 L and above)
+- Add-on card joining fee
+- Nil
+- Add-on card annual fee
+- Card replacement fee
+- Cash payment fee
+- ₹175
+- Duplicate Statement fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile alerts for transactions
+- Free
+- Balance enquiry charges
+- Finance charges (Retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Cash withdrawal fees
+- 2.5% (Min. ₹500) of the cash amount
+- Overdue penalty or Late payment fees
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional INR 100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- Fuel Transaction fee
+- 1% fee will be applicable on cumulative spends of ₹50,000/- or more on fuel transactions per statement cycle
+- Rent Transaction fee
+- 1% fee per transaction on rental transactions
+- Utility Transaction fee
+- 1% fee will be applicable on cumulative spends of ₹25,000/- or more on utility transactions per statement cycle
+- Education Transaction fee
+- 1% fee per transaction will be applicable on education payments made via third party apps
+- Wallet Load Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹10,000/- or more on wallet load transactions per statement cycle
+- Online Skill Based Gaming Transaction Fee
+- 1% fee will be applicable on cumulative spends of ₹10,000/- or more on Online skill based gaming platforms in a statement cycle
+- Dynamic Currency Conversion markup
+- 1.5% + taxes on international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation
+- Axis Bank Shoppers Stop Credit Card Value Chart on Annual Spends of Rs. 3,00,000
+- Benefits of Axis Bank Shoppers Stop Credit Card
+- Annual Spends(₹)
+- Savings(₹)
+- Welcome Vouchers (Vouchers redeemable at stores)*
+- 15,000
+- 1500
+- Welcome Vouchers (Vouchers Redeemable online)*
+- 1,500
+- 250
+- Rs.500 Shoppers Stop vouchers redeemable on Exclusive Brand Apparel only*
+- 2,500
+- 500
+- Welcome Benefit: First Citizen Reward Points worth Rs. 300*
+- 300
+- Annual Spends at Shoppers Stop on Exclusive Brand Apparel
+- 50,000
+- 2500
+- Annual Spends at Shoppers Stop (on other brands), Homestop, Arcelia, M.A.C, Clinique, Estee Lauder, Bobbi Brown, Jo Malone & Smashbox
+- 70,000
+- 2100
+- Annual Spends outside the above-mentioned stores
+- 1,50,000
+- 750
+- Spends in excluded categories
+- 20,000
+- 10,000
+- 100
+- Annual Spends fee waiver
+- 100000
+- Total Annual Savings^
+- 8,500
+- Total Benefits on Axis Bank Shoppers Stop Credit Card is more than Rs. 8500 (value chart is for illustrative purpose only)
+- *Only applicable for the first year
+- ^Valid on transactions between Rs. 400 and Rs. 5000 only. GST charged on fuel surcharge is non-refundable.
+- Out of Rs. 20,000 spent on Excluded categories, Rs. 10,000 is spent on Fuel. No reward points are earned on fuel transactions
+- ^^The Redemption Value of Each FC Point = Rs. 0.50
+
+## Axis Bank Credit Card Listing Page
+
+**Official page:** https://www.axis.bank.in/cards/credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Credit Card - Apply for Credit Card Online & Get Instant Approval \| Axis Bank  
+**Official meta description:** Credit Card - Avail an instant credit card for your needs with competitive rewards, cashbacks & many exclusive benefits. Apply for Credit Card online now with Axis Bank!  
+
+**Source note:** This URL is an Axis Bank general credit-card listing page, not a specific card product page. It is not expanded into a card-benefit entry to avoid mixing multiple cards or repeating unrelated listing content.
+
+## Samsung Axis Bank Signature Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Samsung Axis Bank Signature Credit Card Online \| Axis Bank  
+**Official meta description:** Samsung Axis Bank Signature Credit Card comes with benefits like cashback on Samsung products, fuel surcharge waivers, dining delights, rewards, etc. Apply online now!  
+
+### Official extracted card text
+
+- Samsung Axis Bank Signature Credit Card
+- Welcome Benefit
+- World of Cashback
+- Accelerated rewards
+- Complimentary Airport Lounge Access
+- Experience the smarter life with Samsung Axis Bank SIGNATURE Credit Card. A future-ready card that opens the world of exclusive benefits and privileges to keep up with your ever-evolving demands.
+- Samsung Axis Bank Signature Credit Card Features & Benefits
+- 2500 EDGE REWARD Points on doing 3 transactions within 30 days from card issuance date
+- Cashback Benefits
+- 10% cashback on Samsung purchases (including EMI transactions)
+- 10 EDGE REWARD POINTS on every ₹100 spent with our preferred partners bigbasket, Tata1mg,
+- UrbanCompany, Myntra, Zomato
+- Complimentary lounge access
+- Enjoy 4 complimentary lounge visits per calendar year at select domestic airports with your Samsung Axis Bank Signature credit card.
+- Fuel surcharge Waiver
+- 1% fuel surcharge waiver up to ₹500 per statement on transactions between ₹400-5000
+- Convert Purchases to EMI
+- No matter how big your credit card purchase, go right ahead. Just contact us and convert your transaction of ₹2500 or more into easy EMIs.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- For terms & conditions,
+- Cashback is capped at INR 2,500 per month and INR 10,000 per annum
+- Cashback will be directly credited in your credit card statement
+- 10 EDGE REWARD POINTS on every Rs 100 spent with our preferred partners bigbasket, Tata1mg,
+- 5 EDGE REWARD Points* on every ₹100 spent, On all other domestic and international transactions
+- Enjoy 4 complimentary lounge visits per calendar year at select domestic airports with your Samsung Axis Bank Signature credit card. For details on list of Airports & associated T&Cs
+- Access to domestic airport lounges will be based on a minimum eligible spend of ₹50,000 in previous 3 months (effective May 01, 2024)
+- 1% fuel surcharge waiver up to ₹500 per statement on transactions between INR 400-4000
+- Valid on transaction between ₹400 to ₹4000;
+- GST on fuel surcharge is non refundable
+- No cashback is earned on fuel transaction
+- Dining delights
+- Indulge in delectable cuisines and enjoy 15% off upto ₹500, can be availed once per month at 4000+ partner restaurants in India, minimum order value ₹2500.
+- to know more.
+- Disclaimer: These are portfolio offers and are subject to change at Bank's discretion.
+- Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip
+- 10% off on orders via Swiggy and Amazon Fresh
+- 10% off upto ₹1000 on Tira
+- Fees & Charges - Samsung Axis Bank Signature Credit Card
+- Description
+- Charges
+- Joining Fee - Primary Card
+- ₹500/-
+- Joining fee - Add-on Card
+- Waived
+- Annual fee - Primary Card
+- Annual Fee: 500 2nd year onward
+- Annual fee waived off on annual spends greater than ₹2,00,000/-
+- Annual fee - Add-on Card
+- Card replacement fee - Primary Card
+- ₹100/-
+- Card replacement fee - Add-on Card
+- Cash Payment Fee
+- ₹175/-
+- Duplicate Statement fee
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Mini statement SMS
+- Outstation cheque fee
+- Transaction Alert SMS
+- Balance enquiry charges
+- Finance charges (Retail purchases and cash)
+- 3.75% per month (55.55% per annum)
+- Late Payment Fees
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional ₹100 charge will be
+- levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will
+- apply until the MAD is cleared.
+- Cash withdrawal fees
+- 2.5% (Min. ₹500) of the cash amount
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to minimum ₹500
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- As per existing Government norms
+- Rent Transaction Fee
+- Rent Transaction fee of 1% per transaction will be applicable on each rental transaction done on Samsung Axis Bank Signature Credit Card. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513.
+- Dynamic Currency Conversion
+- Dynamic Currency Conversion markup of 1.5% plus taxes will be applicable on Samsung Axis Bank Signature Credit Card for each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation.
+- Edge Rewards Fees
+- A redemption fee of ₹99 will apply per transaction on the
+- platform. A
+- fee of ₹199 will be charged per transaction for converting or transferring
+- REWARD
+- Points to partner loyalty programs.
+- Transaction Fees
+- A transaction fee of 1% will be applicable on education payments made via third-party apps. However, payments and transactions made directly through education institutional websites or their POS machines will not incur this fees.
+- Cumulative spends exceeding ₹10,000 on wallet loads, ₹50,000 on fuel, ₹25,000 on utilities, and ₹10,000 on online skill-based gaming platforms within a statement period will attract a 1% transaction fee.
+- Check your eligibility for Samsung Axis Bank Signature Credit Card
+- Individuals eligible for Samsung Axis Bank Signature Credit Card:
+- Please note that these criteria are only indicative and the bank reserves the ultimate right to approve or decline applications for Samsung Axis Bank Signature Credit Card
+- Primary cardholder should be between the age of 18 and 70 years
+- The individual should be a Resident of India
+- Documents for Samsung Axis Bank Credit Card application:
+- Unless there are case variations, the required documents for Samsung Axis Bank Signature Credit Card application include a copy of your PAN card or Form 60, residence proof, identity proof, a colour photograph and proof of income in the form of latest payslip / Form 16 / IT return copy.
+- Keep you documents ready for Samsung Axis Bank Signature Credit Card ready
+- The following documents are required:
+- PAN card photocopy
+- Colour photographs
+- Latest payslip/Bank statement/Form 16/IT return copy as proof of income
+- Residence proof: (any one of the following)
+- Passport
+- Driving License
+- Voter ID Card
+- Aadhaar card
+- Identity proof (any one of the following):
+- PAN card
+- Please note that this list is only indicative. Documents required may vary on a case-to-case basis.
+- Assuming ₹2 lakh annual spends
+- Category
+- Benefit
+- Annual Spends(₹)
+- Benefits(₹)
+- Activation Benefit:
+- (Edge Reward Points on completing 3 transactions within 30 days of card issuance)
+- Samsung Purchases (including EMI)
+- 10%
+- 1,00,000
+- 10,000
+- Purchases from Zomato
+- (Rs. 500*2 times a month) =1000*12
+- 2%
+- 12,000
+- 240
+- Purchases from BigBasket
+- Rs.1500 per month*12months
+- 18,000
+- 360
+- Purchases from Myntra
+- Rs.3000*4 times a year
+- 8,000
+- 160
+- Purchases from Urban Company
+- Rs.1200*4 times a year
+- 4,800
+- 96
+- Purchases from Tata 1Mg
+- Rs.800 per month * 12 months
+- 9,600
+- 192
+- (Upto INR 500 per statement cycle) Rs.3000per month * 12 months
+- 1%
+- 36,000
+- Other Spends
+- Rs.4000 per month *12months
+- 48,000
+- 480
+- (4 domestic airport lounge access per annum)
+- 4,000
+- Total
+- 236400
+- 16388
+- *Please note that above figures are indicative
+
+## Miles More Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/miles-more-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Miles & More Credit Card - Apply for Miles & More Credit Card \| Axis Bank  
+**Official meta description:** Miles & More Credit Card lets you earn award miles on all eligible spends, set up automatic bill pays, etc. Apply for Miles & More credit card online at Axis Bank!  
+
+### Official extracted card text
+
+- Miles More Credit Card
+- Your Axis Credit Card offer awaits you!
+- Your Axis Credit Card awaits you!
+- Miles & More Axis Bank Credit Card
+- The Miles & More Axis Bank Credit Card offers you dual benefits with unlimited miles for travel. The other benefits include membership to the Miles & More Club, enabling automatic payments with your card and paying utility bills. Get unrivalled safety for your transactions with the EMV certified chip in your Miles & More Credit Card. Spend more and be eligible to earn unlimited miles with the Miles & More Axis Bank Credit Card.
+- Downloads
+- Besides earning unlimited miles other benefits of Miles & More Axis Bank Credit Card include bonus miles on card activation and a priority pass with complimentary visits. Miles & More Axis Bank Credit Card also covers any mishaps through insurance on baggage losses, air accidents,
+- lost card or credit shield.
+- All miles redemption are done via Miles & More only. Please contact 18001025838 from Monday to Friday (9am to
+- 6pm) and Saturday(9am to 1pm), quoting your Miles & More membership number. To know more please,
+- Get up to 15,000 Bonus Miles
+- Earn up to 15,000 Bonus Welcome Miles and a Priority Pass as joining benefits on your first transaction.
+- Earn unlimited and never expiring miles
+- Earn Bonus Welcome award miles on your first transaction and a priority pass
+- Redeem your miles for exciting rewards
+- Redeem accumulated miles in numerous ways on the Miles and More (India) website
+- Access airport lounges across the world with your first swipe
+- Priority Pass Lounge Access
+- Spend securely
+- Credit card is enabled with a chip and PIN facility, offering unrivalled protection
+- Pay bills from any bank account
+- Enroll for auto-debit and pay Axis Bank Credit Card bills from any other bank account.
+- Pay utility bills automatically
+- Initiate a simple standing instruction on the credit card to make utility bill payments through the Axis Bank Bill Pay service and ensure all bills are paid on time
+- Keep yourself, your family and assets safe
+- to know more T&Cs
+- Convert purchases to EMI (equated monthly instalment)
+- On any transaction over ₹2,500, contact the Bank to convert a big credit card purchase into
+- EMIs
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- To know more please,
+- Eligible spends transactions are defined as spends excluding reversals, fraud
+- transactions, fee payments, cash withdrawals and advances, interest charges, EMI transactions,
+- and transactions identified under MCCs of fuel, wallet loads/spends, rent, insurance, utilities,
+- government spends and gold & jewelry.
+- Easily earn up to 55,000 miles in your first year and redeem them for exciting rewards.
+- While the Miles & More Axis Bank Credit Card is in use, award miles will never expire. Accumulate miles and enjoy benefits like award flights, a stay in a luxury resort or a dream vacation.
+- To ensure that miles never expire:
+- Be a Miles & More Credit Card holder for at least 3 months
+- Make at least 1 miles-related purchase every month with the Miles & More Credit Card by Axis Bank
+- First Transaction to be done within the first 30 days of card issuance.
+- Terms and conditions apply
+- Flights and Upgrades:
+- Book flights with all the Star Alliance airline partners and other Miles & More airline partners
+- Upgrade an already booked air ticket to a higher class of service with Condor and various Star Alliance partners
+- Hotels:
+- Spend miles on accommodation in premium hotels and luxurious resorts
+- Shopping:
+- Redeem miles at our partner stores or choose from our wide range of online partners
+- Car rentals:
+- Rent cars using Miles award
+- A good cause:
+- With award miles, help a child to go to school, ensure the care of an orphaned child, or replant forests
+- To find out more, please
+- On your
+- Axis Bank Miles & More World Credit Card
+- , you can avail 2
+- complimentary visits* to Priority Pass lounges card membership year.
+- Axis Bank Miles & More World Select Credit Card
+- , you can avail 4
+- *Terms & conditions apply
+- Complimentary visits on the Priority Pass are for the Primary cardholder only
+- Lounge visits post complimentary visits are subject to per person per visit charge
+- Guests charges are applicable for all visits
+- For all applicable charges and eligible lounges please visit
+- prioritypass.com
+- For renewal of your Priority Pass simply call and request on 1860-419-5555
+- MasterCard Lounge Access
+- Complimentary access to MasterCard Lounges in India
+- Program Terms & Conditions
+- There are 8 complimentary domestic lounge visits applicable per quarter for Miles &
+- More Axis Bank World Select Credit Card and 4 complimentary domestic lounge visits
+- applicable per quarter for Miles & More Axis Bank World Credit Card, subject to meeting the
+- spends criteria. For more details,
+- for Miles & More Axis Bank World Select Credit Card and
+- Miles & More Axis Bank World Credit
+- Card.
+- The program is available at the following airport lounges in India
+- List of Lounges
+- Chip is capable of storing and transacting data in an encrypted format and is encrypted with a PIN that is only known to the cardholder
+- How to use a CHIP and PIN card:
+- Just like a magnetic stripe card, the CHIP and PIN enabled credit card too can be used at the merchant's payment terminals directly. Instead of swiping the card, merchants need to 'Dip' your card into a CHIP reader slot.
+- Paying through CHIP and PIN enabled Credit Card is a 3-step process:
+- Dip/Swipe your card
+- Enter your ATM PIN
+- Sign on charge slip
+- Initiate a simple standing instruction on the credit card to make utility bill payments through the Axis Bank Bill Pay service and ensure all bills are paid on time every month
+- To know more details, please call the customer service on 1800 209 5577 / 1800 103 5577
+- List Of Billers
+- Enroll for auto-debit and pay Axis Bank Credit Card bills from any other bank account. Download the ECS forms (Part A and Part B) and send the completely filled forms through post to the address mentioned on the form.
+- ECS Form Part A
+- ECS Form Part B
+- Get 40% off or up to ₹1000 and 25% off or up to ₹800 at our partner restaurants across the country on Miles & More Axis Bank World Select Credit Card. Visit
+- dining.eazydiner.com/axisbank
+- to know more.
+- To learn more,
+- Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip
+- 10% off on orders via Swiggy and Amazon Fresh
+- 10% off upto ₹1000 on Tira
+- Miles & More Axis Bank World Select Card
+- Welcome Bonus: 15,000 miles
+- Miles & More Axis Bank World Card
+- Welcome Bonus: 5,000 award miles
+- Earn 6 Award Miles per ₹200 of eligible
+- spends
+- - Earn 4 Award Miles per ₹200 of eligible spends
+- No expiry of award miles
+- Annual Bonus : 4,000 award miles
+- Annual Bonus of 3,000 award miles
+- 8 complimentary visits to select airport lounges per quarter
+- 4 complimentary visits to select airport lounges per quarter
+- Preferred rates on Axis Bank loans
+- 4 Priority Pass lounge visits p.a
+- - Priority Pass will be issued automatically on activation of the Credit Card.
+- 2 Priority Pass lounge visits p.a
+- Total Miles* earned in a year
+- Monthly Spend (in ₹)
+- World Select Card
+- World Card
+- Activation Welcome Miles
+- 15,000
+- 5,000
+- Annual Miles on Renewal
+- 4,000
+- 3,000
+- Spend Linked Miles
+- 1,00,000
+- 36,000
+- 24,000
+- Total Miles
+- 55,000
+- 32,000
+- Eligibility for Miles & More Axis Bank Credit Card
+- Eligibility for Miles & More Credit Card includes an age limit for primary (18 - 70 years of age) and add-on card (18 years onwards) applicants. Applicants need to be residents of India. The eligibility conditions are indicative and Axis Bank has the sole right to take the final decision.
+- Individuals eligible for Miles & More Credit Card:
+- Primary cardholder between the age of 18 years and 70 years
+- Add-on cardholder should be over 18 years
+- Individual should either be a Resident of India or Non-Resident Indian
+- These criteria are only indicative. The bank reserves the right to approve or decline applications for credit cards.
+- Documents for Miles & More Credit Card include residence and identity proof as well as a PAN card / Form 60 and income proof. Applicants also need to provide a colour photograph. Additional credit card statement is required for existing Miles and More members. The documents can vary depending upon the case.
+- Documentation for Miles & More Axis Bank Credit Card
+- The following documents are required:
+- PAN card photocopy or Form 60
+- Colour photograph
+- Latest payslip / Form 16 / IT return copy as proof of income
+- Residence proof (any one of the following):
+- Passport
+- Ration card
+- Electricity bill
+- Landline telephone bill
+- Copy of latest Miles & More Membership Card statement (for existing Miles & More members only)
+- Credit card statement of existing Miles & More Credit Card (not older than 2 months) issued by Miles & More earlier Banking partner in India (for existing Miles & More members only)
+- This list is only indicative. Documents required may vary on a case-to-case basis.
+- Download Application Form - Miles & More Credit Card
+- The Miles & More Credit Card application form consists of ECS forms (Part A and Part B) that needs to be filled. Customers need to courier the completed application form at the given address to apply for the Miles & More Credit Card.
+- Download pdf
+- Frequently Asked Questions on CHIP & PIN
+- The fees and charges for Miles & More Credit Card are applicable to all card holders. Miles & More Credit Card fees are charged for cash payment, joining, cheque return, foreign currency transaction, late payment and an annual fee. Rest of the fees are waived off for customer benefit.
+- Charges
+- Axis Bank Miles and More World Credit Card
+- Axis Bank Miles and More Select Credit Card
+- Standard Joining Fee
+- ₹3,500 + GST
+- ₹10,000 + GST
+- Standard Annual Fee (2nd year onwards)
+- ₹4,500 + GST
+- Standard Add-on Card Joining Fee
+- Nil
+- Standard Add-on Card Annual Fee
+- Finance Charges (Retail Purchases & Cash)
+- 3.7% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹500) of the Cash Amount
+- Fee for Cash Payment
+- ₹175/-
+- Card Replacement
+- Duplicate Statement Fee
+- Waived
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.
+- Over Limit Penalty
+- 2.5% of the overlimit amount (Min. ₹500)
+- Chargeslip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Cheque return or dishonour Fee or Auto-debit Reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC / Indian Railways
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- Mobile Alerts for Transactions
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Reward Redemption fee
+- No
+- Rent Transaction fee
+- (Applicable from 5th March
+- 2023)
+- 1% fee per transaction will be applicable on rental transactions. Taxes will be applicable as notified by Government of India.
+- Wallet load transaction
+- 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle
+- Fuel Transaction
+- 1% fee will be levied on cumulative fuel transactions of ₹50,000 or more in a statement cycle
+- Education Transaction
+- 1% fee will be applicable on each education payments done through third party apps
+- Utility Transaction
+- 1% fee will be levied on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period
+- Online skill-based gaming
+- 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period
+- Dynamic Currency Conversion
+- markup (Applicable from 5th
+- March 2023)
+- 1.5% on International
+- transaction performed in
+- Indian currency at
+- International location or
+- transactions performed in
+- Indian currency with
+- merchants located in Indian
+- but registered in foreign
+- nation
+- Service Tax, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India.
+- The joining fee and the annual fee are waived for HON and Senator Status members, where the status will be defined as per the status for Miles & More membership account.
+- Over Limit Penalty 2.5% of the overlimit amount (Min. ₹500) 2.5% of the overlimit amount (Min. ₹500) Chargeslip Retrieval Fee or Copy Request Fee Waived Waived Outstation Cheque Fee Waived Waived Cheque return or dishonour Fee or Auto-debit Reversal 2% of the payment amount subject to Min. ₹450, Max. ₹1,515 2% of the payment amount subject to Min. ₹450, Max. ₹1,515 Surcharge on purchase or cancellation of Railway Tickets As prescribed by IRCTC / Indian Railways As prescribed by IRCTC / Indian Railways Foreign Currency Transaction Fee 3.50% of the transaction value 3.50% of the transaction value Mobile Alerts for Transactions Waived Waived Hotlisting Charges Waived Waived Balance Enquiry Charges Waived Waived Reward Redemption fee No No
+
+## Axis Bank Freecharge Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for Axis Bank Freecharge Credit Card Online \| Axis Bank  
+**Official meta description:** Axis Bank Freecharge Credit Card gives you benefits such as regular reward earn, milestone reward earn, offers by select merchants, etc. Apply for credit cards online!  
+
+### Official extracted card text
+
+- Axis Bank Freecharge Credit Card
+- Available instantly on Freecharge App to eligible customers
+- Earn
+- on achieving Milestones
+- Your Axis Bank Freecharge Credit Card provides you with a plethora of features such as Regular Reward Earn, Milestone Reward Earn along with offers by select merchants to keep you going.
+- Know your new virtual Instant Credit Card
+- Enjoy the convenience of a virtual card. For how to use the card, please
+- Regular reward earn
+- You get 1
+- EDGE REWARD
+- Point which you can use to redeem 500+ options
+- Milestone Reward
+- Earn milestone reward on you card as you spend
+- Special offers
+- Watch out this section for upcoming offers.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- Milestone reward earn
+- Spends per month
+- Points
+- 0-₹1999
+- ₹2000 to ₹4999
+- 100
+- ₹5000 and above
+- 350 (100 + 250)
+- To redeem the
+- Points, please
+- Other benefits
+- Upto 10% off on Myntra.
+- Get up to ₹100 credit* on Shuttl every month.
+- Get up to ₹120 off* on Freshmenu every month.
+- 50%* Off On Eros Now Annual Subscription.
+- Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip
+- 10% off on orders via Swiggy and Amazon Fresh
+- 10% off upto ₹1000 on Tira
+- Fees & Charges - Axis Bank Freecharge Credit Card
+- View fees and charges
+- Card Platform
+- Visa Platinum
+- Joining Fee
+- ₹250
+- Annual Fee
+- 1st Year: Nil
+- 2nd Year: ₹250
+- Rent Transactions and wallet load transactions will not be eligible for spends counted in availing annual fee waiver
+- Card Replacement Fee
+- Nil
+- Cash Payment Fee
+- ₹175
+- Duplicate Statement Fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Mobile Alerts for transaction
+- Free
+- Balance Inquiry charges
+- Finance Charges (Retail purchases and Cash)
+- 3.75% per month
+- Cash withdrawal fee
+- 2.5% (Min. ₹500) of the cash amount
+- Late Payment Fee
+- Nil if total payment due is less than ₹500
+- ₹500 if total payment due is between ₹501- ₹5,000
+- ₹750 if total payment due is between ₹5,001- ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods.
+- Over limit penalty
+- 2.5% over limit amount (Min ₹500)
+- Cheque return or Dishonour Fee or Auto Debit Reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value
+- Reward Redemption fee
+- A reward redemption fee of ₹99 will be levied for each redemption transaction of EDGE REWARD points or EDGE Miles on the EDGE portal.
+- A fee of ₹199 will be levied for each instance of conversion/transfer of EDGE REWARD points or EDGE Miles to other miles partner loyalty programs.
+- Rent Transaction
+- 1% on each rental transaction
+- Wallet load transaction
+- 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle
+- Fuel Transaction
+- 1% fee will be levied on cumulative fuel transactions of ₹50,000 or more in a statement cycle
+- Education Transaction
+- 1% fee will be applicable on each education payments done through third party apps
+- Utility Transaction
+- 1% fee will be levied on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period
+- Online skill-based gaming
+- 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period
+- Dynamic Currency Conversion Markup
+- 1.5% plus taxes will be applicable for each international transaction performed in Indian currency or International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation
+- Eligibility & Documentation - Axis Bank Freecharge Credit Card
+- Axis Bank Freecharge Credit Card is an invite only model, wherein, if the customer is eligible, he/she shall be able to see the banner on their Freecharge Mobile App.
+- Terms and Conditions
+- The terms and conditions of Axis Bank Freecharge Credit Card have been updated w.e.f 20th June, 2025. Please
+- to know more
+
+## Axis Bank Freecharge Plus Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-plus-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Axis Bank Freecharge Plus Credit Card \| Axis Bank  
+**Official meta description:** Apply for Axis Bank Freecharge Plus Credit Card and enjoy benefits including cashback on spends, daily commutes, dining, etc. Get the Axis Bank Freecharge Plus Credit Card now!  
+
+### Official extracted card text
+
+- Axis Bank Freecharge Plus Credit Card
+- Get cashback on every spend*
+- 5% cashback on Freecharge spends
+- Annual Fee Waiver
+- Benefits on Dining
+- This card unlocks a world of cashback on your freecharge spending, daily commute and all other spending. It can be used to pay your utility bills, cover your daily commute, and enjoy a host of benefits for entertainment and dining.
+- Cashback with every Transaction
+- 5% cashback on Freecharge spending.
+- Annual fee waived off on spending ₹50,000 in the preceding card anniversary year.
+- Enjoy exceptional dining experiences at top restaurants across India
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday
+- 2% cashback on local commute.
+- 1% cashback on all other spending.
+- To view cashback terms & conditions,
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- for more details and full terms & conditions.
+- Instant savings of up to 15% on flights & hotels via MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off up to ₹1000 on Tira
+- Description
+- Charges
+- Joining Fee
+- ₹350
+- Annual Fee
+- 1st year : NIL
+- 2nd year : ₹350
+- Rent Transactions and wallet load transactions will not be eligible for spends counted in availing annual fee waiver
+- Card Replacement fee
+- Nil
+- Cash Payment fee
+- ₹175
+- Duplicate Statement Fee
+- Waived
+- Charge slip retrieval fee or copy request fee
+- Outstation cheque fee
+- Finance Charges (Retail purchases and Cash)
+- 3.75% per month
+- Cash withdrawal fee
+- 2.5% (Min. ₹500) of the cash amount
+- Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater than ₹10,000
+- An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD)
+- is not made by the Payment Due Date (PDD) for two consecutive billing periods.
+- Over limit penalty
+- 2.5% of the over limit amount (Min ₹500)
+- Cheque return, dishonour fee, or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of railway tickets
+- As prescribed by IRCTC/Indian Railways
+- Foreign currency transaction fee
+- 3.5% of the transaction value.
+- Rent Transaction
+- 1% on each rental transaction
+- Wallet load transaction
+- 1% fee will be applicable on cumulative wallet load transactions of ₹10,000 or more in a statement cycle
+- Fuel Transaction
+- 1% fee will be applicable on cumulative fuel transactions of ₹50,000 or more in a statement cycle
+- Education Transaction
+- 1% fee will be applicable on each education payments done through third party apps
+- Utility Transaction
+- 1% fee will be applicable on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period
+- Online skill-based gaming
+- 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period
+- Dynamic Currency Conversion Markup
+- 1.5% plus taxes will be applicable for each international transaction performed in Indian currency or International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation
+- Eligibility for Axis Bank Freecharge Plus Credit Card
+- Axis Bank Freecharge Credit Card is an invite only model, wherein, if the customer is eligible, he/she shall be able to see the banner on their Freecharge Mobile App.
+- Details
+- Annual Spends(₹)
+- Cashback(₹)
+- Discount/Benefits(₹)
+- Spends on Freecharge
+- 15,000
+- 750
+- Spends on Local commute
+- 10,000
+- 200
+- Other Spends
+- 85,000
+- 850
+- Welcome Benefits
+- 700**
+- Total Annual Spends
+- 1,10,000
+- 1,800
+- 1,050
+- Total Annual Benefits
+- 2.59%*
+- *For Illustrative purposes only.
+- **Voucher offer is not applicable for card issued on and after 4th January, 2023.
+- Terms and Conditions
+- The terms and conditions of Axis Bank Freecharge Plus Credit Card have been updated w.e.f 20th June, 2025. Please
+- to know more.
+
+## Axis Bank Kwik Credit Card
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+
+**Source note:** This supplied link is the same official URL already extracted above for **Axis Bank Kwik Credit Card**. To avoid repeating information, the full write-up is not duplicated. No alternate card details were added because no different official Axis Bank URL was supplied for this entry.
+
+## Privilege Credit Card With Unlimited Benefits
+
+**Official page:** https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official Axis Bank page above. Linked PDFs, apply flows, offer T&C pages, airport lounge lists, partner pages, EMI calculators, and other linked resources were not opened.
+**Official page title:** Apply for PRIVILEGE Credit Card with unlimited benefits \| Axis Bank  
+**Official meta description:** Apply for Axis Bank Privilege Credit Card to enjoy activation benefits of Shopping or Travel vouchers worth Rs 5,000, insurance coverage upto Rs 2.5 Cr, etc. Know more online!  
+
+### Official extracted card text
+
+- PRIVILEGE Credit Card with unlimited benefits
+- Axis Bank Privilege Credit Card
+- Buy one get one offer on movie tickets
+- Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card.
+- Annual fee waiver
+- Annual fee waiver on achieving spends of ₹5 lakhs in a card anniversary year.
+- Milestone benefit
+- Get an additional 10,000 EDGE REWARDS points worth ₹2000 by spending ₹2.5 lakhs in a card anniversary year.
+- Access numerous airport lounges
+- 2 Complimentary access per calendar quarter to select domestic lounges with Axis Bank Privilege credit card.
+- Enjoy exceptional dining experiences at top restaurants across India.
+- Fuel up and get a waiver on surcharge
+- Fuel surcharge refund on spends at all fuel stations across India.
+- Earn Axis
+- EDGE REWARD
+- points for transactions and 500+ rewards and offers to redeem points. Earn points for these transactions:
+- Keep yourself, your family and your assets safe
+- Purchase Protection Plan of up to ₹1 lakh.
+- Activation benefit
+- Get 12500
+- points, Worth ₹2500 redeemable against vouchers upon levy of joining fees and on completion of 1st transaction within 30 days of card issuance.
+- Wednesday Delight
+- Beat the mid-week blues with exciting offers every Wednesday.
+- Fuel surcharge refund on spends at all fuel stations across India with a Privilege Credit Card from Axis Bank.
+- Valid on transactions between ₹400 and ₹4,000 only.
+- Service tax charged on fuel surcharge is non-refundable. No reward points are earned on fuel transactions.
+- Maximum benefits of up to ₹400 per statement cycle.
+- The fuel surcharge is not levied by the card issuing bank.
+- Only applicable for fuel MCC 5541, 5542, 5983
+- 10 points on every ₹200 spent on the
+- credit card
+- domestically/internationally.
+- Spends done on Insurance, rent, fuel, educational services, utilities and government MCC(merchant category codes) will not be eligible for earning
+- points will be debited for credit card transactions which are converted to EMI. On cancellation of the EMI transaction, points shall not be credited back to the original transaction.
+- For options to redeem points, check the
+- Axis EDGE REWARDS Catalogue
+- Credit shield ₹1 lakh.
+- Loss Travel Document Cover upto $300
+- Delay of Check-In Baggage Cover upto $300
+- Loss of Check-In Baggage Cover upto $500
+- Terms and conditions apply.
+- for a detailed coverage and claim procedure.
+- Free cards, first year free cards, and priority segment customers are not eligible for this benefit.
+- for detailed terms and conditions.
+- Annual benefits
+- Annual fees of ₹1500 will be reversed on achieving spending* of ₹5 lakhs in the previous card anniversary year.
+- for details on excluded transactions for Annual Fee Reversal.
+- 50K spends in prior 3 months to be eligible for access For complete list of lounges, please
+- Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.
+- for more details and full terms & conditions.
+- Instant savings of up to 15% on flights & hotels via Goibibo and MakeMyTrip
+- 10% off on orders via Swiggy
+- 10% off upto ₹1000 on Tira
+- Get up to ₹250 off, valid once a month
+- Apply the code AXISPRIVILEGE to get this discount. The offer will be valid wef 20th June 2025
+- Spends threshold for annual fee waiver will exclude transactions made on Utility & Telecom, Rent, Wallet, Government services, Insurance, Gold & Jewellery, Fuel, Educational services
+- For any details regarding Amex Privilege specific offers
+- In Privilege Credit Card fees, overdue penalty, fee on cash payment, etc. are applicable as per terms and conditions. However, fees and charges for Privilege Credit Card are waived for services like mobile alerts. The detailed fee structure is provided below.
+- Description
+- Charges
+- Standard Joining Fee
+- ₹1500
+- Standard Annual Fee (2nd year onwards)
+- Standard Add-on Card Joining Fee
+- Nil
+- Standard Add-on Card Annual Fee
+- Finance Charges (Retail Purchases & Cash)
+- 3.75% per month (55.55% per annum)
+- Cash Withdrawal Fees
+- 2.5% (Min. ₹500) of the Cash Amount
+- Fee for Cash Payment
+- ₹175
+- Card Replacement
+- Duplicate Statement Fee
+- Waived
+- Overdue Penalty or Late Payment Fee
+- Nil if Total Payment Due is less than ₹500
+- ₹500 if total payment due is between ₹501 - ₹5,000
+- ₹750 if total payment due is between ₹5,001 - ₹10,000
+- ₹1200 if total payment due is greater
+- than ₹10,000
+- Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is
+- cleared.
+- Over Limit Penalty
+- 2.5% of the overlimit amount (Min. ₹500)
+- Charge Slip Retrieval Fee or Copy Request Fee
+- Outstation Cheque Fee
+- Cheque return or dishonor fee or auto-debit reversal
+- 2% of the payment amount subject to Min. ₹500
+- Surcharge on purchase or cancellation of Railway Tickets
+- As prescribed by IRCTC/Indian Railways
+- Fuel Transaction Surcharge
+- 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)
+- Foreign Currency Transaction Fee
+- 3.50% of the transaction value
+- Rent Surcharge Fee*
+- 1% of the rental txn amount
+- Wallet load transaction fee
+- 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle
+- Fuel transaction fee
+- 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle
+- Education transaction fee
+- 1% fee on education payments made via third party apps
+- Utility transaction fee
+- 1% fee on cumulative spends of ₹25,000 or more on utilities per statement cycle
+- Online skill-based gaming transaction fee
+- 1% fee on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle
+- Dynamic Currency Conversion markup fee**
+- 1.5% of each international txn plus taxes
+- Mobile Alerts for Transactions
+- Hotlisting Charges
+- Balance Enquiry Charges
+- Reward Redemption fee
+- Yes
+- GST, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India.
+- *A rent surcharge fee of 1% will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513. The revision is effective from 20-12-2024.
+- **A Dynamic Currency Conversion (DCC) markup fee of 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup fee will not be applicable on Burgundy Private Credit Card. The revision is effective from 20-12-2024.
+- Eligibility for Axis Bank Privilege Credit Card
+- As a primary cardholder, you should be between 18 and 70 years of age.
+- Add on cardholders should be over 18 years.
+- You should be an Indian resident.
+- *The above criteria are only indicative. The bank reserves the right to approve or decline applications for credit card.
+- Documentation for Axis Bank Privilege Credit Card
+- PAN Card photocopy or Form 60
+- Proof of income - Latest payslip / Form 16 / IT Return
+- Residence proof - Driving License / Electricity Bill / Landline Telephone Bill
+- *The above list is only indicative. Documents required may vary on a case to case basis.
+- PRIVILEGE CREDIT CARD VALUE CHART* ON ANNUAL SPENDS OF ₹2,91,000
+- BENEFITS OF THE PRIVILEGE CREDIT CARD
+- ANNUAL SPENDS AMOUNT (₹)
+- SAVINGS AMOUNT (₹)
+- VALUE OF THE AXIS EDGE REWARD POINTS IF REDEEMED AGAINST SHOPPING OR TRAVEL VOUCHERS (₹)
+- Shopping or Travel vouchers** on welcome
+- 2,500
+- Complimentary access to selected lounges affiliated with Mastercard,
+- 2 times in calendar quarter (if offer availed once every quarter)**
+- 6,000
+- Rewards on Annual Spends
+- 2,50,000
+- 2,000
+- Exclusive dining offers via EazyDiner
+- 16,000
+- 3,200
+- 1 % Fuel Surcharge Waiver on monthly fuel spends ^^^^
+- 25,000
+- 250
+- 3,000
+- Sub Total
+- 12,450
+- 4,500
+- Total Annual Savings^
+- 16,950
+- Total Benefits on the Axis Bank Privilege Credit Card is more than 27600 (value chart is only for illustrative purpose)
+- **This is based on the assumption that the customer visits the lounge once every quarter. The cost for a lounge visit is assumed at ₹1500
+- ^^^ This is based on the assumption that the customer will visit the Dining Delight Restaurants at least twice every quarter. For details on the Dining Delight offers.
+- ^^^^ Valid on transactions between ₹400 and ₹4000 only. GST charged on fuel surcharge is no-refundable. No reward points are earned on fuel transactions.
+- The terms & conditions of Axis Bank Privilege Credit Card will be updated with effect from 20th June 2025. Please
+
+

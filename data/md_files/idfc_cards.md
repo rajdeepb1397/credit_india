@@ -1,0 +1,4385 @@
+# IDFC FIRST Bank Cards
+
+## Business Max Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/business-max-credit-card?utm_source=website&utm_medium=PDPBusinessMax&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for the Business Max Credit Card Online \| IDFC FIRST Bank  
+**Official meta description:** Get instant approval on lifetime-free Business Max Credit Card from IDFC FIRST Bank. Assured and secured business credit card designed specifically for business expenses, UPI payments, EMI options and high rewards on online spends.  
+
+### Official extracted card text
+
+- BUSINESS MAX CREDIT CARD
+- A BUSINESS CREDIT CARD
+- Low Interest Rate
+- Run ads, build presence, and pay smarter
+- Low Forex
+- Guaranteed card.
+- No credit score required.
+- Business credit card
+- backed by FD
+- with 100% of your FD amount as credit limit
+- *On every ₹200 spent on UPI transactions above ₹2000
+- UPI-ready card.
+- Scan, pay and earn.
+- Earn up to 3 reward points* on UPI transactions
+- Overview
+- Reward Points
+- Eligibility & Documentation
+- FAQs
+- Your business, powered by Business Max credit card.
+- Business Max Credit Card is a low interest business
+- designed for entrepreneurs and growing businesses. It helps you manage everyday business expenses with UPI payments, attractive reward points on online spends, EMI options, and a 100% cash withdrawal limit. Backed by a fixed deposit, the card offers guaranteed approval. Enjoy all the perks of a credit card while building your credit score, with zero joining and annual fees.
+- Features that mean business
+- Low-cost funds for business
+- Enjoy a
+- low interest
+- rate of 12% p.a. on balances carried beyond the due date*. ​
+- More time to pay bills
+- Enjoy
+- up to 45 days of interest-free period, helping you optimise working capital cycle.
+- Business travel made rewarding
+- Get up to
+- 33% bonus
+- reward points on flight and hotel bookings via the Bank app.
+- Rewards on GST and Tax Payments
+- Get up to 6 Reward Points on mandatory business payments, including GST and Taxes.
+- UPI-readiness from day one
+- Pay your vendors via UPI and earn up to 3 Reward Points on eligible transactions.
+- Get the Max edge for your business
+- Why choose the Business Max Credit Card
+- Approval? 100% guaranteed
+- Get an assured credit card backed by a fixed deposit. Your FD continues to earn interest while you enjoy the perks.
+- Add-on cards for your team
+- Get up to five add-on cards at ₹250 each to seamlessly manage multiple business expenses with unified tracking ​
+- One card for all business payments
+- Sort your business payments and earn rewards on them. Get up to
+- 6 reward points
+- on everything on online, offline and UPI transactions. ​
+- Big spends? Convert to EMI
+- Convert transactions above ₹1,500 into convenient EMIs for better cash flow management
+- Quick cash when your business needs it
+- Withdraw up to 100% of your credit limit as cash whenever you need
+- Go global with low forex spends
+- Save more on your international spends with a low forex markup of just 1.5%
+- Earn rewards that
+- keep up with your business spends
+- Earn Reward Points across online, offline, and UPI transactions
+- on domestic online purchases
+- 4 reward points
+- on domestic offline purchases
+- Up to 3 reward points
+- on UPI transactions above ₹2,000
+- 1 reward point
+- on UPI transaction below ₹2,000 and insurance & utility payments
+- Reward points are applicable for every ₹200 spent. 1 Reward Point = ₹0.25
+- Earn Max rewards on business trips.​
+- Get more value every time your business takes off ​
+- 20%
+- Bonus Reward Points
+- on
+- hotel bookings
+- 10%
+- flight bookings
+- Reward points are over and above the regular reward points, calculated as per every ₹150 spent. Applicable only on eligible flight and hotel bookings made via the
+- Bank app
+- UPI payments? You’re already set.
+- Once issued, your Credit Card can be used instantly for UPI Scan & Pay via the
+- Add the credit card in other preferred UPI apps and pay seamlessly
+- PhonePe
+- Google Pay
+- Paytm
+- Add RuPay Credit card
+- Card Added Successfully
+- Payment Successful
+- Scan.
+- Link.
+- Done.
+- Scan the given QR code
+- with your phone to link and use your
+- to
+- make UPI payments.
+- Tap.
+- 'Link Now'
+- to link and use your
+- Business Max
+- Credit Card on PhonePe to
+- Scan the QR code to open PhonePe
+- on Google Pay to
+- Scan the QR code to open Google Pay
+- Credit Card on Paytm to
+- Scan the QR code to open Paytm
+- Get the credit card at
+- zero fees and charges.
+- Business Max is a lifetime free business credit card with
+- no joining and annual fees.
+- Who can get the Business Max credit card?
+- Eligibility criteria for the Business Max Credit Card
+- Businesses with
+- registered GST
+- 18+ years of age
+- How to Apply for the Business Max Credit Card
+- Step 1
+- Enter PAN, Aadhaar & GST number
+- Step 2
+- FD is created online
+- Step 3
+- Video KYC
+- Step 4
+- Virtual card issued instantly
+- What you’ll need to apply
+- Documents and essentials required for the Business Max credit card
+- Aadhaar number
+- Physical PAN Card for video KYC
+- Registered GST number
+- Minimum Fixed Deposit of ₹10,000
+- One Powerful Credit Card.
+- Built for Every Business.
+- Art On Tote
+- Hand&Herb
+- Home Dough
+- Your
+- go-to app
+- for managing all your Credit Card needs
+- #1
+- Mobile banking app in India
+- Full Control at Your Fingertip​:
+- Enable or disable usage, set limits, block or unblock card​
+- Statement and Transactions:
+- View limits, track spends and download statements effortlessly
+- Convenient Repayments​​:
+- Quick repayments, easy EMIs and instant loan on cards​
+- All-in-One Card Services:
+- Bonus Rewards on travel bookings, add- on/referral services, card replacement/reissue​
+- Frequently Asked Questions
+- Application and KYC
+- Credit Limit and FD
+- Add-on Cards
+- Effective 18th June 2026, what changes are being made to the Business Max Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the Business Max Credit Card.
+- for detailed information.
+- Who is the Business Max Credit Card designed for?
+- The Business Max Credit Card is designed for entrepreneurs and growing businesses looking for a reliable payment solution. It is well-suited for those evaluating the best business credit cards to manage everyday business expenses with greater control and convenience.
+- What can I use a Business Max Credit Card for?
+- The Business Max Credit Card can be used for a wide range of business expenses such as GST and tax payments, vendor and supplier payments, SaaS tools, digital advertising (Google, Meta, etc.), subscriptions, business travel (flights, hotels, cabs), office supplies, cloud services, and other day-to-day operational costs. By routing your regular business spends through the card, you can manage cash flow more efficiently while earning rewards on eligible transactions—helping keep your business growing.
+- What is the eligibility criteria to apply for Business Max Credit Card?
+- To be eligible for the Business Max Credit Card, you must meet the following criteria:
+- Occupation - Businesses with registered GST
+- PAN, Aadhaar and GST Number
+- Have to make a minimum Fixed Deposit (FD) of ₹10,000 in the journey.
+- Note: The Bank reserves the right to issue a Credit Card to the applicant based on an assessment of his/her credentials. The final decision is at the Bank’s sole discretion, in line with the mentioned internal policies, and notwithstanding the applicant meeting above credit card criteria.
+- Do I require a credit history or income proof to apply?
+- No, you do not need a credit history or income proof to apply for the Business Max Credit Card.
+- Is GST a mandatory requirement to apply for Business Max Credit Card?
+- Yes, an active GST number is a mandatory to apply for Business Max Credit Card. Applicants without a registered and active GST number will not be eligible to apply for this card.
+- How can I apply for the Business Max credit card?
+- The Digital Do-It-Yourself journey is here. Enter your details (PAN, Aadhaar, GST no) > Create your fixed deposit > Complete your KYC process > Your Business Max Credit Card is ready!
+- What is the joining and annual/renewal fee for the Business Max Credit Card?
+- The Business Max Credit Card comes with zero joining and annual/renewal fees.
+- What are the benefits of having a credit card against a Fixed Deposit (FD)?
+- Business Max Credit Card is issued against a fixed deposit of minimum ₹10,000. To determine the credit limit, a fixed deposit is required to be created. Upon successful creation of the FD, a lien will be marked on 100% of the FD value. Once completed, the FD will be linked to the Business Max Credit Card and the credit limit will be set accordingly.
+- No income proof required: You can obtain the card without submitting formal income proof, making it suitable for proprietors who may not have standard income documentation readily available.
+- Helps build credit history: Using the credit card regularly and paying off the outstanding dues on time will help create a good credit history and credit score.
+- Earn interest on fixed deposit: You continue to earn interest on their fixed deposits, while enjoying interest free credit for up to 45 days.
+- What will be my credit limit?
+- The credit limit for your Business Max Credit Card will be 100% of your fixed deposit amount.
+- How can I increase the limit of my credit card?
+- You can apply for a Business Max Credit Card with a maximum limit of ₹1 lakh through the application journey.
+- Once the card is issued, you can login to IDFC FIRST Bank mobile app - Go to credit card section - Select - Business Max credit Card - Click on
+- Increase Limit
+- -book additional Fixed Deposits (FDs) to further increase your card limit
+- What are the benefits of increasing a limit?
+- Improved credit score: Your credit score is calculated based on several factors including your credit utilization ratio. By increasing your credit cards’ credit limit, you can increase your available credit and improve your credit score if your spends don’t increase. Increased purchasing power and cash flow requirements: A higher credit card limit provides greater purchasing flexibility for business-related expenses.
+- What is the interest rate on my credit card?
+- With Business Max Credit Card, you enjoy a flat 12% per annum interest rate which comes to 1% monthly. Usually, other credit cards charge as high as 43.8% per annum interest rate.
+- What is the forex markup fee on international transactions?
+- The Business Max Credit Card charges a low forex markup of just 1.5% on international transactions.
+- Is the UPI on Credit Card facility available on the Business Max Credit Card?
+- Yes, Business Max Credit Card is UPI ready. You can now scan UPI-enabled merchant QR codes and pay using your Business Max Credit Card. The card can be linked to any UPI app.
+- How can I pay tax using the Business Max Credit Card?
+- You can conveniently pay your GST or other eligible tax payments through the authorised government tax payment portals using your Business Max Credit Card. To know more,
+- How do I manage or track business expenses using the card?
+- You can track and manage spends through the IDFC FIRST Bank Mobile Banking App, which allows you to view transactions in real time. Monthly statements further help organise and review expenses efficiently.
+- Can I convert high-value business purchases into EMIs using this card?
+- Yes, high-value business purchases can be effectively converted into affordable EMIs with the Business Max Credit Card. You can use the EMI facility through Point-Of-Sale terminals, online platforms, IDFC FIRST Bank Mobile Banking App, internet banking, or any other bank channels.
+- When will Reward Points be credited?
+- The reward points will get credited upon statement generation. If the Cardholder fails to pay at least the Minimum Amount Due by the Payment Due Date, Reward Points will not be applicable for that billing cycle. Any Reward Points credited for that cycle, if already posted, will be reversed.
+- Are there exclusions for Reward Points?
+- Reward Points not applicable on Fuel, Insurance, EMI transactions & Cash withdrawals, Rental and Property Management transactions, Utility Spends.
+- Is there an expiry date on the Reward Points accrued on my card?
+- Reward points will be valid for 24 months, giving you ample time to redeem them atyour convenience i.e. Reward Points earned from July 2026 statement cycle will be valid for 24 months
+- from their respective transaction dates
+- Is there an add-on card available on Business Max Credit Card?
+- Yes, issue up to 5 add-on cards at ₹250 + GST each. To apply,
+- Important documents
+- Most Important Terms & Conditions
+- Card Member Agreement
+- Product Usage Guide
+- Product Privilege Document
+
+## Business Multiplier Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/business-multiplier-credit-card?utm_source=website&utm_medium=PDPBusinessMultiplier&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for Business Multiplier Credit Card Online \| IDFC FIRST Bank  
+**Official meta description:** Built for growing businesses, the Business Multiplier credit card by IDFC FIRST Bank helps you manage business expenses smarter, earn higher rewards and unlock premium benefits.  
+
+### Official extracted card text
+
+- Overview
+- Reward Points
+- Fees and Charges
+- Eligibility & Documentation
+- FAQs
+- home
+- business multiplier credit card
+- A BUSINESS CREDIT CARD
+- FD-backed
+- made of metal
+- A metal credit card for business payments
+- Joining Fee:
+- ₹1,000+GST
+- Annual Fee:
+- waived off on ₹5L annual spends
+- Zero Forex Markup for
+- Global Business Payments
+- Save 4%–5% on every international payment
+- *Industry typically charges 4%–5% Forex Markup
+- Up to 10 Reward Points on
+- Business Payments
+- Multiply rewards on every business move
+- A Premium Metal Business Credit Card
+- The Business Multiplier
+- blends premium metal craftsmanship with higher rewards and exclusive travel privileges, helping businesses maximise value from every transaction.
+- A World of Benefits,
+- Built Around Your Business Needs
+- Business Benefits
+- Travel & Insurance
+- Extra Privileges
+- 12% Annual
+- Interest Rate
+- Enjoy a low APR designed to reduce interest costs on your business spending.
+- Multiple add-on cards
+- Get up to five add-on cards at just ₹250 each for seamless and efficient business expense management.
+- Extended Credit
+- Period for Business
+- Get up to 45 days of interest-free period, helping you optimise working capital cycle.
+- Earn Rewards on
+- your tax payments
+- Get up to 10 Reward points for every online GST and other tax transaction
+- Power All Your Business Payments
+- Perfect for essential business payments like SaaS, cloud services, and ad platforms such as Amazon Web Services (AWS) and Meta Platforms
+- Savings on fuel
+- Get a fuel surcharge waiver up to ₹400 per statement cycle. No utility surcharge on monthly fuel purchases of up to ₹30,000 done via IDFC FIRST Bank mobile app.
+- Roadside assistance
+- Get 24/7 roadside assistance cover of up to ₹1,399, four times every year.
+- Comprehensive Travel protection
+- Get comprehensive travel insurance coverage of up to ₹25,000 on hotel and flight cancellations, up to two times per year.
+- Complimentary UPI advantage
+- Get complimentary FIRST Digital RuPay Credit Card for seamless UPI business payments and earn up to 3 reward points, at ₹0 joining & annual fees
+- 100% cash withdrawal
+- Withdraw up to 100% of your credit limit for any business need.
+- A Credit Card That
+- Powers Your Business
+- 100% Guaranteed Approval
+- Get
+- assured access
+- to a premium metal credit card backed with fixed
+- deposit to give you uninterrupted interest earnings on FD and rewards on
+- business spends.
+- Higher Value on Your Spends
+- Earn up to 10 reward points across categories, plus up to
+- 30% additional reward points
+- on travel bookings via the Bank app.
+- Zero Forex markup
+- Zero forex charges
+- on your essential business payments
+- and the international business travel
+- Complimentary
+- Airport lounge access
+- Unlock
+- 1 domestic and 1 international lounge
+- access per quarter on spend of ₹20,000 in the previous month
+- to check the lounge list
+- ​Complimentary UPI-ready Credit Card
+- Pay via UPI using your complimentary
+- FIRST Digital Credit Card and
+- earn up to 3 reward points
+- Reward Points Multiplied on Your Business Payments
+- 10 Reward Points
+- on transactions up to ₹1 lakh per month
+- 5 Reward Points
+- on transactions exceeding ₹1 lakh per month
+- 3 Reward Points*
+- on UPI transactions exceeding ₹2,000
+- 1 Reward Point*
+- on UPI transactions below ₹2,000 utility and insurance
+- Reward points are applicable for every ₹200 spent. 1 Reward Point = ₹0.25
+- *3 and 1 Reward points will be earned for transactions made via complimentary FIRST Digital Credit Card
+- Accelerated rewards on
+- business travel
+- Multiply every move and elevate your business journey with extra rewards
+- 30%
+- Bonus Reward Points
+- on
+- hotel bookings
+- 17.5%
+- flight bookings
+- Reward points are over and above the regular reward points, calculated as per every ₹150 spent. Applicable only on eligible flight and hotel bookings made via the
+- Bank app
+- Your Complimentary, UPI-ready Credit Card
+- Once issued, your complimentary FIRST Digital Credit Card can be used instantly for UPI Scan & Pay via the
+- Add the credit card in other preferred UPI apps and pay seamlessly
+- PhonePe
+- Google Pay
+- Paytm
+- Add RuPay Credit card
+- Card Added Successfully
+- Payment Successful
+- Scan.
+- Link.
+- Done.
+- Scan to given QR code to link your complimentary FIRST Digital Credit Card and start making UPI payments.
+- Tap.
+- Tap 'Link Now' to link and use complimentary FIRST Digital Credit Card on PhonePe to make UPI payments.
+- Scan the QR code to open PhonePe
+- Link Now
+- Tap 'Link Now' to link and use complimentary FIRST Digital Credit Card on Google Pay to make UPI payments.
+- Scan the QR code to open Google Pay
+- Tap 'Link Now' to link and use complimentary FIRST Digital Credit Card on Paytm to make UPI payments.
+- Scan the QR code to open Paytm
+- Joining Fees
+- Annual Fees
+- Click
+- to view the MITC.
+- Apply Online for the Business Multiplier Credit Card
+- Eligibility Criteria
+- Businesses with
+- registered GST
+- Create or link a minimum fixed deposit of ₹50,000
+- How to Apply for the Business Multiplier Credit Card
+- Step 1
+- Enter PAN, Aadhaar & GST number
+- Step 2
+- FD is created online
+- Step 3
+- Video KYC
+- Step 4
+- Virtual card issued instantly
+- Documents Required
+- Aadhaar number
+- Physical PAN Card for video KYC
+- Registered GST number
+- Your
+- go-to app
+- for managing all your Credit Card needs
+- #1
+- Mobile banking app in India
+- Full Control at Your Fingertips:
+- Enable or disable usage, set limits, block or unblock card
+- Statement and Transactions:
+- View limits, track spends and download statements effortlessly
+- Convenient Repayments:
+- Quick repayments, easy EMIs and instant loan on cards
+- All-in-One Card Services:
+- Bonus Rewards on travel bookings, add- on/referral services, card replacement/reissue
+- Business Multiplier Credit Card – FAQ
+- Eligibility & Application
+- Credit Limit
+- Complimentary FIRST Digital
+- International payments
+- Effective 18th June 2026, what changes are being made to the Business Multiplier Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the Business Multiplier Credit Card.
+- for detailed information.
+- Who is the Business Multiplier Credit Card designed for?
+- The Business Multiplier Credit Card is designed for businesses looking for a premium credit card with a host of benefits. It is one of the best business credit cards, which not only streamlines payments but also unlocks premium benefits on everyday business spends.
+- What can I use a Business Multiplier Credit Card for?
+- The Business Multiplier Credit Card can be used for a wide range of business expenses such as GST and tax payments, vendor and supplier payments, SaaS tools, digital advertising (Google, Meta, etc.), subscriptions, business travel (flights, hotels, cabs), office supplies, cloud services, and other day-to-day operational costs. By routing your regular business spends through the card, you can manage cash flow more efficiently while earning rewards on eligible transactions—helping keep your business growing.
+- Are there any joining and annual renewal fees for the Business Multiplier Credit Card?
+- The Business Multiplier Credit Card has a joining and annual fee of ₹1,000 + GST. However, the annual fee is reversed if you spend ₹5 lakh or more in a year.
+- What is the annual fee waiver condition for Business Multiplier Credit Card?
+- Annual fee of ₹1000 + GST will be waived for your Business Multiplier Credit Card if your total eligible spends in a card anniversary year reaches ₹5 lakhs and above.
+- What is the eligibility criteria to apply for a Business Multiplier Credit Card?
+- To be eligible for the Business Multiplier Credit Card, you must meet the following criteria:
+- Occupation - Businesses with registered GST
+- PAN, Aadhaar and GST Number
+- Have to make a minimum Fixed Deposit (FD) of ₹50,000 in the journey.
+- Note: The Bank reserves the right to issue a Credit Card to the applicant based on an assessment of his/her credentials. The final decision is at the Bank’s sole discretion, in line with the mentioned internal policies, and notwithstanding the applicant meeting above credit card criteria.
+- Do I require a credit history or income proof to apply?
+- No, you do not need a credit history or income proof to apply for the Business Multiplier Credit Card.
+- Is GST a mandatory requirement to apply for Business Multiplier Credit Card?
+- Yes, an active GST number is a mandatory to apply for Business Multiplier Credit Card. Applicants without a registered and active GST number will not be eligible to apply for this card.
+- How can I apply for the Business Multiplier Credit Card?
+- The Digital Do-It-Yourself journey is here. Enter your details (PAN, Aadhaar, GST no) > Create your fixed deposit > Complete your KYC process > Your Business Multiplier Credit Card is ready!
+- What are the benefits of having a credit card against a Fixed Deposit (FD)?
+- Business Multiplier Credit Card is issued against a fixed deposit of minimum ₹50,000. To determine the credit limit, a fixed deposit is required to be created. Upon successful creation of the FD, a lien will be marked on 100% of the FD value. Once completed, the FD will be linked to the Business Multiplier Credit Card and the credit limit will be set accordingly.
+- No income proof required: You can obtain the card without submitting formal income proof, making it suitable for proprietors who may not have standard income documentation readily available.
+- Helps build credit history: Using the credit card regularly and paying off the outstanding dues on time will help create a good credit history and credit score.
+- Earn interest on fixed deposit: You continue to earn interest on their fixed deposits, while enjoying interest free credit for up to 45 days.
+- What will be my credit limit?
+- The credit limit for your Business Multiplier Credit Card will be 100% of your fixed deposit amount.
+- What are the benefits of increasing a limit?
+- Improved credit score: Your credit score is calculated based on several factors including your credit utilization ratio. By increasing your credit cards’ credit limit, you can increase your available credit and improve your credit score if your spends don’t increase.
+- Increased purchasing power and cash flow requirements: A higher credit card limit provides greater purchasing flexibility for business-related expenses.
+- What is the forex markup fee on international transactions?
+- Most credit cards charge up to 3.5% as forex markup on every international transaction. With the Business Multiplier Credit Card, you enjoy 0% forex markup helping you save these charges and pay seamlessly for spends abroad as well as international purchases made from India.
+- What is the interest rate on my credit card?
+- With Business Multiplier Credit Card, you enjoy flat 12% per annum interest rate which comes to 1% monthly. Usually, other credit cards charge as high as 43.8% per annum interest rate.
+- Can I convert high-value business purchases into EMIs using this card?
+- Yes, high-value business purchases can be effectively converted into affordable EMIs with the Business Multiplier Credit Card. You can use the EMI facility through Point-Of-Sale terminals, online platforms, IDFC FIRST Bank Mobile Banking App, internet banking, or any other bank channels.
+- How can I pay tax using the Business Multiplier Credit Card?
+- You can conveniently pay your GST or other eligible tax payments through the authorised government tax payment portals using your Business Multiplier Credit Card. To know more,
+- Is there a way to track and control the spends?
+- The IDFC FIRST Bank Mobile Banking App helps you track and control business expenses incurred using the Business Multiplier Credit Card. You can monitor business spends in real-time through the app. The monthly credit card statements also make tracking business expenses easy.
+- Does the card provide travel or lounge access benefits?
+- Yes, the Business Multiplier Credit Card offers domestic (once a quarter) and international (once a quarter) airport lounge access on spending ₹20,000 or more in the previous calendar month. There is also a Cancellation for Any Reason (CFAR) insurance coverage of up to ₹25,000, which covers cancellation charges incurred on flight and hotel bookings. You can make up to two cancellation claims in a year.
+- Why have I received a DreamFolks card?
+- You have received the DreamFolks card to access global airport lounge benefits available with your Business Multiplier Credit Card. This card is issued only to facilitate international lounge access and does not carry any additional charges.
+- What is a FIRST Digital Credit Card?
+- The FIRST Digital Credit Card is a UPI enabled, digital only credit card, which comes complimentary with your Business Multiplier credit card.
+- Do I need to pay extra for the FIRST Digital Credit Card that comes with the Business Multiplier Credit Card?
+- No, you don’t need to pay anything extra. The FIRST Digital Credit Card is issued in a complimentary manner along with your Business Multiplier Credit Card. It’s linked to the same account and allows you to make UPI payments with ease, without any additional charges.
+- When will Reward Points be credited?
+- The reward points will get credited upon statement generation. If the Cardholder fails to pay at least the Minimum Amount Due by the Payment Due Date, Reward Points will not be applicable for that billing cycle. Any Reward Points credited for that cycle, if already posted, will be reversed.
+- Are there exclusions for Reward Points?
+- Reward Points not applicable on Fuel, Insurance, EMI transactions & Cash withdrawals, Rental and Property Management transactions, Utility Spends.
+- Is there an expiry date on the Reward Points accrued on my card?
+- There is NO expiry date on the Reward Points accrued on your Business Multiplier Bank Credit Card. Your Reward Points are evergreen.
+- Is there an add-on card available on Business Multiplier Credit Card?
+- Yes, issue up to 5 add-on cards at ₹250 + GST each, to apply,
+- Important documents
+- Most Important Terms & Conditions
+- Card Member Agreement
+- Product Usage Guide
+- Product Privilege Document
+
+## Diamond Reserve Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/diamond-reserve-credit-card?utm_source=website&utm_medium=PDPDaimondRes&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Diamond Reserve Credit Card - Premium Travel & Lifestyle Benefits \| IDFC FIRST Bank  
+**Official meta description:** Discover the Diamond Reserve Credit Card from IDFC FIRST Bank with 0% forex mark-up, airport & railway lounge access, golf privileges, accelerated rewards, and exclusive travel perks. Apply now for premium benefits.  
+
+### Official extracted card text
+
+- Card Benefits
+- Travel Rewards
+- Mobile App
+- FAQs
+- Fees and Charges
+- Joining Fee: ₹3,000 + GST
+- Annual Fee:
+- ₹3,000+GST
+- , waived off on ₹6L of annual spends
+- Joining Fees
+- + GST
+- (1
+- st
+- year)
+- Annual Fees
+- waived off on annual spends of ₹6 Lakh and above
+- UPI Fee
+- Add on Fee
+- Replacement Fee
+- Distinct By Design
+- Discover More
+- Reward Points
+- Activation Benefits
+- Extra Perks
+- Discover the world with 0% Forex
+- Complimentary Airport Lounge Access
+- Enjoy Travel in comfort with 2 domestic and 2 global airport lounge access per quarter
+- View Terms & Conditions
+- Zero Forex Mark-Up
+- Save more on your international purchases
+- Free Trip Cancellation Cover
+- Claim up to ₹25,000 on non-refundable
+- hotel and flight cancellations
+- Interest-Free Global ATM Cash Withdrawals
+- Withdraw cash globally, without interest,
+- and a flat ₹199 + GST per transaction
+- Airport Meet & Greet
+- Enjoy 1 complimentary service a year and 10% off on the rest
+- Airport Transfer Discounts
+- Access premium limousine services in 3000+ cities
+- across 83 countries
+- Railway Lounge Access
+- Get 4 complimentary visits per quarter at
+- select Indian railway terminals
+- Distinct lifestyle that
+- deserves something special
+- Complimentary Golf Access
+- Tee-off at 20+ golf courses for up to 2 golf rounds
+- or lessons every month
+- Buy 1 Get 1 Movie Offer
+- Save up to ₹250 on your second movie ticket,
+- twice every month
+- Luxury Stay Bonus
+- Get a complimentary 3rd night stay for
+- every 2 paid nights at ITC Hotels
+- Extend Your Villa Escape
+- Enjoy a free 3rd night stay for every 2 paid nights
+- at Elivaas Luxury Villas
+- Worldwide Hotel Privileges
+- Enjoy exclusive perks and discounts at
+- 900+ luxury hotels around the world
+- Curated Dining Deals
+- Savour luxury at handpicked restaurants
+- Accelerated Rewards,
+- Seamless Redemption
+- Earn Up to 27% Reward Points
+- On travel bookings made through
+- IDFC FIRST Bank mobile app
+- Base Reward Points
+- Earn up to 10 reward points for every
+- ₹150 you spend each month
+- Reward Points That Never Expire
+- Your reward points stay with you,
+- giving you total flexibility in redemption
+- Start your journey with distinct perks
+- ₹500 Welcome Gift Voucher
+- Choose from leading brands such as
+- Amazon, Uber and more
+- 5% Cashback on EMI
+- Get up to ₹1,000 cashback on your first
+- EMI transaction
+- Surcharge waiver, insurances
+- and much more
+- Dynamic Interest Rates (APR)
+- Starting at just 8.5% per annum
+- Fuel Surcharge Waiver
+- Save up to ₹300 per month with a 1% fuel surcharge waiver
+- Comprehensive Insurance Cover
+- Includes air accident cover, personal accident cover,
+- travel insurance and more
+- 24x7 Roadside Assistance (RSA)
+- Enjoy complimentary RSA worth ₹1,399
+- 300+ Brand Offers
+- Deals across dining, shopping, travel and more, all year round
+- Maximise your
+- spends with 3X Reward Points
+- Your Diamond Reserve
+- Credit Card can now
+- be powered for UPI
+- Activate Now
+- Joining Fee & Annual Fee (2nd year onwards) of just ₹199 + GST
+- Joining Fee Payment Benefit: 100% cashback up to ₹200 (Limited period offer)
+- Add your card on your favourite UPI app
+- PhonePe
+- Paytm
+- Google Pay
+- BHIM
+- Accelerated Rewards on Travel
+- 20% bonus RP
+- on hotel bookings*
+- 10% bonus RP
+- on flight Bookings*
+- Up To 1.67% Value Back
+- On monthly spends*
+- *Applicable on travel bookings made via FIRST Rewards Gallery section on the IDFC FIRST Bank Mobile App
+- Bonus Travel Rewards
+- ₹700 off on min booking amount of ₹7,000 for round trip domestic flights
+- Earn up to 50 Bonus Reward Points on travel spends made on our app
+- Domestic Flight Booking:
+- ₹500 off on a min booking amount of ₹5,000 for one-way domestic flights
+- Explore list of rewards
+- Your go-to app for managing all your Credit Card needs
+- Install Now
+- Enjoy India’s #1 Mobile Banking App
+- Manage Your Card:
+- View limits, track spends, check transactions, and download statements effortlessly.
+- Control Your Card:
+- Enable or disable usage, set limits, block or unblock instantly, and get real-time alerts.
+- Convenient Repayments:
+- Quick repayments, UPI payments, easy EMIs, and instant loans or balance transfers.
+- All-In-One Card Services:
+- Travel booking, redeem rewards, access add-on/referral/replacement services, and more
+- Diamond Reserve Credit Card – FAQ
+- Fee and Card dispatch
+- Card Usage
+- Airport Lounges
+- CFAR
+- Credit limit & APR
+- Effective 18th June 2026, what changes are being made to the Diamond Reserve Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the Diamond Reserve Credit Card.
+- for detailed information.
+- What is the Joining/Annual Fee on Diamond Reserve Credit Card?
+- The Diamond Reserve Credit Card comes with a Joining Fee of ₹3,000 + GST and an Annual Fee (applicable from second card anniversary year) of ₹3,000 + GST. The Joining Fee will be levied on credit card application approval.
+- Why am I being asked to pay the Joining Fee to receive my credit card?
+- IDFC FIRST Bank believes in complete transparency, and we want our customers to make an informed decision about their Joining Fee and its associated benefits. By asking for payment upfront, we are aligning with our core values of openness and trust, ensuring you have full cognizance about the applicable fee, before committing to this credit card. This process allows you to make a conscious choice in a responsible and transparent manner. By choosing this process we also aim to minimize wastage due to cancelled and returned cards.
+- I can't wait to receive my credit card. Where can I pay the expected upfront Joining Fee?
+- You will receive communication from the bank to pay the joining fee as soon as your credit card application is approved.
+- You can also pay the Joining Fee of ₹3,000 + GST by
+- clicking here
+- On the next page you must authenticate using the mobile number and date of birth as mentioned during the card application. The payment can be made using UPI and net banking
+- My Diamond Reserve Credit Card application is approved but I am awaiting my credit card to be delivered.
+- Once your Diamond Reserve Credit Card application is approved, upfront Joining Fee payment of ₹3,000 + GST is required to get the credit card dispatched. To pay the Joining Fee,
+- Upon issuance, I can see the digital card in the mobile banking app, but I cannot use it for online purchases.
+- As per the process, upfront Joining Fee payment is required to activate your digital card and dispatch of the metal card.
+- On card application approval, you will receive communication to pay the Joining Fee. To pay the Joining Fee now,
+- Once the Joining Fee is paid, please make sure that you have enabled online (Ecom) transactions on the card. To enable online transactions, please
+- click here.
+- Can I use my card for online transactions till the physical card is delivered to me?
+- Once the Joining Fee payment is completed, the credit card can be used for online transactions. To enable online transactions and to get the card details, please use the IDFC FIRST Mobile Banking App or
+- I have paid the Joining Fee. When will I receive my credit card?
+- On payment of joining fee, your Diamond Reserve credit card will be dispatched to your mailing address registered with the bank and should arrive in 5 working days. If your address has changed, please visit a nearby branch and get your address updated in the bank records. Once, the address is updated, please call 180010800 to get the card dispatched to the updated address.
+- Will I be asked for my Credit Card PIN at every POS terminal, be it domestic or international?
+- For all transactions in India, yes, you will be asked for a PIN for completing the transactions. However, outside India, you will be asked for the PIN only if the POS terminal is enabled for PIN authentication.
+- Can I use my Credit Card to withdraw cash at an ATM?
+- Yes, you can! All ATM cash withdrawals are totally interest-free for up to 45 days – in India or abroad. Please keep in mind, however, that a Cash Advance Fee of ₹199 + GST is applicable per transaction, irrespective of your location or the withdrawal amount. The maximum cash withdrawal limit per transaction is ₹10,000.
+- How do I generate my credit card PIN?
+- Net Banking
+- o Pre-login
+- Click on the “Generate Credit Card PIN” on the pre-login page [https://my.idfcfirstbank.com/login]
+- Enter “Customer ID” & “Credit Card number” and click on Get OTP
+- Verify using the OTP sent on your registered mobile number
+- Enter and Re-enter PIN of your choice and click on confirm
+- Your Credit Card PIN is set
+- o Login
+- Login to your Net Banking account
+- Select Credit Card section
+- Select Set new PIN
+- Enter and Re-enter PIN of your choice and click on Get OTP
+- Please verify through the OTP sent to your registered mobile number
+- o Mobile Banking App
+- Select browse icon from the right-side top menu on the login page
+- Enter your “Customer ID” & “Credit Card number” and click on Get OTP
+- Login to Mobile Banking App
+- Access the Credit Card section
+- Enter and Re-enter a PIN of your choice and click on Get OTP
+- o Customer Care: Dial our Customer Care and follow the instructions to generate the PIN
+- What are the offers available on the Diamond Reserve Credit Card?
+- The Diamond Reserve
+- Credit Card comes loaded with benefits like complimentary airport and railway lounge access, movie ticket offers, golf benefits, discounts on 300+ brands, etc. The full list of benefits is mentioned on the product webpage above.
+- For brand offers, you can visit the offers
+- website
+- What is the joining benefit offered by the Diamond Reserve Credit Card?
+- After activating the card, you must spend ₹5,000 or more within 30 days to be eligible for a ₹500 Gift Voucher from one of our partner brands.
+- What is the forex mark-up on the Diamond Reserve Credit Card?
+- Credit Card provides ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.
+- Can I avail complimentary airport lounge visits on the Diamond Reserve Credit Card?
+- Yes, Diamond Reserve Credit Card offers:
+- - 2 complimentary visits per quarter to lounges and spas at domestic airport terminals in India.
+- - 2 complimentary visits per quarter to overseas lounge terminals.
+- - To view the list of airport lounges,
+- - The lounge benefit can be availed in the next calendar month by spending ₹20,000 or more in the current calendar month.
+- What is the movie offer on the Diamond Reserve Credit Card?
+- Using the Diamond Reserve Credit Card, you get buy-one-get-one movie offer twice a month on Zomato District App. You can get a discount of up to ₹250 on the second ticket.
+- Can I avail complimentary Golf benefits on the Diamond Reserve Credit Card?
+- Yes, Diamond Reserve Credit Card offers up to 2 complimentary golf rounds/lessons per month. The golf benefit can be availed in the next calendar month on spending ₹20,000 or more in a statement cycle. You can also book golf slot by clicking here. -
+- https://idfcfirst.truztee.com/
+- Do I need to spend ₹20,000 every month to activate my lounge benefits?
+- You can activate your complimentary lounge visits in the next month by spending a minimum of ₹20,000 in the current calendar month.
+- For e.g., Meet the spend criteria between 1st to 31st Jan 2026 to activate the benefit in Feb-2026.
+- I have utilized only one lounge visit this quarter and did not qualify in the previous month; would I still be able to utilize my remaining lounge visits for the quarter?
+- You can still utilize the remaining quota of lounge visits for the quarter by spending in the current month and avail the benefits in the last month of the quarter. There will be no carryover of the quarterly quota.
+- How do I know if I have activated my lounge benefit in any month?
+- You can check your lounge activation status on
+- www.dreamfolks.in
+- How do I know if I am eligible for CFAR?
+- You will be eligible for CFAR If you have done minimum 1 transaction on your IDFC Diamond Reserve/Select Credit Card in the calendar month preceding the start of the policy period. For example, spends in June 2025 will make you eligible for the policy period 1st July 2025 to 30th April 2026.
+- IDFC FIRST Bank will inform all customers at the start of the policy
+- Will I have to transact every month to avail CFAR benefit?
+- Once the policy is issued, it is not mandatory to transact every month in the policy period to keep it active.
+- If I have made a booking during the policy period and I cancel the booking after the policy period, can I still avail the CFAR benefit?
+- For availing CFAR benefit, both bookings and cancellations must be within the policy period.
+- Will I have to pay any additional amount for CFAR benefit?
+- CFAR is a complimentary benefit offered to select IDFC FIRST Credit Card holders at no additional cost.
+- Can I increase my coverage offered under CFAR?
+- As this is a complimentary benefit available to select customers, coverage shall be applicable as per the specified terms & conditions.
+- What kind of flight tickets are eligible for claims under CFAR?
+- Refundable and non-refundable flight tickets are eligible for claims under CFAR. However, only the non-refundable portion of the ticket shall be reimbursed to you.
+- I have claimed up to ₹5,000 in my last two claims and have another ₹5,000 left in my cover, will you allow me to claim the same in my next claim?
+- You can claim only twice in a policy period. No further claims are covered.
+- Will I earn reward points for every spend?
+- Yes. You will earn:
+- o 10X reward points for incremental spends above ₹20,000 in a statement cycle and on your birthday.
+- o 3X reward points on spends up to ₹20,000 in a statement cycle.
+- o 3X reward points on Education, Wallet Load, Government, Rent and Property Management/Purchase transactions.
+- o 1X reward point on utilities and insurance transactions.
+- o Spends in the 3X and 1X categories will not be considered for the 10X monthly milestone.
+- o Reward points will not be given on international spends, spends converted to EMI, Cash Withdrawal, Fuel, Fee and Charges.
+- o 1X reward point is given for every ₹150 spent in a transaction.
+- o Value of 1 reward point is ₹0.25.
+- Are there any exclusions for earning 10X reward points?
+- Education, Wallet Load, Government, Rent and Property Management/Purchase transactions, Utilities, Insurance, International transactions, EMI, Cash Withdrawal, Fuel, Fee and Charges.
+- How can I redeem the Reward Points that I have earned on my card?
+- You can use your Reward Points while paying online or while shopping at a store. Just choose the option to pay with points.
+- Is there an expiry date on the reward points accrued on my card?
+- There is no expiry date on the Reward Points accrued on your IDFC Diamond Reserve Credit Card. You can use your Reward Points whenever you want, without the fear of losing them.
+- What will be my credit limit?
+- If you are applying for your first IDFC FIRST Bank unsecured credit card, you will get a credit limit as per our internal policies.
+- If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. The credit limit, however, will be shared across all unsecured credit cards.
+- What is the interest rate on my credit card?
+- IDFC FIRST Bank Credit Cards offers among the lowest interest rates in the country, so it won’t weigh on your pocket if you can’t clear your entire monthly dues occasionally. IDFC FIRST Bank offers low interest rates starting from 8.5% to 42% per annum. Usually, other credit cards charge as high as 42% per annum interest rate in case you choose to carry forward part of your outstanding balances.
+
+## GAJ Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/metal-credit-card/gaj?utm_source=website&utm_medium=PDPGaj&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Gaj Credit Card \| Premium Metal Credit Card by IDFC FIRST Bank \| IDFC FIRST Bank  
+**Official meta description:** Explore Gaj Credit Card, a premium metal credit card with exclusive travel benefits, unmatched reward points, airport lounge access, zero forex fees and premium lifestyle benefits. Apply now for a superior experience.  
+
+### Official extracted card text
+
+- Introducing
+- A Metal Credit Card
+- By IDFC FIRST Bank
+- #MadeOfIndia
+- IDFC FIRST Bank
+- Experience Greatness
+- By invitation only
+- Fees and Charges
+- Primary Credit Card
+- Joining Fee
+- ₹12,500 + GST
+- Upfront payment of Joining Fee + GST required for dispatch of metal credit card. The fee is non-refundable.
+- Annual Fee
+- ₹0*
+- *Annual Fee will be waived off on ₹10,00,000 annual spends
+- Add-on Credit Card
+- ₹4,000 + GST
+- ₹2,000 + GST
+- The above mentioned fee will be charged for every add-on credit card.
+- Privileges
+- FAQs
+- Exclusive Gaj: Benefits
+- Zero Forex Markup
+- Make international transactions with no forex fees
+- Up to 33.33% Value Back
+- with up to 50 reward points per ₹150 spent
+- ITC Hotel Offer
+- Complimentary 3
+- rd
+- night for every 2 paid nights
+- Term & Condition
+- for detailed Reward points information
+- for detailed terms & conditions for Zero Forex & ITC hotel offer
+- Rewards as grand as Gaj:
+- Hotels
+- 33.33% Value back
+- with 50 reward points per ₹150 spent on hotels via our mobile app.
+- Flights
+- 16.67% Value back
+- with 25 reward points per ₹150 spent on flights via our mobile app.
+- Daily Spends
+- Up to 3.33% Value back
+- with up to 5 reward points per ₹150 spent on the credit card.
+- International
+- 2% Value back
+- on international spends with 3 reward points per ₹150.
+- 1 Reward Point = ₹1
+- on travel bookings via our mobile app (₹0.25 elsewhere).
+- Spends on hotel
+- Spends on flights
+- Everyday spends
+- Calculate now
+- Earned reward points
+- 200
+- Your total savings
+- ₹1200
+- Understand the easy calculation:
+- 1 Reward point = ₹1 on Tripstacc
+- 1 Reward point = ₹0.25 otherwise
+- Accelerated Rewards on Hotel Bookings
+- Receive 45 Bonus Reward Points per ₹150 on hotel bookings via the IDFC FIRST Bank Mobile App, over and above the base 5 Reward Points per ₹150.
+- Accelerated Rewards on Flight Bookings
+- Receive 20 Bonus Reward Points per ₹150 on flight bookings via the IDFC FIRST Bank Mobile App, over and above the base 5 Reward Points per ₹150.
+- Reward Points on Spends
+- Earn 5 Reward Points per ₹150 on domestic spends
+- Earn 1 Reward Point per ₹150 on Insurance, Utilities, Rent, Government, Wallet Load, Railways, FASTag and Education spends, domestic and international.
+- Rewards on International Spends
+- Earn up to 3 Reward Points per ₹150 on international spends
+- Maximize The Reward Point Value
+- Each reward point is worth ₹1.00 when you redeem them for hotel and flight bookings via “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App.
+- On other redemption options – purchasing gift vouchers, products on “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App, and “Pay using reward points” on online transaction, the value of each reward point is ₹0.25.
+- Enjoy benefits as mighty as Gaj:
+- Fee Waiver & Privileges
+- Additional Privileges
+- For those who see luxury not as a possession, but as a way of being
+- 0% Forex Mark-up
+- Travel the world and leave forex fees behind
+- Terms and Conditions
+- Complimentary Airport Lounge Access
+- Enjoy 4 Indian (incl. 1 guest) and 4 global airport lounges every quarter
+- Airport Transfer Discounts
+- Enjoy limousine services in over 3000 cities across 83 countries
+- Free Trip Cancellation Cover
+- Recover up to ₹50,000 on hotel & flight non-refundable cancellations
+- Interest-free Global ATM Cash Withdrawal
+- On your credit card with a cash withdrawal fee of ₹199 + GST
+- Airport Meet & Greet
+- 1 complimentary service a year on $1000 international spends and 10% discount for rest of the bookings
+- Complimentary Railway Lounge Access
+- Avail 4 visits every quarter at select Indian Railway Terminals
+- Five Star Hotel Stay Offer
+- Avail a complimentary 3rd night for every 2 paid nights at ITC Hotels
+- Luxury Villa Vacations
+- Enjoy a free 3rd night for every 2 paid nights at Elivaas Luxury Villas
+- Premium Hotel Offers
+- Enjoy exclusive benefits and discounts at 900+ luxury hotels around the world
+- Curated Dining Deals
+- Experience luxury dining at handpicked restaurants
+- Concierge Services
+- Personalized experience to book dining, staycations, flights and activities.
+- Golfing Escapades
+- Access up to 24 complimentary golf rounds/lessons per year. T&C Apply* Unlock a golf round/lesson per month on spending ₹20,000 and ₹40,000, respectively in the previous statement cycle.
+- Book now
+- Joining Fee Payment Benefit*
+- Earn 12,500 reward points and spend ₹1L in 60 days from card generation and get 5-star hotel voucher for 25% off up to ₹5,000. *Limited Period Offer
+- Offered on 1
+- st
+- application. Not applicable on re-application of Gaj: Credit Card.
+- Annual Fee Waiver
+- Spend ₹10,00,000/year to get waiver.
+- Annual Fee Payment Benefit
+- Earn 12,500 reward points
+- Fuel surcharge waiver
+- Save upto ₹300 per statement cycle with 1% Fuel Surcharge Waiver
+- Comprehensive Insurance Cover
+- Air accident cover, personal accident cover, travel insurances and more
+- 24/7 Roadside assistance
+- Complimentary RSA worth ₹1,399
+- Over 300+ brand Offers
+- Explore
+- Complimentary FIRST Digital Rupay Credit Card
+- Earn 1 Reward per ₹150 on UPI spends. 1 Reward Point = ₹1 on travel bookings via IDFC App.​
+- Add the card on your favourite UPI Apps.
+- Power of Complimentary
+- with your Gaj: Credit Card
+- Maximise your UPI
+- spends with 1X
+- Reward Points
+- Earn 1 Reward per ₹150 on UPI Spends
+- Instantly pay with Scan & Pay via IDFC FIRST Bank Mobile app
+- Add your card in preferred UPI apps for seamless payments
+- Add your card on your favourite UPI app
+- PhonePe
+- Paytm
+- Google Pay
+- BHIM
+
+## WOW Black Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/wow-black-credit-card?utm_source=website&utm_medium=PDPWOWBlack&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** FIRST WOW Black Credit Card \| FD backed premium credit card \| IDFC FIRST Bank  
+**Official meta description:** Enjoy effortless payments and travel benefits with the FIRST WOW Black Credit Card, an FD-backed premium credit card  
+
+### Official extracted card text
+
+- Key Benefits
+- Welcome Benefits
+- Privileges
+- FAQs
+- Joining Fee:
+- ₹750+GST
+- Annual Fee:
+- or
+- ₹0
+- on ₹1.5 Lakh Annual Spend
+- home
+- first wow black credit card
+- Lounge access
+- Zero-Forex
+- Welcome benefits of ₹5,000+
+- FD Backed Premium Credit Card
+- Joining Fee: ₹750+GST
+- on ₹1.5L of annual spends
+- Up to 16.7% Bonus Rewards
+- Experience Travel Like Never Before
+- Discover India & Beyond Seamlessly
+- Dual Card Offering
+- Complimentary Virtual UPI Card
+- Global Acceptance
+- Effortless Payments, Everywhere
+- Scan for
+- cutting chai
+- , swipe at the
+- Champs-Élysées
+- — one experience, everywhere
+- Key Benefits of
+- Zero Forex Markup, Zero Worries
+- Perfect for your next international getaway
+- Whether you’re traveling abroad or making international transactions from India,
+- enjoy zero forex
+- The Power of Dual Credit Card
+- UPI, Offline, Online- All Spends covered
+- Complimentary UPI-enabled Virtual Credit Card
+- linked to your FIRST WOW! Black Card, from day one
+- Worth ₹5,000+ on Joining Fee Payment
+- Exclusive travel & lifestyle benefits on
+- IDFC FIRST Bank Mobile App, MakeMyTrip, Eazydiner
+- & more
+- Up to 16.7% Bonus Reward Points​
+- on your travel bookings
+- 16.7% Bonus RPs
+- on Hotel &
+- 10% Bonus RPs
+- on Flight bookings through IDFC FIRST Bank Mobile App
+- 1 Reward Point = ₹0.5
+- On travel bookings via IDFC FIRST Bank Mobile App
+- Get
+- more value
+- with your travel experiences.
+- Unlock Welcome Benefits Worth ₹5,000+
+- ₹500 Instant Voucher
+- On your first travel booking via IDFC FIRST Bank Mobile App
+- Up to ₹1,500 Instant Discount
+- On flights, hotels & buses bookings via MakeMyTrip
+- Flat 10% Off
+- On Mokobara website, valid over & above existing offers
+- 3-Month Complimentary Membership
+- Of EazyDiner Prime worth ₹1,095
+- 1-Year Complimentary Membership
+- Of Lenskart Gold Max worth ₹800
+- 5% Cashback up to ₹1,000
+- On your first EMI within 30 days
+- Bonus Travel Rewards
+- ₹700 off on min booking amount of ₹7,000 for round trip domestic flights
+- Earn up to 50 Bonus Reward Points on travel spends made on our app
+- Domestic Flight Booking:
+- ₹500 off on a min booking amount of ₹5,000 for one-way domestic flights
+- Explore list of rewards
+- Bonus Travel Rewards Test
+- Premium Lifestyle Experiences.
+- Exclusive Travel Benefits.
+- Mastercard World Privileges
+- Earn up to 16.7% bonus reward points on your travel bookings
+- More Value For Your Rewards
+- 1 RP = ₹0.50 on Travel Bookings made through IDFC FIRST Bank Mobile App
+- Zero Forex Markup
+- Make international spends without forex markup charges
+- Complimentary Airport Lounge Access
+- Unwind in comfort before you fly.
+- Trip Cancellation
+- Cover
+- Get reimbursement of up to ₹10,000 per year
+- Cover" data-target="#grntcrecal5">
+- Enjoy 25% on Movie Tickets
+- Get 25% off (up to ₹100) on movie tickets once a month via District by Zomato
+- 1% Fuel Surcharge Waiver
+- Drive more, save more with 1% fuel surcharge waiver across India, up to ₹200 per month
+- Personal Accident Insurance of Up To ₹2 Lakh
+- Stay financially protected with a comprehensive personal accident cover of ₹2 Lakh
+- ₹25,000 Lost Card Liability Protection
+- Report your lost card to the bank and enjoy zero liability on fraudulent transactions.
+- Roadside Assistance Worth ₹1,399
+- Get access to round-the-clock roadside assistance worth ₹1,399 in case of vehicle breakdowns.
+- Elevate Every Dining Experience
+- Enjoy exciting offers, priority reservations and curated dining experiences at top restaurants
+- Tee-off at Spectacular Golf Courses
+- Exclusive golfing benefits ranging from complimentary green fees to personalized golf lessons
+- Little Emperors Hotel Club Membership
+- Elevate your travel experience with exclusive benefits, offers, and savings at top luxury properties worldwide.
+- Earn up to 16.7% bonus reward points on your travel bookings done through “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App:​
+- 16.7% Bonus Reward Points on Hotel Bookings
+- 10% Bonus Reward Points on Flight Bookings
+- Each Reward Point is worth ₹0.5 when you redeem them for hotels or flight bookings through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- Whether you're traveling abroad or making international purchases from India, pay zero forex markup fees on all your international transactions and earn up to 4X rewards on these international spends too.
+- 4 complimentary domestic lounge accesses per year (1 per calendar quarter)
+- How to Access Domestic Airport Lounge:
+- Present your FIRST WOW! Black Credit Card at the airport lounge
+- Spend ₹20,000 in the current calendar month to avail the benefit in the next month T&C Apply
+- View the list of eligible airport lounges Explore
+- Trip Cancellation Cover
+- Last-minute change of plans? Get reimbursed for up to ₹10,000 on non-refundable portion of hotel and flight cancellations. The total cover can be used for up to two claims during the policy period.
+- For more details and to know more about the claim process
+- Get 25% off up to ₹100 on movie tickets booked through District by Zomato, once every month.
+- Note: Effective 18th June 2026, to avail the movie benefit in the next month, you need to stay spend-active with any transaction in the current calendar month.
+- for further details.
+- Get 1% Fuel Surcharge Waiver up to ₹200 in a statement cycle at all fuel stations across India on transactions between ₹200 & ₹5,000
+- Lost card liability of ₹25,000
+- Complimentary Roadside Assistance worth ₹1,399
+- As a FIRST WOW! Black Credit Card user, you get exclusive access and discounts across over 350 fine-dine restaurants in 16 cities, as part of the Mastercard Culinary Club programme.
+- For more details and to make a reservation, visit
+- www.mastercardculinaryclub.com
+- Note:
+- This benefit is powered by Mastercard
+- Enjoy 4 complimentary golf rounds and 12 complimentary golf lessons a year across the globe
+- India Golf Program (
+- - 4 complimentary rounds of green fees per calendar year (1 round in a 1 calendar month)
+- - 12 complimentary golf lessons per calendar year (1 lesson per calendar month)
+- APAC Golf Program (
+- - 50% Off on Golf rounds or lessons across Australia, Bangladesh, China, Hong Kong, Japan, Macao, New Zealand, South Korea, Sri Lanka, and Taiwan
+- Indulge in unparalleled luxury with FIRST WOW! Black Credit Card's Mastercard World Privileges. Enjoy a complimentary 1-year Travel Tier membership worth £299 per year at Little Emperors, providing access to exclusive rates and benefits at over 5,000 hotels worldwide.
+- Steps to redeem:
+- 1. Simply visit the Mastercard - Little Emperors website
+- 2. Claim your membership using promo code "mc1"
+- 3. Elevate your travel experience to new heights.
+- Complimentary membership valid for 1 year only and membership renewal fees will be charged automatically if membership is not cancelled within 48 hours of renewal date.
+- Power of Two Networks
+- Power of Dual Cards with FIRST WOW! Black
+- Complimentary
+- UPI-enabled virtual FIRST Digital Credit Card
+- linked to your FIRST WOW! Black Credit Card​
+- Earn up to
+- 3X Reward Points
+- (up to
+- 1% value back
+- ) on UPI Payments
+- to know how to link your virtual RuPay card to UPI
+- Two Cards
+- One
+- Rewards Pool
+- Statement
+- Credit Limit
+- Unlock Higher Value of Rewards on Travel
+- 16.7% Bonus Reward Points (8% value back)​
+- on Hotel bookings through ‘FIRST Rewards Gallery’ section on IDFC FIRST Bank Mobile App
+- 10% Bonus Reward Points (5% value back)
+- on Flight bookings through ‘FIRST Rewards Gallery’ section on IDFC FIRST Bank Mobile App
+- Redeem 1 RP for Rs 0.5
+- on Travel bookings through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- Up to 4 Reward Points
+- per ₹150 spent
+- Up to 3 Reward Points
+- per ₹150 spent on UPI
+- For Hotel Bookings done through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App:
+- Earn 16.7% Bonus Reward Points
+- Example: Spend ₹1,000 on a hotel → Earn 167 bonus points
+- When redeemed @ 1Reward Point =₹0.5* , these points give you ₹83.5 value back
+- That's 8.3% value back!
+- * Redeem 1 Reward Point = ₹0.5 on travel bookings done through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- For Flight Bookings done through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App​
+- Earn 10% Bonus Reward Points
+- Example: Spend ₹1,000 on a flight → Earn 100 bonus points
+- When redeemed @ 1Reward Point =₹0.5* , these points give you ₹50 value back
+- That's 5% value back!
+- Redeem for 1 RP = Rs 0.5
+- Enjoy higher redemption value of 1RP = ₹0.50 when you book flights and hotels through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- 1RP = ₹0.25 everywhere else
+- Earn 4 Reward Points per ₹150 spent online, offline and international spends.
+- Earn 1 Reward Point per ₹150 spent on utility bill, railway spends, FASTag recharges and insurance payments.​ Rewards Exclusions: Fuel, EMI transactions & Cash withdrawals.
+- Earn 3 reward point per ₹150 spent on UPI transactions above ₹2,000
+- Earn 1 reward point per ₹150 spent on UPI transactions below ₹2,000
+- Earn 1 reward point per ₹150 spent on utility, railway spends, FASTag recharges and insurance payments.
+- Rewards Exclusions: Fuel, EMI transactions & Cash withdrawals
+- FIRST WOW! Black Calculator
+- Calculate How Much You Can Save Every Year
+- Total Monthly Spends
+- ₹5L+
+- ₹1,08,000
+- on ₹1.5L annual spend
+- Annual Benefit Value
+- ₹38,994
+- Loading
+- ₹5,395
+- ₹7,000
+- Forex Savings (3.5%)
+- ₹1,200
+- Rewards Value; Redemption @ 1RP=₹0.5
+- ₹10,000
+- 4 Domestic Lounge per year
+- ₹1,399
+- Monthly Movie Offer
+- ₹2,100
+- Fuel Surcharge Waiver
+- ₹5,000
+- ₹2,400
+- Merchant Offer Discount
+- ₹4,500
+- Road Side Assistance
+- Chart
+- List
+- Your FD earns interest while you enjoy rewards on every swipe.
+- Rewards Value Calculation
+- Redemption @ 1RP=₹0.5
+- Category of Spends
+- Annual Spends
+- Your Spends Split %
+- Reward Points Earned
+- Max. Reward Points Value
+- International Spends (4X)
+- *Assuming 20% of spends on intl. purchases
+- ₹21,600
+- 20%
+- 576
+- ₹288.00
+- Shopping & Others (4X)
+- *Assuming 15% of spends on shopping
+- ₹16,200
+- 15%
+- 432
+- ₹216.00
+- Utilities & Insurance (1X)
+- *Assuming 5% of spends on intl. purchases
+- ₹15,000
+- 5%
+- 100
+- ₹50.00
+- UPI Spends (3X)
+- *Assuming 35% of spends on intl. purchases
+- ₹1,05,000
+- 35%
+- ₹1,050.00
+- Hotel Bookings via IDFC FIRST Bank mobile app
+- *Assuming 6% of spend is on hotel bookings via IDFC FIRST Bank mobile app
+- ₹18,000
+- 6%
+- 6,480
+- ₹3,240.00
+- Flight Bookings via IDFC FIRST Bank mobile app
+- *Assuming 4% of spend is on flight bookings via IDFC FIRST Bank mobile app​ ​
+- ₹12,000
+- 4%
+- 2,720
+- ₹1,360.00
+- Total Reward Points Value
+- ₹7,000.00
+- Other Benefits
+- Welcome Benefits (1st year only)
+- Welcome benefits unlocked upon joining fee payment, for more details
+- Most credit cards charge up to 3.5% forex markup on every international transaction. With FIRST WOW! Black you enjoy 0% forex markup
+- Domestic lounge access costs ~₹1250 per visit; With FIRST WOW! Black you get it complimentary*
+- (*Spend ₹20,000 in the current calendar month to avail the benefit in the next month)
+- 25% off up to ₹100 on movies, once every month
+- 1% fuel surcharge waiver up to ₹200, every month
+- Get reimbursed for up to ₹10,000 on non-refundable portion of hotel and flight cancellations
+- 300+ merchant offers all year long
+- Boost your credit limit with an additional FD
+- Open a new Fixed Deposit or link an existing FD to your credit card through the IDFC FIRST Bank Mobile App.
+- Increase Limit Instantly
+- Fees and Charges
+- Joining fees
+- ₹750
+- + GST
+- Annual Fees
+- Waived off on ₹1.5L of annual spends
+- Forex Markup
+- On international transactions
+- Cash Withdrawal interest
+- Across domestic and international ATMs
+- for up to 45 days
+- Eligibility Criteria
+- Age Limit Criteria:
+- 18 to 80 years​
+- Indian citizen with a current and permanent residential address
+- Link an IDFC FIRST Bank Fixed Deposit of at least ₹20,000
+- FIRST WOW! Black Credit Card- FAQs​
+- Fee and Charges
+- How to Apply
+- FD Backed
+- Airport Lounge
+- Bonus Reward Points
+- Reward Points
+- Card Usage
+- International Spends
+- Effective 18th June 2026, what changes are being made to the FIRST WOW! Black Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the FIRST WOW! Black Credit Card.
+- for detailed information.
+- Is there a Joining or Annual fee on FIRST WOW! Black Credit Card?
+- Yes, the FIRST WOW! Black Credit Card comes with a joining fee (1
+- st
+- year) of ₹750 + GST and an annual fee (2
+- nd
+- year onwards) of ₹750 +GST.
+- What welcome benefits do I receive on payment of the joining fee?
+- Upon payment of the joining fee for the FIRST WOW! Black Credit Card, you’ll receive welcome benefits worth over ₹5,000, including exclusive travel and lifestyle offers.
+- 1. Get ₹500 off on your first travel booking made through the IDFC FIRST Bank mobile app, on a minimum spend of ₹5,000
+- 2. Instant discount of up to ₹1500 on flights, hotels, and bus bookings on MakeMyTrip.
+- 3. 3 months complimentary EazyDiner Prime Membership worth ₹1095 on payment of joining fee.
+- 4. Flat 10% instant discount on Mokobara website, over and above existing offers (one time offer).
+- 5. Complimentary Lenskart Gold Max Membership for 1 year worth ₹800.
+- 6. 5% cashback up to ₹1,000 on the transaction value of the first EMI done within 30 days of card generation.
+- Cardholder will get discount coupons and voucher through email/SMS for redemption after the payment of joining fees.
+- For more information refer to the
+- Privileges document
+- What is the annual fee waiver condition for FIRST WOW! Black Credit Card?
+- Annual fee of ₹750+GST will be waived for your FIRST WOW! Black Credit Card if your total spends in an anniversary year reaches ₹1.5 lakh.
+- What is the forex markup fee on international transactions?
+- Most credit cards charge up to 3.5% as forex markup on every international transaction. With the FIRST WOW! Black Credit Card, you enjoy 0% forex markup helping you save these charges and pay seamlessly for spends abroad as well as international purchases made from India, while continuing to earn rewards on these international transactions too.​
+- What is the interest rate on my credit card?
+- IDFC FIRST Bank Credit Cards offer among the lowest interest rates in the country, so it won’t weigh on your pocket if you can’t clear your entire monthly dues once in a while. IDFC FIRST Bank offers low interest rates starting from 8.5% to 46.2% per annum. Usually, other credit cards charge as high as 43.8% per annum interest rate.
+- How can I apply for the FIRST WOW! Black credit card?
+- Register and verify your details
+- Create your fixed deposit > Complete your KYC process > Your FIRST WOW! Black Credit Card is ready!
+- What is the eligibility criteria to apply for a FIRST WOW! Black Credit Card?
+- To be eligible for the IDFC FIRST WOW! Black Credit Card, you must meet the following criteria:
+- Age Limit Criteria: 18 to 80 years​
+- Be an Indian citizen with a permanent address in India
+- Have a minimum Fixed Deposit (FD) of ₹20,000 with IDFC FIRST Bank.
+- : The Bank reserves the right to issue a Credit Card to the applicant based on an assessment of his/her credentials. The final decision is at the Bank’s sole discretion, in line with the mentioned internal policies, and notwithstanding the applicant meeting above credit card criteria.
+- Do I require a credit history or income proof to apply?
+- No, you do not need a credit history or income proof to apply for the FIRST WOW! Black Credit Card.
+- What will determine my credit limit?
+- The credit limit for your FIRST WOW! Black Credit Card will be a minimum of 100% of your fixed deposit amount.
+- Why am I being asked to make a Fixed Deposit?
+- The FIRST WOW! Black Credit Card is a secured credit card, which means it is issued against a Fixed Deposit (FD). To avail the card, you’ll need to either open a new FD or link an existing one with the bank.
+- Once the FD is successfully created, a lien will be marked on 100% of its value as a security against your card. After that, your FD will be linked to the FIRST WOW! Black Credit Card, and your credit limit will be set based on the FD amount, giving you enhanced spending power and all the card’s premium benefits
+- Which fixed deposits can be used for applying for the FIRST WOW! Black Credit Card?
+- Only singly held Fixed Deposits are eligible for the FIRST WOW! Black Credit Card.
+- Fixed Deposits that are jointly held, or those opened by HUFs, partnership firms, societies, trusts, or minors, as well as Tax Saver FDs and Flexi/Auto-Sweep Deposits, are not eligible for this credit card.
+- What are the benefits of having a credit card against a fixed deposit?
+- Here are the benefits of a credit card backed by an FD:
+- • No income proof required
+- : Customers can obtain a credit card without providing any income proof. Besides working professionals, this is useful for homemakers, students, and freelancers.
+- • Helps build credit history:
+- Using your credit card regularly and paying off the outstanding dues on time will help create a good credit history and credit score.
+- • Earn interest on fixed deposit:
+- Cardholders can continue to earn interest on their fixed deposits, while enjoying interest free credit for up to 45 days.
+- What are the current offers available on IDFC FIRST Bank credit cards?
+- IDFC FIRST Bank Credit Cards are loaded with a host of benefits, offers and features. You can check out current offers here:
+- https://firstrewards.in/
+- What are the joining benefits on FIRST WOW! Black?
+- Upon payment of the Joining Fee for the FIRST WOW! Black Credit Card, you’ll receive welcome benefits valued at over ₹5,000, including exclusive travel and lifestyle offers.
+- Cardholder will get discount coupons and voucher through email/SMS for redemption after payment of joining fees.
+- For more information click
+- Is there a movie offer on the FIRST WOW! Black Credit Card?
+- Yes. With the FIRST WOW! Black Credit Card, you get 25% off up to ₹100 every month on movie ticket bookings made through District by Zomato. This benefit can be availed once per calendar month and is subject to availability on the platform.
+- What is the forex mark-up on the FIRST WOW! Black Credit Card?
+- FIRST WOW! Black Credit Card offers zero forex mark-up. Spend seamlessly while travelling abroad, as well as on international purchases made from India and earn rewards on your international spends too.​
+- What is a FIRST Digital RuPay Credit Card?
+- The FIRST Digital RuPay Credit Card is a UPI enabled, digital only credit card, which comes complimentary with your FIRST WOW! Black credit cards.
+- Do I need to pay extra for the FIRST Digital Credit Card that comes with the FIRST WOW! Black Credit Card?
+- No, you don’t need to pay anything extra. The FIRST Digital Credit Card is issued in a complimentary manner along with your FIRST WOW! Black Credit Card. It’s linked to the same account and allows you to make UPI payments with ease, without any additional charges.
+- Does my digital credit card come with a welcome offer?
+- The FIRST Digital Credit Card comes lifetime free with FIRST WOW! Black credit card, and therefore no welcome offer applies.
+- Do I earn reward points for UPI transactions with my complimentary FIRST DIGITAL Credit Card?
+- Yes, you'll earn reward points based on the Credit Card type and transaction amount. Some exceptions apply, such as fuel, cash and EMI transactions. Reward points can be redeemed only through the primary Credit Card.​
+- 3X rewards on UPI purchases greater than ₹2,000.​
+- ​1X rewards on all UPI purchases less than or equal to ₹2,000​
+- 1X on Insurance & Utility spends irrespective of transaction amount​
+- ​1X = 1 reward point per ₹150​
+- 1 Reward Point = ₹0.5 on travel bookings done through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- 1 Reward Point = ₹ 0.25 everywhere else
+- What is the credit limit for my FIRST Digital RuPay Credit Card?
+- The credit limit remains the same for your FIRST WOW! Black and the FIRST Digital RuPay Credit Card and is shared between the two.
+- Can I use my Digital RuPay credit card for international online purchases?
+- No, as of now the IDFC FIRST Bank Digital RuPay Credit Card is primarily for domestic transactions within India.
+- Worry not! FIRST WOW! Black Credit Card comes on the Mastercard network. It is widely accepted internationally and also offers zero forex markup, making your international payments smooth and hassle-free.
+- Will I receive a physical card?
+- FIRST Digital RuPay Credit Card is a digital-only card. A physical card will not be issued.
+- However, your FIRST WOW! Black credit card comes as a physical card.
+- Can I avail complimentary airport lounge visits on the FIRST WOW! Black Credit Card?
+- Yes. With FIRST WOW! Black Credit Card, you can enjoy:
+- -1 complimentary visits per quarter to airport lounges at airport terminals in India. Use your credit card to access Indian airport lounges.
+- To view the list of airport lounges,
+- Do I need to spend ₹20,000 every month to activate my lounge benefits?
+- You can activate your complimentary lounge visits in the next month by spending a minimum of ₹20,000 in the current calendar month.​
+- For e.g., Meet the spend criteria between 1st January to 31st January to activate the benefit in February.
+- How do I know if I have activated my lounge benefit in any month?
+- For airport and railway lounges, benefits are available by default each quarter. The benefit activates if you’ve spent ₹20,000 in the previous calendar month.
+- What are Bonus Reward Points?
+- With FIRST WOW! Black you get additional Bonus Reward Points on your hotel and flight bookings done through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App over and above the 4X base reward points.
+- Click here to know more
+- Is there a capping on earning Bonus Reward Points?
+- The Bonus Reward Points on are capped at 8,000 Reward Points per month
+- When will the Bonus Reward Points get credited?
+- Bonus Reward Points will be credited by the 5th of the next calendar month post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active.
+- What is the value of my Reward Points and how to redeem?
+- Reward points can be redeemed through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- o 1RP=₹0.5 on travel bookings through ‘FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- o 1 RP = ₹0.25 everywhere else.
+- Redemption of 1RP= ₹0.5 is capped at 1,00,000 RPs per month and 2,00,000 RPs per year.
+- Is there an expiry date on the Reward Points accrued on my card?
+- There is NO expiry date on the Reward Points accrued on your IDFC FIRST Bank Credit Card. Your Reward Points are evergreen.
+- Will I earn reward points for every spend?
+- With the FIRST WOW! Black Credit Card, you will earn reward points as follows:
+- o 4X reward points on online, offline and international spends
+- o 1X reward point on Utility, Railway Spends, FASTag Recharges and Insurance Payments
+- o No reward points on EMI, Cash Withdrawal, and Fuel transactions
+- Are there exclusions for 4X points?
+- Utility bill payments, Insurance premium payments, FASTag recharge and Railway spends will earn 1x Reward Points. Rewards program not applicable on Fuel, EMI transactions & Cash withdrawals.
+- FIRST WOW! Black: Earn Bonus Reward Points on travel bookings through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App:
+- - 30 Bonus Points per ₹150 spent on flight bookings.
+- - 50 Bonus Points per ₹150 spent on hotel bookings.
+- Capped at 8,000 Reward Points per month
+- When will points be credited?
+- The reward points will get credited upon statement generation.​
+- ​If the Cardmember fails to pay at least the Minimum Amount Due by the Payment Due Date, Reward Points will not be applicable for that billing cycle.​
+- Any Reward Points credited for that cycle, if already posted, will be reversed.
+- How can I redeem the reward points that I have earned on my IDFC FIRST Bank credit card?
+- You can use your credit card points to pay for your online purchases or when shopping at a store. Just choose the option to ‘pay with points’. You can also redeem your credit card reward points against attractive offers at
+- What will be my credit limit?
+- You will get 100% of your Fixed Deposit (FD) amount as your Credit Limit on the FIRST WOW! Black Credit Card. The cash withdrawal limit is also set at 100% of your FD Limit Credit Limit, giving you full access to your funds.​
+- Can I increase my FIRST WOW! Black Credit Card’s limit?
+- The Credit Limit can be easily increased either by adding a new Fixed Deposit or by linking an existing Fixed Deposit with your FIRST WOW! Black credit card through the IDFC FIRST Bank mobile app or
+- What are the benefits of increasing a limit?
+- Improved credit score:
+- Your credit score is calculated based on several factors including your credit utilization ratio. By increasing your credit cards’ credit limit, you can increase your available credit and improve your credit score if your spends don’t increase.
+- Increased purchasing power:
+- A high credit card limit means more purchasing power. This can be especially beneficial when emergency costs arise or for making large purchases.
+- Will I be asked for my Credit Card PIN at every POS terminal, be it domestic or international?
+- For all transactions in India, yes, you will be asked for a PIN for completing the transactions. However, outside India, you will be asked for the PIN only if the POS terminal is enabled for PIN authentication.
+- Can I use my FIRST WOW! Black Credit Card to withdraw cash at an ATM?
+- Yes, you can! The best part is that all ATM cash withdrawals with this credit card are interest-free for up to 45 days, with a 100% cash withdrawal limit available. Do keep in mind, however, that a cash advance fee of INR 199 + taxes is applicable per transaction, irrespective of the amount you withdraw.
+- Is there an add-on card available on FIRST WOW! Black Credit Card?
+- Since the FIRST WOW! Black Credit Card is an FD-backed, the add-on card facility isn’t available. However, you can easily apply for your own FIRST WOW! Black card here. It’s an assured card for everyone!
+- How do I know if I am eligible for Trip Cancellation-CFAR ?
+- You are eligible for CFAR (Cancel for Any Reason) if:
+- o You hold the IDFC FIRST WOW! Black Credit Card
+- o You made travel bookings using the card during the valid policy period
+- o You have completed a minimum of 1 transaction on the credit card in the calendar month preceding the start of the policy period. For instance, spends in June 2025 will make you eligible for the policy period from 1
+- July 2025 till 7
+- th
+- May 2026.
+- Eligibility can also be confirmed by checking your card's policy coverage or by contacting IDFC FIRST Bank’s customer support.
+- Will I have to transact every month to avail CFAR benefit?
+- No, you don’t need to transact every month. However, you must have completed at least 1 transaction on the credit card in the calendar month preceding the start of the policy period, and the booking must be made during the policy coverage period to be eligible for a CFAR claim. A maximum of two claims are permitted per policy year, with a maximum reimbursement of ₹10,000.
+- If I have made a booking during the policy period and I cancel the booking after the policy period, can I still avail the CFAR benefit?
+- No. For the cover to apply, both booking and cancellation must occur within the defined policy period.
+- Can I increase my coverage offered under CFAR?
+- No, the CFAR cover is capped at ₹10,000 per policy period and cannot be enhanced. This amount can be utilised for up to two claims and is shared between the primary and add-on cardholders.
+- Will I have to pay any additional amount for CFAR benefit?
+- No, the CFAR benefit is included free of cost with the IDFC FIRST WOW! Black Credit Card. You do not have to pay any extra premium or subscription to avail this protection.
+- How do I contact the Bank when I’m travelling outside India?
+- In case of any questions regarding your credit card while abroad, please contact us at +91 22 6248 5152.
+- What rewards will I get on international spends?
+- On eligible international spends, you earn
+- 4 Reward Points for every ₹150 spent
+- (same earn-rate as regular online/offline spends). 1 Reward Point per ₹150 spent on utility bill, railway spends, FASTag recharges and insurance payments.​
+- Reward points are not applicable on excluded categories like
+- fuel, EMI transactions, and cash withdrawals​
+
+## ASHVA Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/metal-credit-card/ashva?utm_source=website&utm_medium=PDPAshva&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for Ashva Credit Card - Low Forex & Lounge Access \| IDFC FIRST Bank  
+**Official meta description:** Apply for Ashva Credit Card with 10X reward points, low forex markup, lounge access benefits & exclusive travel privileges. Get your Metal Card today !  
+
+### Official extracted card text
+
+- METAL CREDIT CARD
+- ASHVA CREDIT CARD
+- Fees and charges
+- Joining Fee: ₹2,999+GST and Annual Fee: ₹2,999+GST (2
+- nd
+- year onwards)
+- Ashva Metal
+- The Concept
+- In the era of Indian royalty,
+- horses or
+- Ashva
+- , were symbols of pride and
+- revered for their prowess.
+- Go back
+- A galloping horse symbolizes the
+- drive to keep moving forward, succeed
+- and become the best versions of ourselves.
+- Experience the unwavering spirit
+- of Ashva in a metal credit card with its
+- strength and exceptional privileges.
+- Primary Credit Card:
+- - Joining fees
+- ₹2,999 + GST
+- - Annual Fee
+- Upfront payment of Joining Fee + GST required for dispatch of metal credit card the fee is non-refundable.
+- Add-on Credit Card:
+- - Joining Fee (Metal Variant)
+- ₹2,000 + GST
+- - Joining Fee (Plastic Variant)
+- ₹1,500 + GST
+- - Annual Fee (Both Variant)
+- ₹1,000 + GST
+- The above mentioned fee will be charged for every add-on credit card.
+- Rooted in India, embracing the world
+- Introducing the Ashva Metal Credit Card – add a touch of enchantment to everyday adventures.
+- #MadeOfIndia
+- A metal marvel
+- With its embedded metal body and solid 12g weight, the card symbolizes the strong and durable bond between a rider and his steed.
+- A fusion of tradition and modern luxury
+- Featuring two regal horses reminiscent of ancient folklore - it’s more than just a credit card – it’s a piece of Indian heritage in your hands.
+- Privileges
+- Explore more
+- Blogs
+- FAQs
+- Ashva Credit Card: Premium Rewards with Global Travel Benefits
+- IDFC FIRST Bank’s Ashva Credit Card is tailored for achievers who seek unmatched experiences in travel and lifestyle. This exquisite metal card entitles you to up to Up to 40X Reward Points and reward redemption value of up to ₹0.40, premium global benefits, including complimentary international and domestic lounge access and monthly movie offers. Built for those who value excellence at every step, the Ashva Credit Card empowers you with seamless global acceptance and premium protection. Opt for this card if you seek a travel-centric companion that complements your stature and ambition.
+- Key Benefits of the Ashva Metal Credit Card
+- Higher Tier of rewards
+- Earn Up to 40X Reward Points Redemption value of up to ₹0.40 per reward point
+- Joining Fee Payment Benefit
+- Earn 7,500 Reward Points worth up to ₹3,000
+- Annual Fee Payment Benefit
+- Worth up to ₹3,000
+- 1% forex markup
+- With a low forex markup of just 1%, ensure that your international transactions are seamless and cost-effective.
+- Reward Points on Ashva Credit Card
+- Earn
+- • 30X Bonus Reward Points* on Hotel Bookings
+- • 15X Bonus Reward Points* on Flight Bookings
+- * * via “Travel and Shop” Section on IDFC FIRST Bank Mobile App
+- Plus
+- • Up to 10X Reward Points on incremental spends above ₹ 20,000 in a statement cycle.
+- 1X = 1 Reward Point per ₹150 spent
+- Redemption
+- 1 Reward Point = ₹0.40 for hotel and flight bookings via “Travel and Shop” Section on IDFC FIRST Bank Mobile App
+- Effective 18th June 2026:​
+- - Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points.
+- for further details.
+- Get 2,500 reward points when you pay your joining fee. After joining fee payment, earn another 2,500 reward points on spends over ₹20,000 in your second statement cycle, and 2,500 more reward points on spends over ₹20,000 in your third statement cycle. Applicable for cards generated on or after 1st September 2025.
+- Excluded transactions: Cash withdrawals, fees, charges, and GST are not eligible for rewards.
+- T&C Apply
+- *The Joining Fee Payment Benefit is offered once per customer on the Ashva Credit Card. If you have previously held the Ashva Credit Card, you will not be eligible for this benefit again.
+- Spend minimum ₹8 Lakhs in the previous card anniversary year and get 7,500 Reward Points (worth upto ₹3,000)
+- Elevate every experience with metal card excellence
+- VISA Infinite Privileges
+- Comprehensive insurance
+- TRAVEL
+- Exceptionally low forex markup fee
+- Save on international transactions with forex markup at just 1%. T&C Apply*
+- Airport lounge perks
+- Complimentary access to airport lounges 4 times in India & 2 times overseas, every quarter. T&C Apply*
+- Free trip cancellation protection
+- Get reimbursed for non-refundable flight and hotel cancellations by up to ₹25,000, twice a year. T&C Apply*
+- Railway lounge access
+- Get 4 complimentary railway lounge visits per quarter. T&C Apply*
+- The Postcard Hotels & Resorts
+- Enjoy a flat discount of ₹5000 on a minimum booking of ₹25,000. T&C Apply*
+- Premium golf privileges
+- 2 complimentary golf rounds/lessons every month when you spend over ₹20,000 in a month. T&C Apply*
+- Exclusive movie delights
+- Enjoy buy one, get one free movie tickets with a minimum discount of ₹400, twice a month. T&C Apply*
+- Fuel surcharge waiver
+- Save on fuel costs with 1% waiver of up to ₹300 on fuel surcharges across India. T&C Apply*
+- Get a free stay at ITC Hotels
+- Enjoy exclusive offers on your hotel bookings
+- Get a free stay at Elivaas
+- Unlock exclusive discounts on your next trip
+- Airport Meet and Greet Service
+- Travel in style with personalised airport assistance.
+- Delectable dining discounts
+- Enjoy up to 20% off total bill* when you pay with your card at any participating restaurants.
+- Airport transfer discounts
+- Save on airport transfers with exclusive discounts on limousine services. T&C Apply*
+- Concierge at your fingertips
+- Get personalized assistance for all your travel needs. T&C Apply*
+- Luxury hotel benefits
+- Enjoy exclusive benefits and discounts at 900+ luxury hotels around the world. T&C Apply*
+- Accident and lost card liability cover
+- Stay protected with air and personal accident cover, and Lost Card Liability Cover of ₹50,000. T&C Apply*
+- Comprehensive travel insurance cover
+- Get comprehensive travel insurance coverage up to USD 1200. T&C Apply*
+- Roadside assistance
+- Receive 24/7 roadside assistance for any emergencies while traveling. T&C Apply*
+- Enjoy a low forex markup rate at just 1% (+GST) on your international spends. This fee also applies to international transactions done in Indian currency.
+- View the list of eligible airport lounges
+- Explore
+- How to access lounges:
+- • Indian airport lounges – Present your Ashva Credit Card at the airport lounge.
+- • Global airport lounges – Present your Dreamfolks card. For easier access, do advance bookings
+- online.
+- Spend ₹20,000 in the current calendar month to avail the benefit in the next month.
+- With a Cancel for Any Reason cover, you can cancel flight and hotel bookings and avail a reimbursement of up to ₹25,000 twice a year on non-refundable portion of the booking.
+- For more details and to know more about the claim process,
+- Avail 4 complimentary visits to lounges at select Indian Railway Terminals.
+- Disclaimer: Effective 20th February 2025, spend ₹20,000 within the current calendar month to access railway lounge benefits in the following month.
+- Explore list of eligible railway lounges
+- Unlock a golf round/lesson per month on spending ₹20,000 and ₹40,000, respectively in the previous statement cycle more details.
+- Book now
+- Avail a buy one get one free offer on Movie Tickets with up to ₹400 off on the second ticket, twice in a calendar month.
+- The benefit can be availed via District App by Zomato.
+- Note: Spend ₹20,000 in the current calendar month to avail the benefit in the next month, effective 18th June 2026.
+- Avail 1% Fuel Surcharge Waiver up to ₹300 in a statement cycle at all fuel stations across India on transactions between ₹200 & ₹5,000.
+- Get attractive discounts on airport transfer limousine services across in over 3000 cities across 83 countries.
+- This service provides a modern, personalized experience for self-booking your dining, staycations, flights and activities.
+- Access to over 900 luxury hotels around the world with premium benefits such as automatic room upgrade upon arrival, complimentary in-room Wi-Fi, complimentary continental breakfast, VIP Guest status, 3PM check-out upon request and others.
+- Air Accident Cover of ₹1 Crore, Personal Accident Cover of ₹10,00,000 and Lost Card Liability Cover of ₹50,000. Valid on doing at least one transaction on the Ashva Credit Card in the last 30 days.
+- Loss of Checked-in Baggage: USD 500
+- Delay of Checked-In Baggage: USD 100
+- Loss of Passport and other documents: USD 300
+- Delay in Flight: USD 300
+- Complimentary Roadside Assistance worth ₹1,399
+- Stay for 3, Pay for 2 at ITC Hotels
+- Enjoy a complimentary 3rd night for every 2 consecutive paid nights at ITC Hotels.
+- Use promocode ITCVIS to unlock the offer on the ITC website.
+- OR
+- Get 50% off your 2nd night at ITC Hotels
+- Stay for 2 nights and enjoy the 2nd night at 50% off at ITC Hotels. Use promocode ITCV50 to unlock the offer on the ITC website.
+- https://visaitcoffer.poshvine.com/
+- Note: The offer cannot be clubbed with other offers in a single transaction. This is an exclusive offer provided by VISA and is subject to change or discontinuation without prior notice.
+- Stay for 3, Pay for 2 at Elivaas
+- Enjoy a complimentary 3rd night for every 2 consecutive paid nights booked at Elivaas’ properties
+- Get 50% off your 2nd night at Elivaas
+- Stay for 2 nights and enjoy the 2nd night at 50% off at Elivaas’ properties
+- https://www.elivaas.com/explore/visa-offers/
+- Note: This is an exclusive offer provided by VISA and is subject to change or discontinuation without prior notice. The offer can be availed on the merchant website and cannot be clubbed with other offers in a single transaction.
+- Stay across The Postcard’s luxury hotels and resorts in India at attractive discounts with your Ashva Credit Card. Enjoy a flat discount of ₹5000 on a minimum booking of ₹25,000.
+- The benefit can be availed once every calendar quarter using promo code:
+- IDFCVIP
+- Valid till: 10th Feb 2027
+- Offer 1: Complimentary meet & greet service
+- Offer details: You can enjoy a complimentary meet and greet service at major Indian airports once a year with your credit card. This offer is available by spending USD 1000 (approx. INR 85,000) on international point-of-sale transactions in the past 12 months before the booking date.
+- Note:
+- The offer cannot be combined with other offers. This is an exclusive offer provided by VISAand is subject to change or discontinuation without prior notice.
+- Offer 2: Flat 10% discount on meet-and-greet service
+- Offer details: For all other instances, or more than one guest, enjoy a flat 10% discount on meet & greet service at major Indian airports
+- Eligibility: Available to all eligible VISA Infinite cardholders
+- Offer 3: Discounted Meet and Assist Service
+- Enjoy discounts on Airport Fast-track immigration service at over 450 destinations worldwide.
+- Experience luxury dining at its finest—handpicked restaurants, bespoke menus, and priority access await you with your VISA Infinite card. Reserve now on
+- https://dinewithvisa.in
+- Terms and conditions apply.
+- View here
+- Earn Up to 40X Reward Points
+- 30X Bonus points on hotels, 15X Bonus points on Flights plus Up to 10X points on credit card purchases.
+- Reward Point value of upto ₹0.40
+- Maximize your reward point value by redeeming them for hotel & flight bookings via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App
+- ₹0
+- ₹2L
+- Earned Reward Points
+- 1000
+- Cashback in(Rs.)
+- ₹250
+- Understand the easy calculation:
+- 1X = 1 Reward point per ₹150 spent \| 1 Reward point = ₹0.25
+- Earn unlimited reward points on your credit card purchases with
+- • 10X Reward Points on incremental spends above ₹20,000 in a statement cycle
+- • 5X Reward Points on spends up to ₹20,000 in a statement cycle
+- • 5X Reward Points on international spends, with eligible international transactions contributing towards your monthly 10X rewards milestone calculation.
+- • 3X Reward Points on Rent, Education, Government and Wallet Load transactions.
+- • 1X Reward Points on Insurance, Utility, Railways and Fastag transactions.
+- Domestic and international transactions in these categories are not considered towards 10X milestone calculations.
+- And, your reward points never expire. 1X = 1 Reward Point per ₹150 spent.
+- Reward Points in Action
+- Details
+- Base Earn (A)
+- Up to 10 Points/ ₹150
+- Accelerated Earn (B) On Bookings via IDFC FIRST Mobile App
+- +30 Points/₹150 (On Hotel Bookings via IDFC FIRST Bank Mobile App)
+- +15 Points/₹150 (On Flight Bookings via IDFC FIRST Bank Mobile App)
+- Total Earn(A+B)
+- On Bookings via IDFC FIRST Mobile App
+- 40 Points/₹150 (On Hotels)
+- 25 Points/₹150 (On Flights)
+- Illustration:
+- For ₹6,000 spends on Bookings via IDFC FIRST Mobile App
+- 1,600 Points Worth ₹640 (On Hotels)
+- 1,000 Points Worth ₹400 (On Flights)
+- Maximize The Reward Point Value
+- Each reward point is worth ₹0.40 when you redeem them for hotel and flight bookings via “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App.
+- On other redemption options – purchasing gift vouchers, products on “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App, and “Pay using reward points” on online transaction, the value of each reward point is ₹0.25.
+- Value Per Point
+- 1 Point = ₹0.4 (On Hotel/Flight Bookings via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App)
+- 1 Point = ₹0.25 (Everywhere else)
+- For 10,000 Points in action
+- 10,000 Points = ₹4,000 (On Hotel/Flight Bookings via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App)
+- 10,000 Points = ₹2,500 (Everywhere else)
+- View more
+- IDFC FIRST Bank
+- now powered for UPI
+- Explore other cards
+- Mayura
+- IDFC FIRST Wealth
+- Latest Blog Posts
+- Deep dive into Credit Card
+- Enjoy Free Hotel Stays with the Ashva Credit Card
+- Discover how to unlock free hotel stays with IDFC FIRST Bank’s Ashva Credit Card.
+- Read More
+- Travel Insurance Benefits via Credit Cards
+- Explore the different types of travel insurance offered with select credit cards.
+- Top 3 Benefits of the Ashva Credit Card
+- Discover the major perks that make Ashva a top pick for smart spenders.
+- Ashva Card: Where Heritage Meets Modern Finance
+- Explore how the Ashva card blends Indian tradition with financial innovation.
+- What Makes a Metal Credit Card Special?
+- Understand the unique features and appeal of owning a metal credit card.
+- Answering all your questions
+- Fee and card dispatch
+- Credit Limit
+- Reward Points
+- International Helpline
+- Airport Lounge
+- Card Usage
+- Effective 18th June 2026, what changes are being made to the Ashva Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the Ashva Credit Card.
+- for detailed information.
+- What are the Joining Fee and Annual Fee of the Ashva Credit Card?
+- The Ashva Credit Card comes with a Joining Fee of ₹2,999 + GST and an Annual Fee (applicable from second card anniversary year) of ₹2,999 + GST. The Joining Fee will be levied on credit card application approval.
+- Why is the Joining Fee charged before card issuance?
+- IDFC FIRST Bank believes in complete transparency, and we want our customers to make an informed decision about their Joining Fee and its associated benefits. By asking for payment upfront, we are aligning with our core values of openness and trust, ensuring you have full cognizance about the applicable fee, before committing to this premium metal card. This process allows you to make a conscious choice in a responsible and transparent manner. By choosing this process we also aim to minimize wastage due to cancelled and returned cards.
+- How can I pay the Ashva Credit Card Joining Fee?
+- •You will receive communication from the bank to pay the Joining Fee as soon as your credit card application is approved.
+- •You can also pay the Joining Fee of 2,999 + GST by
+- clicking here
+- •On the next page you must authenticate using the mobile number and date of birth as mentioned during the card application. The payment can be made using UPI and net banking.
+- My Ashva Credit Card is approved. When will I receive the metal card?
+- Once your Ashva Credit Card application is approved, upfront Joining Fee payment of ₹2,999 + GST is required to get the credit card dispatched. To pay the Joining Fee,
+- Why can’t I use my digital Ashva Credit Card for online purchases?
+- •As per the process, upfront Joining Fee payment is required to activate your digital card and dispatch of the metal card.
+- •On card application approval, you will receive communication to pay the Joining Fee. To pay the Joining Fee now,
+- Once the Joining Fee is paid, please make sure that you have enabled online (Ecom) transactions on the card. To enable online transactions, please
+- Can I use the Ashva Credit Card for online transactions before receiving the physical card?
+- Once the Joining Fee payment is completed, the credit card can be used for online transactions. To enable online transactions and to get the card details, please use the IDFC FIRST Mobile Banking
+- App
+- When will I receive my Ashva Metal Credit Card after paying the Joining Fee?
+- On payment of joining fee, the metal credit card will be dispatched to your mailing address registered with the bank and should arrive in 5 working days. If your address has changed, please visit a nearby branch and get your address updated in the bank records. Once, the address is updated, please call 180010888 to get the card dispatched to the updated address.
+- What benefits do I receive on paying the Joining Fee?
+- On payment of joining fee, you can earn up to 7,500 reward points as a joining benefit. These are awarded in three parts:
+- • 2,500 reward points on successful payment of the joining fee
+- • 2,500 reward points on net spends of ₹20,000 or more in your 2nd statement cycle
+- • 2,500 reward points on net spends of ₹20,000 or more in your 3rd statement cycle
+- The benefit is available only once per customer. If you close the card and reapply, you will not be eligible for the benefit.
+- How is the credit limit determined for the Ashva Credit Card?
+- If you are applying for your first IDFC FIRST Bank unsecured credit card, you will get a credit limit as per our internal policies.
+- If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. The credit limit, however, will be shared across all unsecured credit cards.
+- How do I earn reward points on the Ashva Credit Card?
+- Yes. You will earn:
+- - 3X Reward Points on Rent, Education, Government and Wallet Load transactions. 1X Reward Points on Insurance, Utility, Railways and Fastag transactions. Domestic and international transactions in these categories are not considered towards 10X milestone calculations.
+- - Reward points will not be given on spends converted to EMI, Cash Withdrawal, Fuel, Fee and Charges.
+- - 1X reward point is given for every ₹150 spent in a transaction.
+- Value of 1 reward point is
+- - ₹0.40 on travel bookings via “Travel & Shop” section on the IDFC FIRST Bank mobile app
+- - ₹0.25 on other redemption options
+- Are there exclusions for earning 10X reward points?
+- Education, Wallet Load, Government, Rent and Property Management/Purchase transactions, Utilities, Insurance, Railways, Fastag, EMI, Cash Withdrawal, Loan on credit card, Fuel, Fee and Charges.
+- Only those transactions which are settled by the merchant before the statement generation will be considered. If a transaction is settled after the statement is generated, it will not accrue 10X rewards. Rewards for such transactions will be credited after the next statement generation
+- What is the validity of reward points on the Ashva Credit Card?
+- The Ashva Credit Card provides the benefit of never-expiring reward points. The reward points remain valid till the credit card remains active.
+- What are the offers available on the Ashva Credit Card?
+- The Ashva Credit Card comes loaded with benefits like discounts on 300+ brands, movie tickets, complimentary airport lounge access, etc. The full list of benefits is mentioned above.
+- For brand offers, you can visit the offers
+- website
+- What is the Forex Markup Fee on the Ashva Credit Card?
+- The Ashva Credit Card offers one of the lowest forex markups in the industry at just
+- 1%
+- . Spend seamlessly while travelling abroad as well as on international purchases made from India.
+- Does the Ashva Credit Card offer complimentary airport lounge access?
+- Yes. With Ashva Credit Card, you can enjoy:
+- - 4 complimentary visits per quarter to airport lounges at airport terminals in India. Use your credit card to access Indian airport lounges.
+- - 2 complimentary visits per quarter to global airport lounges. Use the DreamFolks card to access global airport lounges. Some global lounges require prebooking via the
+- link
+- To view the list of airport lounges,
+- The lounge benefit can be availed in the next calendar month by spending ₹20,000 or more in the current calendar month.
+- Does the Ashva Credit Card offer complimentary golf benefits?
+- Yes. You can avail up to 2 rounds/lessons in a month. Each round/lesson is unlocked for every ₹20,000 spent in the previous statement cycle.
+- Can I withdraw cash using the Ashva Credit Card?
+- Yes, you can! All ATM cash withdrawals are interest-free for up to 45 days – in India or abroad. Cash withdrawal from ATMs outside India will attract a forex markup fee of 1% (+GST). Please keep in mind, however, that a Cash Advance Fee of ₹199/- + GST is applicable per transaction, irrespective of your location or the withdrawal amount. The maximum cash withdrawal limit per transaction is ₹10,000.
+- Will I be asked for my Credit Card PIN at every POS terminal, be it domestic or international?
+- For transactions in India, yes, you will be asked for a PIN for completing the transactions. However, outside India, you will be asked for the PIN only if the POS terminal is enabled for PIN authentication.
+- What is the Annual Spending Milestone and its benefits?
+- On spending ₹8,00,000 or more in a card anniversary year, you will get 7,500 reward points. The reward points will be credited on payment of annual fee for the next year. Transactions on primary, add-on and associated FIRST Digital (UPI) Credit Card will be considered towards the milestone, including EMI transactions. Cash withdrawal, fee charges and EMI amortization will be excluded from the benefit.
+- When are reward points credited to my account?
+- The reward points will get credited upon statement generation.
+- What movie ticket offers are available on the Ashva Credit Card?
+- Using the Ashva Credit Card, you get a buy-one-get-one movie offer with up to ₹400 off on the second ticket, twice a month. Starting 1st July 2025, use District by Zomato App to book ticket. Till 30th June 2025, you can use BookMyShow to book tickets.
+- What are the key offers and benefits of the Ashva Credit Card?
+- Is the Ashva Credit Card better than a Forex Card or Multi-Currency Card?
+- Ashva, a premium metal credit card by IDFC FIRST Bank, is a must-have for frequent travellers. It can make your travel experience much more convenient with benefits such as:
+- 1. Low Forex Markup Fee of 1%, making international transactions cost-effective.
+- 2. Complimentary access to airport lounges including 4 domestic lounge visits and 2 international lounge visits per quarter.
+- 3. Free Trip Cancellation Cover. With a cancellation cover of up to ₹25,000 for non-refundable hotel and flight bookings, you won’t feel guilty about changing your travel plans at the last minute.
+- 4. Robust travel insurance with coverage up to $1,200 USD for loss of luggage, flight delays, etc.
+- How does the Ashva Credit Card compare to a multi-currency card or a forex card?
+- The Ashva Credit Card stands out as a versatile and cost-effective option for international travel compared to multi-forex or multi-currency cards. With only a 1% forex markup fee, it is highly competitive, offering significant savings compared to the typical 3-3.5% forex markup charged by most traditional credit cards.
+- Unlike multi-currency cards, which require pre-loading foreign currency and may involve reload fees, the Ashva Credit Card offers seamless usage across most currencies without additional setup or top-up hassles. Furthermore, its 45-day interest-free cash withdrawal feature provides unmatched flexibility and convenience while traveling abroad—something that is typically unavailable with multi-currency cards.
+- In addition to these financial benefits, the Ashva Credit Card also offers travel perks like complimentary lounge access, trip cancellation cover, travel insurance, and reward points, making it a superior all-in-one solution for globetrotters.
+- How can I contact IDFC FIRST Bank while travelling internationally?
+- In case of any questions regarding your credit card while abroad, please contact us at
+- +91 22 6248 5152
+
+## MAYURA Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/metal-credit-card/mayura?utm_source=website&utm_medium=PDPMayura&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Get Mayura Metal Card: 0 Forex, Lounge Access & 60x Rewards \| IDFC FIRST Bank  
+**Official meta description:** Apply for Mayura Metal Credit Card with zero forex, lounge access, golf benefits, 60X rewards points, dining offers etc. Get your Metal Card today !  
+
+### Official extracted card text
+
+- METAL CREDIT CARD
+- MAYURA CREDIT CARD
+- Fees and charges on Mayura Metal Card
+- Joining fee: ₹5,999+GST and Annual Fee: ₹5,999+GST (2
+- nd
+- year onwards)
+- Introducing
+- A Metal
+- Mayura Metal
+- The Concept
+- Regarded as one of the most elegant birds,
+- the peacock is a symbol of luck,
+- poise, and beauty.
+- Go back
+- A timeless motif in Indian art,
+- Mayura
+- or peacock, is closely intertwined
+- with good fortune and royalty.
+- Experience the spirit of Mayura in every
+- aspect of the card, from its premium design and metal finish to the elevated privileges it unlocks.
+- Fees and charges
+- Primary Credit Card:
+- - Joining fees
+- ₹5,999 + GST
+- - Annual Fee
+- Upfront payment of Joining Fee + GST required for dispatch of metal credit card the fee is non-refundable.
+- Add-on Credit Card Fees:
+- - Joining Fee (Metal Variant)
+- ₹4,000 + GST
+- - Joining Fee (Plastic Variant)
+- ₹3,000 + GST
+- - Annual Fee (Both Variants)
+- ₹2,000 + GST
+- The above mentioned fee will be charged for every add-on credit card.
+- Rooted in India, embracing the world
+- Introducing the Mayura Credit Card – making everyday a celebration of life’s finest pleasures.
+- #MadeOfIndia
+- A metal marvel
+- Crafted from premium metal and weighing a solid 17g, feel the luxe of Mayura in every swipe.
+- Majestic royal blue hue
+- It shimmers at every angle just like the distinct plumage of the peacock.
+- A tribute to our heritage
+- Featuring two regal peacocks - a timeless Indian motif - the Mayura Credit Card is a piece of heritage in your hands.
+- Exclusive benefits
+- Privileges
+- Explore more
+- Blogs
+- FAQs
+- Add-on Credit Card:
+- Mayura Credit Card: Luxury and Exclusive Lifestyle Experiences
+- ​ Crafted as a masterpiece of elegance, IDFC FIRST Bank’s Mayura Credit Card celebrates refined living with lifestyle privileges. From exclusive benefits like zero forex charges, 40X rewards on travel bookings that offers up to 13% value back, to complimentary global airport lounge access, movie offers and golf rounds, every entitlement reflects exclusivity and sophistication. Designed with a touch of rich Indian history for those who prefer enjoying finer things in life, Mayura goes beyond functionality - it’s a timeless motif of heritage in your hands. If your lifestyle resonates with opulence, indulgence, and exclusivity, Mayura is the perfect choice to complement your elite aspirations.
+- Key Benefits of the Mayura Credit Card
+- Higher Tier of rewards
+- Earn Up to 40X Reward Points Redemption value of up to ₹0.50 per Reward Point
+- Joining Fee Payment Benefit
+- Earn 12,000 Reward Points worth up to ₹6,000
+- Annual Fee Payment Benefit
+- Worth up to ₹7,500
+- No forex markup fees
+- Experience global luxuries seamlessly with 0% foreign exchange markup on international transactions.
+- Reward Points on Mayura Credit Card
+- Earn
+- • 30X Bonus Reward Points* on Hotel Bookings
+- • 15X Bonus Reward Points* on Flight Bookings
+- * via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App
+- Plus
+- • Up to 10X Reward Points on incremental spends above ₹ 20,000 in a statement cycle.
+- 1X = 1 Reward Point per ₹150 spent
+- Redemption
+- 1 Reward Point = ₹0.50 for hotel and flight bookings via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App.
+- Effective 18th June 2026:​
+- - Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points.
+- for further details.
+- Get 4,000 reward points when you pay your joining fee. After joining fee payment, earn another 4,000 reward points on spends over ₹20,000 in your second statement cycle, and 4,000 more reward points on spends over ₹20,000 in your third statement cycle. Applicable for cards generated on or after 1st September 2025.
+- Excluded transactions: Cash withdrawals, fees, charges, and GST are not eligible for rewards.
+- T&C Apply
+- *The Joining Fee Payment Benefit is offered once per customer on the Mayura Credit Card. If you have previously held the Mayura Credit Card, you will not be eligible for this benefit again.
+- Spend minimum ₹8 Lakhs in the previous card anniversary year and get 7,500 Reward Points (worth up to ₹3,750)
+- OR
+- Spend minimum ₹15 Lakhs in the previous card anniversary year and get 15,000 Reward Points (worth up to ₹7,500)
+- Mastercard World Privileges
+- VISA Infinite Privileges
+- Insurance Cover
+- Zero forex charges
+- You will pay no foreign exchange fees when you use your card for international purchases. T&C Apply*
+- Airport lounge perks
+- 4 complimentary visits to Indian airport lounges including 1 guest visit and 4 complimentary visits to global airport lounges
+- Free trip cancellation cover
+- Get reimbursed for non-refundable flight and hotel cancellations by up to ₹50,000, twice a year. T&C Apply*
+- Railway lounge access
+- Get 4 complimentary railway lounge visits per quarter across India. T&C Apply*
+- The Postcard Hotels & Resorts
+- Enjoy a flat discount of ₹5000 on a minimum booking of ₹25,000. T&C apply*
+- Golfing escapades
+- Access up to 24 complimentary golf rounds/lessons per year. T&C Apply*
+- Twin ticket treats
+- Enjoy buy one, get one free movie tickets with a minimum discount of ₹500, twice a month. T&C Apply*
+- Fuel surcharge waiver
+- Save on fuel costs with a 1% waiver of up to ₹300 on fuel surcharges across India. T&C Apply*
+- Elevate every dining experience
+- Enjoy exciting offers, priority reservations and curated dining experiences at top restaurants
+- Tee-off at spectacular golf courses
+- Exclusive golfing benefits ranging from complimentary green fees to personalized golf lessons
+- Little Emperors Hotel Club Membership
+- Elevate your travel experience with exclusive benefits, offers, and savings at top luxury properties worldwide.
+- Accident and lost card liability cover
+- Stay protected with air and personal accident cover, and Lost Card Liability Cover of ₹50,000. T&C Apply*
+- Comprehensive travel insurance cover
+- Get comprehensive travel insurance coverage up to USD 1200. T&C Apply*
+- Roadside assistance
+- Receive 24/7 roadside assistance for any emergencies while traveling. T&C Apply*
+- Get a free stay at ITC Hotels
+- Enjoy exclusive offers on your hotel bookings
+- Get a free stay at Elivaas
+- Unlock exclusive discounts on your next trip
+- Airport Meet and Greet Service
+- Travel in style with personalised airport assistance.
+- Delectable dining discounts
+- Enjoy up to 20% off total bill* when you pay with your card at any participating restaurants.
+- Airport transfer discounts
+- Save on airport transfers with exclusive discounts on limousine services. T&C Apply*
+- Concierge at your fingertips
+- Get personalized assistance for all your travel needs. T&C Apply*
+- Luxury hotel benefits
+- Enjoy exclusive benefits and discounts at 900+ luxury hotels around the world. T&C Apply*
+- Airport Lounge Privileges
+- View the list of eligible airport lounges
+- Explore
+- How to access lounges:
+- • Indian airport lounges – Present your Mayura Credit Card at the airport lounge.
+- • Global airport lounges – Present your Dreamfolks card. For easier access, do advance bookings
+- online.
+- Spend ₹20,000 in the current calendar month to avail the benefit in the next month
+- With a Cancel For Any Reason cover, you can cancel flight and hotel bookings and avail a reimbursement of up to ₹50,000 twice a year.
+- For more details and to know more about the claim process
+- Avail 4 complimentary visits to lounges at select Indian railway terminals.
+- Disclaimer: Effective 20th February 2025, spend ₹20,000 within the current calendar month to access railway lounge benefits in the following month.
+- Explore list of eligible railway lounges
+- Unlock a golf round/lesson per month on spending ₹20,000 and ₹40,000, respectively in the previous statement cycle.
+- Book now
+- Avail a buy one get one free offer on Movie Tickets with up to ₹500 off on the second ticket, twice in a calendar month. The benefit can be availed via District App by Zomato.
+- Note: Spend ₹20,000 in the current calendar month to avail the benefit in the next month, effective 18th June 2026.
+- Avail 1% Fuel Surcharge Waiver up to ₹300 in a statement cycle at all fuel stations across India on transactions between ₹200 & ₹5,000.
+- Air Accident Cover of ₹1 Crore, Personal Accident Cover of ₹10,00,000 and Lost Card Liability Cover of ₹50,000. Valid on making at least one transaction on the Mayura Credit Card in the last 30 days.
+- Loss of Checked-in Baggage: USD 500
+- Delay of Checked-In Baggage: USD 100
+- Loss of Passport and other documents: USD 300
+- Delay in Flight: USD 300
+- For more details and terms and conditions
+- Complimentary Roadside Assistance worth ₹1,399
+- As a Mayura Credit Card user, you get exclusive access and discounts across over 350 fine-dine restaurants in 16 cities, as part of the Mastercard Culinary Club programme.
+- For more details and to make a reservation, visit
+- www.mastercardculinaryclub.com
+- Note: This benefit is powered by Mastercard and is valid until 31st December 2025.
+- Enjoy 4 complimentary golf rounds and 12 complimentary golf lessons a year across the globe
+- India Golf Program
+- - 4 complimentary rounds of green fees per calendar year (1 round in a 1 calendar month)
+- - 12 complimentary golf lessons per calendar year (1 lesson per calendar month)
+- APAC Golf Program
+- - 50% Off on Golf rounds or lessons across Australia, Bangladesh, China, Hong Kong, Japan, Macao, New Zealand, South Korea, Sri Lanka, and Taiwan
+- Stay across The Postcard’s luxury hotels and resorts in India at attractive discounts with your Mayura Credit Card. Enjoy a flat discount of ₹5000 on a minimum booking of ₹25,000.
+- The benefit can be availed once every calendar quarter using promo code:
+- IDFCVIP
+- Valid till: 10th Feb 2027
+- Indulge in unparalleled luxury with the Mayura Credit Card's Mastercard World Privileges. Enjoy a complimentary 1-year Travel Tier membership worth £299 per year at Little Emperors, providing access to exclusive rates and benefits at over 5,000 hotels worldwide.
+- Steps to redeem:
+- 1. Simply visit the
+- Mastercard - Little Emperors website
+- 2. Claim your membership using promo code "mc1"
+- 3. Elevate your travel experience to new heights.
+- Note: Complimentary membership valid for 1 year only and membership renewal fees will be charged automatically if membership is not cancelled within 48 hours of renewal date.
+- Stay for 3, Pay for 2 at ITC Hotels
+- Enjoy a complimentary 3rd night for every 2 consecutive paid nights at ITC Hotels.
+- Use promocode ITCVIS to unlock the offer on the ITC website.
+- Get 50% off your 2nd night at ITC Hotels
+- Stay for 2 nights and enjoy the 2nd night at 50% off at ITC Hotels. Use promocode ITCV50 to unlock the offer on the ITC website.
+- https://visaitcoffer.poshvine.com/
+- Note: The offer cannot be clubbed with other offers in a single transaction. This is an exclusive offer provided by VISA and is subject to change or discontinuation without prior notice.
+- Stay for 3, Pay for 2 at Elivaas
+- Enjoy a complimentary 3rd night for every 2 consecutive paid nights booked at Elivaas’ properties
+- Get 50% off your 2nd night at Elivaas
+- Stay for 2 nights and enjoy the 2nd night at 50% off at Elivaas’ properties
+- https://www.elivaas.com/explore/visa-offers/
+- Note: This is an exclusive offer provided by VISA and is subject to change or discontinuation without prior notice. The offer can be availed on the merchant website and cannot be clubbed with other offers in a single transaction.
+- Offer 1: Complimentary meet & greet service
+- Offer details: You can enjoy a complimentary meet and greet service at major Indian airports once a year with your credit card. This offer is available by spending USD 1000 (approx. INR 85,000) on international point-of-sale transactions in the past 12 months before the booking date.
+- Note:
+- The offer cannot be combined with other offers. This is an exclusive offer provided by VISAand is subject to change or discontinuation without prior notice.
+- Offer 2: Flat 10% discount on meet-and-greet service
+- Offer details: For all other instances, or more than one guest, enjoy a flat 10% discount on meet & greet service at major Indian airports
+- Eligibility: Available to all eligible VISA Infinite cardholders
+- Offer 3: Discounted Meet and Assist Service
+- Enjoy discounts on Airport Fast-track immigration service at over 450 destinations worldwide.
+- Experience luxury dining at its finest—handpicked restaurants, bespoke menus, and priority access await you with your VISA Infinite card. Reserve now on
+- https://dinewithvisa.in
+- Terms and conditions apply.
+- View here
+- Get attractive discounts on airport transfer limousine services across in over 3000 cities across 83 countries.
+- This service provides a modern, personalized experience for self-booking your dining, staycations, flights and activities.
+- Access to over 900 luxury hotels around the world with premium benefits such as automatic room upgrade upon arrival, complimentary in-room Wi-Fi, complimentary continental breakfast, VIP Guest status, 3PM check-out upon request and others.
+- Earn Up to 40X Reward Points
+- 30X Bonus points on hotels, 15X Bonus points on Flights plus Up to 10X points on credit card purchases.
+- Reward Point value of upto ₹0.50
+- Maximize your reward point value by redeeming them for hotel & flight bookings via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App
+- ₹0
+- ₹2L
+- Earned Reward Points
+- 1000
+- Cashback in(Rs.)
+- ₹250
+- Understand the easy calculation:
+- 1X = 1 Reward point per ₹150 spent \| 1 Reward point = ₹0.25
+- Earn unlimited reward points on your credit card purchases with
+- • 10X Reward Points on incremental spends above ₹20,000 in a statement cycle
+- • 5X Reward Points on spends up to ₹20,000 in a statement cycle
+- • 5X Reward Points on international spends, with eligible international transactions contributing towards your monthly 10X rewards milestone calculation.
+- • 3X Reward Points on Rent, Education, Government and Wallet Load transactions.
+- • 1X Reward Points on Insurance, Utility, Railways and Fastag transactions.
+- Domestic and international transactions in these categories are not considered towards 10X milestone calculations.
+- And, your reward points never expire. 1X = 1 Reward Point per ₹150 spent.
+- Details
+- Base Earn (A)
+- Up to 10 Points/ ₹150
+- Accelerated Earn (B) On Bookings via IDFC FIRST Mobile App
+- +30 Points / ₹150 (On Hotel Bookings via IDFC FIRST Bank Mobile App)
+- +15 Points / ₹150 (On Flight Bookings via IDFC FIRST Bank Mobile App)
+- Total Earn(A+B)
+- On Bookings via IDFC FIRST Mobile App
+- 40 Points / ₹150 (On Hotels)
+- 25 Points / ₹150 (On Flights)
+- Illustration: For ₹6,000 spends on Bookings via IDFC FIRST Mobile App
+- 1600 Points Worth ₹800 (On Hotels)
+- 1000 Points Worth ₹500 (On Flights)
+- Maximize The Reward Point Value
+- Each reward point is worth ₹0.50 when you redeem them for hotel and flight bookings via “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App.
+- On other redemption options – purchasing gift vouchers, products on “FIRST Rewards Gallery” section on IDFC FIRST Bank Mobile App, and “Pay using reward points” on online transaction, the value of each reward point is ₹0.25.
+- Value Per Point
+- 1 Point = ₹0.5 (On Hotel/Flight Bookings via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App)
+- 1 Point = ₹0.25 (Everywhere else)
+- Illustration
+- For 10,000 Points in action
+- 10,000 Points = ₹5,000 (On Hotel/Flight Bookings via “FIRST Rewards Gallery” Section on IDFC FIRST Bank Mobile App)
+- 10,000 Points = ₹2,500 (Everywhere else)
+- View more
+- - Annual Fee (Both Variant)
+- now powered for UPI
+- Explore other cards
+- Ashva
+- IDFC FIRST Wealth
+- Latest Blog Posts
+- Deep dive into Credit Card
+- Mayura Card’s Cultural Significance Uncovered
+- A deep dive into the cultural symbolism behind the elegant Mayura card.
+- Read More
+- Make Airport Layovers Better with Credit Cards
+- Relax in lounges, shop, or dine using credit card perks during long layovers
+- How to Choose the Best Travel Credit Card
+- Find the perfect travel card for your adventures with key tips and card benefits.
+- Ashva & Mayura Cards: Premium Perks Unlocked
+- Enjoy exclusive lifestyle benefits with IDFC FIRST Bank's premium metal cards
+- What Makes a Metal Credit Card Special?
+- Understand the unique features and appeal of owning a metal credit card.
+- Frequently Asked Questions
+- Fee and card dispatch
+- Reward points
+- Card Usage
+- International Helpline
+- Airport Lounge
+- Credit Limit
+- Effective 18th June 2026, what changes are being made to the Mayura Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the Mayura Credit Card.
+- for detailed information.
+- What is the Joining/Annual Fee on Mayura Credit Card?
+- The Mayura Credit Card comes with a Joining Fee of ₹5,999 + GST and an Annual Fee (applicable from second card anniversary year) of ₹5,999 + GST. The Joining Fee will be levied on credit card application approval.
+- Why is the Joining Fee charged before issuing the Mayura Credit Card?
+- IDFC FIRST Bank believes in complete transparency, and we want our customers to make an informed decision about their Joining Fee and its associated benefits. By asking for payment upfront, we are aligning with our core values of openness and trust, ensuring you have full cognizance about the applicable fee, before committing to this premium metal card. This process allows you to make a conscious choice in a responsible and transparent manner. By choosing this process we also aim to minimize wastage due to cancelled and returned cards.
+- How can I pay the Mayura Credit Card Joining Fee?
+- •You will receive communication from the bank to pay the joining fee as soon as your credit card application is approved.
+- •You can also pay the Joining Fee of ₹5,999 + GST by
+- clicking here
+- •On the next page you must authenticate using the mobile number and date of birth as mentioned during the card application. The payment can be made using UPI and net banking.
+- My Mayura Credit Card is approved. When will I receive the metal card?
+- Once your Mayura Credit Card application is approved, upfront Joining Fee payment of ₹5,999 + GST is required to get the credit card dispatched. To pay the Joining Fee,
+- Why can’t I use my digital Mayura Credit Card for online purchases?
+- •As per the process, upfront Joining Fee payment is required to activate your digital card and dispatch of the metal card.
+- •On card application approval, you will receive communication to pay the Joining Fee. To pay the Joining Fee now,
+- •Once the Joining Fee is paid, please make sure that you have enabled online (Ecom) transactions on the card. To enable online transactions, please
+- Can I use the Mayura Credit Card for online transactions before receiving the physical card?
+- Once the Joining Fee payment is completed, the credit card can be used for online transactions. To enable online transactions and to get the card details, please use the IDFC FIRST Mobile Banking
+- App
+- When will I receive my Mayura Metal Credit Card after paying the Joining Fee?
+- On payment of joining fee, the metal credit card will be dispatched to your mailing address registered with the bank and should arrive in 5 working days. If your address has changed, please visit a nearby branch and get your address updated in the bank records. Once, the address is updated, please call 180010888 to get the card dispatched to the updated address.
+- What benefits do I receive on paying the Joining Fee?
+- On payment of joining fee, you can earn up to 12,000 reward points as a joining benefit. These are awarded in three parts:
+- • 4,000 reward points on successful payment of the joining fee
+- • 4,000 reward points on net spends of ₹20,000 or more in your 2nd statement cycle
+- • 4,000 reward points on net spends of ₹20,000 or more in your 3rd statement cycle
+- The benefit is available only once per customer. If you close the card and reapply, you will not be eligible for the benefit.
+- How is the credit limit determined for the Mayura Credit Card?Will I earn reward points for every spend?
+- If you are applying for your first IDFC FIRST Bank unsecured credit card, you will get a credit limit as per our internal policies.
+- If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. The credit limit, however, will be shared across all unsecured credit cards
+- How do I earn reward points on the Mayura Credit Card?
+- Yes. You will earn:
+- - 3X Reward Points on Rent, Education, Government and Wallet Load transactions. 1X Reward Points on Insurance, Utility, Railways and Fastag transactions. Domestic and international transactions in these categories are not considered towards 10X milestone calculations.
+- - Reward points will not be given on spends converted to EMI, Cash Withdrawal, Fuel, Fee and Charges.
+- - 1X reward point is given for every ₹150 spent in a transaction.
+- Value of 1 reward point is
+- - ₹0.50 on travel bookings via “Travel & Shop” section on the IDFC FIRST Bank mobile app
+- - ₹0.25 on other redemption options
+- Are there exclusions for earning 10X reward points on the Mayura Credit Card?
+- Education, Wallet Load, Government, Rent and Property Management/Purchase transactions, Utilities, Insurance, Railways, Fastag, EMI, Cash Withdrawal, Loan on credit card, Fuel, Fee and Charges.
+- Only those transactions which are settled by the merchant before the statement generation will be considered. If a transaction is settled after the statement is generated, it will not accrue 10X rewards. Rewards for such transactions will be credited after the next statement generation
+- What is the validity of reward points on the Mayura Credit Card?
+- The Mayura Credit Card provides the benefit of never-expiring reward points. The reward points remain valid till the credit card is active.
+- What are the key offers and benefits of the Mayura Credit Card?
+- The Mayura Credit Card comes loaded with benefits like discounts on 300+ brands, movie tickets, complimentary airport lounge access, etc. The full list of benefits is mentioned above.
+- For brand offers, you can visit the offers
+- website
+- What is the forex mark-up on the Mayura Credit Card?
+- The Mayura Credit Card provides ZERO forex markup. Spend without paying extra fees while travelling abroad as well as on international purchases made from India.
+- Does the Mayura Credit Card offer complimentary airport lounge access?
+- Yes. With Mayura Credit Card, you can enjoy:
+- - 4 complimentary visits per quarter to airport lounges at airport terminals in India. Also, 1 guest visit per quarter to Indian airport lounges is included in the overall benefit. Use your credit card to access Indian airport lounges.
+- - 4 complimentary visits per quarter to global airport lounges. Use the DreamFolks card to access global airport lounges. Some global lounges require prebooking via the
+- link
+- To view the list of airport lounges,
+- The lounge benefit can be availed in the next calendar month by spending ₹20,000 or more in the current calendar month.
+- Can I avail of golf benefits on the Mayura Credit Card?
+- As part of Mastercard World privileges, you get 4 complimentary golf rounds and 12 complimentary golf lessons per calendar year (not more than 1 round/lesson in a single calendar month).
+- to book the visit.
+- Additionally, you can avail up to 2 rounds/lessons in a month. Each round/lesson is unlocked for every ₹20,000 spent in the previous statement cycle.
+- Can I withdraw cash using the Mayura Credit Card?
+- Yes, you can! All ATM cash withdrawals are interest-free for up to 45 days – in India or abroad. Please keep in mind that a Cash Advance Fee of ₹199/- + GST is applicable per transaction, irrespective of your location or the withdrawal amount. The maximum cash withdrawal limit per transaction is ₹10,000.
+- Will I be asked for my Credit Card PIN at every POS terminal, be it domestic or international?
+- For all transactions in India, yes, you will be asked for a PIN for completing the transactions. However, outside India, you will be asked for the PIN only if the POS terminal is enabled for PIN authentication.
+- What is the Annual Spending Milestone and its benefits?
+- You will receive 7,500 reward points when you cross ₹8,00,000 in spends or 15,000 reward points when you cross ₹15,00,000 in spends in a card anniversary year. The reward points will be credited on paying the annual fee for the next year.
+- Transactions on primary, add-on and associated FIRST Digital (UPI) Credit Card will be considered towards the milestone including the EMI transactions. Cash withdrawal, fee charges and EMI amortization will be excluded from the benefit.
+- When are reward points credited to my account?
+- The reward points will get credited upon statement generation.
+- What is the Forex Markup Fee on the Mayura Credit Card?
+- Using the Mayura Credit Card, you get a buy-one-get-one movie offer with up to ₹500 off on the second ticket, twice a month. Starting 1st July 2025, use District by Zomato App to book ticket. Till 30th June 2025, you can use BookMyShow to book tickets.
+- What are the offers available on the Mayura Credit Card?
+- Can I avail of complimentary airport lounge visits on the Mayura Credit Card?
+- How is the Mayura Credit Card by IDFC FIRST Bank beneficial for frequent travellers?
+- •The Mayura Credit Card by IDFC FIRST Bank is a premium metal card that offers exceptional benefits tailored for frequent travellers. With a 0% forex markup fee on international transactions, it offers significant savings on global spending. The card also offers interest-free global ATM cash withdrawals for up to 45 days, making it a more convenient and secure alternative to forex cards or cash. While there is a one-time ₹199 (+GST) transaction fee per ATM withdrawal, it remains a practical solution for accessing cash abroad.
+- •Travellers can enjoy 4 complimentary visits to domestic airport lounges per quarter, including 1 guest visit to domestic lounges. For international trips, the card offers 4 complimentary lounge visits per quarter, providing comfort and luxury between flights.
+- •Additionally, the Mayura Credit Card includes a no-questions-asked Free Trip Cancellation Cover of up to ₹50,000, protecting the non-refundable portion of hotel and flight cancellations. Comprehensive travel insurance, with coverage up to USD 1,200, ensures protection against luggage loss, flight delays, etc. enhancing travel peace of mind.
+- •The Mayura Credit Card combines convenience, security, and premium travel perks, making it an ideal companion for frequent travellers.
+- How is the Mayura Credit Card a better alternative to a forex card or a multi-currency card?
+- The Mayura Credit Card by IDFC FIRST Bank offers several advantages over traditional forex and multi-currency cards, making it a superior choice for global travellers:
+- 1.0% Forex Markup Fee: Unlike most forex and multi-currency cards that may include hidden charges or unfavourable exchange rates, the Mayura Credit Card offers a true 0% forex markup fee, ensuring cost-effective international transactions.
+- 2.No Pre-Loading Hassle: Forex and multi-currency cards require pre-loading specific currencies, which involves additional hassles. The Mayura Credit Card eliminates all this, allowing seamless transactions in any currency without advance planning.
+- 3.Interest-Free Global ATM Cash Withdrawals: The card allows interest-free global ATM cash withdrawals for up to 45 days, providing flexibility and convenience, especially when you need cash on the go. While there is a ₹199 (+GST) transaction fee, it’s still a practical option compared to the fees associated with managing physical cash or reloading a forex card.
+- Additionally, this metal card includes premium travel perks like complimentary domestic and international lounge visits, trip cancellation cover of up to ₹50,000, and travel insurance, which are typically not available with forex cards. The Mayura Credit Card is a seamless, cost-effective, and rewarding choice for global travellers.
+- How can I contact IDFC FIRST Bank while travelling internationally?
+- In case of any questions regarding your credit card while abroad, please contact us at
+- +91 22 6248 5152
+- How does the Reward Program work on the Mayura Credit Card?
+- The Mayura Credit Card offers a premium reward program where each Reward Point is worth ₹0.50 on travel bookings via IDFC FIRST Bank mobile app. Here are the details:
+- • Earning on regular spends:
+- • 5X Reward Points on spends up to ₹20,000 in a statement cycle spends (1X = 1 Reward Point per ₹150)
+- • 10X Reward Points on incremental spends above ₹20,000 in a statement cycle and your on birthday spends
+- • Bonus rewards on travel bookings via the IDFC FIRST Bank app:
+- • Hotels – 50X Reward Points
+- • Flights – 30X Reward Points
+- Capped at 25,000 bonus Reward Points per month.
+- • Earning on other categories:
+- • Rent, education, wallet loads, government payments – 3X Reward Points
+- • Utilities and insurance – 1X Reward Points
+- • Fuel, EMI conversions, fees & charges (incl. GST), loan on card, balance transfers, cash withdrawals, and transactions below ₹150.
+- Note: These categories do not count towards the ₹20,000 accelerated rewards threshold.
+- • Redemption rules for travel bookings:
+- • 1 Reward Point = ₹0.50 on travel bookings
+- • Points can be used for up to 70% of the booking amount (balance payable by card)
+- • Monthly redemption capping: 1,50,000 Reward Points (₹75,000 value)
+- • Annual redemption capping: 3,00,000 Reward Points (₹1,50,000 value)
+- • Redemption rules for other options:
+- • 1 Reward Point = ₹0.25 for purchasing gift voucher, products via FIRST Rewards Gallery Section on IDFC FIRST Bank mobile app and for “Pay using reward points” on select online transactions
+
+## WOW Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/wow?utm_source=website&utm_medium=PDPWOW&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for Zero Forex Markup Credit Card Online Instantly \| IDFC FIRST Bank  
+**Official meta description:** FIRST WOW! Zero Forex Markup credit card from IDFC First Bank. Enjoy 4X rewards, 45-day interest-free cash withdrawals & 100% FD-backed approval. Apply Now  
+
+### Official extracted card text
+
+- Overview
+- Increase Limit
+- FAQs
+- No Joining Fee \| No Annual Fee
+- FIRST WOW
+- LIFETIME-FREE
+- FD-BACKED PREMIUM CREDIT CARD
+- Goodbye forex charges.
+- Hello FIRST WOW!
+- #LikeALocal
+- with FIRST WOW! Credit Card
+- Assured Card
+- No Credit History Required
+- International Credit Card, powered by Visa Infinite
+- Instant Issuance
+- Fully Digital Online Application
+- Earn 4X Reward Points on every travel spend
+- Lounge access
+- UP TO 16.7% BONUS REWARDS
+- Add more WOW!
+- to your lifestyle with FIRST WOW! Black Credit Card
+- Spend like a local, Everywhere!
+- ZERO Forex Markup Fees on International Spends with Rewards on top
+- ZERO Interest Charges on ATM Cash Withdrawals for up to 45 days​
+- Zero Joining & Annual Fees
+- Zero Currency Exchange Hassles
+- Why choose the FIRST WOW! Credit Card for international travel?
+- Interest-Free Foreign Currency Withdrawals at ATMs Worldwide
+- Earn up to 4X Reward Points on Every Transaction
+- Earn interest on your FD while you spend​
+- Global Acceptance powered by VISA Infinite Platform
+- Travel with Confidence, Stay Secure
+- Withdraw cash from global ATMs at just ₹199 + GST, with no interest for up to 45 days.
+- Disclaimer: International ATM operators may charge additional fees. Please check for applicable charges before withdrawing.
+- 4X Reward Points on online, offline, and international spends
+- 1X Reward Point on Insurance premium payments, Utility bill payments, FASTag recharges and Railway spends.
+- 1X= 1 Reward Point per ₹200 spent \| 1 Reward Point = ₹0.25
+- Reward program not applicable on Fuel, EMI transactions & Cash withdrawals.
+- A fee of ₹99 plus taxes is applicable per reward redemption transaction.
+- Your fixed deposit doesn’t just secure your credit limit; it keeps earning Interest too. Whether you’re traveling or managing daily expenses, your savings keep growing while you spend.​
+- Enjoy seamless global acceptance and 24/7 premium customer support with the FIRST WOW! Credit Card, powered by the Visa Infinite network.
+- Enjoy peace of mind on your journeys with the FIRST WOW! Credit Card, with up to ₹25,000 card liability cover, ₹2 lakh personal accident insurance, and ₹25,000 purchase protection
+- Instantly Increase Your Credit Limit!​
+- Link your existing FD or book a new FD to increase your credit limit instantly through the IDFC FIRST Bank Mobile App, starting from ₹5,000. *T&C Apply
+- One Card, Endless Possibilities
+- Traveller
+- First Jobber
+- Students
+- Self Employed
+- NRIs
+- Homemakers
+- Senior Citizens
+- No currency exchange hassles
+- No Forex conversion fee
+- FIRST WOW! Credit Card for travel
+- Managing payments when you’re travelling abroad should be simple and convenient. With zero forex markup charges, rewards on international spends, seamless transactions, and access to the global VISA Infinite network, the FIRST WOW! Credit Card is the ultimate travel companion, providing a secure and hassle-free experience.​
+- Age Limit Criteria:18 to 80 years​​
+- Be an Indian citizen with a permanent address in India
+- Minimum FD amount of ₹20,000 required with IDFC FIRST Bank​
+- No credit history or income proof required
+- Up to 4X Reward Points on every spend​
+- FIRST WOW! Credit Card for First Jobber
+- As a first jobber, building credit and managing your finances smartly is crucial to attaining financial independence. The FIRST WOW! Credit Card helps you do just that, without the need for income proof or credit history.
+- FIRST WOW! Credit Card for Self Employed
+- As a self-employed individual, staying on top of your expenses and managing your finances is essential. The FIRST WOW! Credit Card addresses this need by offering a credit limit that’s minimum 100% of your fixed deposit, among many other benefits. And the best part? No need for income proof or extensive documentation. Get started on your journey to make your financial life stress-free.
+- FIRST WOW! Credit Card for Students
+- As a student, managing your expenses should be the least of your worries. But obtaining a credit card can be challenging. That's where the FIRST WOW! Credit Card comes in. With no income proof or credit history required, and a minimum age criterion of just 18 years, it's the perfect credit card to start your credit journey. Its features, including no Forex conversion fee, 4X Reward Points on spends, and an ATM cash withdrawal limit of 100% of the FD value, make it a must-have credit card for your future financial well-being.
+- Assured FD backed credit card​
+- FIRST WOW! Credit Card for Homemakers
+- Take control of your household budget with ease and reap the rewards with the FIRST WOW! Credit Card. Not only will you earn up to 4X the reward points, but you'll also enjoy an attractive interest rate on your fixed deposit. Plus, with exclusive offers and discounts at various merchants, managing your home has never been smoother. Don't miss out on this opportunity to simplify and benefit from your household spending with the FIRST WOW! Credit Card
+- 100% ATM Cash withdrawal limit of your FD value ​
+- FIRST WOW! Credit Card for Senior Citizens
+- For senior citizens, financial security and convenience are paramount. The FIRST WOW! Credit Card offers benefits that align perfectly with these needs, without the need for any income proof or credit history.
+- Assured lifetime-free credit card for NRIs
+- Enjoy zero forex conversion fees
+- Accepted worldwide
+- FIRST WOW! Credit Card for NRIs
+- For Non-Resident Indians (NRIs), finding a convenient and flexible payment option is an essential part of managing their finances. A zero-forex markup fee credit card like the IDFC FIRST WOW! Credit Card is the perfect solution for NRIs who need to make payments in different currencies. ​
+- Have an NRE Savings Account with IDFC FIRST Bank
+- NRE Fixed Deposit of min. ₹25,000 required with IDFC FIRST Bank​
+- Reward Points on your FIRST WOW! Credit Card​
+- Up to 4X Reward Points
+- Redeemable anywhere
+- Reward points as good as cash
+- Insurance premium payments, Utility bill payments, FASTag recharges and Railway spends will earn 1X reward points​
+- Rewards program not applicable on Fuel, EMI transactions & Cash withdrawals.​
+- A fee of ₹99 plus taxes is applicable for each reward point redemption.
+- Add More WOW! with
+- Enhanced travel perks, lifestyle privileges, dual cards with the convenience of UPI and superior rewards designed for you
+- Discover Now
+- Unlock Superior Privileges with FIRST WOW! Black
+- UPI Enabled - FIRST DIGITAL Credit Card
+- ₹199/year + GST
+- Bonus 50 Reward Points on hotels and 30 Reward points on flights
+- 1 RP = ₹0.50 reward value on Travel bookings through IDFC FIRST Bank Mobile App
+- Domestic Airport Lounge Access 1/quarter on 20K monthly spends
+- Joining fee
+- ₹750 + GST
+- Welcome Benefits worth ₹5,000+
+- Annual fees
+- (Waived on ₹1.5L annual spend)
+- Movie Discounts 25% off up to ₹100 (1/month)
+- Trip Cancellation Cover Up to ₹10,000 (2/year)
+- Reward Points
+- 4 Reward Points/₹150
+- 4 Reward Points/₹200​
+- Ready to Apply?
+- See More
+- This card is perfect for you because...
+- 100% Credit Limit of your FD value
+- No income proof required
+- Assured Credit Card
+- Instant Card Issuance
+- Discover 1500+ deals
+- Get your FIRST WOW! Credit Card instantly:
+- Register and verify your details
+- Fund your Fixed Deposit(min. ₹20,000)
+- Complete your KYC
+- Your
+- FIRST WOW! Credit card
+- is ready
+- Why Choose FD-backed Credit Card?
+- Spend smart while your FD works for you
+- Earn interest on your FD ​
+- while you spend with your FIRST WOW! credit card​
+- Get 100% Credit Limit of your FD Value
+- spend confidently while your FD earns interest
+- Easy approval with no documents required
+- using your fixed deposit as security.
+- Build your credit score
+- through smart usage and timely payments.
+- Convenient Cash Withdrawal
+- up to 100% of your FD value, interest-free for up to 45 days.
+- Earn 6.3% p.a. on your FD
+- T&C Apply
+- Your FIRST WOW! Credit Card, now powered for
+- New digital card instantly issued
+- Linked to your existing credit card with shared limit
+- Joining fee of just ₹199 + GST and Annual fee (2nd year onwards) of ₹199 + GST
+- Limited Period Offer: 100% cashback up to ₹200, i.e. ₹50 each on first 4 UPI transactions
+- Up to 3X reward points on all UPI spends
+- Your go-to app for managing all your Credit Card needs
+- Install Now
+- Enjoy India’s #1 Mobile Banking App
+- Check curated offers across merchant categories and view or redeem Reward Points for exciting offers
+- Instantly pay your bill through multiple options or autopay your balance easily
+- Control your Credit Card usage for online, contactless, international transactions or set/reset PIN for your Credit Card
+- View your virtual Credit Card, transaction details, e-statement, outstanding amount etc
+- Fees and Charges​
+- Joining Fee and Annual Fee
+- ₹0
+- Forex markup
+- on international transactions
+- Cash withdrawal interest
+- Across domestic and international ATMs
+- for up to 45 days
+- Cash withdrawal fee
+- (Per withdrawal)
+- ₹199 + GST
+- Annual Percentage Rate (APR)/Interest rate
+- (8.5% - 46.2% per annum)
+- 8.5% - 46.2%
+- (per annum)
+- For more details refer Most Important Terms & Conditions
+- Testimonials
+- I wanted to extend a huge thanks to IDFC FIRST Bank for the amazing credit card! As a student, it's truly been a lifesaver, and I genuinely appreciate the convenience and flexibility it provides. Keep up the fantastic work!
+- Ramendra Pandey
+- March 20, 2025
+- IDFC FIRST Bank offered a smooth, hassle-free, and assured experience, with excellent and prompt executive support. As a first-time credit card user, this was significant. Impressed by the benefits, I've recommended them to friends and family, hoping they continue this level of service.
+- Sanika Patkar
+- January 28, 2025
+- I am currently using my first IDFC FIRST Bank credit card, obtained without needing any income proof or other documents, and it's lifetime free. This is truly the best credit card as it offers numerous benefits, including cashback, FD interest rate, and it helps increase my CIBIL score.
+- Bishal Hembram
+- January 27, 2025
+- IDFC FIRST Bank card's features, along with the extraordinary ease and promptness of the process and the support from the branch executive, leave very little room for improvement.
+- Sanjiv Shinde
+- January 26, 2025
+- Since December 2022, I had been trying to obtain a credit card from various service providers. I want to sincerely thank IDFC FIRST Bank for providing me with a credit card so quickly. I would highly recommend the Bank to anyone seeking a credit card with excellent service.
+- Jatin Tailor
+- January 25, 2025
+- IDFC FIRST Bank provides exceptional services, notably its user-friendly net banking with easy balance transfers, and lower USD to INR conversion charges. As a traveler, the WOW Credit Card is ideal. I'm very satisfied and plan to invest in their stocks, given my confidence in the Bank's customer-centric approach and innovation.
+- S. Manikandan
+- January 14, 2025
+- FinFIRST blogs
+- No Income Proof? Here’s How to Get a Credit Card
+- Get a Credit Card against an FD—even with low CIBIL—& enjoy premium benefits.
+- Why Your Credit Card Got Rejected & How to Fix It
+- Common rejection reasons & how to overcome them for premium benefits.
+- Student Credit Cards: Myths vs. Facts
+- Debunk myths & find the right Student Credit Card, like the FIRST WOW! Credit Card.
+- Why IDFC FIRST WOW! Credit Card is Perfect for Students
+- Get a Credit Card against an FD—no credit history needed. Explore its student-friendly benefits!
+- Answering all your questions
+- International Helpline
+- How to Apply
+- Card Usage
+- FD Backed
+- Credit Limit
+- Effective 18th June 2026, what changes are being made to the FIRST WOW! Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the FIRST WOW! Credit Card.
+- for detailed information.
+- How can I apply for the FIRST WOW! credit card?
+- . > Create your fixed deposit > Complete your KYC process > Your FIRST WOW! Credit Card is ready!
+- What is the eligibility criteria to apply for a FIRST WOW! Credit Card?
+- To be eligible for the IDFC FIRST WOW! Credit Card, you must meet the following criteria:
+- For Indian Residents
+- •Have a minimum Fixed Deposit (FD) of ₹20,000 with IDFC FIRST Bank
+- For NRIs
+- Have a NRE Fixed Deposit of min. ₹25,000 with IDFC FIRST Bank
+- Note: The Bank reserves the right to issue a Credit Card to the applicant based on an assessment of his/her credentials. The final decision is at the Bank’s sole discretion, in line with the mentioned internal policies, and notwithstanding the applicant meeting above credit card criteria.
+- Do I require a credit history or income proof to apply for FIRST WOW! Credit Card?
+- No, you do not need a credit history or need to submit any income proof to apply for the FIRST WOW! Credit Card.
+- What will determine my credit limit?
+- The credit limit for your FIRST WOW! Credit Card will be 100% of your fixed deposit amount.
+- How do I generate my credit card PIN?
+- Net Banking
+- Pre-login
+- Visit
+- https://my.idfcfirst.bank.in/login
+- and click on
+- Generate Credit Card PIN
+- on the pre-login page
+- Enter your customer ID and credit card number and click on
+- Get OTP
+- Complete the verification using the OTP sent on your registered mobile number
+- Enter and Re-enter a PIN of your choice and click on
+- Confirm
+- Your credit card PIN is set
+- Login to your Net Banking account
+- Select the
+- section
+- Select
+- Set new PIN
+- Enter and Re-enter PIN of your choice and click on
+- Complete the verification using the OTP sent to your registered mobile number
+- Mobile Banking App
+- Select browse icon from the right side top menu on login page
+- Enter “Customer ID” & “Credit Card number” and click on Get OTP
+- Please verify through the OTP sent to your registered mobile number
+- Enter and Re-enter PIN of your choice and click on confirm
+- Login:
+- Login to the Mobile Banking App
+- Access the Credit Card section
+- Customer Care:
+- Dial our Customer Care and follow the instructions to generate the PIN
+- Can I use my FIRST WOW! Credit Card to withdraw cash at an ATM?
+- Yes, you can! The best part is that all ATM cash withdrawals with this credit card are interest-free for up to 45 days. Do keep in mind, however, that a cash advance fee of INR 199 + taxes is applicable per transaction, irrespective of the amount you withdraw.
+- Will I be asked for my Credit Card PIN at every POS terminal, be it domestic or international?
+- For all transactions in India, yes, you will be asked for a PIN for completing the transactions. However, outside India, you will be asked for the PIN only if the POS terminal is enabled for PIN authentication.
+- Is there an add-on card available for the FIRST WOW! Credit Card?
+- Since the FIRST WOW! Credit Card is an FD-backed, the add-on card facility isn’t available. However, you can easily
+- apply for FIRST WOW! card
+- . It’s an assured card for everyone!
+- How do I contact the Bank when I’m travelling outside India?
+- In case of any questions regarding your credit card while abroad, please contact us at
+- +91 22 6248 5152
+- Why am I being asked to make a Fixed Deposit?
+- The FIRST WOW! Credit Card is issued against a Fixed Deposit. Hence, to set your credit limit, you need to create an FD. Upon successful creation of your FD, a lien will be marked on 100% of the FD value.
+- Once done, your FD will be linked to your FIRST WOW! Credit Card and your credit limit will be set.
+- Which fixed deposits can be used for applying for the FIRST WOW! Credit Card?
+- Fixed deposits you can use to apply for the FIRST WOW! Credit Card:​
+- Indian Residents
+- : Only singly held fixed deposits will be eligible for the FIRST WOW! Credit Card.​
+- NRI Customers
+- : Only singly held NRE fixed deposits will be eligible for the FIRST WOW! Credit Card.​
+- Not eligible
+- : The Fixed Deposits opened/placed by HUFs, Partnership firms/society/trust, minors or opened jointly by applicant/s, Tax Saver or Flexi-Deposits (Auto-sweep Fixed Deposits) ​
+- What are the benefits of having a credit card against a fixed deposit?
+- Here are the benefits of a credit card backed by an FD:
+- No income proof required: Customers can obtain a credit card without providing any income proof. Besides working professionals, this is useful for homemakers, students, and freelancers.
+- Helps build credit history: Using your credit card regularly and paying off the outstanding dues on time will help create a good credit history and credit score.
+- Earn interest on fixed deposit: Cardholders can continue to earn interest on their fixed deposits, while enjoying free credit for up to 45 days.
+- What are the current offers available on IDFC FIRST Bank credit cards?
+- IDFC FIRST Bank Credit Cards are loaded with a host of benefits, offers and features. You can check out current offers at
+- IDFC Firstrewards
+- Income proof not required: Customers can get a credit card without providing any income proof. Besides working professionals, this is useful for homemakers, students, and freelancers among others.
+- Earn interest on fixed deposit: Cardholders continue to earn interest on their fixed deposits, while enjoying free credit for up to 45 days.
+- What is the forex mark-up on the FIRST WOW! Credit Card?
+- The FIRST WOW! Credit Card offers
+- 0% forex mark-up
+- . Whether you’re travelling abroador making an international transaction from India, you can spend seamlessly with
+- zero forex charges
+- and
+- earn rewards on international spends
+- What will be my credit limit?
+- You will get 100% of your FD value as your Credit Limit for FIRST WOW! Credit Card.
+- Can I increase my FIRST WOW! Credit Card’s limit?
+- Yes, you can instantly increase your FIRST WOW! Credit Card limit by linking your existing FD or booking a new FD through the IDFC FIRST Bank Mobile App.
+- to get started.​
+- FIRST WOW! NRI customers will not be eligible for Credit Limit Increase.​
+- What are the benefits of increasing a credit card limit?
+- Improved credit score: Your credit score is calculated based on several factors including your credit utilization ratio. By increasing your credit cards’ credit limit, you can increase your available credit and improve your credit score.
+- Increased purchasing power: A high credit card limit means more purchasing power. This can be especially beneficial when emergency costs arise or for making large purchases.
+- Enhanced rewards: More spends on your credit card can earn you more rewards points.
+- Are there any exclusions for earning 4X reward points?
+- Insurance premium payments, Utility bill payments, FASTag recharges and Railway spends will earn 1X reward points. Rewards program not applicable on Fuel, EMI transactions & Cash withdrawals.
+- How can I redeem the reward points that I have earned on my IDFC FIRST Bank credit card?
+- You can use your credit card points to pay for your online purchases or when shopping at a store. You can also redeem your credit card reward points against attractive offers at
+- https://firstrewards.in/
+- When will the reward points be credited?
+- The reward points will get credited upon statement generation.​
+- ​If the Cardmember fails to pay at least the Minimum Amount Due by the Payment Due Date, Reward Points will not be applicable for that billing cycle.​
+- Any Reward Points credited for that cycle, if already posted, will be reversed.
+- Is there a joining fee applicable on the FIRST WOW! credit card?
+- There is absolutely no Joining/ Membership/ Annual fee applicable on the FIRST WOW! Credit Card. The credit card is free for life.
+- What is the interest rate on my credit card?
+- IDFC FIRST Bank Credit Cards offers among the lowest interest rates in the country, so it won’t weigh on your pocket if you can’t clear your entire monthly dues once in a while. IDFC FIRST Bank offers low interest rates starting from 8.5% to 46.2% per annum. Usually, other credit cards charge as high as 43.8% per annum interest rate in case you choose to carry forward part of your outstanding balances.
+- In case of any questions regarding your credit card while abroad, please contact us at +91 22 6248 5152
+- What are the eligibility criteria for a NRI to apply for IDFC FIRST Bank Credit card?
+- Individual NRI customers having NRE Savings Account with IDFC FIRST Bank will be eligible to get IDFC FIRST Bank FIRST WOW! Credit card. If he/she holds only a NRO Savings account, they can apply for credit card post opening NRE Savings account. ​
+- NRE Fixed Deposit of minimum ₹25,000 is required with IDFC FIRST Bank​ ​
+- Also, NRI Card members holding IDFC FIRST Bank credit cards need to make payment against their credit card bills via auto pay through NRE Account maintained with IDFC FIRST Bank only.
+- Is there a Joining/Membership/Annual fee on FIRST WOW! Credit Cards?
+- There is absolutely no Joining/ Membership/ Annual fee applicable on any of the FIRST WOW! Credit Cards. Your card is free for life.
+- How can NRI customer apply for the FIRST WOW! Credit Card?
+- Customers with a pre-approved offer to avail of the FIRST WOW! Credit Card offer can apply through the IDFC FIRST Bank mobile app by following the steps below:​
+- - IDFC FIRST Bank mobile app>> Credit Cards >> Secured card
+- What is the limit for cash withdrawal from ATMs for a FIRST WOW! Credit Card?
+- You can withdraw cash up to 100% of your fixed deposit value.
+- What is the maximum and minimum credit limit for NRI?
+- The credit limit of FIRST WOW! Credit Card for NRI depends on the amount you secure in your fixed deposit. FIRST WOW! Credit Card from IDFC FIRST Bank offers a credit limit equal to 100% of your FD value.
+- - Minimum FD value/Credit limit is 25,000.
+- - Maximum FD value/Credit limit is 10,00,000.
+- How to setup auto debit for Credit Card Payments from IDFC FIRST Bank NRE Account?
+- You can set up auto debit on your NRE Account by following these simple steps:​
+- Login to Mobile/Net banking​
+- Go to Cards section​
+- Scroll to the Auto-pay credit card bills option​
+- Click on Manage​
+- Toggle on autopay, select your IDFC FIRST Bank NRE Account, and select “Total amount due” ​
+- Confirm the changes!​
+- Can I use my credit card to withdraw cash at an ATM?
+- Yes, you can! And what’s great is that all ATM cash withdrawals are totally interest-free for up to 45 days – in India or even when you withdraw cash abroad. Do keep in mind, however, that a Cash Advance Fee of only INR 199 + GST is applicable per transaction, irrespective of where you are or the amount you withdraw.
+- Important documents
+- Most Important Terms & Conditions
+- Card Member Agreement
+- Product Usage Guide
+- Know your Privileges
+
+## IndiGo Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/indigo-credit-card?utm_source=website&utm_medium=PDPIndigoIDFCFIRST&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for IndiGo IDFC FIRST Dual Credit Card Online \| IDFC FIRST Bank  
+**Official meta description:** Apply for IndiGo IDFC FIRST Dual Credit Card with Mastercard + RuPay, UPI payments, bulechips on each spend, milestone vouchers, low forex and premium travel perks.  
+
+### Official extracted card text
+
+- Overview
+- Key Benefits
+- Compare
+- Earn BluChips
+- Redemption
+- Milestones
+- How to Apply
+- FAQs
+- home
+- indigo idfc first credit card
+- Everyone Can Own It. Everyone Can Fly
+- IndiGo IDFC FIRST Dual Credit Card
+- Apply With
+- ₹4,999 Joining Fee
+- ₹0 Joining Fee with FD
+- Two flexible ways to get your cards
+- Option 1:
+- Joining fee: ₹4,999 + GST
+- Welcome Benefits of 8,000 BluChips
+- - 5000 IndiGo BluChips voucher on joining fee payment
+- - 3000 IndiGo BluChips voucher on 1L spends within 90 days
+- Milestone Benefits: Vouchers of up to 25,000 IndiGo BluChips, every year
+- -Get 5 vouchers of 5,000 BluChips each on crossing ₹2L, ₹5L, ₹8L, ₹10L, and ₹12L annually!
+- Annual Fee ₹4,999 +GST (2nd year onwards)
+- Option 2:
+- Free for the 1
+- st
+- year with min ₹1 Lakh FD
+- Welcome Benefits
+- Assured approval - Fixed deposit backed card and no credit history needed
+- Milestone Benefits: Vouchers up to 25,000 IndiGo BluChips every year
+- Annual Fee ₹4,999 +GST (2
+- nd
+- year onwards)
+- Either way, enjoy the power of both Mastercard & RuPay
+- IndiGo IDFC FIRST Dual Credit Cards
+- The IndiGo IDFC FIRST Credit Card is a one-of-a-kind dual credit card that gives you both Mastercard and RuPay cards through a single application — unlocking wider acceptance and maximum payment flexibility.
+- Regardless of how you apply, whether by paying a joining fee or with a Fixed Deposit (FD), You will receive two physical cards — Mastercard and RuPay in one kit. All transactions will reflect in a single statement. Your credit limit will be shared between both cards, and all spending on both cards will contribute towards your IndiGo BluChip earnings, activation, and milestone benefits
+- Read less
+- Key Benefits of IndiGo IDFC FIRST Dual Credit Card
+- Earn IndiGo BluChips on
+- Every Spend
+- and redeem for IndiGo flights
+- Unlock Vouchers of 25,000
+- IndiGo BluChips
+- on reaching spends milestones, every year
+- Convenience of UPI
+- payments
+- Scan UPI QR with your RuPay Card across 60Mn+ merchants
+- Global
+- Acceptance
+- Domestic and international acceptance for payments with dual-network flexibility
+- Enjoy seamless international
+- spending
+- With a low forex markup of just 1.49%
+- Compare your options
+- Joining fee
+- ₹4,999 +GST
+- ₹0
+- Fixed Deposit requirement
+- Min ₹1 lakh
+- Joining fee payment benefits
+- Voucher of 5000 IndiGo BluChips + a complimentary meal voucher
+- (Mastercard & RuPay)
+- Annual Fee
+- (2
+- Annual fee benefits
+- Early activation benefits
+- Voucher of 3000 BluChips on spending ₹1 lakh+ in the 1st 90 days
+- Annual Milestone Benefits
+- Vouchers of up 25,000 BluChips, every year
+- Forex markup
+- 1.49%
+- Trip cancellation cover
+- See More
+- Earn with Every Spend
+- To Fly to your Next Getaway
+- Up to 22
+- On IndiGo flights booked via IndiGo website & mobile app
+- *6 on Card + up to 16 from IndiGo (based on tier)
+- 0.5
+- On UPI Spends
+- On insurance, utilities, fuel, rent, wallet
+- On other spends
+- IndiGo BluChips not awarded on cash and EMI transactions
+- IndiGo BluChips shown above are earned per ₹100 spent in respective categories.
+- Milestone Benefits
+- 25,000
+- Bonus 25,000 IndiGo BluChips
+- Rack up those spends and grab bonus vouchers of IndiGo BluChips:
+- Cumulative spends, every year!
+- ₹2L
+- ₹5L
+- ₹8L
+- ₹10L
+- ₹12L
+- Vouchers of IndiGo BluChips are valid for 6 months from the date of issuance.
+- Milestone benefits are rewarded on cumulative spends throughout the year and are renewed every anniversary year
+- IndiGo IDFC FIRST Dual Credit Card BluChips Earning Calculator
+- Calculate how many IndiGo BluChips you’ll earn every time you spend with IndiGo IDFC FIRST Credit Card
+- Please enter your monthly spends
+- ₹20L+
+- Annual flight booking spends (via IndiGo Website/App)?
+- Earn 22 IndiGo BluChips per ₹100*
+- p.a
+- Monthly UPI spends on the Credit Card?
+- Earn 0.5 IndiGo BluChips per ₹100*
+- p.m
+- Monthly spends on Insurance, Fuel, Utilities, Rent & Wallets?
+- ₹1L
+- Other monthly spends on the Credit Card?
+- Earn 3 IndiGo BluChips per ₹100*
+- **Assumption: 7,500 IndiGo BluChips = 1 free flight (Base Fare).
+- T&C Apply
+- IndiGo BluChips earned on bookings done via IndiGo Website & App are as per Customer’s IndiGo BluChip program Tier.
+- *Vouchers earned will be as per the Milestone Program of IndiGo IDFC FIRST Dual Credit Card
+- Here’s how much you earn every year with IndiGo IDFC FIRST Credit Card
+- Total IndiGo
+- BluChips Earned
+- annually
+- Total Value of IndiGo
+- BluChips Voucher Earned*
+- Approx. No of free flights earned annually
+- Annual Earnings
+- 64,600
+- 5,000
+- Redeem your IndiGo BluChips
+- Unlock flight bookings using your IndiGo BluChips – all seamlessly on Indigo Website or on the IndiGo App
+- Instant flights, domestic or international!
+- No blackout date restrictions for redemption
+- Flexible part payment – book tickets using a mix of card & IndiGo BluChips
+- How To Redeem
+- Don’t have a IndiGo BluChip membership yet? Register
+- before applying for the card to link your rewards seamlessly.
+- Two Cards. One Rewards Pool.
+- Limitless Ways to Earn
+- Get the best of both worlds with Mastercard and RuPay credit cards.
+- Mastercard World Privileges
+- Seamless online & POS transactions globally
+- Exclusive travel and dining benefits
+- Enjoy 4 complimentary golf rounds and 12 complimentary golf lessons every year
+- RuPay Privileges
+- Seamless online, POS & UPI QR transactions in India
+- Scan and pay at 60Mn+ merchants
+- Enjoy exclusive discounts on the RuPay network
+- Two Cards
+- One
+- Credit Limit
+- Statement
+- Reward Pool
+- Why choose IndiGo IDFC FIRST Dual Credit Cards?
+- A Credit Card
+- for Everyone
+- No credit history? No problem! Apply with an FD to skip credit check.
+- Global reach + UPI with ease
+- Enjoy the benefits of two powerful networks – Mastercard and RuPay
+- Welcome and
+- Renewal Bonus
+- Get voucher of 5,000 IndiGo BluChips, an IndiGo meal voucher, and premium perks when you pay joining/renewal fees.
+- Early activation
+- benefit
+- Get voucher of 3,000 IndiGo BluChips on spending ₹1,00,000 within 90 days of card issuance
+- Milestone
+- Get vouchers of up to 25,000 IndiGo BluChips when you reach spend milestones, every year
+- Redeem on
+- IndiGo Flights
+- Use IndiGo BluChips for flight tickets.
+- 1.49% Forex
+- Markup
+- Travel abroad and spend affordably with a low Forex Markup of just 1.49%
+- Trip Cancellation
+- Cover
+- Get reimbursement on your non-refundable flights or hotels, up to ₹25,000 every year
+- Joining fees
+- +GST with Joining Benefits
+- or
+- if backed by min FD of ₹1 lakh
+- Annual Fees
+- +GST
+- (2nd year onwards)
+- For more details refer
+- MITC
+- Steps to Apply for IndiGo IDFC FIRST Dual Credit Card
+- 5 mins to apply
+- 100% Digital KYC
+- Instant Approval
+- Apply with ₹4999 Joining Fee
+- Apply with ₹0 Joining fee with FD
+- Start
+- Mobile OTP
+- PAN + Income
+- Video-KYC
+- Approval
+- Get Card Instantly
+- Experience convenience like never before with 100% digital application process
+- engine
+- Secure Aadhar
+- e-KYC + Video-KYC
+- Track in Real time
+- Card approved
+- Card issued
+- All in 5 minutes
+- Your IndiGo IDFC FIRST Credit Card could be live in 5 minutes – why wait?
+- PRO TIP
+- : To make your application smoother, ensure that you’re a registered member of the IndiGo BluChip Loyalty Program.
+- Create FD
+- Frequently Asked Questions
+- Fee/FD
+- Dual Card
+- Card Usage
+- Effective 18th June 2026, what changes are being made to the IndiGo IDFC FIRST Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the IndiGo IDFC FIRST Credit Card.
+- for detailed information.
+- Is there Joining/ Membership/ Annual fee on IndiGo IDFC FIRST Credit Card?
+- Yes, there is a Joining fee on the IndiGo IDFC FIRST Credit Card. The card comes with a joining fee (1st year) of ₹4,999 + GST and an annual fee (2nd year onwards) of ₹4,999 + GST.
+- However, you can enjoy the benefits of IndiGo IDFC FIRST Credit Card at ₹0 Joining fee by opting for FD backed variant of IndiGo IDFC FIRST Credit Card which requires Fixed deposit to be pledged of ₹1,00,000. Please Note: Both the variants come with an annual fee (2nd year onwards) of ₹4,999 +GST.
+- When will the joining fee be charged and when will I have to pay the Joining Fee?
+- The joining fee of ₹4,999 + GST will be charged on the day of card application. However, you are expected to make the payment within the 1st statement’s due date to avoid card closure.
+- Please Note: For the FD backed variant there would be no joining fee which requires a Fixed deposit to be pledged of ₹1,00,000.
+- Please Note: Physical cards will be dispatched only after payment of joining fees/ FD creation on basis of the variant selected.
+- When will the annual fee be charged and when will I have to pay the annual Fee?
+- Annual Fee of ₹4,999 + GST will be levied every 12 months (365 days) from the day of card issuance, in every 13th statement. The fee must be paid by the Payment due date of the corresponding statement.
+- Why am I being asked to pay the Joining Fee/ Create or link FD to receive my credit card?
+- IDFC FIRST Bank believes in complete transparency, and we want our customers to make an informed decision about their Joining Fee/FD requirements and its associated benefits. By asking for joining fee payment/FD creation upfront, we are aligning with our core values of openness and trust, ensuring you have full cognizance about the applicable Fee/FD requirements, before committing to this IndiGo IDFC FIRST Credit card. This process allows you to make a conscious choice in a responsible and transparent manner. By choosing this process we also aim to minimize wastage due to cancelled and returned cards.
+- I can't wait to receive my IndiGo IDFC FIRST Dual Card. Where can I pay the upfront Joining fee?
+- You will receive communication from the bank to pay the joining fee as soon as your credit card application is approved.
+- You can also pay the Joining Fee of ₹4,999 + GST by clicking
+- Pay Joining Fee Online
+- On the next page you must authenticate using the mobile number and date of birth as mentioned during the card application. The payment can be made using UPI and net banking
+- Upon issuance, I can see the digital card in the mobile banking app, but I cannot use it for online purchases.
+- For Joining fee variant
+- As per the process, upfront Joining Fee payment is required to activate your digital cards and initiate dispatch of the dual credit card.
+- •On card application approval, you will receive communication to pay the Joining Fee.
+- For FD backed variant
+- Creating/ Linking a Fixed Deposit is required to activate your digital cards and initiate dispatch of the dual credit card.
+- On card application approval, you will receive communication for funding your FD. To Fund your FD now, click here:
+- Fund Your Fixed Deposit
+- Once the Joining Fee is paid/ FD is funded, please make sure that you have enabled online (Ecom) transactions on the card. To activate online usage, click
+- Enable Online Transactions
+- When will I receive the physical credit cards?
+- On payment of joining fee or FD creation based on the variant of the IndiGo IDFC FIRST Credit Card, the physical credit cards will be dispatched to your mailing address registered with the bank and should arrive in 5 working days.
+- If your address has changed, please visit a nearby branch and get your address updated in the bank records or click here. Once, the address is updated, please call 180010888 to get the card dispatched to the updated address.
+- What is unique about the IndiGo IDFC FIRST Dual Credit Card?
+- The IndiGo IDFC FIRST Credit Card stands out as a unique airline co-brand travel proposition, where customers can either apply traditionally or pledge a fixed deposit of ₹1 lakh to get started.
+- What makes this card truly unique is its dual card advantage: it combines the global acceptance of Mastercard with a low forex markup of just 1.49%, alongside the convenience of RuPay for seamless UPI transactions.
+- The unified rewards program allows customers to earn accelerated 6E Rewards (IndiGo BluChips) across all spends, which can be redeemed for flights.
+- Additionally, customers can boost their rewards further through early activation bonuses and annual milestone benefits, making it a powerful, travel-friendly card tailored to a range of spending styles.
+- Who is this card for?
+- This card is for everyone who wants to fly more, earn more and pay flexibly. Whether you are new to credit cards or an experienced user — you can choose the path that works for you:
+- · FD-based application
+- · Credit eligibility-based application
+- Both paths lead to the same rewarding experience.
+- Join the loyalty program IndiGo BluChip and unlock exclusive rewards and benefits for frequent flyers. Earn points and enrol now to start reaping the rewards on IndiGo website and app.
+- Please note: Your benefits on IndiGo IDFC FIRST Dual Credit Card will be in the form of IndiGo BluChips and Vouchers of IndiGo BluChips basis of respective benefit
+- What will I get on paying Joining Fee?
+- Paying the Joining fee for the IndiGo IDFC FIRST Credit Card comes with several benefits.
+- • Voucher of 5000 IndiGo BluChips
+- • A complimentary IndiGo meal voucher
+- Please Note: Welcome benefits are only applicable upon joining fee payment i.e., not available for FD-backed variant of IndiGo IDFC FIRST Credit Card
+- Other one-time exclusive benefits card generation on joining fee payment
+- • 3 months complimentary Eazydiner prime membership worth Rs. 1095
+- • Postcard hotels stay voucher worth ₹3,000
+- One-time exclusive benefits are applicable to the joining fee variant and the FD variant of the IndiGo IDFC FIRST Credit Card
+- When will I get the Joining fee benefits?
+- Joining fee benefits will be processed within 5 working days following the payment of the joining fee.
+- What will I get on paying Annual fee?
+- Renew the card every year by paying the Annual fee of ₹4,999+GST and unlock the following Annual Benefits
+- When will I get the Annual fee benefits?
+- Annual benefits will be processed within 5 working days following the payment of the annual fee.
+- How will I earn IndiGo BluChips on My Card?
+- Customer will earn IndiGo BluChips on every transaction using the IndiGo IDFC FIRST Credit Card.
+- Here's how the IndiGo BluChips are calculated:
+- - 6 IndiGo BluChips on every ₹100 spent on flights booked via IndiGo website or mobile app
+- - 0.5 BluChips on every ₹100 spent on UPI
+- - 0.5 IndiGo BluChips on every ₹100 on Insurance, Rent, Utility, Wallet spends as defined by Network Merchant category codes (MCCs)
+- - 3 IndiGo BluChips on every ₹100 spent on other categories
+- The above structure is applicable across both your IndiGo IDFC FIRST Dual Credit Card.
+- Additional Benefits: Earn up to 16 IndiGo BluChips extra based on your IndiGo Loyalty Program tier.
+- IndiGo BluChips earned in a statement cycle will be credited to your IndiGo BluChips Membership account within 7 days of statement generation.
+- Know more:
+- https://www.goindigo.in/loyalty/terms-and-conditions.html
+- Please Note:
+- No IndiGo BluChips will be rewarded on cash transactions and transactions converted to EMI
+- Are there any exclusions on earning IndiGo BluChips?
+- Yes, IndiGo BluChips will not be rewarded on cash transactions and transactions converted to EMI
+- What is up to additional 16 BluChips based on IndiGo BluChip Loyalty Program?
+- Apart from the BluChips earned on the IndiGo IDFC FIRST Dual Credit card spends, customers stand to earn up to 16 additional BluChips basis their IndiGo BluChip Loyalty Program Tier
+- 8 IndiGo BluChips/ ₹100 spent as an IndiGo BluChip member
+- 4 IndiGo BluChips/ ₹100 spent as Channel Bonus
+- Upto 4 IndiGo BluChips/ ₹100 spent as Tier bonus (4 for Blu 1, 2 for Blu 2)
+- How can I earn 3,000 Bonus IndiGo Bluchips as an early Activation Benefit?
+- Customer will be receiving voucher of 3000 IndiGo BluChips upon spending ₹1Lac within 90 days of card generation.
+- Please Note: This is a one-time offer available only in the 1st year
+- How can I get 25,000 IndiGo BluChip voucher every year?
+- As an IndiGo IDFC FIRST Credit Card holder, you stand a chance to get bonus vouchers of 25,000 IndiGo BluChips every year.
+- Cardmembers will receive a Bonus voucher of 5000 IndiGo BluChips on every spend milestone. Spend Milestones being INR 2 Lakh spends, 5 Lakh spends, 8 Lakh spends, 10 Lakh spends, and 12 Lakh spends.
+- Applicable for spends across both cards
+- These vouchers would be credited in your IndiGo BluChip account 5 days after the statement generation date of the month in which the respective milestone was achieved.
+- The Spend Milestone reward program renews every year.
+- Will I receive a bonus voucher of IndiGo BluChips on qualifying for spend milestones every year?
+- Yes, the Milestone benefits renew every year.
+- How do I own this IndiGo IDFC FIRST Dual Credit Card?
+- There are two ways in which you can own IndiGo IDFC FIRST Dual Credit Card
+- 1) Joining fee-based variant: Pay the joining fee of ₹4,999 +GST and own the dual credit cards
+- 2) FD-backed variant: Pledge an FD of ₹1,00,000 and own the product at ₹0 Joining fee.
+- Please Note: Welcome benefits are only applicable upon joining fee payment i.e., not available for FD-backed variant of IndiGo IDFC FIRST Credit Card. The Joining fee-based variant of the IndiGo IDFC FIRST Credit Card is offered on credit check eligibility basis.
+- From Year 2 onwards, both FD and credit-based customers will follow the same annual fee structure and enjoy the same card benefits.
+- Is there any difference in benefits or IndiGo BluChips earnings between the two application paths?
+- No, there is no difference in the benefits of earning IndiGo BluChips except for, joining fee benefits for which FD backed card holders would not be eligible.
+- What is the forex mark-up on IndiGo IDFC FIRST Credit Card?
+- The forex mark-up fee on the IndiGo IDFC FIRST Credit Card is competitively set at 1.49%
+- Can I avail Golf benefit on IndiGo IDFC FIRST Credit Card?
+- Yes, as part of the Mastercard Network benefits, you can avail golf offers with your IndiGo IDFC FIRST Credit Card. This includes:
+- · 12 complimentary rounds of green fees per calendar year (only 3 rounds in a calendar quarter)
+- · 12 complimentary golf lessons per calendar year (3 lessons per calendar quarter)
+- · 4 complimentary rounds of green fees for guests per calendar year (only 1 round in a calendar quarter)
+- For bookings, queries, or complaints, please call the Mastercard toll-free helpline no. 1800-102-6263
+- Can I gift an Add-on IndiGo IDFC FIRST Credit Card?
+- IndiGo Add on credit card can be availed at a joining and annual fee of ₹499 + GST. You can enjoy all the perks of the proposition by choosing the Network on which you want the card. You will have a choice between Mastercard and RuPay. You can gift up to 3 addon cards to different people.
+- What are IndiGo BluChips?
+- IndiGo BluChips is the unit currency of the IndiGo BluChip program. Members earn IndiGo BluChips for eligible spends with IndiGo IDFC FIRST Credit Card. These IndiGo BluChips can be redeemed for IndiGo flights, which are marketed and operated by IndiGo as well as marketed by IndiGo but operated by a codeshare partner. For more details visit:
+- https://www.goindigo.in/loyalty/ilp.html
+- What is the value of IndiGo BluChips?
+- IndiGo BluChips is a currency that you could redeem for flight tickets. The value of IndiGo BluChip could vary depending upon the flight source and destination, day of flight booking etc at the discretion of IndiGo. The sooner you book your flight, more the chances of maximizing your IndiGo BluChips’s worth. For further details on IndiGo BluChip visit:
+- https://www.goindigo.in/loyalty/faq.html
+- How do I redeem IndiGo BluChips?
+- IndiGo BluChips can be redeemed against IndiGo flights through IndiGo website and mobile app.
+- For more details visit:
+- https://www.goindigo.in/loyalty/dashboard/how-to-burn-points.html
+- How do I redeem IndiGo BluChip Vouchers?
+- IndiGo BluChip Vouchers can be redeemed for booking IndiGo flights through the IndiGo website or mobile app.
+- The IndiGo BluChip member and/or their nominee can use these vouchers while booking flights.
+- During the booking process, the BluChip Voucher option will be visible on the payment page for redemption.
+- Any balance payment can be made using BluChips or cash.
+- IndiGo Meal Vouchers can be redeemed against add-on meals selected during the booking.
+- The IndiGo BluChips voucher is valid for flight bookings made on or before the voucher expiry date and can be redeemed only for flights scheduled to depart on or before the voucher expiry date.
+- For details please refer to -
+- What is the validity of IndiGo BluChip Vouchers?
+- Bonus voucher of IndiGo BluChips earned as a part of Welcome benefits has an expiry of 6 months from the date of credit of the voucher in your IndiGo BluChip Account
+- The IndiGo BluChips voucher is valid for flight bookings made on or before the voucher expirydate and can be redeemed only for flights scheduled to depart on or before the voucher expirydate.
+- Can IndiGo BluChips be used to book international flights?
+- Yes, you can use your IndiGo BluChips to book an international flight via IndiGo website and mobile app.
+- Can I use IndiGo BluChips to book IndiGo flight for my nominees?
+- Yes, you can book IndiGo flights for up to 5 registered nominees. Nominees can be registered in your IndiGo BluChip Account
+- I am not a member of IndiGo Loyalty Program, am I still eligible for the IndiGo IDFC FIRST Credit Card?
+- Yes, you are welcome to make the IndiGo IDFC FIRST Credit Card yours even if you are not a member of the IndiGo Loyalty Program. We shall create an IndiGo BluChip membership for you.
+- Pro Tip: You can register for the IndiGo BluChip Loyalty Program using your Aadhaar-linked mobile number. This helps us instantly link your IndiGo BluChip ID with your IndiGo IDFC FIRST Credit Card and start rewarding from Day 1. Click here to register now: https://www.goindigo.in/loyalty/ilp.html
+- Where can I view my Joining Fee, Early Activation, or Annual Milestone IndiGo BluChips voucher benefits?
+- - Login to IndiGo BluChips Program through IndiGo Website or App.
+- - Visit the Dashboard, under partnerships tab in the ‘View Claimed Benefit’ section IndiGo BluChips Vouchers will be visible with the expiry date.
+- How to redeem IndiGo BluChips Vouchers?
+- While booking the flight on IndiGo Website/App, IndiGo BluChips voucher will be visible to the customer to redeem on the payment Page. Balance payment can be done through IndiGo BluChips or cash. IndiGo Meal vouchers can be redeemed against the add on meal added while booking the flight.
+- Why am I receiving two physical cards?
+- Your IndiGo IDFC Credit card comes with a dual card proposition to provide you with unmatched flexibility and freedom.
+- RuPay card gives you the ease of UPI, whereas Mastercard provides you with global acceptance. Additionally, enjoy the Network offers of RuPay and Mastercard both!
+- a) The credit limit shall be combined across both cards
+- b) Payment of the joining fee/ FD creation will be considered as intent to keep both the cards active
+- c) A combined statement will be generated combining transactions done on both the cards
+- Can I use both cards for earning IndiGo BluChips?
+- IndiGo BluChips earned on both cards will be combined into
+- one rewards pool
+- , redeemable via the IndiGo app/website for flights.
+- When will I receive my IndiGo IDFC FIRST Dual Credit Card?
+- After your application is approved and the Joining fee is paid or FD creation/linking is completed based on the variant applied for, your IndiGo IDFC FIRST Dual Credit Cards will be dispatched and will be delivered within 5 working days.
+- The welcome kit will have IndiGo IDFC Dual Credit Cards- (Mastercard and RuPay).
+- Both cards need to be set up individually. Spends across both cards will be considered for spend-related benefits, including activation and milestone benefits.
+- Can I use my card for online transactions till the physical dual cards are delivered to me?
+- Once the Joining Fee payment/ FD creation (based on the variant applied) is completed, the credit card can be used for online transactions. To enable online transactions and to get the card details, please use the IDFC FIRST Mobile Banking App.
+- How do I generate my IndiGo IDFC FIRST Credit Card PIN?
+- Please set a PIN for your dual cards individually
+- There are 3 easy ways to generate your Credit Cards PIN:
+- 1. Through Net banking:
+- Click on the “Generate Credit Card PIN” on the pre-login page [https://my.idfcfirst.bank.in/login]
+- a. Enter “Customer ID” & “Credit Card number” and click on Get OTP
+- b. Verify using the OTP sent to your registered mobile number
+- c. Enter and re-enter PIN of your choice and click on confirm
+- d. You could also log in to your Net Banking account and follow the below steps
+- i. Select Credit Cards section
+- ii. Select Set new PIN
+- iii. Enter and re-enter the PIN of your choice and click on Get OTP
+- iv. Please verify through the OTP sent to your registered mobile number
+- 2. Through the IDFC FIRST Bank App
+- a. Select the browse icon from the right-side top menu on the login page
+- b. Enter “Customer ID” & “Credit Card number” and click on Get OTP
+- c. Verify through the OTP sent to your registered mobile number
+- d. Enter and re-enter PIN of your choice and click on confirm
+- e. You could also log in to the App and follow the steps below
+- i. Access Credit Cards section
+- 3. Customer Care
+- Call our toll-free number 1800 10 888 and follow the instructions to generate the PIN
+- Or click here fill in the required details IDFC FIRST Bank
+- How can I use my IndiGo IDFC FIRST Credit Card for UPI?
+- Complete your UPI app registration journey with your registered mobile number and follow these simple steps to enable your IndiGo IDFC FIRST RuPay Credit Card for payments:
+- 1. Open the UPI app and choose Add RuPay Credit Card
+- 2. Select IDFC FIRST Bank, and your eligible cards will be displayed
+- 3. Select your IndiGo IDFC FIRST RuPay Credit Card, enter the last 6 digits of your card, card expiry, and OTP to complete your registration.
+- 4. Start making UPI Transactions
+- Do I have to set PIN and transaction preferences for both the cards?
+- Yes, you must set PIN and transaction preference for both cards separately. Click here to Set PIN and manage your transaction preferences: https://my.idfcfirst.bank.in/manageCreditcard
+- What will be my Credit Limit?
+- If you are applying for an IDFC FIRST Bank credit card for the first time, your eligibility will be assessed basis our internal policies and subsequently credit limit will be assigned.
+- If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. The credit limit, however, will be shared across all unsecured credit cards.
+- The Credit Limit for the FD-backed Variant of IndiGo IDFC FIRST Credit Card will be equal to the FD amount
+- Please note: Credit Limit will be shared across both your IndiGo IDFC FIRST Credit Card Pair.
+- When will the statement for IndiGo IDFC FIRST Credit Card generated?
+- Please access your statement in your IndiGo IDFC FIRST card section on your IDFC FIRST Mobile App.
+- Please note: The statement date may be subject to change if it falls on a holiday. You will receive a single statement with transactions done on both cards. You have to pay the due amount once on any of your IndiGo IDFC FIRST Credit card.
+- How can I Make payments on my IndiGo Credit Card?
+- Paying your Credit Card bill is as easy as swiping the card for shopping. There are multiple ways in which you can pay your credit card bill. Click here to know more:
+- https://www.idfcfirst.bank.in/personal-banking/payments/cc-bill-payment
+- Please note: You will receive a single statement with transactions done on both cards. Any payment done on your Indigo IDFC dual cards will be reflected across both and will reflect accordingly.
+- What is TAD?
+- It is the total amount to be paid by the due date to avoid any additional charges. For more details, please refer to our MITC document.
+- What is MAD?
+- It is the amount to be paid to avoid any late payment charges. An interest will be applicable on the unpaid amount. For more details, please refer to our MITC document.
+- What are late payment Charges?
+- Late payment charges are levied when a customer does not pay the MAD amount before the due date. For more details, please refer to our MITC document.
+- What is the interest rate on IndiGo IDFC FIRST Credit Card?
+- IDFC FIRST Bank Credit Cards offer among the lowest interest rate in the country, starting from 8.5% to 46.2% per annum, so it won’t weigh on your pocket if you can’t clear your entire monthly dues occasionally.
+- Can I withdraw cash using IndiGo IDFC FIRST Credit Card?
+- Yes, you can! And what’s great is that all ATM cash withdrawals are interest-free for up to 45 days – in India or even when you withdraw cash abroad. Do keep in mind, however, that a Cash Advance Fee of ₹199/- + GST is applicable per transaction, irrespective of where you are or the amount you withdraw. The maximum cash withdrawal limit would be 10% of your credit limit.
+- What should I do if I lose my IndiGo IDFC FIRST Credit Card?
+- In case you lose your credit card, immediately block it through any of the routes mentioned below and reapply for a replacement
+- • Customer Care Helpline
+- You can call the customer care helpline number, 1800 10 888 and place a request to block the lost card. The customer service executives may verify some information before they block the card remotely.
+- • IDFC FIRST Mobile Banking App
+- You can log in to the IDFC FIRST Mobile Banking App, in the credit card section, select the option to block your credit card.
+- • Net Banking Portal
+- You can log in to IDFC FIRST Bank’s website with your net banking credentials and block your credit card.
+- • SMS Service
+- You can place a request to block your card via SMS, please type CCBLOCK
+- and sent it on 5676732.
+- Can I use my card for online transactions till the physical card is delivered to me?
+- For Joining fee-based credit card
+- Once the Joining Fee payment is completed, the credit cards can be used for online transactions. To enable online transactions and to get the card details, please use the IDFC FIRST Mobile Banking App
+- For FD-backed credit card
+- Once the FD is created/linked, the credit cards can be used for online transactions. To enable online transactions and to get the card details, please use the IDFC FIRST Mobile Banking App
+- How can I apply for IndiGo IDFC FIRST Credit Card?
+- 1. Customers can apply through our mobile app, website & all our partner channels through a simple DIY process
+- 2. Customer to select to apply either with ₹4999 joining fee card or ₹0 joining fee card with Rs ₹1 Lac FD
+- a. Steps to apply for IndiGo IDFC FIRST Credit Card with ₹4999 Joining fee
+- Step1: Customer selects to apply for ₹4999 joining fee card.
+- Step 2 : Enter your basic personal details, depending on your customer segment
+- Step 3 : Basis eligibility, the customer will be offered the IndiGo IDFC FIRST Credit Card limit.
+- Step 4 : Customer’s IndiGo BluChip Membership ID will be fetched or created basis the process
+- Step 5 : Complete your instant video KYC (if required)
+- Step 6 : Pay the Joining Fees to avail welcome offers & initiate delivery of Cards.
+- Step 7 : Receive a combined welcome kit with both your Mastercard & RuPay cards
+- b. Steps to apply for IndiGo Credit card with ₹ 0 Joining Fee with ₹1L FD
+- Step 1 : Customer selects to apply for Zero joining fee card with ₹1 Lac FD
+- Step 3 : Basis eligibility, customer will be offered the Credit Card.
+- Step 4 : Customer’s BluChip ID will be fetched or created basis the process.
+- Step 5 : Fund the FD through a new FD of ₹1L
+- Step 6: Complete your instant video KYC (if required) to initiate the card delivery.
+- If I apply via the FD route, is my FD locked?
+- Your FD will be placed as lien-backed security against your credit card. You are free to close the card and withdraw the FD anytime, subject to standard FD closure terms.
+- No lien will remain once the card is closed.
+- What happens to my pledged FD if I close my IndiGo FIRST Credit Card?
+- Upon cancellation/ closure of the Credit Card, the linked FD gets released after clearing any outstanding dues.
+- Where can I view my Joining Fee benefits / Early Activation / Annual Milestone benefits?
+- Login to the IndiGo BluChips Program via the IndiGo website or mobile app and go to your Dashboard.
+- Under the Partnerships tab, open the ‘View Claimed Benefit’ section. Here, your IndiGo BluChips Vouchers along with their expiry date will be visible.
+- When will I receive the 3,000 Bonus IndiGo BluChips as an Early Activation Benefit?
+- You will get the 3,000 Bonus IndiGo BluChips voucher by the 105th day from your card issuance date. For which, you need to spend ₹1,00,000 within the first 90 days of receiving your card.
+- When will I get the Milestone Benefit IndiGo BluChips Voucher?
+- You will receive Bonus IndiGo BluChip Vouchers in your IndiGo BluChip membership account within 7 days of credit card statement generation.
+- Can I increase my Credit Limit?
+- For FD backed IndiGo IDFC FIRST Credit Card​
+- Yes, you can instantly increase your FD Backed IndiGo IDFC FIRST Credit Card limit by linking your existing FD or booking a new FD through the IDFC FIRST Bank Mobile App.
+- to get started.
+- For fee based IndiGo IDFC FIRST Credit Card​
+- The credit limit on credit cards can be changed by the bank based on the customers’ eligibility criteria. The other way to increase your credit limit by sharing specific documents with the bank for further assessment.​
+- Eligible customers receive a proactive offer to increase their credit card limit.
+- Latest blog posts
+- Get more from your credit card with our latest articles on rewards, travel savings, and smart credit management.
+- Maximize Savings on Flights with IndiGo IDFC FIRST Card
+- Earn rewards on all your spends and redeem them for IndiGo flights. Discover the benefits of this dual credit card.
+- Secured vs. Unsecured IndiGo IDFC FIRST Credit Card Guide
+- Which is right for you? Learn the difference between secured and unsecured credit cards to make the best choice.
+- Mastercard vs. RuPay: Which Would Work as the Best Travel Credit Card
+- Discover the key differences between Mastercard and RuPay. Find out which is the best choice for your travel needs.
+- IndiGo IDFC FIRST Credit Card: FD-Backed or Regular
+- Choose the right IndiGo IDFC FIRST Credit Card. Learn whether an FD-backed or regular card is the better option for you.
+
+## SELECT Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/select?utm_source=website&utm_medium=PDPSelect&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for Lifetime Free Credit Card with Lounge Access Online \| IDFC FIRST Bank  
+**Official meta description:** Get the FIRST Select Credit Card by IDFC FIRST Bank. Enjoy lifetime free benefits, airport lounge access, low forex charges, golf perks, and exclusive offers.  
+
+### Official extracted card text
+
+- Convenience
+- Reward Points
+- Fees
+- Deals
+- Mobile App
+- FAQs
+- No Joining Fee \| No Annual Fee
+- FIRST SELECT
+- Your browser does not support HTML video.
+- 10X Reward Points
+- FIRST Select Credit Card
+- Celebrate every milestone with the perfect card
+- #MakeMomentsCount
+- FIRST Select - Lounge Access Credit Card Online
+- Low Forex Markup of 1.99%
+- on international transactions
+- Earn up to 3X
+- on UPI Spends
+- Already have the FIRST Select Credit Card?
+- Activate UPI now
+- FIRST Select Credit Card – Premium travel benefits and 10X rewards
+- The FIRST Select Credit Card is designed for individuals who appreciate balance—premium privileges without any fees. This lifetime-free card comes with up to 10X reward points, easy EMI options and exciting merchant offers. Enjoy a host of travel privileges with complimentary domestic airport and railway lounge access, low forex markup fee and free trip cancellation protection
+- Eligibility:
+- Annual income of ₹12 lakhs or more
+- Exclusive joining benefits
+- ₹500 gift voucher from your favourite brand
+- Up to ₹1,000 cashback on your first EMI
+- ₹500 gift voucher from choice of brands
+- ₹500 gift voucher from choice of brands like - Amazon, Bigbasket, Uber and Lifestyle on spending ₹5,000 within 30 days of card generation*.
+- *30 days from the day you receive SMS/email confirmation that your card is generated.
+- •Spends of ₹5,000 within 30 days of card generation
+- •Spends is only eligible for Primary Card
+- Fulfilment:
+- •After meeting the spends criterion of ₹5,000, you will receive a SMS/email communication (within 4-5 working days) on your registered mobile number/ email with a link to reward section of our mobile banking app.
+- •Click on the welcome benefit banner to pick a voucher of your choice. The voucher will be available for redemption up to 90 days of receiving the SMS/email.
+- Exclusion
+- •Not applicable on UPI, Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal.
+- •If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded.
+- Enjoy 5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation*.
+- *30 days from the day you receive SMS/email confirmation of card generation.
+- •This offer is applicable only on first EMI conversion within first 30 days of card generation.
+- •Eligible customers will receive cashback within 90 days of the offer end date
+- •Transactions done on gold and jewellery are not eligible for EMI conversion
+- •If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer
+- •If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded
+- Maximise your lifestyle with the
+- Comprehensive Insurance
+- Complimentary airport lounge access
+- Low forex markup fee at just 1.99%
+- Free trip cancellation cover up to ₹10,000
+- Complimentary railway lounge visits
+- ZERO convenience fees on flight bookings
+- Earn bonus reward points on hotel bookings
+- Buy-1-Get-1 movie ticket offer
+- 1% Fuel surcharge waiver
+- Over 300+ merchant offers
+- Accident and lost card liability cover
+- Comprehensive travel insurance cover
+- 24/7 Roadside assistance
+- Airport meet and greet discounts
+- Airport transfer discounts
+- Travel concierge at your fingertips
+- Complimentary golf rounds and lessons
+- Enhance your travel experience with 1 complimentary visit to domestic airport lounge every quarter
+- Disclaimer: Spend ₹20,000 in the current calendar month to avail the benefit in the next month.
+- T&C Apply
+- Take advantage of lower fees for international transactions with a forex markup of just 1.99% + GST.
+- This fee is also applicable for international transactions conducted in Indian rupees.
+- Last-minute change of plans? Get reimbursed up to ₹10,000 on non-refundable hotel and flight cancellations
+- The maximum cover amount of ₹10,000 can be used for up to two claims during the policy period. The benefit can be shared between the Primary & Add On cardholders.
+- For more details and to know more about the claim process.
+- Enhance your travel experience with 4 complimentary visits to lounges at Indian railway terminals every quarter
+- Disclaimer: Effective 20th February 2025, spend ₹20,000 within the current calendar month to access railway lounge benefits in the following month.
+- T&C
+- Explore list of eligible railway lounges
+- Buy-1-Get-1 movie ticket offers
+- Enjoy blockbuster experiences using the 'Buy One, Get One' discount, up to ₹125, on the District by Zomato mobile app (valid twice per month).
+- Effective 18
+- th
+- June 2026, your Buy 1 Get 1 movie ticket offer continues every month, now with spends of ₹20,000 or more in the previous calendar month on your card
+- For example, to avail the movie benefit in July 2026, you must have spent Rs.20,000 or more in June 2026 calendar month.
+- for further details.
+- Save more for your next roadtrip with a 1% Fuel Surcharge Waiver up to ₹300 in a statement cycle at all fuel stations across India on transactions between ₹200 & ₹5,000
+- Air accident cover of 1 crore Personal accident cover of ₹5,00,000 and Lost card liability cover of ₹50,000. Valid on making at least one transaction on the FIRST Select Credit Card in the last 30 days.
+- Travel stress-free with comprehensive travel insurance coverage up to USD 300
+- Loss of Checked-in Baggage: USD 100
+- Delay of Checked-In Baggage: USD 67
+- Loss of Passport and other documents: USD 67
+- Delay in Flight: USD 67
+- Receive 24/7 roadside assistance during car or two-wheeler emergencies across India
+- Complimentary Roadside Assistance worth ₹1,399.
+- Make every purchase sweeter with 300+ brand offers across dining, shopping, travel and more, all year long
+- Explore all offers
+- Get ZERO convenience fees on flight bookings with the IDFC FIRST Mobile Banking app powered by Tripstacc.
+- Earn bonus 20 Reward Points for every ₹100 spent on hotel bookings with the IDFC FIRST Mobile Banking app powered by Tripstacc.
+- Convenience at your fingertips
+- Instant EMI conversion for all online transactions*
+- on the bank’s OTP page
+- Low interest rates(APR)
+- starting at just 8.5% per annum
+- Interest-free* cash withdrawals
+- from ATMs for up to 45 days *one-time cash withdrawal fee of ₹199 + GST applicable
+- Activate UPI on FIRST Select Credit Card at just ₹199
+- Joining and Annual fee (2nd year onwards) of just ₹199 + GST
+- Limited period offer: 100% cashback up to ₹200 i.e. ₹50 each on the first 4 UPI transactions
+- Earn up to 3X reward points on your spends
+- Elevate spends with Reward Points
+- 3X Reward Points
+- 1X Reward Points
+- on incremental spends above ₹20,000 per statement cycle* and spends done on your birthday
+- 1X = 1 Reward Point per ₹200 spent \| 1 Reward point = ₹0.25
+- Reward redemption will attract a small convenience charge of ₹99 (+GST) per redemption.
+- Reward program not applicable on Fuel, EMI transactions & Cash withdrawals.
+- Rental & Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends. These transaction will not be counted towards 10X spends milestone.
+- June 2026:
+- - You will earn 10X Reward Points starting from very first eligible transaction - on Dining, Travel, and International purchases and spends done on your birthday. Earlier, 10X Reward Points were only unlocked after spending ₹20,000 in a billing cycle. Now, every eligible transaction in these categories gets you accelerated Reward Points right away.
+- - Reward Points will be valid for 24 months, giving you ample time to redeem them at your convenience i.e. Reward Points earned from July 2026 statement cycle will be valid for 24 months from the date they are credited.
+- - Reward Points will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for Reward Points.
+- on spends till ₹20,000 in a statement cycle*
+- Rental & Property Management, Government Services, Education and Wallet Load transactions will earn 3X reward points. These transactions will not be counted towards 10X spends milestone.
+- on Utility bill payments, Insurance premium payments, Railway spends and FASTag recharges*
+- Utility, Insurance, FASTag Recharges and Railway Spends will earn 1X reward points. These transactions will not be counted towards 10X spends milestone.
+- This card is perfect for you because...
+- No annual fees
+- Lifetime-free credit card!
+- Easy EMI options
+- Convert all eligible transactions into EMIs
+- 300+ merchant offers
+- Every deal gets sweeter with the FIRST Select Credit Card
+- Fees and charges
+- Joining and Annual Fees
+- NIL
+- Interest rates /Annual Percentage Rate (APR)
+- From 8.5% - 46.2% per annum
+- Forex Markup
+- 1.99%
+- Cash Withdrawals
+- Across domestic and international ATMs
+- 0% Interest
+- for up to 45 days ₹199 + GST per transaction
+- Click here for more details
+- Accelerated Rewards on Travel
+- Earn Bonus Reward Points on booking flights and hotels via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- Earn 33% Bonus Reward Points*
+- on hotel bookings, over and above your usual Credit Card Reward Points
+- Earn 13% Bonus Reward Points*
+- on flight bookings, over and above your usual Credit Card Reward Points
+- Redeem your Reward Points
+- for flight & hotel bookings
+- June 2026, 20% Bonus Reward Points on hotel bookings and 10% Bonus Reward Points on flights, over and above your usual Credit Card Reward Points
+- Read terms and conditions
+- Download the app
+- Book your travel now!
+- Step 1
+- Open the IDFC FIRST Mobile Banking App
+- Step 2
+- Tap ‘FIRST Rewards Gallery’ in the menu
+- Step 3
+- Choose Hotels or Flights and Book
+- Deals you can't miss
+- Sweeter benefits await
+- Dining
+- Your go-to app for managing all your Credit Card needs
+- Install Now
+- Enjoy India’s #1 Mobile Banking App
+- Manage Your Card:
+- Access your virtual credit card, view transaction details, e-statements, and outstanding amounts seamlessly.
+- Control Usage:
+- Instantly manage your credit card settings, including online, contactless, and international transactions, or set/reset your card PIN.
+- Convenient Repayments:
+- Pay your credit card bill effortlessly through multiple options or set up autopay for hassle-free repayments.
+- Exclusive Offers:
+- Discover curated merchant offers and redeem your Reward Points for exciting deals.
+- Testimonials
+- It was a great experience overall, not complicated at all, in fact quite easy. I also got the IDFC FIRST Bank card quickly, which was a significant plus.
+- Samarth Longani
+- March 1, 2025
+- I'm having a great experience applying for and using IDFC FIRST Bank's services. I honestly did not expect this but the process is so fast and smooth.
+- Aishwarya Rathore
+- February 10, 2025
+- The entire process was smooth, quick, and highly satisfactory. Specifically, both the verification and the IDFC FIRST Bank card issue process were completed in the quickest possible time. Please keep it up.
+- Venkatarama Ravichandran
+- February 9, 2025
+- My experience was great, and the delivery of the IDFC FIRST Bank card was notably prompt. Both the card features and the mobile application are truly excellent.
+- Kamarthi Bhaskara
+- January 30, 2025
+- The IDFC FIRST Bank card and its features are truly excellent. From its delivery to every transaction made with it, the experience has been very nice and always completed within the stipulated time.
+- Shashi Tripathi
+- January 27, 2025
+- It was a really nice experience throughout the entire journey of getting the IDFC FIRST Bank card into my hand. This was because it was a totally digital process, and the delivery was faster than I've ever seen.
+- Suresh Kumar
+- January 20, 2025
+- I appreciate the excellent service regarding my newly issued IDFC FIRST Bank Credit Card. The prompt approval process and clear communication throughout have truly impressed me. Additionally, the digital banking app and customer service team have been incredibly responsive and helpful.
+- Bipan Roy
+- January 16, 2025
+- I want to express my sincere thanks to the executives who helped me regarding my card application, and digital KYC processes. The process simplicity is the true strength of IDFC FIRST Bank.
+- Pallav Dave
+- January 15, 2025
+- The IDFC FIRST Bank card approval process was exceptionally accurate, and while there was a moment of uncertainty regarding the precise timeline, I was reassured by customer care about the process completion.
+- Ritwik Bhattacharya
+- January 7, 2025
+- FinFIRST Blog
+- Learn all about credit cards
+- Advantages of the FIRST Select Credit Card
+- IDFC FIRST Bank's credit cards offer complimentary airport and railway lounge access
+- Get the coolest offers on movie tickets with FIRST Select Credit Card
+- The card also offers over 300+ merchant offers across India to help you find the best shopping deals.
+- Get the best shopping card for attractive festive rewards
+- Before choosing the best Credit Card for online shopping, compare various cards for their discounts and offers
+- Answering all your questions
+- Fee and Card Usage
+- Redesigned Card
+- Airport Lounge
+- CFAR
+- Credit Limit
+- Effective 18th June 2026, what changes are being made to the FIRST Select Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the FIRST Select Credit Card.
+- for detailed information.
+- Is there a Joining/Membership/Annual fee on the IDFC FIRST Select Credit Card?
+- No, the IDFC FIRST Select Credit Card is lifetime-free. You do not have to pay any joining, membership, or annual fees at any point. This feature allows you to enjoy premium benefits without incurring extra costs, making the card accessible and cost-effective for long-term usage. To know more about lifetime-free credit cards, click here.
+- What is lifetime free credit card
+- to understand the meaning of this type card in detail.
+- What is the interest rate (APR) on my credit card?
+- The interest rate on your IDFC FIRST Select Credit Card ranges from 8.5% to 46.2% per annum. The actual APR applied depends on your credit score, repayment history, and usage pattern. Maintaining responsible usage and timely repayments can help you secure a lower applicable interest rate.
+- Can I use my credit card to withdraw cash at an ATM?
+- Yes, you can use your IDFC FIRST Select Credit Card to withdraw cash from ATMs across India and abroad. Cash withdrawals are interest-free for up to 45 days, but a nominal transaction fee of ₹199 plus GST is applicable for each withdrawal, irrespective of the amount withdrawn.
+- How do I generate my credit card PIN?
+- Here are the various ways to generate PIN for the IDFC FIRST Bank Select Credit Card
+- Net Banking
+- Pre-login
+- • Click on ‘Generate Credit Card PIN’ on the pre-login page [
+- https://my.idfcfirst.bank.in/login
+- • Enter your customer ID and credit card number and click on ‘Get OTP’
+- • Verify using the OTP sent on your registered mobile number
+- • Enter and re-enter a PIN of your choice and click on ‘Confirm’
+- • Your credit card PIN is set
+- • Login to your Net Banking account
+- • Select ‘Credit Cards’
+- • Select ‘Set new PIN’
+- • Enter and re-enter a PIN of your choice and click on ‘Get OTP’
+- • Please verify using the OTP sent to your registered mobile number
+- Mobile Banking App
+- • Select the browse icon from the top menu on the login page
+- • Verify using the OTP sent to your registered mobile number
+- Login:
+- • Login to Mobile Banking App
+- • Access the ‘Credit Card’ section
+- Customer Care:
+- • Dial our Customer Care number and follow the instructions to generate the PIN.
+- Will I be asked for my credit card PIN at every POS terminal, both domestic and international?
+- You must enter your PIN to complete transactions within India, as it serves as a security measure to confirm that the payment is authorised by you. While using your card in foreign countries, PIN entry is required only if the POS terminal supports PIN-based authentication.
+- You can also make payments using the tap-and-go (contactless) feature, which must be activated through the IDFC FIRST Bank mobile banking app. This method allows payments of up to ₹5,000 per transaction.
+- What is the joining benefit on the IDFC FIRST Select Credit Card?
+- Once your IDFC FIRST Select Credit Card is activated, spend ₹5,000 or more within 30 days to receive a ₹500 gift voucher from leading brands such as Amazon, BigBasket, Uber, or Lifestyle. Additionally, enjoy 5% cashback up to ₹1,000 on your first EMI transaction made within 30 days of card activation. Read our blog on
+- Benefits of FIRST Select Credit Card
+- to learn more about this card.
+- What are the offers available on the IDFC FIRST Select Credit Card?
+- The IDFC FIRST Select Credit Card comes with benefits like discounts on 300+ brands, movie tickets, and complimentary airport lounge access, among others.
+- • Travel: Leverage exclusive deals on platforms like EaseMyTrip, Adani One, Goibibo, and Ixigo.
+- • Shopping: Avail discounts at top brands such as TataCliq, Croma, Myntra, and Lifestyle.
+- • EMI offers: Enjoy no-cost EMI options on purchases from LG, Vijay Sales, Pepperfry, and Oppo.
+- • Dining: Treat yourself to exciting offers on Zomato, District, Faasos, Domino’s, and more.
+- In addition, get railway lounge visits, travel insurance, wellness benefits, and in-app offers on your favourite brands—all year long.
+- What is the forex mark-up on the FIRST Select Credit Card?
+- The IDFC FIRST Select Credit Card charges a low forex markup of just 1.99% on international transactions. This makes overseas travel and foreign online purchases more affordable.
+- Whether you’re spending abroad or shopping on international platforms from India, you enjoy minimal currency conversion charges with this premium credit card.
+- What movie offers are available on the IDFC FIRST Select Credit Card?
+- Enjoy a Buy-One-Get-One free movie ticket offer with your IDFC FIRST Select Credit Card through the Zomato-owned District app. The offer provides a discount of up to ₹125 on the second ticket and can be availed twice per month, making movie nights more fun and budget-friendly.
+- Can I avail complimentary airport lounge visits on the IDFC FIRST Select Credit Card?
+- Yes, 1 complimentary visit per quarter at domestic airports with the IDFC FIRST Select Credit Card. To qualify, you need to spend ₹20,000 or more in the current calendar month. Once eligible, your access gets activated in the next month, offering a relaxing travel experience.
+- Will I earn reward points for every spend?
+- Yes. You will earn:​
+- - 10X reward points for incremental spends above ₹20,000 in a statement cycle and on your birthday​
+- - 3X reward points on spends up to ₹20,000 in a statement cycle​
+- - 3X reward points on Education, Wallet Load, Government, Rent and Property Management/Purchase transactions​
+- - 1X reward point on utility bill payments, railway spends, FASTag recharges and insurance premium payments.​
+- The reward points you earn stay with you forever, as long as the card is active.​
+- Categories not included in the 10X Reward Points threshold, include Rental & Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends. Reward points will not be earned on spends converted to EMI, Cash Withdrawal, Fuel, Fee, and Charges.​
+- 1X equals 1 reward point for every ₹200 spent in a transaction. The value of 1 reward point is ₹0.25.
+- June 2026, you will earn:​
+- - 10X Reward Points on Dining, Travel, and International purchases and spends done on your birthday.​
+- - 3X Reward Points on all other eligible spend categories; except insurance, utilities, railways and FASTag recharges​
+- - 1X Reward Points on Insurance premium payments, Utility bill payments, Railway spends and FASTag recharges.
+- How do I know if I have activated my lounge benefit in any month?
+- IDFC FIRST Bank will inform customers via email in the first week of every month
+- How do I know if I am eligible for CFAR?
+- a. You will be eligible for CFAR If you have made at least 1 transaction on your IDFC FIRST Select Credit Card in the calendar month preceding the start of the policy period. For example, spends in June 2023 will make you eligible for policy period 1st July 2023 till 30th April 2024.
+- b. IDFC FIRST Bank will inform all customers at the start of the policy
+- Will I have to transact every month to avail CFAR benefit?
+- Once the policy is issued, it is not mandatory to transact every month in the policy period to keep it active.
+- If I have made a booking during the policy period and I cancel the booking after the policy period, can I still avail the CFAR benefit?
+- For availing the CFAR benefit, both bookings and cancellations must be made within the policy period.
+- Will I have to pay any additional amount for CFAR benefit?
+- CFAR is a complimentary benefit offered to select IDFC FIRST Credit Card holders at no additional cost.
+- Can I increase my coverage offered under CFAR?
+- As this is a complimentary benefit available to select customers, coverage will be applicable as per the specified terms and conditions.
+- What kind of flight tickets are eligible for claims under CFAR?
+- Both refundable and non-refundable flight tickets are eligible for claims under CFAR. However, only the non-refundable portion of the ticket will be reimbursed to you.
+- I have claimed up to ₹5,000 in my last two claims and have another ₹5,000 left in my cover, will you allow me to claim the same in my next claim?
+- You can make a CFAR claim only twice in a policy period. No further claims are covered.
+- What will be my credit limit?
+- If you are applying for your first IDFC FIRST Bank unsecured credit card, you will get a credit limit as per our internal policies.
+- If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. However, the limit will be shared across all unsecured credit cards.
+- - 10X never-expiring reward points for incremental spends above ₹20,000 in a statement cycle and spends done on your birthday.​
+- - 3X never-expiring reward points on spends up to ₹20,000 in a statement cycle.​
+- - 3X reward points on Education, Wallet Load, Government payments, Rent and Property Management/Purchase transactions.​
+- - 1X never-expiring reward point on utilities, insurance, FASTag and railways transactions. Spends in these categories will not be considered for the 10X monthly milestone.​
+- - Reward points will not be given on spends converted to EMI, Cash Withdrawal, Fuel, Fee and Charges.​
+- (1X reward point is given for every ₹200 spent in a transaction. Value of 1 reward point is ₹0.25)​
+- Are there any exclusions for earning 10X reward points?
+- Yes, certain transactions are excluded from earning 10X reward points on the IDFC FIRST Select Credit Card. These include payments related to Rental & Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway or transactions like fuel, EMI transactions & cash withdrawals. Regular eligible spends continue to earn accelerated rewards as per the card’s defined earning structure.
+- June 2026, you will earn 10X Reward Points starting from your very first eligible transaction -on Dining, Travel, and International purchases and spends done on your birthday. Earlier, 10X RewardPoints were only unlocked after spending ₹20,000 in a billing cycle. Now, every eligible transaction in thesecategories gets you accelerated Reward Points right away.
+- How can I redeem the reward points that I have earned on my card?
+- You can redeem reward points earned on the IDFC FIRST Select Credit Card through the FIRST Rewards Gallery portal or mobile banking app. Visit the portal, choose from options like e-vouchers, gift cards, or flight bookings, and follow the steps to redeem. A handling fee of ₹99 + GST applies per redemption. These points never expire, allowing flexibility in usage.
+- Is there an expiry date on the reward points accrued on my card?
+- No, the reward points earned on your IDFC FIRST Select Credit Card do not expire. You can accumulate them over time and redeem them whenever you choose, without worrying about expiry. This flexibility allows you to maximise the value of your rewards based on your personal spending and preferences.​
+- June 2026, Reward Points will be valid for 24 months, giving you ample time to redeem them at your convenience i.e. Reward Points earned from July 2026 statement cycle will be valid for 24 months from the date they are credited
+- When will the reward points be credited?
+- The reward points will get credited upon statement generation. Reward points will be posted in Card Account only when the Minimum Amount Due (MAD) has been realised on or before the Payment Due Date (PDD).
+- Besides lounge access, what are the other travel-related benefits of the IDFC FIRST Select Credit Card?
+- Apart from complimentary lounge access, the IDFC FIRST Select Credit Card offers several travel-related benefits. Cardholders can enjoy a low 1.99% forex markup on international transactions, making it ideal for overseas travel.
+- Additionally,
+- you get CFAR (Cancellation for Any Reason) trip cancellation benefit of up to ₹10,000 for hotel & flight bookings, covering your last-minute change in plans. You can access exclusive travel deals and discounts on platforms like EaseMyTrip, Goibibo, and Ixigo. Complimentary travel insurance coverage further enhances the card’s value for frequent travellers, offering convenience during
+- international trips.
+- What kind of insurance cover is included with the IDFC FIRST Select Credit Card?
+- The IDFC FIRST Select Credit Card includes a comprehensive suite of insurance benefits. These include
+- an air accident cover, personal accident cover
+- , CFAR (Cancellation for Any Reason) trip cancellation benefit, purchase protection, credit shield, and lost card liability cover to protect against unauthorised transactions, and comprehensive travel insurance for added peace of mind during international travel. Additionally, it offers 24/7 roadside assistance to ensure help is available in case of vehicle breakdowns, making it a well-rounded card for safety and convenience on the go.
+- Is the IDFC FIRST Select Credit Card a lounge access credit card for both domestic and international airports?
+- The IDFC FIRST Select Credit Card offers complimentary lounge access at domestic airports in India only. Currently, it does not provide free access to international airport lounges. However, it is a valuable travel credit card with a low forex markup and comprehensive travel-related benefits.
+- Do I need to pay extra for lounge access with the IDFC FIRST Select Credit Card?
+- The IDFC FIRST Select Credit Card offers 1 complimentary domestic airport lounge access per quarter (four annually) on a minimum spend of ₹20,000 in the previous calendar month. Additional visits beyond the complimentary quota will incur charges, which are billed to your card. To access the lounge, present your card and a valid boarding pass for travel on the same or next day.
+- Important documents
+- Most Important Terms & Conditions
+- Card Member Agreement
+- Product Usage Guide
+- Basics
+
+## CLASSIC Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/classic?utm_source=website&utm_medium=PDPClassic&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for Lifetime Free Credit Card with No Annual / Joining Fees \| IDFC FIRST Bank  
+**Official meta description:** Get life time free credit card online with instant approval at IDFC FIRST Bank. It is the best lifetime free credit card with exciting benefits, rewards & privileges !  
+
+### Official extracted card text
+
+- Convenience
+- Reward Points
+- Fees
+- Deals
+- Mobile App
+- FAQs
+- No Joining Fee \| No Annual Fee
+- FIRST CLASSIC
+- Your browser does not support HTML video.
+- 10X Never Expiring Rewards
+- FIRST Classic Credit Card
+- Elevate everyday experiences
+- #IndulgeMore
+- A lifetime-free card packed with valuable benefits
+- Earn 3X
+- rewards on UPI spends
+- Already have the FIRST Classic Credit Card?
+- Activate UPI now
+- FIRST Classic Credit Card – Zero fee & easy EMI options
+- Enjoy exciting benefits with lifestyle privileges with the FIRST Classic Credit Card. With Zero Joining & Annual fee and up to 10X Reward Points, this
+- makes daily spending rewarding - be it shopping, movies, or dining. Convert your transactions into EMI with ease and repay comfortably. This card also offers interest-free cash withdrawal for up to 45 days.
+- Eligibility:
+- Annual income of ₹3 lakhs or more
+- Joining benefits
+- ₹500 gift voucher from your favourite brand
+- Up to ₹1,000 cashback on your first EMI
+- ₹500 gift voucher from choice of brands
+- ₹500 gift voucher from choice of brands like - Amazon, Bigbasket, Uber and Lifestyle on spending ₹5,000 within 30 days of card generation*.
+- *30 days from the day you receive SMS/email confirmation that your card is generated.
+- •Spends of ₹5,000 within 30 days of card generation
+- •Spends is only eligible for Primary Card
+- Fulfilment:
+- •After meeting the spends criterion of ₹5,000, you will receive a SMS/email communication (within 4-5 working days) on your registered mobile number/ email with a link to reward section of our mobile banking app.
+- •Click on the welcome benefit banner to pick a voucher of your choice. The voucher will be available for redemption up to 90 days of receiving the SMS/email.
+- Exclusion
+- •Not applicable on UPI, Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal.
+- •If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded.
+- Enjoy 5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation*.
+- *30 days from the day you receive SMS/email confirmation of card generation.
+- •This offer is applicable only on first EMI conversion within first 30 days of card generation.
+- •Eligible customers will receive cashback within 90 days of the offer end date
+- •Transactions done on gold and jewellery are not eligible for EMI conversion
+- •If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer
+- •If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded. Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded
+- Enjoy life’s simple pleasures with the FIRST Classic Credit Card
+- Comprehensive insurance
+- 25% off on movie tickets
+- Discounted
+- 1% Fuel surcharge waiver
+- Over 300+ merchant offers
+- Complimentary railway lounge visits
+- Complimentary
+- Accident and lost card liability cover
+- 24/7 Roadside assistance
+- Travel comfortably with complimentary access to railway lounges, four times a quarter
+- Disclaimer: Effective 20
+- th
+- February 2025, spend ₹20,000 within the current calendar month to access railway lounge benefits in the following month.
+- Explore list of eligible railway lounges
+- Get a 25% discount on movie tickets, up to ₹100, on the District by Zomato mobile app (valid once per month).
+- Save on fuel costs with a 1% Fuel Surcharge Waiver up to ₹200 in a statement cycle at all fuel stations across India on transactions between ₹200 & ₹5,000
+- Up to 20% discount at 1500+ restaurants \| Up to 15% discount at 3000+ Health & Wellness outlets
+- Explore all offers
+- Personal accident cover of ₹2,00,000 and lost card liability cover of ₹25,000 valid on making at least one transaction on FIRST Classic Credit Card in last 30 days
+- Receive 24/7 roadside assistance for any emergencies while traveling
+- Complimentary Roadside Assistance worth ₹1,399. Valid up to 4 times in a year on your FIRST Classic Credit Card.
+- Convenience at your fingertips
+- Instant EMI conversion for all online transactions*
+- on the bank’s OTP page
+- Low interest rates(APR)
+- starting at just 8.5% per annum
+- Interest-free* cash withdrawals
+- from ATMs for up to 45 days
+- *one-time cash withdrawal fee of ₹199 + GST applicable
+- Activate UPI at just ₹199
+- Joining and Annual fee (2nd year onwards) of just ₹199 + GST
+- Limited period offer: 100% cashback up to ₹200 i.e. ₹50 each on the first 4 UPI transactions
+- Earn up to 3X reward points on your spends
+- Elevate spends with Reward Points
+- 10X Reward points
+- on incremental spends above ₹20,000 per statement cycle and spends done on your birthday.
+- 3X Reward points
+- on spends till ₹20,000 in a statement cycle
+- 1X Reward points
+- on Insurance premium payments and Utility bill payments
+- 1X = 1 Reward Point per ₹200 spent \| 1 Reward point = ₹0.25
+- Reward redemption will attract a small convenience charge of ₹99 (+GST) per redemption.
+- Reward program not applicable on Fuel, EMI transactions & Cash withdrawals.
+- Rental & Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends. These transaction will not be counted towards 10X spends milestone.
+- Rental & Property Management, Government Services, Education and Wallet Load transactions will earn 3X reward points. These transactions will not be counted towards 10X spends milestone.
+- Utility, Insurance, FASTag Recharges and Railway Spends will earn 1X reward points. These transactions will not be counted towards 10X spends milestone.
+- This card is perfect for you because...
+- No annual fees
+- Lifetime-free credit card!
+- Easy EMI options
+- Convert all eligible transactions into EMIs
+- 300+ merchant offers
+- Every deal gets sweeter with the FIRST Classic Credit Card
+- Fees and charges
+- Joining and Annual Fees
+- NIL
+- Interest rates /Annual Percentage Rate (APR)
+- from 8.5% - 46.2% per annum
+- Cash Withdrawals
+- Across domestic and international ATMs
+- 0% Interest
+- for up to 45 days
+- ₹199 + GST per transaction
+- Click here for more details
+- Accelerated Rewards on Travel
+- Earn Bonus Reward Points on booking flights and hotels via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- Earn 33% Bonus Reward Points
+- on hotel bookings, over and above your usual Credit Card Reward Points
+- Earn 13% Bonus Reward Points
+- on flight bookings, over and above your usual Credit Card Reward Points
+- Redeem your Reward Points
+- for flight & hotel bookings
+- Read terms and conditions
+- Download the app
+- Book your travel now!
+- Step 1
+- Open the IDFC FIRST Mobile Banking App
+- Step 2
+- Tap ‘FIRST Rewards Gallery’ in the menu
+- Step 3
+- Choose Hotels or Flights and Book
+- Deals you can't miss
+- Sweeter benefits await
+- Dining
+- Your go-to app for managing all your Credit Card needs
+- Install Now
+- Enjoy India’s #1 Mobile Banking App
+- Manage Your Card:
+- Access your virtual credit card, view transaction details, e-statements, and outstanding amounts seamlessly.
+- Control Usage:
+- Instantly manage your credit card settings, including online, contactless, and international transactions, or set/reset your card PIN.
+- Convenient Repayments:
+- Pay your credit card bill effortlessly through multiple options or set up autopay for hassle-free repayments.
+- Exclusive Offers:
+- Discover curated merchant offers and redeem your Reward Points for exciting deals.
+- Testimonials
+- My experience with IDFC FIRST Bank's credit card issuance was remarkably smooth, particularly the simple document verification. I value their innovative customer engagement, evident in their proactive offers and partnerships with brands. They prioritise making credit accessible to their cardholders.
+- Virender Singh
+- February 28, 2025
+- IDFC FIRST Bank consistently delivers exceptionally fast service, unparalleled by other banks. A significant highlight of this bank is their reward points programme. These reward points never expire, adding immense value to my card usage and purchases.
+- Dharmendra Kumar
+- February 1, 2025
+- My experience with IDFC FIRST Bank was largely professional and efficient. I particularly appreciate the seamless process, especially since I acquired this card to avail discounts on Myntra. The overall service is great, ensuring a positive experience for me.
+- Brahmbhatt Manish
+- January 21, 2025
+- My consistently positive experience with IDFC FIRST Bank highlights their dedication to customer satisfaction. I appreciate the excellent services, especially the convenient mobile banking app and transparent document verification.
+- Harish Kumar
+- January 10, 2025
+- IDFC FIRST Bank is an emerging, reliable, and highly trustable financial institution. I've experienced excellent professional interaction, which is why I want a long-standing association with the Bank.
+- Gophala S
+- FinFIRST Blog
+- Learn all about credit cards
+- FIRST Classic Credit Card eligibility requirements
+- FIRST Classic is an attractive option for first-time credit card users. Find out whether you meet the eligibility criteria.
+- Flexibility of UPI with your IDFC FIRST Bank Credit Card
+- Get an add-on FIRST Digital RuPay Credit Card linked to you IDFC FIRST Credit Card and enjoy the convenience of UPI.
+- Top IDFC FIRST Bank Credit Card features you should know
+- Packed with unique credit card features credit cards from IDFC FIRST Bank empower smarter financial management.
+- Answering all your questions
+- Fee and Card Usage
+- Redesigned Card
+- Credit Limit
+- Effective 18th June 2026, what changes are being made to the FIRST Classic Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the FIRST Classic Credit Card.
+- for detailed information.
+- Is there a joining, membership, or annual fee on the IDFC FIRST Classic Credit Card?
+- No, there is no joining fee or annual fee on the IDFC FIRST Classic Credit Card. It is a lifetime-free card, ensuring cost-free ownership while enjoying a suite of valuable benefits.
+- Click here to apply now
+- What is the interest rate (APR) on the IDFC FIRST Classic Credit Card?
+- The
+- Annual Perce
+- ntage Rate
+- (APR) is the annualised interest rate that applies to your credit card usage. It generally varies between 12% to 49%, depending on the credit card. However, with IDFC FIRST Bank, the APR ranges from just 8.5% to 46.2% per annum, depending on your credit profile and payment behaviour. These rates are among the most competitive in the industry.
+- Can I use the IDFC FIRST Classic Credit Card to withdraw cash from an ATM?
+- Yes, you may use the card for cash withdrawals at domestic or
+- international ATMs.
+- Note that cash withdrawals at international ATMs come with a cash withdrawal fee as per the conversion rate. Interest-free withdrawals are available for up to 45 days at domestic ATMs, subject to a cash withdrawal fee of ₹199 + GST per transaction.
+- How do I generate my credit card PIN?
+- Net Banking
+- Pre-login
+- • Click on Generate Credit Card PIN on the pre-login page [
+- https://my.idfcfirst.bank.in/login
+- • Enter your
+- Customer ID and Credit Card number
+- and click on Get OTP
+- • Verify using the OTP sent on your registered mobile number
+- • Enter and Re-enter a PIN of your choice and click on confirm
+- • Your Credit Card PIN is set
+- • Login to your Net Banking account
+- • Select Credit Cards
+- • Select Set new PIN
+- • Enter and Re-enter a PIN of your choice and click on Get OTP
+- • Please verify using the OTP sent to your registered mobile number
+- Mobile Banking App
+- • Select the browse icon from the top menu on the login page
+- • Enter your Customer ID and Credit Card number and click on Get OTP
+- • Verify using the OTP sent to your registered mobile number
+- Login:
+- • Login to Mobile Banking App
+- • Access the Credit Card section
+- Customer Care:
+- • Dial our Customer Care and follow the instructions to generate the PIN
+- Will I be asked for my Credit Card PIN at every POS terminal, both domestic and international?
+- For all transactions in India, yes, you will be asked for a PIN for completing the transactions. However, outside India, you will be asked for the PIN only if the POS terminal is enabled for PIN authentication.
+- What is the joining benefit on the IDFC FIRST Classic Credit Card?
+- As a welcome benefit, you will receive a ₹500 gift voucher from top brands like Amazon, BigBasket, Uber, or Lifestyle on spending ₹5,000 within 30 days of card generation. You are also entitled to 5% cashback up to ₹1,000 on your first EMI transaction made within 30 days.
+- What offers are available on the IDFC FIRST Classic Credit Card?
+- • Up to 20% discount at 1,500+ restaurants
+- • Up to 15% discount at 3,000+ health & wellness outlets
+- • Flight and hotel booking offers
+- These offers are updated regularly and are available on the Bank's website and mobile app.
+- What is the movie offer on the IDFC FIRST Classic Credit Card?
+- You can avail a 25% discount on movie tickets up to ₹100 per month on bookings made via the District by Zomato mobile app. This offer is valid once per month, helping you enjoy movie nights more affordably.
+- What will be my credit limit?
+- If you are applying for your first IDFC FIRST Bank unsecured credit card, you will get a credit limit as per our internal policies.
+- If you already have an IDFC FIRST Bank unsecured credit card, your new credit card will also have the same credit limit. However, the limit will be shared across all unsecured credit cards
+- Will I earn reward points for every spend?
+- Yes. You will earn:​
+- - 10X never-expiring reward points for incremental spends above ₹20,000 in a statement cycle and spends done on your birthday.​
+- - 3X never-expiring reward points on spends up to ₹20,000 in a statement cycle.​
+- - 3X reward points on Education, Wallet Load, Government payments, Rent and Property Management/Purchase transactions.​
+- - 1X never-expiring reward point on utilities, insurance, FASTag and railways transactions. Spends in these categories will not be considered for the 10X monthly milestone.​
+- - Reward points will not be given on spends converted to EMI, Cash Withdrawal, Fuel, Fee and Charges.​
+- (1X reward point is given for every ₹200 spent in a transaction. Value of 1 reward point is ₹0.25)​
+- Are there any exclusions for earning 10X reward points?
+- After spending more than ₹20,000 in a billing cycle, you become eligible for 10X reward points on qualifying categories. However, the following transactions are excluded:
+- • Fuel, EMI transactions, and cash withdrawals
+- • Rental & Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends.
+- Note: Select categories like education, rental, and government services may still earn 3X reward points as per specific terms and conditions.
+- How can I redeem the reward points earned on my IDFC FIRST Classic Credit Card?
+- You can redeem your reward points via the IDFC FIRST Bank mobile banking app or website. Points can be exchanged for a wide array of products, vouchers, and gift cards. A convenience fee of ₹99 + GST applies per redemption.
+- Do reward points accrued on the IDFC FIRST Classic Credit Card expire?
+- No, the reward points earned on your IDFC FIRST Classic Credit Card do not expire, giving you complete flexibility to accumulate and redeem them at your convenience.
+- When will the reward points be credited?
+- The reward points will get credited upon statement generation. Reward points will be posted in Card Account only when the Minimum Amount Due (MAD) has been realised on or before the Payment Due Date (PDD).
+- What is a lifetime-free credit card?
+- A lifetime-free credit card is one that does not charge any joining fee or annual fee for the entire duration of ownership. You are not required to pay any recurring charges to continue using the card. The IDFC FIRST Classic Credit Card is a lifetime-free credit card, offering a wide range of lifestyle and travel benefits without any hidden costs. To know more about lifetime-free credit cards, read “
+- Benefits of having a lifetime-free credit card”.
+- What is the IDFC FIRST Classic Credit Card and who is it best suited for?
+- The IDFC FIRST Classic Credit Card is a feature-rich, lifetime-free credit card tailored for individuals seeking everyday benefits across lifestyle, travel, dining, and digital transactions. It is best suited for salaried or self-employed individuals looking for a rewarding entry-level card with robust privileges such as railway lounge access, fuel surcharge waivers, movie discounts, and never-expiring reward points.
+- What is the minimum income required to apply for the IDFC FIRST Classic Credit Card?
+- To apply for the IDFC FIRST Classic Credit Card, applicants must have a salary of ₹3 lakhs per annum or more and meet other criteria as specified by the Bank’s internal credit assessment policies. Exact income criteria may vary depending on whether the applicant is salaried or self-employed and are subject to additional credit parameters.
+- Are fuel surcharge waivers available on the IDFC FIRST Classic Credit Card?
+- Yes, with the IDFC FIRST Classic Credit Card, you are entitled to a 1% fuel surcharge waiver on fuel transactions between ₹200 and ₹5,000. The benefit is capped at ₹200 per billing cycle and is applicable across all fuel stations in India, ensuring cost-efficiency on your monthly commute.
+- Can I use the IDFC FIRST Classic Credit Card for UPI payments or mobile wallets?
+- Yes, you can opt for the digital RuPay variant of the IDFC FIRST Classic Credit Card by paying a joining fee of ₹199 and the same amount as an annual fee from the second year onwards. It can be linked to any UPI app such as PhonePe, Google Pay, or Paytm for seamless UPI transactions. As part of a limited-period offer, you can get 100% cashback up to ₹200 (₹50 each on your first four UPI transactions) and earn up to 3X rewards on all eligible spendings.
+- Does the IDFC FIRST Classic Credit Card support contactless payments?
+- Yes, the IDFC FIRST Classic Credit Card is enabled with NFC (Near Field Communication) technology, allowing you to make quick and secure contactless payments at POS terminals. Simply tap your card at supported machines to complete the transaction without entering a PIN for amounts up to ₹5,000. You can also switch the contactless payment feature on or off using the IDFC FIRST Bank mobile app.
+- Is lounge access available with the IDFC FIRST Classic Credit Card?
+- Yes, you can enjoy complimentary railway lounge access up to four times per quarter with your IDFC FIRST Classic Credit Card. However, you must spend ₹20,000 within the current calendar month to avail of this benefit in the following month.
+- Why should I choose the IDFC FIRST Classic Credit Card as my first lifetime-free credit card?
+- The IDFC FIRST Classic Credit Card stands out as a superior choice for first-time users thanks to its combination of zero joining and annual fees, Welcome benefits up to ₹1,500, lifestyle rewards like movie discounts, and never-expiring reward points. With low interest rates and digital convenience, it offers significant value at zero cost.
+- How do I check if my credit card is lifetime-free?
+- To verify if your card is lifetime-free, review the credit card agreement, check the ‘Fees and Charges’ section on the official IDFC FIRST Bank website. You can also contact customer care or use the IDFC FIRST Bank mobile app. For the IDFC FIRST Classic Credit Card, both the joining fee and annual fee are NIL.
+- How can I maximise the rewards on my IDFC FIRST Classic Credit Card?
+- To maximise your reward earnings:
+- • Use the card frequently for both online and offline purchases - Earn 10X Rewards on spends of ₹20,000 or above in a month. You can use this card to pay your bills, dining, Health & Wellness and maximise your rewards.
+- • Book flights and hotels via the mobile banking app for bonus rewards
+- • Use EMI options to earn eligible cashback and rewards.
+- Important documents
+- Most Important Terms & Conditions
+- Card Member Agreement
+- Product Usage Guide
+- Basics
+
+## FIRST Hello Cashback Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/hello-cashback-credit-card?utm_source=website&utm_medium=PDPHelloCB&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Hello Cashback Credit Card \| Earn up to 5% Cashback with FD backed credit card. \| IDFC FIRST Bank  
+**Official meta description:** Earn up to 5% Cashback with the Hello Cashback credit card. Get FD-backed assured credit card with UPI payments, interest on FD & instant approval.  
+
+### Official extracted card text
+
+- Overview
+- Privileges
+- How to Apply
+- FAQ
+- Joining Fee:
+- ₹1,000+GST
+- ₹0 Introductory offer
+- Annual Fee:
+- ₹1000 (waived on ₹2L of annual spends)
+- Your browser does not support the video tag.
+- Introducing
+- home
+- hello cashback credit card
+- Cashback for everyone,
+- on every spend
+- that matters
+- Unlock up to
+- ₹18,000
+- cashback annually
+- Meet the
+- Hello
+- The Hello Cashback Credit Card from IDFC FIRST Bank is an FD-backed assured credit card that rewards you for everyday spends. With instant UPI readiness, you can now use a single card for all your purchases, be it online, offline or UPI. No complicated catalogues or coupons. Get one of the best Cashback credit cards and earn Cashback up to ₹1500 every statement cycle.
+- Say Hello to
+- Powerful
+- 5%
+- 3%
+- 1%
+- on incremental online spends above ₹10,000
+- Additional 1% Cashback on Hotel and Flights
+- booking via Bank App
+- on online spends up to ₹10,000
+- On UPI spends done via Bank App
+- On in store swipes and essential category spends
+- Essential categories includes Rent, utility,
+- education, FASTag etc
+- Cashback on online spends capped at ₹1,000 in a statement cycle. Total Cashback capped at ₹1,500 in a statement cycle.
+- Online spends done on essential categories and fuel will not count towards the ₹10,000 online spends milestone.
+- All spends qualify for Cashback except – fuel, ATM Cash withdrawals, EMI, UPI spends done through other UPI apps (GPay, PhonePe, Paytm etc.)
+- Awesome
+- Introductory offer
+- ₹1,000
+- NIL Joining Fee
+- Get your Hello Cashback Credit Card for free without any joining fee
+- Up to 5% Cashback benefit
+- Earn up to 5% cashback worth ₹18,000 per year on spends across various categories. The more you spend, the more you get.
+- 1% Cashback on UPI spends
+- Scan and pay using IDFC FIRST Bank app and earn 1% Cashback on your UPI spends
+- Access funds
+- without breaking your FD
+- Interest-free cash withdrawal for up to 45 days at a nominal fees of ₹199+GST
+- Up to 6% Cashback ​
+- on Travel bookings
+- Earn additional 1% Cashback on Hotel and Flight bookings done via Bank app
+- Flexi
+- Credit Limit = Your FD Value
+- Get 100% limit against your FD with deposits starting ₹10,000.
+- Access funds without breaking your FD
+- Increase your credit limit instantly
+- Link multiple FDs to instantly boost your Credit Card limit by creating an additional FD starting ₹5,000
+- Doubling up benefits on your FD
+- Earn interest on FD and Cashback on your Card
+- Extra
+- 1% Fuel Surcharge Waiver
+- Fuel up and get 1% fuel surcharge waiver up to ₹100 per statement cycle.
+- Complimentary Roadside Assistance
+- Get complimentary roadside assistance worth ₹1,399, up to 4 times a year.
+- Personal Accident Cover
+- Get personal accident cover of ₹2,00,000
+- Lost card liability cover of ₹25,000
+- Misplaced your card? Stay protected with lost card liability cover of ₹25,000 against unauthorised transactions.
+- Get 1% Fuel Surcharge Waiver up to ₹100 in a statement cycle at all fuel stations across India on transactions between ₹200 & ₹5,000
+- T&C apply
+- Receive 24/7 roadside assistance for any emergencies while traveling. Valid up to 4 times in a year on your Hello Cashback Credit Card
+- Personal accident cover of ₹2,00,000, valid on making at least one transaction on Hello Cashback Credit Card in the last 30 days
+- Lost Card Liability
+- Lost card liability cover of ₹25,000 valid on making at least one transaction on Hello Cashback Credit Card in the last 30 days
+- Steps to
+- Online
+- Check Eligibility Criteria
+- 18 to 80 years of age
+- No credit score required
+- Step 1
+- Enter
+- basic details
+- Step 2
+- FD is
+- created online
+- Step 3
+- Video
+- KYC
+- Step 4
+- Virtual Card
+- issued instantly*
+- Create an FD of a
+- minimum of ₹10,000.
+- *Your physical credit card will be delivered to your registered address.
+- Your Hello Cashback Credit Card is
+- UPI-ready!
+- IDFC FIRST Bank App
+- PhonePe
+- Google Pay
+- Paytm
+- Payment Successful
+- Card Linking?
+- Done For You.
+- Earn 1% Cashback on UPI payments done via IDFC FIRST Bank app
+- Card
+- Linking?
+- Done
+- For You.
+- Scan the QR code to open the app
+- Pay Now
+- Add RuPay Credit card
+- Card Added Successfully
+- Scan. Link. Pay.
+- Scan the QR code to instantly link your Hello Cashback Credit Card and start making UPI payments
+- Click on 'Link Now' to instantly link your Hello Cashback Credit Card and start making UPI payments
+- Scan the QR code to open PhonePe
+- Link Now
+- Click on 'Link Now' to instantly link your Hello Cashback Credit Card and start making UPI payments/p>
+- Scan the QR code to open GPay
+- Scan the QR code to open Paytm
+- Your
+- go-to app
+- for managing all your Credit Card needs
+- Install Now
+- 4.9
+- Manage Your Card:
+- View limits, track spends,
+- check transactions, and
+- download statements
+- effortlessly.
+- Control Your Card:
+- Enable or disable usage, set
+- limits, block or unblock
+- instantly, and get real-time
+- alerts.
+- Convenient Repayments:
+- Quick repayments,
+- UPI payments, easy EMIs,
+- and instant loans or balance transfers.
+- All-In-One Card Services:
+- Travel booking, redeem
+- rewards, access add-on/
+- referral/ replacement
+- services, and more
+- Fees
+- and charges
+- Joining fees
+- ₹0
+- Annual Fees
+- Spend ₹2L or more - 100% Annual fee reversed​
+- Spend between ₹1L - ₹2L – 50% Annual fee
+- reversed
+- Minimum FD amount
+- ₹10,000
+- Get credit limit worth 100% of your FD’s value
+- Cash withdrawal interest
+- for up to 45 days
+- Withdraw at a nominal fees of ₹199+GST
+- Frequently
+- Asked
+- Questions
+- Application & Eligibility
+- FD Backed
+- UPI enabled
+- Fee and card usage
+- Effective 18th June 2026, what changes are being made to the Hello Cashback Credit Card?
+- There will be revisions to select features and the applicable Terms & Conditions of the Hello Cashback Credit Card.
+- for detailed information.
+- How can I apply for the Hello Cashback Credit Card?
+- 1. Fill in your details and
+- 2. Book fixed deposit
+- 3. Complete KYC process
+- 4. Your Hello Cashback Credit Card is ready!
+- What are the eligibility criteria to apply for a Hello Cashback Credit Card?
+- The eligibility criteria for the Hello Cashback Credit Card are:
+- No documentation required.
+- Age Limit Criteria: 18 to 80 years
+- The applicant must qualify as an Indian resident citizen with a current and permanent residential address in India
+- The applicant is required to create and maintain a minimum fixed deposit of ₹10,000.
+- Note:
+- The Bank reserves the right to issue a Credit Card to the applicant based on an assessment of his/her credentials. The final decision is at the Bank’s sole discretion, in line with the mentioned internal policies, and notwithstanding the applicant meeting above Credit Card criteria.
+- Do I require a credit history or income proof to apply for the Hello Cashback Credit Card?
+- No, you do not need any credit history or income proof to apply for the Hello Cashback Credit Card. In fact, its other way around and this card enables to build and support your credit score, helping you create a strong financial foundation for the future.
+- What will be my credit limit?
+- The credit limit for your Hello Cashback Credit Card will be minimum 100% of your fixed deposit amount.
+- How does the Hello Cashback Credit Card benefit me?
+- With Hello Cashback Credit Card you get up to 5% Cashback on online spends and 1% Cashback on UPI spends done through the IDFC FIRST Bank app, in-store card swipe, and essential categories like utility, insurance, education, etc.
+- What are the Cashback benefits of the Hello Cashback Credit Card?
+- With Hello Cashback Credit Card, you enjoy:
+- 3% Cashback* on online spends up to ₹10,000.
+- 5% Cashback* on incremental online spends above ₹10,000.
+- 1% Cashback* on UPI spends done via IDFC FIRST Bank App.
+- 1% Cashback* on in-store card swipe.
+- 1% Cashback* on essential categories (Utility, Rent, Jewellery, Wallet load, Insurance, Education, Gift Card, Government Services, FASTag, and Railway).
+- Bonus 1% Cashback on hotel & flight booking done via IDFC FIRST Bank App.
+- Online spends done on essential categories and fuel even if done using online channel will not count towards the ₹10,000 online spends milestone. Also, note that this milestone is for online spends only and spends through any other channel like in-store purchases, UPI or any other mode will also not count towards ₹10,000 milestone.
+- All spends qualify for Cashback except – fuel, ATM Cash withdrawals, EMI, UPI transactions done through other UPI apps (GPay, PhonePe, Paytm, etc.)
+- How can I earn Cashback on the Hello Cashback Credit Card?
+- You can earn Cashback by using the Credit Card for UPI, Online, In-store Card swipe transactions.
+- How much Cashback can I earn in a statement cycle?
+- Maximum Cashback that can be earned on online spends is ₹1,000 in a statement cycle. Total Cashback that can be earned is ₹1,500 in a statement cycle.
+- Are there any conditions to be eligible for Cashback?
+- Cashback will be posted in Card Account only when the Minimum Amount Due (MAD) has been realised on or before the Payment Due Date (PDD).
+- Which categories are excluded from Cashback benefits?
+- Fuel, ATM Cash withdrawals, EMI, UPI transactions done via other UPI apps (GPay, PhonePe, Paytm, etc.) are excluded from Cashback benefits.
+- Which transactions count towards ₹10,000 online spends milestone?
+- All online spends except spends done on essential categories and fuel even if done using online channel will not count towards the ₹10,000 online spends milestone. Also, note that this milestone is for online spends only and spends through any other channel like in-store purchases, UPI or any other mode will also not count towards ₹10,000 milestone.
+- What is Bonus Cashback?
+- Bonus Cashback refers to Cashback earned over and above the base earn. You can earn Bonus 1% Cashback on hotel & flight bookings done through IDFC FIRST Bank app.
+- Since the travel bookings through IDFC FIRST Bank app is done using online mode, the base cashback rate would be 3% (for online spends up to INR 10,000) or 5% (for incremental online spends above INR 10,000). Hence, total cashback rate including bonus and base rate will be 4% (for online spends up to INR 10,000) or 6% (for incremental online spends above INR 10,000).
+- Total Cashback that can be earned in a statement cycle is ₹1,500.
+- My Cashback for the current statement shows negative balance. What does it mean?
+- If you cancel, reverse, or return your purchase, your Cashback earned on that purchase will be reversed. Reversals for such transactions will be adjusted/deducted from your monthly statement.
+- For instance: A UPI transaction of ₹10,000 through the IDFC FIRST Bank app made on 21
+- st
+- April 2026 would qualify for a cashback of 1%, or ₹100, assuming the statement was generated on 1st May 2026. Let’s say you returned the item on 2
+- nd
+- May 2026. The cashback of ₹100 will be reversed due to the return and will be adjusted/debited in your statement.
+- Will I earn Cashback on fuel transactions using the Hello Cashback Credit Card?
+- No, you will not earn Cashback on fuel transactions using the Hello Cashback Credit Card. However, you get 1% fuel surcharge waiver up to ₹100 in statement cycle.
+- Where can I see the Cashback earned on my Hello Cashback Credit Card?
+- The Cashback earned can be viewed in monthly Credit Card statement and will be adjusted in statement’s outstanding balance.
+- When will I receive my Cashback?
+- Cashback earned will be credited to Card account one day after payment due date, provided the Minimum Amount Due is paid for the statement cycle on or before the payment due date.
+- How can I avail the Cashback earned on my Hello Cashback Credit Card?
+- The Cashback you earn is credited to your IDFC FIRST Bank Credit Card account one day after Payment due date* (PDD) and will be adjusted against outstanding balance of your next statement.
+- * Cashback will be posted in Credit Card Account only when Cardholder has paid the Minimum Amount Due (MAD) on or before Payment Due Date (PDD).
+- Will my cashback expire?
+- Your Cashback does not expire. Cashback will be posted in your card account on realisation on Minimum Amount Due (MAD) on or before Payment Due Date (PDD). The Cashback earned will be adjusted against the outstanding balance.
+- However, Cashback will be forfeited for a statement cycle if the Minimum amount due (MAD) is not paid by the Payment Due Date (PDD).
+- Is there any annual renewal benefit on the Hello Cashback Credit Card?
+- Hello Cashback Credit Card comes with spend based annual fee waiver. Annual fee for Hello Cashback Credit Card is ₹1000+GST.
+- Spend ₹2,00,000 or more in a year and get 100% annual fee reversed.
+- Spend ₹1,00,000 - ₹2,00,000 in a year and get 50% annual fee reversed.
+- Annual spends milestone includes all the purchases (excluding ATM Cash withdrawal, monthly EMIs, Balance transfer, fees and charges) net of reversals/refunds.
+- Are there any other privileges on Hello Cashback Credit Card?
+- Yes, Hello Cashback Credit Card comes with a range of privileges
+- 1% Fuel surcharge waiver up to ₹100
+- Complimentary Roadside Assistance worth ₹1,399. Roadside assistance can be availed up to 4 times in a year.
+- Personal accident cover of ₹2,00,000
+- Credit Shield of ₹50,000
+- Purchase Protection of ₹25,000
+- For more details and terms of the privileges, please
+- What are the benefits of having a Credit Card against a fixed deposit?
+- Here are the benefits of a credit card backed by an FD:
+- 1. No income proof required: Customers can obtain a credit card without providing any income proof. Besides working professionals, this is useful for homemakers, students, and freelancers.
+- 2. Helps build credit history: Using your credit card regularly and paying off the outstanding dues on time will help create a good credit history and credit score.
+- 3. Earn interest on fixed deposit: Cardholders can continue to earn interest on their fixed deposits, while enjoying free credit for up to 45 days.
+- 4. Double up benefits on FD – With Hello Cashback Credit Card, your FD earns in two ways – interest on FD + Cashback on card spends.
+- Which fixed deposits can be used for applying for the Hello Cashback Credit Card?
+- Fixed deposits opened for Hello Cashback Credit Card shall be single held and shall be on auto renewal, reinvest mode unless terminated and cancelled. A lien will be marked on the entire amount of the FD.
+- The Fixed Deposits opened/placed by HUFs, Partnership firms/society/trust, minors or opened jointly by applicant/s, Tax Saver, or Flexi-Deposits (Auto-sweep Fixed Deposits) are not eligible for the Hello Cashback Credit Card.
+- Why I am being asked to make a Fixed Deposit?
+- The Hello Cashback Credit Card is issued against a Fixed Deposit. Hence, to set your credit limit, you need to create an FD. Upon successful creation of your FD, a lien will be marked on 100% of the FD value.
+- Once done, your FD will be linked to your Hello Cashback Credit Card and your credit limit will be set.
+- What is UPI on Credit Card?
+- UPI on credit cards is a feature that allows you to link your credit card with the UPI (Unified Payments Interface) system. It enables seamless and secure payments directly from your credit card using UPI apps like Google Pay, PhonePe, and Paytm. As a result, you enjoy both the convenience of UPI payments and the benefits of a credit card.
+- Your Hello Cashback Credit Card is UPI enabled and auto linked to IDFC FIRST Bank App. All you have to do is Scan any merchant QR and pay and earn 1% Cashback on UPI payment done through the App.
+- How can I link my Hello Cashback Credit Card to UPI?
+- Scan and earn 1% Cashback on UPI payments done through IDFC FIRST Bank App. Hello Cashback credit card is UPI enabled and auto linked in the Mobile app
+- To link your card to other UPI apps complete UPI app registration journey with registered mobile number and follow these simple steps to enable your Hello Cashback Credit Card for payments:
+- 1. Open UPI app and choose Add RuPay Credit Card
+- 2. Select IDFC FIRST Bank and your eligible cards will be displayed
+- 3. Select Hello Cashback Credit Card, enter the last 6 digits of your card, card expiry and OTP to complete your registration.
+- Is my Credit Card PIN and UPI PIN the same?
+- No, it is not.
+- UPI PIN:
+- For IDFC FIRST Bank app:
+- You do not need to generate a new UPI PIN. Your UPI PIN is same as the MPIN.
+- For other UPI apps like GPay, PhonePe, etc.:
+- You need to generate a new UPI PIN to perform UPI payments through other UPI apps.
+- To generate a UPI PIN on any UPI app, follow these steps:
+- On your UPI app profile> Add RuPay Credit Card on UPI > Select IDFC FIRST Bank and your eligible cards will be displayed > Enter the last 6 digits of your card, card expiry and OTP and register > Set 4-digit UPI PIN > Confirm 4-digit UPI PIN.
+- Credit Card PIN:
+- To generate/change your Credit Card PIN, follow these steps:
+- Open your IDFC FIRST Mobile App> Credit Cards> Quick actions > Set new PIN> Confirm your 4-Digit-Credit Card PIN
+- Note: As a user, it is your choice whether you wish to keep the Credit Card PIN and UPI PIN the same or not.
+- Can I make UPI payments through my Credit Card as well?
+- UPI payments are now available to IDFC FIRST Bank Credit Card users. While not every merchant has a point-of-sale machine, almost every store in India has a QR code for UPI payments. With a UPI-enabled IDFC FIRST Bank Credit Card, you can use your card to pay via across both physical and online stores.
+- On which UPI app can I register my Hello Cashback Credit Card?
+- You can link your Hello Cashback Credit Card on all UPI apps such as BHIM, PhonePe, PayTm, GPay, Freecharge, Slice, CRED, and Mobikwik.
+- Enjoy 1% Cashback on UPI spends done through IDFC FIRST Bank App.
+- Are there certain merchants where I can't use my credit card on UPI?
+- Yes, the restricted categories include digital account openings, lending platforms, cash withdrawals at merchants or ATMs, e-RUPI, IPOs, Foreign Inward Remittances, Mutual Funds, and any others specified by the National Payment Corporation of India (NPCI).
+- For more details on RuPay Credit card on UPI refer NPCI
+- website
+- Is there a Joining fee on Hello Cashback Credit Card?
+- The Hello Cashback Credit Card comes with a Joining Fee of ₹0
+- ₹1000+GST
+- (limited time offer).
+- Offer valid till 31
+- May 2026.
+- Is there an Annual fee on Hello Cashback Credit Card?
+- The Hello Cashback Credit Card comes with the Annual fee (2nd year onwards) of ₹1000+GST.
+- Spend ₹2,00,000 or more in a year and get 100% annual reversed.
+- Spend ₹1,00,000 - ₹2,00,000 in a year and get 50% annual reversed.
+- Please note - Annual spends milestone includes all the purchases (excluding ATM Cash withdrawal, monthly EMIs, fees and charges) net of reversals/refunds.
+- Is there an Annual Fee Waiver on the Hello Cashback Credit Card?
+- Please note - Annual spends milestone includes all the purchases (excluding ATM Cash withdrawal, monthly EMI, Balance transfer, fees and charges) net of reversals/refunds.
+- Which spends are eligible for the Annual Fee Reversal?
+- Annual spends milestone includes all the purchases (excluding ATM Cash withdrawal, monthly EMIs, fees and charges) net of reversals/refunds.
+- Can I send UPI payments to individuals or other credit cards using my Hello Cashback Credit Card?
+- No, only merchant payments, as authorized by NPCI, are permitted to use the RuPay Credit Card.
+- Is there any limit on UPI transactions?
+- Post UPI PIN generation of your Hello Cashback Credit Card, you can transact only up to ₹5,000 for the first 24 hours.
+- Can I set my linked credit card as the default account to receive funds?
+- No, you cannot set your credit card as the default for receiving funds.
+- Load
+- more
+- less
+
+## Millennia Credit Card Apply Page
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/ntb-diy/apply?cardType=MMVP&utm_source=website&utm_medium=PDPMillenia&utm_campaign=ApplyNow  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank application page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened. The supplied URL is an application page rather than a standalone product page; only official card-benefit snippets visible on that page are retained below, while application form fields, OTP/system messages, and processing-error text are omitted.
+**Official page title:** Credit Card Application - Apply for Credit Card | IDFC FIRST Bank  
+**Official meta description:** Credit Card Application - Super saver interest rates with 10 times rewards on monthly spends. Life time free credit card with best customer reviews. Apply now!  
+
+### Official extracted card text
+
+- Activate UPI and earn rewards.
+- Scan and pay at 60 million+ stores.
+- Our Credit Cards are like no other:
+- Lifetime free.
+- 10X Reward Points.
+- Low interest rates starting from 8.5% p.a.
+- Low interest rates starting at 9% p.a.
+- Upto 10X rewards on incremental monthly spends basis threshold and on birthday spends.
+- Interest-free cash withdrawals for upto 45 days.
+- ATM cash withdrawal for upto 45 days.
+- For more details on credit card features and TnCs, please visit the official website.
+- Effective 18th June 2026, some features and Terms & Conditions on IDFC FIRST Bank Credit Card will be revised.
+- Top reasons why customers love this Credit Card:
+- ATM cash withdrawal for up to 45 days.
+- For more details and exclusions on reward points, please visit the official website.
+- Frequently Asked Questions:
+- Is there any Joining/Annual fee applicable for IDFC FIRST Bank Credit Cards?
+- There is no Joining or Annual fee applicable on following IDFC FIRST Bank credit cards: FIRST Millennia, FIRST Classic, FIRST Select, FIRST Wealth, FIRST WOW!.
+- Is there an expiry date on the reward points accrued on my card?
+- There is no expiry date to the reward points accrued on IDFC FIRST Bank Credit Cards except for LIC Classic and LIC Select Credit Cards.
+- I already have an IDFC FIRST Bank Credit Card. Can I apply for another one?
+- Existing IDFC FIRST Bank credit card holders can apply for co-branded Credit Cards; the credit limit will be shared with the existing IDFC FIRST Bank Credit Card.
+- Existing IDFC FIRST Bank credit card holders can also apply for FIRST Digital RuPay Credit Card to enable UPI transactions on the existing IDFC FIRST Bank Credit Card.
+- Existing IDFC FIRST Bank credit card holders can obtain add-on cards for anyone, including friends and family members.
+- More reasons to love the card:
+- 6x rewards on online transactions.
+- 25% off on movie tickets once a month upto ₹100.
+- Dining offers upto 20% across 1500 restaurants.
+- ₹500 vouchers from Amazon/Ola/Swiggy on spending 15K in first 3 months.
+- Earn cashback on EMI: 5% cashback up to ₹500 within 90 days.
+- Personal Accident cover of 2 Lakhs.
+- 50+ in-app discounts.
+
+## FIRST EARN Secured RuPay Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/secured-rupay-credit-card?utm_source=website&utm_medium=PDPFIRSTEARN&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for Virtual Credit Card Online \| IDFC FIRST Bank  
+**Official meta description:** Get the FD backed Virtual Rupay Credit Card and enjoy UPI payments, instant limit increase, and cashback on every spend. Apply for FIRST EA₹N Credit card today  
+
+### Official extracted card text
+
+- FIRST EA₹N - FD Backed
+- Virtual RuPay Credit Card
+- Earn up to
+- 1%
+- cashback on UPI spends
+- Joining Fee: ₹0
+- ₹499+GST
+- (Limited Period Offer)
+- Annual Fee:
+- +GST or
+- ₹0
+- on annual spends of ₹1 lakh and above
+- Joining Offer:
+- 10% cashback of up to ₹250 on first transaction*
+- Instant-use virtual card, no physical card issued
+- Limited Period Offer: ₹0
+- Joining Fee + 10% cashback up to ₹250 on 1
+- st
+- transaction
+- Annual Fee: ₹499+GST
+- or
+- Fees and Charges
+- Limit Increase
+- Blogs
+- FAQs
+- A Cashback Credit Card for Everyone
+- There’s no credit history required. All you need is a fixed deposit with the Bank. It’s that simple.
+- Credit Limit Equal to Your FD Value
+- Get 100% credit limit of your Fixed Deposit amount, with a minimum FD of ₹5K. Simple, transparent, and assured.​
+- Scan, Pay & Shop with One Virtual Card
+- Pay online, scan QR codes, and shop at 60M+ stores via UPI, instantly from your smartphone.
+- Show details
+- Instantly Increase Your Credit Limit!​
+- Link your existing FD or book a new FD to increase your credit limit instantly through the IDFC FIRST Bank Mobile App, starting from ₹5,000.
+- Increase limit
+- FIRST EARN Credit Card: Digital, Secured, and Rewards on Everyday Spending
+- Redefine your spending experience with IDFC FIRST Bank’s FIRST EA₹N Credit Card. This UPI-ready credit card, backed by your fixed deposit, guarantees approval while offering up to 1% cashback on UPI spends via the IDFC FIRST Bank mobile app and 0.5% cashback on all other UPI app transactions. With the added convenience of UPI integration and instant virtual card issuance, it’s built for customers seeking digital-first solutions. Beyond easy payments, this card offers a discount on movie bookings, up to 8% bonus cashback on travel bookings, and also supports credit score building. Apply today to enjoy a credit card that rewards on everyday spending.
+- Earn Cashback Every Time You Make a Payment!
+- Cashback*
+- on UPI spends via the IDFC FIRST Bank mobile app
+- 0.5% Cashback*
+- On UPI spends via other apps and all online spends
+- & more
+- 0.5% cashback on all utility, insurance, and wallet load \| *Cashback will be capped at ₹500 in a statement cycle
+- Conditions*
+- One Virtual Card, Endless Benefits - From Cashback to Movie Discounts!
+- cashback on UPI spend via IDFC FIRST Bank Mobile App
+- *Above offer will be applicable for new cards issued
+- on or after 16 Dec'25
+- 25%
+- off up to ₹100 on movie tickets, valid once a month
+- Earn interest on your Fixed Deposit while you earn cashback on your spends​
+- Convenience of UPI + Power of Credit at
+- 60 million+
+- merchants
+- Up to 8% Bonus Cashback on Travel Bookings
+- Instant virtual credit card issued for seamless online and UPI spends anytime, anywhere
+- Fees and Charges on FIRST EA₹N Virtual RuPay Credit Card
+- Earn cashback on every UPI transaction
+- Joining Fee:
+- Annual Fee (2
+- nd
+- year onwards):
+- , waived off on annual spends of ₹1 lakh and more
+- Disclaimer: *₹0 Joining Fee is a Limited Time Period Offer​
+- Interest Rate (APR) Starting from 8.5% - 46.2% per annum.
+- Surcharge of 1% on payment for Rent and Property Management, subject to a minimum of ₹249 (+GST) per transaction
+- Forex Markup at 3.5% for all international transactions
+- Utility spends (Electricity, Gas, Telecom etc.) above ₹20,000 will attract 1% surcharge (+GST) on the aggregate utility spends in a statement cycle
+- Show More
+- See detailed list of fees & charges
+- Steps to get the FIRST EA₹N Virtual Credit Card
+- Register and verify
+- your details
+- Choose and fund your
+- Complete your KYC
+- process
+- Your FIRST EA₹N
+- Credit Card is ready
+- Proof of identity
+- Aadhaar card
+- PAN Card
+- Eligibility Criteria
+- Age Limit Criteria: 18 to 80 years​​
+- Indian citizen, with a current and permanent residential address
+- Have a fixed deposit with IDFC FIRST Bank with minimum amount of ₹5,000
+- The final decision lies solely with the Bank, in line with its internal policies, and notwithstanding the applicant meeting above credit card criteria.
+- Start Earning 1% Cashback
+- Your FIRST EA₹N RuPay Credit Card is automatically linked to
+- the IDFC FIRST mobile banking app for UPI payments
+- Scan at 60Mn+
+- merchant QR codes
+- Select your IDFC FIRST Bank
+- Enter PIN, and
+- done !
+- Link your FIRST EA₹N Credit Card to any UPI app in just one click!
+- IDFC FIRST Bank App
+- PhonePe
+- Google Pay
+- Paytm
+- Payment Successful
+- Card Linking?
+- Done For You.
+- Once your card is generated, it will be linked automatically to your IDFC FIRST Mobile App. Scan to open the app and earn 1% cashback on UPI spends.
+- Card
+- Linking?
+- For You.
+- Scan the QR code to open the app
+- Pay Now
+- Add RuPay Credit card
+- Card Added Successfully
+- Scan. Link. Pay.
+- Once your card is generated, scan the QR code to instantly link your FIRST EA₹N Credit Card and start earning 0.5% cashback on UPI spends.
+- Tap.
+- Link. Pay.
+- Scan the QR code to open PhonePe
+- Link Now
+- Scan the QR code to open GPay
+- Scan the QR code to open Paytm
+- Increase your credit limit instantly
+- to open the IDFC FIRST Bank app and enter your desired limit increase​
+- Link an existing FD or create a new FD​
+- Review your details and verify with OTP​
+- Complete payment for a new FD or proceed with an existing FD to update your limit instantly​
+- Instant, Secure and Hassle-Free
+- Bonus Cashback on Travel
+- Earn Bonus Cashback on flights and hotels bookings via IDFC FIRST Bank Mobile App
+- 2% Bonus Cashback on Fight bookings
+- Via 'FIRST Rewards Gallery' section on mobile app
+- 5% Bonus Cashback on Hotel bookings
+- Read terms and conditions
+- Download the app
+- How to Book Fights and Hotels
+- Step 1
+- Open the IDFC FIRST Mobile Banking App
+- Step 2
+- Tap ‘FIRST Rewards Gallery’ in the menu
+- Step 3
+- Choose ‘Hotels’ or ‘Flights’
+
+## HPCL Power Fuel Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card?utm_source=website&utm_medium=PDPPower&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for HPCL Fuel Credit Card Online \| IDFC FIRST Bank  
+**Official meta description:** Save more on every refill with the FIRST Power and Power+ Fuel Credit Card by IDFC FIRST Bank. Earn cashback, fuel rewards, and FASTag benefits on every drive.  
+
+### Official extracted card text
+
+- FIRST Power Credit Card: Fuel Savings That Drive Real Value
+- Fuel up your journeys with unmatched savings using the FIRST Power Credit Card. Designed with vehicle owners in mind, this card rewards you every time you spend on fuel, utility payments, and travel expenses. With savings on fuel, groceries, FASTag recharges, and various lifestyle rewards, it helps you manage rising costs while enjoying additional benefits. Apply today and let your daily drives and long road trips bring greater value back to you.
+- FIRST Power Credit Card
+- Your preferred ride for a life in the fast lane.
+- Save up to ₹7,000 annually with this credit card, enough to buy you 65+ litres of fuel
+- Ride Towards Rewards with Precision!
+- Enjoy Rewards: Ride, Earn, Redeem
+- 2.5%
+- 8.67%
+- 2X
+- 250 worth benefit
+- on 1st HPCL fuel transaction of ₹250 or above*
+- 5% cashback (up to ₹1,000) on the transaction value of 1st EMI conversion**
+- * Within 60 days of card set-up
+- **Within 30 days of card set-up
+- Lifestyle Upgrade: Insurance, Safety & Extra Earnings!
+- EMIfy your purchases and balances and enjoy convenience of payment
+- Get ₹250 worth welcome benefit# on 1st HPCL fuel transaction of ₹250 or above
+- #For cards set-up till June 9, 2025, the benefit is given as cashback. For cards set-up June 10, 2025, onwards, the benefit is given as gift voucher.
+- For cards set-up till June 9, 2025, 1st HPCL fuel transaction of ₹250 or above to be done within 30 days of cards set-up.
+- For cards set-up June 10,2025, onwards, 1st HPCL fuel transaction of ₹250 or above to be done within 60 days of cards set-up.
+- For cards set-up till June 9, 2025, the cashback shall be credited within 45 days from the card set-up.
+- UPI + Fuel Card = Faster Payments + Extra Cashback + Max Rewards
+- Save up to ₹7,000 annually with this credit card
+- Joining Fee & Annual Fee : ₹199
+- Annual fee ₹199, reversed on crossing ₹50,000 spends in the previous anniversary year
+- ₹50,000 spends milestone includes all the purchases (excluding ATM Cash Withdrawal, Balance Transfer, monthly EMIs, fees and charges) net of reversals/refunds
+- Payment of Joining Fee + GST is required for activation and dispatch of FIRST Power Credit Card
+- For up to 45 days (cash withdrawal fee of only ₹199 per withdrawal)
+- Earn bonus reward points on Flight & Hotel bookings done via the ‘FIRST Rewards Gallery’ section on IDFC FIRST Bank Mobile App with the FIRST Power Credit Card
+
+## HPCL Power Plus Fuel Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/hpcl-power-fuel-credit-card?utm_source=website&utm_medium=PDPPowerPlus&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for HPCL Fuel Credit Card Online \| IDFC FIRST Bank  
+**Official meta description:** Save more on every refill with the FIRST Power and Power+ Fuel Credit Card by IDFC FIRST Bank. Earn cashback, fuel rewards, and FASTag benefits on every drive.  
+
+### Official extracted card text
+
+- FIRST Power+ Credit Card: Maximum Fuel Benefits with Everyday Rewards
+- Maximise your savings on everyday expenses like fuel, grocery, and FASTag recharges. The FIRST Power+ Credit Card enhances your fuel savings while extending value to non-fuel spends as well. Designed for daily commuters, it offers stronger fuel-related benefits along with rewards on shopping, dining, travel, and lifestyle expenses. If you want a card that prioritises fuel savings without limiting overall usability, FIRST Power+ delivers a balanced combination of savings, rewards, and convenience for your daily financial needs.
+- FIRST Power+ Credit Card
+- Your preferred drive for a life in the fast lane.
+- Save up to ₹18,500 annually with this credit card, enough to buy you 175+ litres of fuel
+- Lifestyle Privileges
+- Get rewarded for UPI transactions
+- Low & Dynamic Interest rates starting at 8.5% per year
+- 0% Interest on ATM Cash Withdrawals until due date
+- T&Cs applicable, read on for more details
+- Drive Towards Rewards with Precision!
+- Enjoy Rewards: Drive, Earn, Redeem
+- Calculate Now
+- BENEFITS & PRIVILEGES
+- Power-packed savings on mobility, utility and other everyday expenses!
+- Up to
+- 6.5%
+- savings on your fuel expenses
+- 5%
+- savings as Rewards on Grocery & Utility expenses
+- 8.83%
+- savings on hotel & flight bookings through IDFC FIRST Mobile App
+- savings as Rewards on IDFC FIRST FASTag recharge
+- 3X
+- Rewards on UPI and other retail transactions
+- Click here for more details
+- Exciting welcome benefits & merchant offers to get you started!
+- ₹500
+- worth Gift Voucher on HPCL fuel transaction of ₹500 or above
+- 5% cashback (up to ₹1,000) on the transaction value of 1st EMI conversion
+- Exciting merchant offers worth
+- ₹1,000+
+- Powerful lifestyle privileges for a life in the fast lane!
+- Complimentary Domestic Airport Lounge access, once every quarter, on minimum monthly spends of ₹20,000
+- Complimentary Roadside Assistance worth
+- ₹1,399
+- 25%
+- off on movie tickets up to
+- ₹100
+- , once every month*
+- *Effective 18th June 2026, continue enjoying 25% off up to ₹100 on movie tickets every month when you stay spend-active with any transaction in the previous calendar month
+- Personal Accident Cover of
+- ₹2,00,000
+- and Lost Card Liability Cover of
+- ₹25,000
+- EMIfy your purchases and balances and enjoy convenience of payments
+- Extend Add-on card to your co-passenger & boost your savings.
+- Refer your friends and earn up to 10,000 Rewards (2,000 Rewards for every card set-up)
+- Get ₹500 worth welcome benefit# on 1st HPCL fuel transaction of ₹500 or above
+- #Please note- For cards setup till June 9, 2025, the benefit is given as cashback. For cards setup June 10, 2025, onwards, the benefit is given as gift voucher.
+- Eligibility:
+- For cards set-up till June 9, 2025, 1st HPCL fuel transaction of ₹500 or above to be done within 30 days of cards set-up.
+- For cards set-up June 10,2025, onwards, 1st HPCL fuel transaction of ₹500 or above to be done within 60 days of cards set-up.
+- Spends done only on Primary Card are eligible for Welcome benefit
+- Fulfilment:
+- For cards set-up till June 9, 2025, the cashback shall be credited within 45 days from the card setup.
+- For cards set-up June 10, 2025, onwards, gift voucher will be issued within 75 days of card set-up and can be redeemed within 90 days of voucher issuance.
+- Only cardholders who have paid the Joining Fee will be eligible for this offer.
+- Exclusion:
+- Not applicable on UPI and Add-on card transactions.
+- If the transaction is reversed/cancelled/disputed by the cardholder or merchant, the welcome benefit will not be processed.
+- Up to ₹1,000 cashback on your first EMI
+- Enjoy 5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card set-up*.
+- *30 days from the day you receive SMS/email confirmation of card set-up.
+- This offer is applicable only on first EMI conversion within first 30 days of card set-up.
+- Eligible customers will receive cashback within 90 days of the offer end date
+- Transactions done on gold and jewellery are not eligible for EMI conversion.
+- If the customer is delinquent at the time of offer fulfilment, that customer will not be eligible for the offer.
+- If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be not be considered. Similarly for any disputed transaction by the cardholder, that EMI transaction will not be considered
+- Start using UPI on your favourite UPI Apps
+- POWER OF UPI NOW ON YOUR CREDIT CARD
+- Why enable UPI?
+- Now earn reward points even on your UPI spends
+- Enjoy interest free credit period on UPI purchases
+- EMIfy your UPI purchases
+- Click here for detailed steps
+- How to enable UPI?
+- Open your preferred UPI app
+- Go to the ‘Account’ section
+- Select the option to add Credit Card
+- Set UPI PIN and done
+- How to pay using UPI app?
+- Scan QR Code
+- Enter amount
+- Select your Credit Card
+- Enter UPI PIN and your payment is done
+- Savings at every turn!
+- Pay Instantly with Reward Points
+- learn more
+- Save up to ₹18,500 annually with this credit card
+- Reward points that never expire!
+- Lower Interest Rates
+- 0% Interest on Cash Withdrawal
+- Stay safe with Insurance/RSA coverage
+- Exciting discounts on Movie Tickets
+- Complimentary Lounge Access
+- Power in Your Pocket
+- App you must have for your Credit Card needs
+- Control
+- Control your card usage for online, contactless, international etc. transaction types or set/reset PIN for your card.
+- View
+- View your virtual card, transaction details, e-statement, and outstanding amount etc.
+- Repayment
+- Instantly pay your bill through multiple options or autopay your balance easily
+- Reward Points
+- Check curated offers across merchant categories and view or redeem Reward Points for exciting offers easily
+- Download App
+- Exclusive offers from your favourite brands
+- Avail awesome deals & discounts across the wide range of popular brands we’ve partnered with
+- Explore Offers
+- Joining Fee & Annual Fee : ₹499
+- Annual fee ₹499, reversed on crossing ₹1,50,000 spends in the previous anniversary year
+- ₹1,50,000 spends milestone includes all the purchases (excluding ATM Cash Withdrawal, Balance Transfer, monthly EMIs, fees and charges) net of reversals/refunds
+- Payment of Joining Fee + GST is required for activation and dispatch of FIRST Power+ Credit Card
+- Low-Interest Rates
+- Low Interest Rates (APR), from 0.71% to 3.85% per month (8.5% to 46.2% per annum)
+- OVL Charges
+- – 2.5% of the over-limit amount subject to a minimum charge of ₹550
+- Late Payment Fee
+- - 15% of Total Amount Due (subject to a minimum of ₹100 and a maximum of ₹1300)
+- Interest-free ATM Cash Withdrawals
+- For up to 45 days (cash withdrawal fee of only ₹199 per transaction)
+- Accelerated Rewards on Travel
+- Earn bonus reward points on Flight & Hotel bookings done via the ‘FIRST Rewards Gallery’ section on IDFC FIRST Bank Mobile App with the FIRST Power+ Credit Card
+- Earn 8.83% savings on Hotel bookings​
+- Earn 5.50% savings on Flight bookings​
+- Redeem your Reward Points
+- for flight & hotel bookings
+- *Effective 18
+- th
+- June 2026, you continue to earn bonus Reward Points on all travel bookings made via the IDFC FIRST Bank Mobile App- 26.67% Bonus Reward Points on hotel bookings and 13.33% Bonus Reward Points on flights, over and above your applicable base rewards.
+- Read terms and conditions
+- Download the app
+- How to Book Fights and Hotels
+- Step 1
+- Open the IDFC FIRST Mobile Banking App
+- Step 2
+- Tap ‘FIRST Rewards Gallery’ in the menu
+- Step 3
+- Choose ‘Hotels’ or Flights’ and book
+
+## LIC Credit Card
+
+**Official page:** https://www.idfcfirst.bank.in/credit-card/lic-credit-card?utm_source=website&utm_medium=PDPLIC&utm_campaign=Knowmore  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IDFC FIRST Bank page above. Linked PDFs, apply journeys, reward galleries, lounge lists, offer pages, calculators, blogs, login pages, and other linked resources were not opened.
+**Official page title:** Apply for LIC Select Credit Card Online \| IDFC FIRST Bank  
+**Official meta description:** Apply for the LIC Select Credit Card: zero fees, 10X LIC rewards, travel & lifestyle perks, lounge access, low APR and strong insurance protection.  
+
+### Official extracted card text
+
+- LIC SELECT
+- LIC IDFC FIRST Credit Cards
+- Secure your tomorrow, Live today
+- Accelerated rewards on LIC Premium payments, online and offline spends; Domestic airport lounge access and more!
+- Overview
+- Savings & Rewards
+- Benefits & Privileges
+- Insurance Covers
+- Convenience
+- Eligibility & Documentation
+- FAQs
+- LIC Select Credit Card: Premium Insurance Benefits with Lifestyle Privileges
+- Upgrade your lifestyle with the LIC Select Credit Card, a rewarding choice for LIC policyholders and savvy spenders alike. This lifetime-free card offers attractive rewards, exclusive privileges on travel spending, and 10X rewards on LIC premium payments. From shopping and dining to bill payments, complimentary roadside assistance as well as airport and railway lounge access, every expense turns into rewarding experience. With wide acceptance and premium features, this card helps you enjoy financial freedom without compromise. Apply now to experience trust and rewards together.
+- LIC Classic
+- A credit card that secures your tomorrow, while rewarding your today. This credit card offers supersized rewards on LIC premium payments and other daily spends. These rewards can be redeemed anywhere online, even to fund your next LIC premium payment. That’s not all, there are lifestyle privileges like airport & railway lounge access, road-side assistance and insurance covers.
+- At A Glance
+- Welcome Onboard
+- Joining Benefits worth ₹3,000+
+- No Joining fee and Annual Fee
+- Interest free ATM cash withdrawals for up to 45 days
+- 10X Rewards on LIC Insurance Premium
+- 5X Rewards on Other Spends
+- Earn more when you book travel through IDFC FIRST Mobile App
+- Earn 40% Reward Points on hotel bookings​
+- Earn 20% Reward Points on flight bookings​
+- Lifestyle privileges
+- Dom. Airport & Railway Lounge access
+- Road-side Assistance & Insurance covers
+- LIC Select Credit Card
+- Rewards :
+- 10X
+- Rewards on LIC Insurance Premium spends
+- 5X
+- Rewards on Essentials (Grocery, Utilities, Railways, FASTag, Education and Government payments) up to 600 RP per month
+- Rewards on all Other spends
+- Earn up to
+- 40% Reward Points
+- on hotel & flight bookings
+- through IDFC FIRST Mobile App
+- Effective 18th Jan’26. If you fail to pay at least the Minimum Amount Due by the Payment Due Date, Reward Points will not be applicable for that billing cycle. Any Reward Points credited for that cycle, if already posted, will be reversed.​
+- 1X = 1
+- Reward point per ₹125 spent \| 1 Reward point = ₹0.25
+- Rewards earned on LIC IDFC FIRST Bank Credit Cards have a validity of 3 years.
+- Reward program not applicable on Fuel, Rental, Non-LIC Insurance spends, EMI transactions & Cash withdrawals.
+- Rewards on LIC Insurance premium spends will be applicable only if Insurance premium is paid through LIC Of India’s official website i.e.
+- https://licindia.in
+- By booking through IDFC First Mobile app, earn 45/₹125 Bonus Reward Points on hotel bookings & 20/₹125 Bonus Reward Points over and above your base rewards
+- Privileges
+- complimentary Domestic Airport Lounge access per quarter
+- List of Lounges
+- complimentary Railway Lounge access per quarter
+- Fuel surcharge waiver of
+- 1%
+- , at all fuel stations across India, up to ₹300/month. *Applicable only on transaction values between ₹200 & ₹5000
+- 2,000
+- Rewards on spending first
+- ₹10,000
+- within 30 days of card generation
+- 5%
+- cashback (up to ₹1000) on the transaction value of first EMI done within 30 days of card generation
+- Exciting merchant offers worth
+- ₹1,500+
+- Click here for more details
+- Up to ₹1,000 cashback on your first EMI
+- Enjoy 5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation*
+- *30 days from the day you receive SMS/email confirmation of card generation.
+- Eligibility:
+- This offer is applicable only on first EMI conversion within first 30 days of card generation.
+- Fulfilment:
+- Eligible customers will receive cashback within 60 days of the offer end date.
+- Exclusion:
+- Transactions done on gold and jewellery are not eligible for EMI conversion.
+- Offer is not applicable on EMIs processed for 3-month tenure.
+- Get 2,000 Rewards on spending first ₹10,000 within 30 days of card generation*
+- Spend ₹10,000 within first 30 days of card generation.
+- Spends done only on Primary Card are eligible for Welcome benefit
+- After meeting the spends criterion of ₹10,000 in first 30 days, Rewards Points shall be credited in the customer card account within 45 days from the date of card generation.
+- Not applicable on Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal.
+- If any of the transactions are reversed/cancelled/ disputed by the cardholder or merchant, that transaction will be excluded.
+- Personal Accident Cover of
+- ₹5,00,000
+- and Lost Card Liability Cover of
+- ₹50,000
+- valid on doing at least one transaction on LIC Select Credit Card in last 30 days
+- Purchase Protection Cover & Credit Shield Cover of
+- ₹25,000
+- each
+- Complimentary Roadside Assistance worth
+- ₹1,399
+- Travel Insurance cover of
+- ₹4,000
+- each on Loss or Delay of Checked-In Baggage, Loss of Passport & other documents and Delay in Flight
+- Air Accident cover of
+- ₹1 Crore
+- Convert all eligible transactions* into easy & convenient EMIs from your mobile app
+- Instant EMI conversion for all eligible online transactions* on the bank’s OTP page
+- Enjoy convenient transfer of balances from your other bank credit cards with our balance transfer privilege* Eligibility norms apply*
+- Eligibility norms apply*
+- Zero joining fee and Zero annual fee
+- Low interest Rates (APR)
+- Low & Dynamic Interest rates starting at 9% per annum*
+- *Effective 20
+- th
+- February 2025, APR range will start from 8.5% per annum
+- Interest free cash withdrawals on Domestic and International ATMs for up to 45 days (Cash Advance Fee of only ₹199 per transaction)
+- OVL amount
+- OVL Charges – 2.5% of the over-limit amount subject to a minimum charge of ₹550
+- Late Payment fee
+- Late Payment Fee - 15% of Total Amount Due (subject to a minimum of ₹100 and a maximum of ₹1300)
+- Accelerated Rewards on Travel
+- Earn Bonus Reward Points on booking flights and hotels via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App
+- Earn 36% Bonus Reward Points*
+- on hotel bookings, over and above your usual Credit Card Reward Points
+- Earn 16% Bonus Reward Points*
+- on flight bookings, over and above your usual Credit Card Reward Points
+- Redeem your Reward Points
+- for flight & hotel bookings
+- *Effective 18
+- June 2026, 20% Bonus Reward Points on hotel bookings and 8% Bonus Reward Points on flights, over and above your usual Credit Card Reward Points.
+- Read terms and conditions
+- Download the app
+- Book your travel now!
+- Step 1
+- Open the IDFC FIRST Mobile Banking App
+- Step 2
+- Tap ‘FIRST Rewards Gallery’ in the menu
+- Step 3
+- Choose Hotels or Flights and Book

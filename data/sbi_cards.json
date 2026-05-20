@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "sbi_cashback",
+    "name": "CASHBACK SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 999,
+    "annualFee": 999,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Online cashback|5% Cashback on Online\\* Spends"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1,
+        "notes": "Offline cashback|1% Cashback on Offline\\* Spends"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Cashback|5% cashback on online\\* spends without any merchant restriction."
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1,
+        "notes": "Cashback|1% cashback on offline\\* spends."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "SBI Card names the card CASHBACK SBI Card.",
+      "Page subtitle: Welcome to the world of amazing Cashbacks.",
+      "The page's \"best for more\" text says: Amazing Cashback on online and offline spends."
+    ],
+    "caveats": [
+      "Fuel surcharge waiver cap|Maximum waiver of Rs. 100 per statement cycle, per credit card account.",
+      "Continued use of the card will be deemed acceptance of amendments in all Terms and Conditions.",
+      "The page states that all information in the communication is correct as per July 2023 and is subject to change at the discretion of SBICPSL."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/cashback-sbi-card.html"
+  },
+  {
+    "id": "sbi_elite",
+    "name": "SBI Card ELITE",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page best-for summary: Enjoy Welcome e-Gift Voucher, free movie tickets, and Bonus Reward Points..",
+      "Best for: Milestone Benefits, Elite Rewards, Lounge Access.",
+      "Key highlights shown: Milestone Benefits, Elite Rewards, Lounge Access."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 100000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-elite.html"
+  },
+  {
+    "id": "sbi_simplyclick",
+    "name": "SimplyCLICK SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Page subtitle: Check out with 10x Reward Points."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Check out with 10x Reward Points.",
+      "Page best-for summary: SimplyCLICK SBI Card makes your shopping more rewarding with e-Vouchers, Reward Points and more..",
+      "Best for: Milestone Benefits, E Shopping Rewards, Spend Based Reversal."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/simplyclick-sbi-card.html"
+  },
+  {
+    "id": "sbi_prime",
+    "name": "SBI Card PRIME",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2999,
+    "annualFee": 2999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Rewards That Match Your PRIME Lifestyle.",
+      "Page best-for summary: Treat yourself with a welcome gift and turn your spends into a rewarding experience.",
+      "Best for: Milestone Benefits, Prime Rewards, Lounge Access."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Online shopping",
+      "RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-prime.html"
+  },
+  {
+    "id": "sbi_miles_elite",
+    "name": "SBI Card Miles Elite",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "SBI Card names the card SBI Card Miles Elite.",
+      "Page best-for summary: Fly more and get exclusive Travel Credits, Reward Benefits and Milestone Rewards..",
+      "Best for: Reward Benefits, Milestone Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 100000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-miles-elite.html"
+  },
+  {
+    "id": "sbi_simplysave",
+    "name": "SimplySAVE SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping"
+        ],
+        "rate": 10,
+        "notes": "Page subtitle: Enjoy 10X Reward Points on Dining, Movies, Grocery and Departmental Stores."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Enjoy 10X Reward Points on Dining, Movies, Grocery and Departmental Stores.",
+      "Page best-for summary: Embrace smarter spending, unlock greater savings and make every moment more rewarding.",
+      "Best for: Reward Benefits, Extravaganza Offer, Spend Based Reversal."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Dining",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/simplysave-sbi-card.html"
+  },
+  {
+    "id": "sbi_pulse",
+    "name": "SBI Card PULSE",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Best for: Welcome Benefits, Health Benefits, Milestone Benefits.",
+      "Key highlights shown: Health Benefits, Comprehensive Insurance Cover, Lounge Access.",
+      "Welcome Gift"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-pulse.html"
+  },
+  {
+    "id": "sbi_aurum_card",
+    "name": "SBI Aurum Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 9999,
+    "annualFee": 9999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Best for: Travel Privileges, Golf Privileges, Reward Benefits.",
+      "Key highlights shown: Travel Privileges, Lounge Access, Reward Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Online shopping",
+      "Premium lifestyle"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 200000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards.html#premium"
+  },
+  {
+    "id": "sbi_indigo_elite",
+    "name": "IndiGo SBI Card ELITE",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page best-for summary: From exclusive perks to accelerated IndiGo BluChips, with this card, your travel isn’t just booked - it’s rewarding.",
+      "Best for: Reward Benefits, Milestone Benefits, Lounge Benefits.",
+      "Key highlights shown: Reward Benefits, Milestone Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 100000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/indigo-sbi-card-elite.html"
+  },
+  {
+    "id": "sbi_krisflyer_apex",
+    "name": "KrisFlyer SBI Card Apex",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 9999,
+    "annualFee": 9999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Experience Travel Your Way.",
+      "Page best-for summary: Step into the world of luxury travel with exclusive rewards and privileges.",
+      "Best for: Reward Benefits, Milestone Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 200000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/krisflyer-sbi-card-apex.html"
+  },
+  {
+    "id": "sbi_krisflyer",
+    "name": "KrisFlyer SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 2999,
+    "annualFee": 2999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Experience Travel Your Way.",
+      "Page best-for summary: Step into the world of extraordinary travel, where each benefit enhances your experience..",
+      "Best for: Reward Benefits, Milestone Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/krisflyer-sbi-card.html"
+  },
+  {
+    "id": "sbi_miles_prime",
+    "name": "SBI Card MILES PRIME",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2999,
+    "annualFee": 2999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "SBI Card names the card SBI Card MILES PRIME.",
+      "Page best-for summary: A card that rewards your journeys with comfort and endless privileges.",
+      "Best for: Reward Benefits, Milestone Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-miles-prime.html"
+  },
+  {
+    "id": "sbi_titan",
+    "name": "Titan SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2999,
+    "annualFee": 2999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Crafted for a Rewarding Indulgence.",
+      "Page best-for summary: Indulge in shopping at Titan stores and get guaranteed Cashback and Value Back on all your spends.",
+      "Best for: Welcome Benefits, Milestone Benefits, Titan Instore Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/titan-sbi-card.html"
+  },
+  {
+    "id": "sbi_reliance_prime",
+    "name": "Reliance SBI Card PRIME",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2999,
+    "annualFee": 2999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Embark on a journey of rewards and privileges.",
+      "Page best-for summary: Designed with exclusive privileges to reward every spend at Reliance Retail Stores..",
+      "Best for: Milestone Benefits, Reward Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/reliance-sbi-card-prime.html"
+  },
+  {
+    "id": "sbi_etihad_guest_premier_card",
+    "name": "Etihad Guest SBI Premier Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: With Amazing Travel Rewards, Far Just Got Closer.",
+      "Page best-for summary: Fly into rewards with Etihad Guest Miles and Gold Tier access..",
+      "Best for: Reward Benefits, Milestone Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 100000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/etihad-guest-sbi-premier-card.html"
+  },
+  {
+    "id": "sbi_tata_neu_infinity",
+    "name": "Tata Neu Infinity SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Shopping just got a rewarding boost.",
+      "Best for: Lowest Forex Markup, Reward Benefits, Lounge Access.",
+      "Key highlights shown: Lowest Forex Markup, Reward Benefits, Lounge Access."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/tata-neu-infinity-sbi-card.html"
+  },
+  {
+    "id": "sbi_tata_neu_plus",
+    "name": "Tata Neu Plus SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Shopping Now Comes With Extra Rewards.",
+      "Best for: Reward Benefits, Lounge Access, Welcome Benefits.",
+      "Key highlights shown: Reward Benefits, Lounge Access, Welcome Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/tata-neu-plus-sbi-card.html"
+  },
+  {
+    "id": "sbi_doctor_s_in_association_with_ima",
+    "name": "Doctor's SBI Card (in Association with IMA)",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page best-for summary: Get Professional Indemnity Insurance Cover and an exclusive Association with IMA.",
+      "Best for: Professional Indemnity Insurance, Reward Benefits, Milestone Benefits.",
+      "Key highlights shown: Professional Indemnity Insurance, Reward Benefits, Milestone Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/doctors-ima-sbi-card.html"
+  },
+  {
+    "id": "sbi_doctor_s",
+    "name": "Doctor's SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page best-for summary: Get Professional Indemnity Insurance Cover and exclusive Reward Points on spending.",
+      "Best for: Professional Indemnity Insurance, Reward Benefits, Milestone Benefits.",
+      "Key highlights shown: Professional Indemnity Insurance, Reward Benefits, Milestone Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/doctors-sbi-card.html"
+  },
+  {
+    "id": "sbi_phonepe_purple",
+    "name": "PhonePe SBI Card PURPLE",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "Page subtitle: Turn Your Wishlist Into Rewards With 3% Value Back on PhonePe App Spends."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "Page best-for summary: Enjoy unbeatable rewards and exclusive benefits with up to 3x Reward Points.."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Turn Your Wishlist Into Rewards With 3% Value Back on PhonePe App Spends.",
+      "Page best-for summary: Enjoy unbeatable rewards and exclusive benefits with up to 3x Reward Points..",
+      "Best for: Exclusive Milestone Benefit, Phonepe Rewards, Welcome Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/phonepe-sbi-card-purple.html"
+  },
+  {
+    "id": "sbi_phonepe_select_black",
+    "name": "PhonePe SBI Card SELECT BLACK",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Page subtitle: Turn your wishlist into rewards with 10% Value Back on spends on PhonePe App."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Page best-for summary: Enjoy unbeatable rewards and exclusive benefits with upto 10X Reward Points."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Turn your wishlist into rewards with 10% Value Back on spends on PhonePe App.",
+      "Page best-for summary: Enjoy unbeatable rewards and exclusive benefits with upto 10X Reward Points.",
+      "Best for: Exclusive Milestone Benefit, Phonepe Rewards, Lounge Access."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/phonepe-sbi-card-select-black.html"
+  },
+  {
+    "id": "sbi_apollo_select",
+    "name": "Apollo SBI Card SELECT",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Best for: Health Benefits, Milestone Benefits, Lounge Benefits.",
+      "Key highlights shown: Health Benefits, Milestone Benefits, Lounge Benefits.",
+      "Welcome Benefits"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/apollo-sbi-card-select.html"
+  },
+  {
+    "id": "sbi_paytm_select",
+    "name": "Paytm SBI Card SELECT",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 400000,
+        "label": "Milestone display: Rs. 2,000 - worth E-Voucher - 4 Lakhs.",
+        "rewardInr": 2000
+      },
+      {
+        "spendThreshold": 600000,
+        "label": "Milestone display: Rs. 4,000 - worth E-Voucher - 6 Lakhs.",
+        "rewardInr": 4000
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Get instant cashback on all your spends.",
+      "Page best-for summary: Enjoy exciting offers on shopping and movies, along with a wide range of intelligent features designed for you..",
+      "Best for: Welcome Benefits, Milestone Benefits, Lounge Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/paytm-sbi-card-select.html"
+  },
+  {
+    "id": "sbi_paytm",
+    "name": "Paytm SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Get instant cashback on all your spends.",
+      "Page best-for summary: Enjoy exciting offers on shopping and movies, along with a wide range of intelligent features designed for you..",
+      "Best for: Welcome Benefits, Cashback, Milestone Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/paytm-sbi-card.html"
+  },
+  {
+    "id": "sbi_apollo",
+    "name": "Apollo SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Good Health Just Became More Rewarding.",
+      "Page best-for summary: Get Health Benefits and Reward Points on health and wellness products and services..",
+      "Best for: Welcome Benefits, Reward Benefits, Spend Based Reversal."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Fuel",
+      "Online shopping",
+      "RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/apollo-sbi-card.html"
+  },
+  {
+    "id": "sbi_flipkart",
+    "name": "Flipkart SBI Card",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: Cashback that keeps up with your wishlist.",
+      "Page best-for summary: Shop and save more with Exclusive Cashback on Myntra and Flipkart, plus special discounts on Cleartrip..",
+      "Best for: Flipkart Cashback, Myntra Cashback, Spend Based Reversal."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 1000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/flipkart-sbi-card.html"
+  },
+  {
+    "id": "sbi_irctc_premier",
+    "name": "IRCTC SBI Card Premier",
+    "issuer": "SBI Card",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Page subtitle: More rewards on every journey.",
+      "Page best-for summary: Make your travel experience memorable with conveniences and rewards.",
+      "Best for: Reward Benefits, Milestone Benefits, Value Back Benefits."
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.sbicard.com/en/personal/credit-cards/irctc-premier-card.html"
+  }
+]

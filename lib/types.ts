@@ -62,6 +62,14 @@ export const CATEGORY_HINTS: Record<SpendCategory, string> = {
 export const NETWORKS = ["visa", "mastercard", "rupay", "amex", "diners"] as const;
 export type Network = (typeof NETWORKS)[number];
 
+// Some normalized issuer files emit `null` for unknown fields. Coerce them gracefully
+// rather than reject otherwise-valid cards.
+const numberOr0 = z.preprocess((v) => (v == null ? 0 : v), z.number()).default(0);
+const optionalNumber = z.preprocess((v) => (v == null ? undefined : v), z.number().optional());
+// If network is null in the source, treat as "visa" (most common Indian default).
+// This card will then correctly be excluded by RuPay-only filters since upiEnabled stays false.
+const networkOrVisa = z.preprocess((v) => (v == null ? "visa" : v), z.enum(NETWORKS));
+
 export const RewardRuleSchema = z.object({
   categories: z.array(z.enum(SPEND_CATEGORIES)),
   rate: z.number(),
@@ -74,7 +82,7 @@ export type RewardRule = z.infer<typeof RewardRuleSchema>;
 
 export const MilestoneSchema = z.object({
   spendThreshold: z.number(),
-  rewardInr: z.number(),
+  rewardInr: numberOr0,
   label: z.string(),
 });
 export type Milestone = z.infer<typeof MilestoneSchema>;
@@ -83,22 +91,22 @@ export const CardSchema = z.object({
   id: z.string(),
   name: z.string(),
   issuer: z.string(),
-  network: z.enum(NETWORKS),
-  upiEnabled: z.boolean().default(false),
-  isCoBranded: z.boolean().default(false),
-  joiningFee: z.number().default(0),
-  annualFee: z.number().default(0),
-  feeWaiverSpend: z.number().optional(),
-  welcomeBenefitInr: z.number().default(0),
-  baseRewardRate: z.number().default(0.5),
+  network: networkOrVisa,
+  upiEnabled: z.preprocess((v) => (v == null ? false : v), z.boolean()).default(false),
+  isCoBranded: z.preprocess((v) => (v == null ? false : v), z.boolean()).default(false),
+  joiningFee: numberOr0,
+  annualFee: numberOr0,
+  feeWaiverSpend: optionalNumber,
+  welcomeBenefitInr: numberOr0,
+  baseRewardRate: z.preprocess((v) => (v == null ? 0.5 : v), z.number()).default(0.5),
   rules: z.array(RewardRuleSchema).default([]),
   excludedCategories: z.array(z.enum(SPEND_CATEGORIES)).default([]),
   milestones: z.array(MilestoneSchema).default([]),
-  loungeAccessInr: z.number().default(0),
+  loungeAccessInr: numberOr0,
   loungeVisits: z
     .object({
-      domestic: z.number().optional(),
-      international: z.number().optional(),
+      domestic: optionalNumber,
+      international: optionalNumber,
     })
     .optional(),
   highlights: z.array(z.string()).default([]),
@@ -106,10 +114,11 @@ export const CardSchema = z.object({
   bestFor: z.array(z.string()).default([]),
   eligibility: z
     .object({
-      minMonthlySalaryInr: z.number().optional(),
-      minAnnualItrInr: z.number().optional(),
-      inviteOnly: z.boolean().optional(),
+      minMonthlySalaryInr: optionalNumber,
+      minAnnualItrInr: optionalNumber,
+      inviteOnly: z.preprocess((v) => (v == null ? undefined : v), z.boolean().optional()),
     })
+    .passthrough()
     .default({}),
   lastVerified: z.string(),
   url: z.string().optional(),

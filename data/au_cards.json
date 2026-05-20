@@ -1,0 +1,996 @@
+[
+  {
+    "id": "au_zenith_plus",
+    "name": "Zenith Plus Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": 800000,
+    "welcomeBenefitInr": 5000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 2,
+        "notes": "Up to 2 Reward Points per Rs.100 spent on dining, travel & international spends.",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 20,
+        "notes": "20% discount on Best Available Rate at Taj Palaces on Room/Suites for max 5 nights One Stay Voucher"
+      },
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 20,
+        "notes": "20% discount on Best Available Rate at Taj Safaris on Room/Suites for max 5 nights One Stay Voucher"
+      },
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 2,
+        "notes": "Earn 2 Reward Points per Rs. 100 spent on travel, dining, and international spends."
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1,
+        "notes": "Earn 1 Reward Point per Rs.100 spent across all merchant categories."
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "rent",
+      "education",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 64,
+      "international": 64
+    },
+    "highlights": [
+      "Grand Welcome",
+      "Taj Epicure Membership",
+      "Exciting Welcome Benefit"
+    ],
+    "caveats": [
+      "Epicure Program operates under the terms and conditions as set out herein below unless otherwise expressly",
+      "25% off on F&B - Dine-in & Take-away (maximum 10 pax) Unlimited",
+      "20% off on F&B - Banquets (maximum 30 pax) Unlimited"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 250000,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/premium-banking/credit-cards/zenith-plus-credit-card"
+  },
+  {
+    "id": "au_ananta",
+    "name": "Ananta Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 2000,
+    "annualFee": 2000,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Earn up to 5 Reward Points per ₹100 on Shopping, Dining & Travel spends* - amongst the best rewards Credit Cards in its category",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Earn 5 Reward Points per ₹100 on Shopping, Dining & Travel spends"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 2,
+        "notes": "Earn 2 Reward Points per ₹100 on all other retail spends."
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 1,
+        "notes": "Earn 1 Reward Points per ₹100 on Insurance, Utility & Telecom spends"
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 15,
+        "notes": ": 2 Complimentary Domestic Flight Seats (max value ₹350) + Flat 15% off hotels.",
+        "monthlyCap": 350
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "rent",
+      "education",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 1000000,
+        "label": "Earn up to 50,000 Reward Points on spending ₹10 Lac in a card anniversary year. Incremental Reward Points will be credited to customers account after each successful milestone.",
+        "rewardInr": 50000
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Thoughtfully crafted for elevated lifestyles, travel and dining",
+      "Up to 15% instant discount with merchant partners",
+      "Exciting Travel Benefits"
+    ],
+    "caveats": [
+      "Save 1% surcharge on fuel spends ₹400-₹5,000 across India* (Maximum ₹200 per statement cycle)",
+      "T&C apply. Cardholders can earn a maximum of 100 Reward Points per transaction on Utility & Telecom spends. Cash, Rent, Education & Govt, EMI, Fuel, BBPS, transportation & Quasi Cash transactions are not eligible for Reward Points",
+      "Cardholders can earn up to a cumulative maximum of 5,000 Reward Points on Shopping, Dining, and Travel spends in a card statement cycle."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/ananta-credit-card"
+  },
+  {
+    "id": "au_laksya",
+    "name": "Laksya Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": 1000,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "groceries",
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Earn up to 5 Reward Points per ₹100 on Grocery, Departmental Stores & Contactless payments.",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Make quick, secure payments up to ₹5,000 without entering your PIN by tapping your card or mobile phone with a digitally added card on a POS machine and earn 5 Reward Points on every Rs.100 spent",
+        "monthlyCap": 5000
+      },
+      {
+        "categories": [
+          "groceries",
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Earn 5 Reward Points per ₹100 spent on Grocery, Departmental Stores & Contactless payments"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 2,
+        "notes": "Earn 2 Reward Points per ₹100 spent on all other retail spends."
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 1,
+        "notes": "Earn 1 Reward Point per ₹100 spent on Insurance, Utility & Telecom spends"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "rent",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 32
+    },
+    "highlights": [
+      "Turn everyday expenses into the most rewarding experiences",
+      "Up to 15% instant discount with merchant partners",
+      "Complimentary Airport Lounge Access"
+    ],
+    "caveats": [
+      "Save 1% surcharge on fuel spends ₹400-₹5,000 across India* (Maximum ₹150 per statement cycle)",
+      "T&C apply. Cardholders can earn a maximum of 100 Reward Points per transaction on Utility & Telecom spends. Cash, Rent, Education & Govt, EMI, Fuel, BBPS, transportation and Quasi Cash transactions are not eligible for Reward Points",
+      "Cardholders can earn up to a maximum of 1,000 Reward Points on Grocery and Departmental store spends in a card statement cycle."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/laksya-credit-card"
+  },
+  {
+    "id": "au_tejas",
+    "name": "Tejas Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10% Cashback on your favourite categories"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping",
+          "utilities"
+        ],
+        "rate": 10,
+        "notes": "Flat 10% cashback on spends at partner merchants - movies, grocery delivery & food delivery, Cab booking, and Bill payments"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Earn up to 5 Reward Points per ₹100 spent",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Earn 10% cashback on Cab services (all major providers like Uber, Ola, Rapido, etc.) every month (max cashback ₹50 per month).",
+        "monthlyCap": 50
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 10,
+        "notes": "Earn 10% cashback on Bill payments via AU 0101 application every month (max cashback ₹50 per month).",
+        "monthlyCap": 50
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "rent",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Maximise your savings and rewards with each spend",
+      "10% Cashback on your favourite categories",
+      "5 Reward Points on AU Rewardz"
+    ],
+    "caveats": [
+      "Save 1% surcharge on fuel spends ₹400-₹5,000 across India* (Maximum ₹100 per statement cycle)",
+      "T&C apply. Cardholders can earn a maximum of 100 Reward Points per transaction on Utility & Telecom spends. Cash, Rent, Education & Govt, EMI, Fuel, BBPS, transportation and Quasi Cash transactions are not eligible for Reward Points",
+      "1% Fuel Surcharge Waiver for fuel transactions done between ₹400 and ₹5,000, across all fuel stations in the country (Maximum ₹250 per statement cycle)."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/tejas-credit-card"
+  },
+  {
+    "id": "au_lit",
+    "name": "Lit Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "Up To 10x Reward Points"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 2,
+        "notes": "Shop till you drop! Get additional 5% and 2% cashback on your retail spends at ₹199*."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10x Reward Points"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5x Reward Points"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Additional 5% cashback"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 2
+    },
+    "highlights": [
+      "Up To 10x Reward Points",
+      "Exciting Cashback on your favorite categories",
+      "1% Fuel Surcharge Waiver"
+    ],
+    "caveats": [
+      "Note: 1 complimentary visit to Airport Lounge at ₹399. Maximum 2 visits can be selected for a 90-day period."
+    ],
+    "bestFor": [
+      "Travel",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/lit-credit-card"
+  },
+  {
+    "id": "au_ca",
+    "name": "Ca Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 25,
+        "notes": "Get flat 25% cashback on renewing your annual ICAI Membership Fee."
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 2,
+        "notes": "2 Reward Points per ₹100 spent on retail categories"
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 1,
+        "notes": "1 Reward Point per ₹100 on Utility & Telecom and Insurance spends"
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "hotels_domestic",
+          "hotels_intl"
+        ],
+        "rate": 15,
+        "notes": "Elevate your travel experiences with MakeMyTrip: Avail 2 Complimentary domestic flights seats booking (max value of up to ₹350) and Flat 15% off on select domestic hotels as MyCash.",
+        "monthlyCap": 350
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "rent",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": [
+      "Exclusive Discount on ICAI Membership Renewal",
+      "Accelerated Reward Points for Business & Personal Spends",
+      "Accelerated Rewards Points for Business & Personal Spends"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/ca-credit-card"
+  },
+  {
+    "id": "au_instapay",
+    "name": "Instapay Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries"
+        ],
+        "rate": 1,
+        "notes": "Earn 1% Cashback on all dining, groceries, and more"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping",
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "notes": "Earn 1% cashback on UPI transactions across Departmental Stores, Dining, Pharmacy, and Grocery & Supermarkets"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Ditch the Wallet, Keep the Perks: Link Your Virtual Card to UPI",
+      "Earn 1% Cashback on all dining, groceries, and more",
+      "Get Fuel Surcharge Waiver on all your fuel spends"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/instapay-credit-card"
+  },
+  {
+    "id": "au_ixigo",
+    "name": "Ixigo Au Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2.5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2.5,
+        "notes": "2.5% Rewards on every ₹200 spent."
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping",
+          "upi_p2m"
+        ],
+        "rate": 2.5,
+        "notes": "With effect from 13th April, 2.5% Rewards* on every ₹200 spent online, offline and on UPI"
+      }
+    ],
+    "excludedCategories": [
+      "education",
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "insurance"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 1
+    },
+    "highlights": [
+      "Ixigo AU Travel Credit Card",
+      "India's Most Rewarding Travel Credit Card",
+      "Welcome Benefits"
+    ],
+    "caveats": [
+      "Effective from 22nd December’2024, Education & Government, BBPS and International transactions are excluded from Reward Points spends calculation.",
+      "Fuel & rent transactions, insurance and wallets are excluded from Reward Points spends calculation.",
+      "Detailed T&C for priority pass:"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/ixigo-au-credit-card"
+  },
+  {
+    "id": "au_cheq",
+    "name": "Cheq Au Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 12,
+        "notes": "12% Rewards On Your Favourite Brands"
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 2.5,
+        "notes": "2.5% Rewards On CheQ UPI"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 12,
+        "notes": "Earn 12% Rewards"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "5% rewards on all other spends across Online Shopping, Travel, Food Delivery, Online Grocery covering 10,000+ brands."
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 2.5,
+        "notes": "2.5% rewards through CheQ UPI"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "12% Rewards On Your Favourite Brands",
+      "2.5% Rewards On CheQ UPI",
+      "Complimentary EazyDiner Membership for 3 months"
+    ],
+    "caveats": [
+      "Simple rewards. Maximum flexibility.",
+      "Is there a cap on monthly or annual rewards/cashback?",
+      "Yes, there is a cap on accelerated reward points, but not on base rewards."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/cheq-au-credit-card"
+  },
+  {
+    "id": "au_zenith",
+    "name": "Zenith Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 7999,
+    "annualFee": 7999,
+    "feeWaiverSpend": 500000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Up to 5x Reward Points"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Earn 5 Reward Points per Rs.100 spent on Dining at standalone restaurants, International spends, Grocery & Departmental Stores."
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 3,
+        "notes": "Earn 3 Reward Points per Rs.100 spent across merchant categories*."
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 1,
+        "notes": "Earn 1 Reward Point per Rs.100 spent on Insurance and Utility & Telecom categories."
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "rent",
+      "education",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 32,
+      "international": 32
+    },
+    "highlights": [
+      "Get Premium Rewards Just Like You Lifestyle",
+      "Up to 5x Reward Points",
+      "24x7 Global Concierge Service"
+    ],
+    "caveats": [
+      "1% Fuel Surcharge Waiver for fuel transactions done across all fuel stations in the country (maximum ₹1,000 per statement cycle)."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/zenith-credit-card"
+  },
+  {
+    "id": "au_altura_plus",
+    "name": "Altura Plus Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 80000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1.5,
+        "notes": "1.5% cashback on offline retail spends"
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 2,
+        "notes": "2X Reward Points on Online Spends"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1.5,
+        "notes": "1.5 % cashback on retail spends"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1.5,
+        "notes": "1.5% Cashback on offline spends"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1,
+        "notes": "1 Reward Point per ₹100 on Offline Spends"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Multiply Rewards. Multiply Luxury.",
+      "1.5% cashback on offline retail spends",
+      "2X Reward Points on Online Spends"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/credit-cards/altura-plus-credit-card"
+  },
+  {
+    "id": "au_corporate",
+    "name": "Corporate Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": [
+      "A Comprehensive Solution To Manage Corporate Travel & Entertainment Expenses",
+      "Complimentary Airport Lounge Access",
+      "Fuel Surcharge Waiver"
+    ],
+    "caveats": [
+      "8 complimentary lounge access per annum (maximum 2 per calendar quarter) within India, using your VISA Card."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/commercial-credit-cards/corporate-credit-card"
+  },
+  {
+    "id": "au_purchase",
+    "name": "Purchase Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Lifetime Free Card",
+      "Extended Interest Free Credit Period of up to 48 Days",
+      "Up to 48 days Interest free period"
+    ],
+    "caveats": [
+      "When done between ₹400 and ₹5,000 across all fuel stations in the country (Maximum ₹200 per statement cycle)"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Business spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/commercial-credit-cards/purchase-credit-card"
+  },
+  {
+    "id": "au_business_cashback",
+    "name": "Business Cashback Credit Card",
+    "issuer": "AU Small Finance Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 99,
+    "annualFee": 99,
+    "feeWaiverSpend": 10000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback on Repayments"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback on the Repayment of Total Amount Due"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback will be applicable only upon repayment of the full total amount due and will be calculated on the amount spent by the customer."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": [
+      "Cashbacks You Would Get For Your Business Swipes",
+      "1% Cashback on Repayments",
+      "Complementary Access to Railway Lounge"
+    ],
+    "caveats": [
+      "Convert transactions worth ₹2,000 or more into easy EMI options with processing fee (1% of the Amount being converted to EMI, subject to a minimum of ₹ 99 + GST).",
+      "Maximum cashback* per statement cycle is ₹1000",
+      "8 complimentary lounge access per annum (maximum 2 per calendar quarter), using VISA/RuPay Card at railway stations."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.au.bank.in/personal-banking/commercial-credit-cards/business-cashback-credit-card"
+  }
+]

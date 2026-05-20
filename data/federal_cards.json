@@ -1,0 +1,581 @@
+[
+  {
+    "id": "federal_visa_celesta",
+    "name": "Visa Celesta Credit Card",
+    "issuer": "Federal Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 600,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "3x rewards on spends for Travel and International categories."
+      },
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 2,
+        "notes": "2x rewards on spends for Dining categories."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1x rewards for other categories."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 2
+    },
+    "highlights": [
+      "Bespoke 3-2-1 rewards structure curated for customers:",
+      "3x rewards on spends for Travel and International categories.",
+      "2x rewards on spends for Dining categories."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Add-ON Card Terms and Conditions.",
+      "Credit Card Customer Benefit Terms and Conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/visa-celesta-credit-card"
+  },
+  {
+    "id": "federal_visa_imperio",
+    "name": "Visa Imperio Credit Card",
+    "issuer": "Federal Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 400,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "groceries"
+        ],
+        "rate": 3,
+        "notes": "3x rewards on spends for Health Care and Grocery categories."
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 2,
+        "notes": "2x rewards on spends for Utility categories such as bill payments for electricity, gas, mobile etc."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1x rewards for other categories."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 2
+    },
+    "highlights": [
+      "Bespoke 3-2-1 rewards structure curated for the customer and family:",
+      "3x rewards on spends for Health Care and Grocery categories.",
+      "2x rewards on spends for Utility categories such as bill payments for electricity, gas, mobile etc."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Add-ON Card Terms and Conditions.",
+      "These linked documents/pages were not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/visa-imperio-credit-card"
+  },
+  {
+    "id": "federal_visa_signet",
+    "name": "Visa Signet Credit Card",
+    "issuer": "Federal Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 200,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 3,
+        "notes": "3x rewards on spends for Electronics & Apparel categories."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2x rewards on Entertainment category."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1x rewards for other categories."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 1
+    },
+    "highlights": [
+      "3-2-1 rewards structure:",
+      "3x rewards on spends for Electronics & Apparel categories.",
+      "2x rewards on Entertainment category."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Add-On Card Terms and Conditions.",
+      "These linked documents/pages were not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/visa-signet-credit-card"
+  },
+  {
+    "id": "federal_fed_starbiz_credit_card_visa",
+    "name": "Fed StarBiz Credit Card - Visa",
+    "issuer": "Federal Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 275,
+    "annualFee": 275,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Fed StarBiz Credit Card comes with Joining Fee or Annual Membership Fee of Rs.275 + applicable taxes."
+    ],
+    "caveats": [
+      "Card validity is 5 years, subject to underlying account status."
+    ],
+    "bestFor": [
+      "Online shopping",
+      "RuPay UPI",
+      "Business spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.federal.bank.in/fed-starbiz-credit-card-visa"
+  },
+  {
+    "id": "federal_mastercard_signet",
+    "name": "Mastercard Signet Credit Card",
+    "issuer": "Federal Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 200,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 3,
+        "notes": "3x rewards on spends for Electronics & Apparel categories."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2x rewards on Entertainment category."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1x rewards for other categories."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 1
+    },
+    "highlights": [
+      "Bespoke 3-2-1 rewards structure personalized for the customer:",
+      "3x rewards on spends for Electronics & Apparel categories.",
+      "2x rewards on Entertainment category."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Add-ON Card Terms and Conditions.",
+      "These linked documents/pages were not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/signet-credit-card"
+  },
+  {
+    "id": "federal_mastercard_celesta",
+    "name": "Mastercard Celesta Credit Card",
+    "issuer": "Federal Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 600,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "3x rewards on spends for Travel and International categories."
+      },
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 2,
+        "notes": "2x rewards on spends for Dining categories."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1x rewards for other categories."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 2
+    },
+    "highlights": [
+      "Bespoke 3-2-1 rewards structure curated for customers:",
+      "3x rewards on spends for Travel and International categories.",
+      "2x rewards on spends for Dining categories."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Add-On Card Terms and Conditions.",
+      "These linked documents/pages were not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/celesta-credit-card"
+  },
+  {
+    "id": "federal_mastercard_imperio",
+    "name": "Mastercard Imperio Credit Card",
+    "issuer": "Federal Bank",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 400,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "groceries"
+        ],
+        "rate": 3,
+        "notes": "3x rewards on spends for Health Care and Grocery categories."
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 2,
+        "notes": "2x rewards on spends for Utility categories such as bill payments for electricity, gas, mobile etc."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1x rewards for other categories."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 2
+    },
+    "highlights": [
+      "Bespoke 3-2-1 rewards structure curated for the customer and family:",
+      "3x rewards on spends for Health Care and Grocery categories.",
+      "2x rewards on spends for Utility categories such as bill payments for electricity, gas, mobile etc."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Add-On Card Terms and Conditions.",
+      "These linked documents/pages were not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/imperio-credit-card"
+  },
+  {
+    "id": "federal_rupay_signet",
+    "name": "RuPay Signet Credit Card",
+    "issuer": "Federal Bank",
+    "network": "rupay",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 200,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 3,
+        "notes": "3x rewards on spends for Electronics & Apparel categories."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2x rewards on Entertainment category."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1x rewards for other categories."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 1
+    },
+    "highlights": [
+      "Federal Bank Rupay Signet Credit Card offers digital payments with convenience, rewards and security.",
+      "Bespoke 3-2-1 rewards structure personalized for the customer:",
+      "3x rewards on spends for Electronics & Apparel categories."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Add-ON Card Terms and Conditions.",
+      "These linked documents/pages were not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/rupay-signet-credit-card"
+  },
+  {
+    "id": "federal_rupay_wave",
+    "name": "RuPay Wave Credit Card",
+    "issuer": "Federal Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 10,
+        "notes": "10% cashback on first 5 UPI transactions made within the first 30 days of card issuance."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.5,
+        "notes": "Earn 1 reward point for every Rs.200 spent."
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 10,
+        "notes": "Cashback Rewards: earn 10% cashback on first five UPI transactions."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 50000,
+        "label": "Milestone Bonuses: spend Rs.50,000 quarterly and receive 1000 bonus reward points.",
+        "rewardInr": 1000
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "It has its own set of benefits and promotions and makes UPI payments more rewarding.",
+      "The card enhances transaction experience with convenience and rewarding opportunities.",
+      "Cardholders can enjoy cashback and rewards on purchases."
+    ],
+    "caveats": [
+      "T&C apply.",
+      "Accept T&C and verify with MPIN."
+    ],
+    "bestFor": [
+      "Travel",
+      "Online shopping",
+      "RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.federal.bank.in/rupay-wave-credit-card"
+  },
+  {
+    "id": "federal_fed_starbiz_credit_card_rupay",
+    "name": "Fed StarBiz Credit Card - RuPay",
+    "issuer": "Federal Bank",
+    "network": "rupay",
+    "upiEnabled": false,
+    "joiningFee": 275,
+    "annualFee": 275,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Fed StarBiz Credit Card comes with Joining Fee or Annual Membership Fee of Rs.275 + applicable taxes."
+    ],
+    "caveats": [
+      "Card validity is 5 years, subject to underlying account status."
+    ],
+    "bestFor": [
+      "Online shopping",
+      "RuPay UPI",
+      "Business spends"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.federal.bank.in/fed-starbiz-credit-card-rupay"
+  }
+]

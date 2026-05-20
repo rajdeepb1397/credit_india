@@ -1,0 +1,667 @@
+[
+  {
+    "id": "icici_amazon_pay",
+    "name": "Amazon Pay ICICI Bank Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "The Amazon Pay ICICI Bank Credit Card offers unlimited, never-expiring rewards on your everyday purchases with up to 5% rewards on Amazon purchases, seamlessly credited to your Amazon Pay balance."
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Unlimited reward points upto 5% on Amazon purchases\\"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Unlimited reward points of 1% on all other spends\\"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Earn 5% reward points on purchases on Amazon.in for prime members and 3% for non-prime members. Earn 2% reward points at 100+ Amazon Pay partner merchants by using this card on Amazon Pay"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% reward points for all other payments\\"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "The Amazon Pay ICICI Bank Credit Card offers unlimited, never-expiring rewards on your everyday purchases with up to 5% rewards on Amazon purchases, seamlessly credited to your Amazon Pay balance.",
+      "Rewards on Amazon Purchases",
+      "Non-expiring, Unlimited rewards"
+    ],
+    "caveats": [
+      "Amazon Pay ICICI Bank Credit Card: Maximum Benefits"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 30000,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_17\\_CMS\\_all\\_rewardsOnAmazonPurchases\\_amazonPayCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_hpcl_super_saver",
+    "name": "ICICI Bank HPCL Super Saver Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "rupay",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 1.5,
+        "notes": "You also get an additional 1.5% cashback (Happy Coins) on all fuel purchases through the HP Pay app at HPCL outlets."
+      },
+      {
+        "categories": [
+          "offline_shopping",
+          "fuel"
+        ],
+        "rate": 5,
+        "notes": "The ICICI Bank HPCL Super Saver Credit Card offers 5% savings on fuel spends at HPCL pumps and HP Pay, including a 1% fuel surcharge waiver on transactions between ₹400 and ₹4,000. Cardholders also earn reward points on daily and retail spends, along with movi"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 1
+    },
+    "highlights": [
+      "Cashback on Fuel Purchases",
+      "Cashback on fuel purchases at HPCL outlets",
+      "Get 2,000 reward points"
+    ],
+    "caveats": [
+      "ICICI Bank HPCL Super Saver Credit Card: Maximum Benefits",
+      "The fuel savings of 5% comprises of 4% cashback + 1% fuel surcharge waiver (The 4% cashback is capped at ₹200 per month)."
+    ],
+    "bestFor": [
+      "Travel",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000,
+      "minAnnualItrInr": 240000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/hpcl-super-saver?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_14\\_CMS\\_all\\_unmatchedSavingsOnFuel\\_hpclSuperSaverCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_emirates_rubyx",
+    "name": "Emirates Rubyx Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Elevate every journey with the Emirates Rubyx Credit Card. Earn Skywards Miles, enjoy domestic airport lounge access, entertainment deals and exclusive benefits with this affordable credit card.",
+      "Movie Ticket Discount",
+      "Skywards Miles"
+    ],
+    "caveats": [
+      "How is the maximum credit limit for the Emirates Rubyx credit card determined?"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 75000,
+      "minAnnualItrInr": 900000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-rubyx"
+  },
+  {
+    "id": "icici_emirates_sapphiro",
+    "name": "Emirates Sapphiro Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 2
+    },
+    "highlights": [
+      "Silver Tier Membership",
+      "Skywards Miles",
+      "Lounge Access"
+    ],
+    "caveats": [
+      "Most Important Terms and Conditions",
+      "for applicable Terms and Conditions (T\\&Cs)"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 150000,
+      "minAnnualItrInr": 1800000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-sapphiro?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_12\\_CMS\\_all\\_luxuryTravelAndLifestyle\\_emiratesSapphiroCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_emirates_emeralde",
+    "name": "Emirates Emeralde Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 10000,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": [
+      "Skywards Miles",
+      "Lounge Access",
+      "Dining Discounts"
+    ],
+    "caveats": [
+      "Emirates Skywards ICICI Bank Emeralde Credit Card: Maximum benefits",
+      "for applicable Terms and Conditions (T\\&Cs)",
+      "What types of spending are excluded from milestone calculations?"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 250000,
+      "minAnnualItrInr": 3000000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/emirates-skywards/emirates-emeralde?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_11\\_CMS\\_all\\_highEndFlyingPerks\\_emiratesEmeraldeCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_adani_one_platinum",
+    "name": "Adani One ICICI Bank Platinum Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 750,
+    "annualFee": 750,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": [
+      "Reward Points",
+      "Premium Travel and Stay Perks",
+      "Hotel Vouchers"
+    ],
+    "caveats": [
+      "Maximum Benefits with the Adani One ICICI Bank Credit Card"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000,
+      "minAnnualItrInr": 240000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/platinum-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_9\\_CMS\\_all\\_premiumTravelAmpStayPerks\\_adaniOnePlatinumCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_makemytrip",
+    "name": "MakeMyTrip ICICI Bank Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": 1000,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "rent"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 1,
+      "domestic": 12
+    },
+    "highlights": [
+      "MMTBLACK membership",
+      "Travel Enthusiasts Seeking Value and Flexibility",
+      "Unlimited myCash Rewards that never expire"
+    ],
+    "caveats": [
+      ": Maximum benefits"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "RuPay UPI"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000,
+      "minAnnualItrInr": 240000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/makemytrip/makemytrip-icici-credit-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_10\\_CMS\\_all\\_travelEnthusiastsSeekingValueAndFlexibility\\_makemytripCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_platinum_chip",
+    "name": "Platinum Chip Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Reward Points",
+      "Fuel Surcharge Waiver",
+      "Rewards on Everyday Spends"
+    ],
+    "caveats": [
+      "Platinum Chip Credit Card: Maximum Benefits"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000,
+      "minAnnualItrInr": null,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/platinum-chip-credit-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_7\\_CMS\\_all\\_rewardsOnEverydaySpends\\_platinumChipCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_adani_one_signature",
+    "name": "Adani One Signature Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": 5000,
+    "feeWaiverSpend": 600000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2
+    },
+    "highlights": [
+      "Reward Points",
+      "Reward benefits",
+      "Enjoy 16 Premium Lounge upgrades"
+    ],
+    "caveats": [
+      "Get maximum benefits:"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 75000,
+      "minAnnualItrInr": 900000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/adani-icici-credit-card/signature-credit-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_8\\_CMS\\_all\\_topNotchAirportExperience\\_adaniOneSignatureCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_coral",
+    "name": "ICICI Bank Coral Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "rupay",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0,
+        "notes": "Get 2,000 reward points on ₹2 lakh spend and 1,000 for every additional ₹1 lakh spend (max 10,000 points per Anniversary year)",
+        "monthlyCap": 200000
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 1
+    },
+    "highlights": [
+      "Lounge Access",
+      "Milestone Rewards",
+      "Personal Accident Insurance"
+    ],
+    "caveats": [
+      "Coral Credit Card: Maximum benefits",
+      "for applicable Terms and Conditions (T\\&Cs)"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 20000,
+      "minAnnualItrInr": 240000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_6\\_CMS\\_all\\_everydayOrOnTheGoSpends\\_coralCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_rubyx",
+    "name": "Rubyx Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 3000,
+    "annualFee": 3000,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": 12595,
+    "baseRewardRate": 0,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0,
+        "notes": "Get 3,000 Reward Points on ₹ 3 lakh spend \\& 1,500 for every additional ₹ 1 lakh spend (up to 15,000 reward points per year)",
+        "monthlyCap": 300000
+      }
+    ],
+    "excludedCategories": [
+      "insurance"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 2
+    },
+    "highlights": [
+      "Welcome Vouchers",
+      "Complimentary Golf Rounds",
+      "Lounge Access"
+    ],
+    "caveats": [
+      "Rubyx Credit Card: Maximum Benefits",
+      "For other Terms and Conditions,",
+      ". For complete details on the Golf programme and the associated terms and conditions, please"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 75000,
+      "minAnnualItrInr": 900000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/rubyx-credit-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_5\\_CMS\\_all\\_highEndLifestylePerks\\_rubyxcreditCard\\_NLI"
+  },
+  {
+    "id": "icici_sapphiro",
+    "name": "Sapphiro Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 6500,
+    "annualFee": 6500,
+    "feeWaiverSpend": 600000,
+    "welcomeBenefitInr": 29095,
+    "baseRewardRate": 0,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0,
+        "notes": "Get 4,000 reward points on ₹4 lakh spend \\& 2,000 for every additional ₹1 lakh spend, upto 20,000 RPs in an anniversary year.",
+        "monthlyCap": 400000
+      }
+    ],
+    "excludedCategories": [
+      "insurance"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 8
+    },
+    "highlights": [
+      "Lounge Access",
+      "Welcome Vouchers",
+      "International Airport Lounge Access"
+    ],
+    "caveats": [
+      "Sapphiro Credit Card: Maximum Benefits",
+      "For other terms and conditions,",
+      "To claim the joining vouchers, cardholders can follow the steps outlined in the card’s terms and conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 75000,
+      "minAnnualItrInr": 900000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/sapphiro-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_4\\_CMS\\_all\\_premiumLifestyleOffers\\_sapphiroCreditCard\\_NLI"
+  },
+  {
+    "id": "icici_emeralde_private_metal",
+    "name": "Emeralde Private Metal Credit Card",
+    "issuer": "ICICI Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 12499,
+    "annualFee": 12499,
+    "feeWaiverSpend": 1000000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "insurance"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 800000,
+        "label": "Get 2 EaseMyTrip vouchers on annual spends of ₹8 lakh"
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 400
+    },
+    "highlights": [
+      "Taj Membership",
+      "Outstanding luxury rewards",
+      "Taj Epicure Membership"
+    ],
+    "caveats": [
+      "Emeralde Private Metal Credit Card: Maximum Benefits",
+      ". For complete details on the Golf programme and the associated terms and conditions, please",
+      "To claim the joining vouchers, cardholders can follow the steps outlined in the card’s terms and conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/emeralde-private-metal-credit-card"
+  },
+  {
+    "id": "icici_times_black",
+    "name": "Times Black ICICI Bank Credit Card",
+    "issuer": "ICICI Bank",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 20000,
+    "annualFee": 20000,
+    "feeWaiverSpend": 2500000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": [
+      "Welcome to a world where convenience comes knocking at your door and experiences are curated for an audience of one. The rare joy of something only a few can claim, now ready to fit in the palm of your hand.",
+      "Welcome Benefits",
+      "Milestone Benefits"
+    ],
+    "caveats": [
+      "Times Black ICICI Bank Credit Card: Maximum Benefits",
+      "You can earn 2% ICICI Bank reward points on all eligible domestic transactions. However, there is a cap of 5,000 reward points per statement cycle for the following categories:"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 200000,
+      "minAnnualItrInr": 2400000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.icici.bank.in/personal-banking/cards/credit-card/times-black-icici-credit-card?ITM=nli\\_creditCard\\_cards\\_creditCard\\_tabCardListWidget\\_2\\_CMS\\_all\\_unparalleledPrivilegesForALifeOfLuxury\\_timesBlackCreditCard\\_NLI"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "id": "amex_smartearn_tm",
+    "name": "American Express SmartEarn(TM) Credit Card",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 495,
+    "annualFee": 495,
+    "feeWaiverSpend": 40000,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 10,
+        "notes": "Transact on Zomato, Ajio, Nykaa, BookMyShow, Uber and many more and get 10X rewards for every Rs. 50 spent."
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Transact on Amazon and get 5X rewards for every Rs. 50 spent."
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn 1 Membership Rewards Point for every Rs. 50 spent except for spends on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 240000,
+        "label": "Gift vouchers | Earn vouchers worth Rs. 500 upon reaching the spend milestones of Rs. 1.20 lacs, Rs. 1.80 lacs, and Rs. 2.40 lacs respectively in a Cardmembership year.",
+        "rewardInr": 500
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Gift: Rs. 500 cashback in the form of statement credit on eligible spends of Rs. 10,000 in the first 90 days of Cardmembership.",
+      "Reward earn rate | Earn Accelerated Membership Rewards(R) points when spending on Amazon, Flipkart, Uber, BookMyShow, Zomato, EaseMyTrip and many more",
+      "Renewal fee waiver | Get a renewal fee waiver on eligible spends of Rs. 40,000 and above in the previous year of Cardmembership"
+    ],
+    "caveats": [
+      "Earn 1 Membership Rewards Point for every Rs. 50 spent except for spends on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale.",
+      "Eligible spends for the welcome gift do not include cash advances, express cash transactions, drafts made from the Account, balance transfers and fees.",
+      "Under the 10X category, 10X Membership Rewards points are capped at 500 Points per month per Card Account jointly for Flipkart, Uber, BookMyShow and other merchants put together."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 37500,
+      "minAnnualItrInr": 600000,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.americanexpress.com/in/credit-cards/smart-earn-credit-card/?intlink=in-acq-creditcards-smartearn"
+  },
+  {
+    "id": "amex_membership_rewards_r",
+    "name": "American Express Membership Rewards(R) Credit Card",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": 4500,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 20000,
+        "label": "Monthly spend milestone | Earn an additional 1,000 Membership Rewards points by spending INR 20,000 or more in a calendar month. The page says this is an enrollment based benefit and links to enroll. The linked enrollment page was not opene"
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "The page names the card American Express Membership Rewards(R) Credit Card.",
+      "Welcome Gift: 4,000 Bonus Membership Rewards(R) Points.",
+      "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+    ],
+    "caveats": [
+      "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale.",
+      "American Express EMI | Split payments by using the American Express Credit Card for a big purchase and paying in EMI. The linked EMI page was not opened.",
+      "Dining: enjoy exciting discounts of up to 20% every time dining at select restaurants. The linked dining page was not opened."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 37500,
+      "minAnnualItrInr": 600000,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.americanexpress.com/in/credit-cards/membership-rewards-card/?intlink-acq-creditcard-mrcc"
+  },
+  {
+    "id": "amex_r_platinum_reservesm",
+    "name": "American Express(R) Platinum ReserveSM Credit Card",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 10000,
+    "annualFee": 10000,
+    "feeWaiverSpend": 1000000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Gift: 11,000 Bonus Membership Rewards Points.",
+      "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale.",
+      "Lifestyle access | Complimentary ALL Accor+ Explorer, Taj Epicure, and EazyDiner Prime membership."
+    ],
+    "caveats": [
+      "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale.",
+      "Movie or online shopping vouchers | Enjoy movie or online shopping vouchers worth Rs. 12,000 per year on spending Rs. 50,000 every month. The page links to enroll; the linked page was not opened.",
+      "Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": 600000,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.americanexpress.com/in/credit-cards/platinum-reserve-credit-card/?intlink=in-acq-creditcards-platinumreserve"
+  },
+  {
+    "id": "amex_r_platinum_travel",
+    "name": "American Express(R) Platinum Travel Credit Card",
+    "issuer": "American Express",
+    "network": "amex",
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": 5000,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn 1 Membership Rewards Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale."
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Gift: 10,000 Membership Rewards points redeemable for Platinum Travel Collection.",
+      "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale.",
+      "Travel vouchers | Spend Rs. 1.9 lakhs in a Cardmembership year and get 7,500 Membership Rewards(R) points that can be redeemed on Platinum Travel Collection."
+    ],
+    "caveats": [
+      "Reward earn rate | Earn 1 Membership Rewards(R) Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale.",
+      "Earn 1 Membership Rewards Point for every Rs. 50 spent except for spend on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale.",
+      "The page says cardmembers can continue to earn Membership Rewards points on all spending, subject to the exclusions stated on the page."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": 50000,
+      "minAnnualItrInr": 600000,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.americanexpress.com/in/credit-cards/platinum-travel-credit-card/?linknav=IN-Acq-CreditCards-PlatinumTravelCreditCard"
+  }
+]

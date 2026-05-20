@@ -1,0 +1,754 @@
+[
+  {
+    "id": "yesbank_paisabazaar_paisasave_rupay",
+    "name": "Paisabazaar PaisaSave RuPay Credit Card",
+    "issuer": "YES BANK",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 6,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 6,
+        "notes": "Cashback accrued on all your spends will get credited as reward points to the credit card account, wherein 6% cashback equals 12 reward points per INR 200 spent on Dining & Travel and 1% cashback will be equal to 2 reward points per INR 200 on other spends."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 6,
+        "notes": "6% cashback"
+      },
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 6,
+        "notes": "12 Reward Points per INR 200 spent on Dining & Travel transactions *(a)(b)(c)(d)"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% cashback"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "2 Reward Points per INR 200 spent on Other spends *(a)(b)(c)"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Earn cashback on other",
+      "Earn maximum cashback on Dining & Travel spends",
+      "Accelerated Cashback"
+    ],
+    "caveats": [
+      "Earn maximum cashback on Dining & Travel spends",
+      "Terms and conditions / exclusions",
+      "For UPI transactions above INR 2000 on all categories, 1% cashback i.e. 2 reward points (RP) per INR 200 will be awarded except for transaction mentioned in exclusion categories."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/paisabazaar-rupay-credit-card"
+  },
+  {
+    "id": "yesbank_rupay",
+    "name": "YES BANK RuPay Credit Card",
+    "issuer": "YES BANK",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Power of UPI",
+      "Lifetime-Free Credit Card",
+      "Accelerated Reward Points on UPI"
+    ],
+    "caveats": [
+      "Terms and conditions / exclusions",
+      "Terms and Conditions apply",
+      "a) Maximum 5000 reward points in a month"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/rupay-credit-card"
+  },
+  {
+    "id": "yesbank_ace",
+    "name": "YES BANK ACE Credit Card",
+    "issuer": "YES BANK",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 4,
+        "notes": "8 Reward Points for ₹200 spent on online Shopping"
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping"
+        ],
+        "rate": 2,
+        "notes": "4 Reward Points for ₹200 spent on Offline Shopping"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "8 Reward Points for ₹200 spent on online Shopping",
+      "4 Reward Points for ₹200 spent on Offline Shopping",
+      "Fuel surcharge waiver at stations in India"
+    ],
+    "caveats": [
+      "Terms and Conditions",
+      "b) Maximum cap of 5000 reward points per statement cycle",
+      "f) The offer is available at only eligible outlets inside select malls across India. Terms and Conditions Apply. To know more Click Here"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 750000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/ace-credit-card"
+  },
+  {
+    "id": "yesbank_select",
+    "name": "YES BANK SELECT Credit Card",
+    "issuer": "YES BANK",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 2,
+        "notes": "Earn 2X Reward on every INR 200 spent on Online Shopping."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Accelerated Rewards on Online Shopping",
+      "Dedicated Reward Redemption Portal",
+      "Buy 1 Get 1 offer on Movie ticket with District"
+    ],
+    "caveats": [
+      "Terms and conditions / exclusions",
+      "Terms and Conditions",
+      "b) Maximum cap of 5000 reward points per statement cycle"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 750000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/select-credit-card"
+  },
+  {
+    "id": "yesbank_klick",
+    "name": "YES BANK KLICK Credit Card",
+    "issuer": "YES BANK",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "1% Fuel Surcharge Waiver",
+      "2 YES Rewardz for every INR 200 spent on non-UPI transactions",
+      "Get rewarded for all"
+    ],
+    "caveats": [
+      "Terms and conditions / exclusions"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/klick-credit-card"
+  },
+  {
+    "id": "yesbank_marquee",
+    "name": "YES BANK MARQUEE Credit Card",
+    "issuer": "YES BANK",
+    "network": "visa",
+    "upiEnabled": true,
+    "joiningFee": 4500,
+    "annualFee": 9999,
+    "feeWaiverSpend": 1000000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Accelerated YES Rewardz Points on Online Spends",
+      "40,000 YES Rewardz Points as Joining Benefits b",
+      "Complimentary ETPrime Subscription voucher worth INR 4,500 on Joining Fees realization"
+    ],
+    "caveats": [
+      "Terms and conditions / exclusions",
+      "a) Maximum 3 tickets (Buy 1 Get 1) per calendar month. Offer valid only for Movies tickets (Discount is capped at INR 800 per ticket). Click Here to view T&C.",
+      "c) Terms and Conditions apply. Insurance cover against accidental damage for 6 months for mobile & electronic devices purchased online. Click Here to Know More."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 3600000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/marquee-credit-card"
+  },
+  {
+    "id": "yesbank_wellness_plus",
+    "name": "YES BANK Wellness Plus Credit Card",
+    "issuer": "YES BANK",
+    "network": "mastercard",
+    "upiEnabled": true,
+    "joiningFee": 1499,
+    "annualFee": 1499,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 15,
+        "notes": "30 Reward Points per INR 200 spent on to Chemist/ Pharmaceutical stores b"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "6 Reward Points per INR 200 spent on all other categories c"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5X Reward Points on first 3 transactions of the biller registered on YES PayNow (valid only on first 5 billers registered) d .Please click here to know more"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": [
+      "Preferred Reward Points Program",
+      "30 Reward Points per INR 200 spent on to Chemist/ Pharmaceutical stores b",
+      "6 Reward Points per INR 200 spent on all other categories c"
+    ],
+    "caveats": [
+      "e. Terms and conditions apply. The list of lounges is subject to change at the sole discretion of MasterCard and without any prior notices to YES BANK or its Cardmembers.",
+      "For detailed Terms and Conditions please click here",
+      "1. Age Criteria: Minimum 21 years to maximum 60 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 750000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/wellness-plus-cards"
+  },
+  {
+    "id": "yesbank_private",
+    "name": "YES Private Credit Card",
+    "issuer": "YES BANK",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 50000,
+    "annualFee": 50000,
+    "feeWaiverSpend": 2500000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": [
+      "1st Year Membership Fee: Rs.50,000 + Applicable Taxes.",
+      "Renewal Membership Fee: Rs.10,000 + Applicable Taxes, reversed on spends of Rs. 25,00,000 within 12 months prior to the renewal",
+      "W.e.f 24 th Dec’2023: Get 20 Reward Points on domestic and 40 Reward Points on international spends for every INR 200 (1 Reward Point = upto 25 p)"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-private-credit-card"
+  },
+  {
+    "id": "yesbank_reserv",
+    "name": "YES BANK Reserv Credit Card",
+    "issuer": "YES BANK",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Complimentary International Airport Lounge Access",
+      "25% Discount Offer on BookMyShow l",
+      "Earn 8000 bonus Reward Points if"
+    ],
+    "caveats": [
+      "Terms and conditions / exclusions",
+      "Terms and Conditions",
+      "b) Maximum Capping of Rewards Points per statement cycle 36000."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 1800000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/cards/credit-card/reserv-credit-card"
+  },
+  {
+    "id": "yesbank_emi",
+    "name": "YES BANK EMI Credit Card",
+    "issuer": "YES BANK",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 120000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback on transactions b not converted into EMI"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback on other transactions"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Get 1% cashback of up to ₹ 500 per month on transactions not converted into EMIs",
+        "monthlyCap": 500
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Cashback Program",
+      "1% Cashback on transactions b not converted into EMI",
+      "Maximum Cashback cap is INR 500 per month"
+    ],
+    "caveats": [
+      "Maximum Cashback cap is INR 500 per month",
+      "For detailed Terms and Conditions please click here",
+      "1: Age Criteria: Minimum 21 years to maximum 60 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 750000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/emi-credit-card"
+  },
+  {
+    "id": "yesbank_byoc",
+    "name": "YES BANK BYOC Credit Card",
+    "issuer": "YES BANK",
+    "network": "mastercard",
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "In Cashback option, earn 1% cashback on all transactions a"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "In Reward Points option, get 8 Reward Points for every INR 200 spent on all transactions a"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 10,
+        "notes": "Build your personalized list of Offers by selecting Merchant Offers as per your needs with a flexibility to change your plan every month based on your changing needs. Earn 10% cashback on any amount spent on these merchants, as per the selected plan, subject t",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 10,
+        "notes": "Cashback: Earn 10% cashback upto INR 100 per merchant opted under the subscription plan per statement cycle. Cashback earned against spends will be posted in subsequent statement.",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 10,
+        "notes": "Total Cashback earned - 10% up to per 100 per merchant per statement cycle"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 1
+    },
+    "highlights": [
+      "Pick between unlimited cashbacks on your card spends or never expiring reward points",
+      "In Cashback option, earn 1% cashback on all transactions a",
+      "In Reward Points option, get 8 Reward Points for every INR 200 spent on all transactions a"
+    ],
+    "caveats": [
+      "a) Terms and conditions apply. The list of airport lounges is subject to change at the sole discretion of MasterCard and without any prior notices to YES BANK or its Cardmembers.",
+      "b) Terms and Conditions apply. The list of golf courses is subject to change at the sole discretion of MasterCard and without any prior notices to YES BANK or its Cardmembers.",
+      "For detailed Terms and Conditions please click here"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 750000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/personal-banking/yes-individual/cards/credit-cards/byoc-credit-card"
+  },
+  {
+    "id": "yesbank_prosperity_business",
+    "name": "YES Prosperity Business Card",
+    "issuer": "YES BANK",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2499,
+    "annualFee": 2499,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "4 Reward Points for every INR 200 on all categories e other than ‘Select categories’"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "2 Reward Points for every INR 200 on Select categories d"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0,
+        "notes": "Important Note: 10,000 Reward Points on 1st transaction within 30 days of card approval only for paid card with annual fee of INR 2499"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "8 reward points on ₹200 spent on selected categories"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "4 Reward Points for every INR 200 on all categories other than ‘Select categories *b"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 600000,
+        "label": "Earn 10,000 Reward Points on annual spends of INR 6 Lakhs or more in each anniversary year c,",
+        "rewardInr": 10000
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Annual Reward Points:",
+      "Earn 10,000 Reward Points on annual spends of INR 6 Lakhs or more in each anniversary year c,",
+      "Reward Points Program"
+    ],
+    "caveats": [
+      "2X i.e 8 Reward Points for every INR 200 on Airlines, Hotels, Dinning, Vehicle Rentals & Travel Services (Capped at 1500 Reward Points per statement cycle) a",
+      "Terms and Conditions apply. The list of lounges is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers",
+      "Term and Conditions apply. The list of golf courses is subject to change at the sole discretion of the network partner(VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers. Click here to know more"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 750000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/business-banking/cards/credit-cards/yes-prosperity-business-card"
+  },
+  {
+    "id": "yesbank_first_business",
+    "name": "YES First Business Card",
+    "issuer": "YES BANK",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 4999,
+    "annualFee": 4999,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "8 Reward Points for every INR 200 on all categories e other than ‘Select categories’"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "4 Reward Points for every INR 200 on Select categories d"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0,
+        "notes": "Important Note: 20,000 Reward Points on 1st transaction within 30 days of card approval only for paid card with annual fee of INR 4999"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 8,
+        "notes": "16 reward points on ₹200 spent on selected categories"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "8 Reward Points for every INR 200 on all categories other than ‘Select categories*b’"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 1200000,
+        "label": "Earn 20,000 Reward Points on achieving annual spends of INR 12 Lakhs or more in each anniversary year c,",
+        "rewardInr": 20000
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 6
+    },
+    "highlights": [
+      "Annual Bonus Reward Points:",
+      "Earn 20,000 Reward Points on achieving annual spends of INR 12 Lakhs or more in each anniversary year c,",
+      "Reward point program"
+    ],
+    "caveats": [
+      "2X i.e 16 Reward Points for every INR 200 on Airlines, Hotels, Dinning, Vehicle Rentals & Travel Services (Capped at 3,000 Reward Points per statement cycle) a",
+      "Terms and Conditions apply. The list of lounges is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers",
+      "Terms and conditions apply. The list of golf courses is subject to change at the sole discretion of the network partner (VISA or Mastercard) and without any prior notice to YES BANK or its Cardmembers. Click here to know more"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 1000000,
+      "minAge": 21
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.yes.bank.in/business-banking/cards/credit-cards/yes-first-business-card"
+  }
+]

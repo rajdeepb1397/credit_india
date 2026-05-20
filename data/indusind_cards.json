@@ -1,0 +1,659 @@
+[
+  {
+    "id": "indusind_platinum_rupay",
+    "name": "Platinum RuPay Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 2,
+        "notes": "Earn 2 Reward Points on every ₹ 100 transaction done through UPI"
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 2,
+        "notes": "Earn 2 Reward point on every ₹100 on UPI transaction."
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "notes": "Earn 1 Reward Point for every ₹ 100 on non UPI transactions"
+      },
+      {
+        "categories": [
+          "offline_shopping",
+          "upi_p2m"
+        ],
+        "rate": 2,
+        "notes": "Unlock Smart Savings by linking your Platinum RuPay credit card to UPI! Scan & Pay at any Merchant QR. Get 2 Reward Points per Rs.100 on every UPI transaction."
+      },
+      {
+        "categories": [
+          "upi_p2m"
+        ],
+        "rate": 2,
+        "notes": "2 reward points on every ₹100 spent via UPI transactions"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Pay Now with UPI",
+      "Pay Now with UPI on your IndusInd Bank Platinum RuPay Credit Card.",
+      "Credit Card enabled on UPI"
+    ],
+    "caveats": [
+      "1% Fuel Surcharge Waiver* T&C Apply",
+      "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month",
+      "We deeply value your need for choice and have tailored our redemption options to offer maximum benefit:"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/platinum-rupay-credit-card.html"
+  },
+  {
+    "id": "indusind_eazydiner_platinum",
+    "name": "EazyDiner Platinum Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn up to 2 Reward Points on every INR 100 spent",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn 2 Reward Points on every INR 100 spent, except on Fuel, Insurance, Rent, Utility and Government"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Eazydiner Credit Card Rewards",
+      "Earn Reward Points",
+      "Earn up to 2 Reward Points on every INR 100 spent"
+    ],
+    "caveats": [
+      "Fuel transactions will not earn Reward Points",
+      "This benefit is capped at 3 times usage a calendar month",
+      "Here’s how you can avail maximum discount when you dine-in with your EazyDiner IndusInd Bank Platinum Credit Card"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/eazydiner-platinum-credit-card.html"
+  },
+  {
+    "id": "indusind_legend",
+    "name": "Legend Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2 reward points for every ₹100 spent on weekends"
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 1,
+        "notes": "Please note: effective 1st January 2022, Medical, Automobiles & Telecom transactions will accrue 1 Reward Points on every Rs 100 spent on weekdays and weekends on your IndusInd Bank Legend Credit Card."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1 reward point for every Rs. 100 spent on weekdays"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2 reward points for every Rs. 100 spent on weekends"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Enjoy world-class privileges on travel, dining and shopping.",
+      "2 reward points for every ₹100 spent on weekends",
+      "Discounted Foreign Currency Mark-up"
+    ],
+    "caveats": [
+      "We absolutely understand your need for choice and have tailored our redemption options to offer you maximum benefit:",
+      "These brands are subject to change at the discretion of the Bank & Vouchagram.",
+      "The price of the free ticket is capped at ₹200. If the price is higher, you will get a ₹200 discount, and the remaining amount must be paid using your IndusInd Bank Legend Credit Card."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/legend-credit-card.html"
+  },
+  {
+    "id": "indusind_eazydiner",
+    "name": "EazyDiner Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2999,
+    "annualFee": 7500,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 7500,
+    "baseRewardRate": 4,
+    "rules": [
+      {
+        "categories": [
+          "hotels_domestic",
+          "hotels_intl",
+          "online_shopping"
+        ],
+        "rate": 10,
+        "notes": "Earn 10 Reward Points on every ₹100 spent on Hotel and Travel booking, shopping and entertainment"
+      },
+      {
+        "categories": [
+          "dining",
+          "groceries",
+          "online_shopping",
+          "offline_shopping",
+          "utilities",
+          "other"
+        ],
+        "rate": 4,
+        "notes": "Earn 4 Reward Points on every Rs 100 spent on all other spends (Except fuel and dining)"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Eazydiner Credit Card Rewards",
+      "Earn Reward Points",
+      "Earn 10 Reward Points on every ₹100 spent on Hotel and Travel booking, shopping and entertainment"
+    ],
+    "caveats": [
+      "In a month, the discount is capped at INR 2,000 without any spends criteria. To unlock additional discount of INR 3,000 in the same month. Spend INR 30,000 in previous calendar month on non- dining transactions.",
+      "Total Discount that can be availed in a month is maximum of INR 5,000.",
+      "Here’s how you can avail maximum discount when you dine-in with your EazyDiner Credit Card"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/eazydiner-credit-card.html"
+  },
+  {
+    "id": "indusind_platinum_aura_edge_visa_mastercard",
+    "name": "Platinum Aura Edge Visa/Mastercard Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 8,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 8,
+        "notes": "Earn up to 8x reward points on select merchants"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 8,
+        "notes": "Earn up to 8X Reward Points on select merchant categories."
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 8,
+        "notes": "Earn up to 8X Reward Points on select merchant categories, for every ₹100 spent. Choose from the following Reward Plans that match your lifestyle and multiply your rewards:",
+        "monthlyCap": 100
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Reward Plans",
+      "Flexibility to choose from 4 reward plans",
+      "Reward Points"
+    ],
+    "caveats": [
+      "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month",
+      "These brands are subject to change at the discretion of the Bank & Vouchagram.",
+      "Conditions apply. Refer to the Terms and Conditions section."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/platinum-aura-edge-visa-and-mastercard-credit-card-easy-credit.html"
+  },
+  {
+    "id": "indusind_platinum_visa",
+    "name": "Platinum Visa Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1.5 reward points for every ₹ 150 spent"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1.5 reward points for every Rs. 150 spent"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "The IndusInd Bank Platinum Visa Credit Card offers a comprehensive range of travel and lifestyle benefits to suit your preferences.",
+      "1.5 reward points for every ₹ 150 spent",
+      "Comprehensive insurance benefits"
+    ],
+    "caveats": [
+      "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month",
+      "We deeply value your need for choice and have tailored our redemption options to offer maximum benefit.",
+      "These brands are subject to change at the discretion of the Bank & Vouchagram."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/platinum-visa-credit-card.html"
+  },
+  {
+    "id": "indusind_pinnacle_world",
+    "name": "Pinnacle World Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "A luxurious range of lifestyle and travel privileges await you!",
+      "Enjoy a luxurious range of unique travel, lifestyle, and golf privileges and say goodbye to the feeling that you’re not getting what you paid for.\"",
+      "Reward Points"
+    ],
+    "caveats": [
+      "Terms and Conditions apply",
+      "Here are our tailored redemption options that offer maximum benefits:",
+      "Please note, w.e.f January 3, 2023, Reward Points on Rent payment transactions done through third-party merchants on your IndusInd Bank Pinnacle Credit Card will be capped at 500 in a statement cycle. T n C apply."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/pinnacle-world-credit-card.html"
+  },
+  {
+    "id": "indusind_avios_visa_infinite",
+    "name": "Avios Visa Infinite Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 2
+    },
+    "highlights": [
+      "Reimagine your international travel. Open doors to a unique experience.",
+      "3. Unmatched International Travel Benefits:",
+      "Rewards with IndusInd Bank Avios Visa Infinite Credit Card"
+    ],
+    "caveats": [
+      "Fuel transactions will not earn any Avios.",
+      "Redemptions are governed by the terms and conditions of the airline loyalty programme",
+      "Maximum 36,000 bonus Avios in a year."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/avios-visa-infinite-credit-card.html"
+  },
+  {
+    "id": "indusind_nexxt",
+    "name": "Nexxt Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 0.67,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.67,
+        "notes": "Earn 1 Reward Point for every ₹150 spent"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 0.67,
+        "notes": "Get 1 Reward Point for every ₹150 spent"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Earn 1 Reward Point for every ₹150 spent",
+      "Buy one get one ! Get up to two movie tickets capped at ₹ 200/- every month in a calendar year on booking via BookMyShow",
+      "Waiver of 1% on fuel surcharge at any petrol pump across India."
+    ],
+    "caveats": [
+      "Buy one get one ! Get up to two movie tickets capped at ₹ 200/- every month in a calendar year on booking via BookMyShow",
+      "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month",
+      "These brands are subject to change at the discretion of the Bank & Vouchagram."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/nexxt-credit-card.html"
+  },
+  {
+    "id": "indusind_tiger",
+    "name": "Tiger Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1.5,
+        "notes": "1.50% Discounted Forex Mark-up Fee"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Earn 1 Reward Point on every ₹ 100 spent on your Credit Card."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 2
+    },
+    "highlights": [
+      "By choosing the IndusInd Bank Tiger Credit Card, you’ve set yourself apart. Earn an identity, privileges and a rewarding life, which only a few deserve.",
+      "Earn upto 6 Accelerated Reward Points on every ₹100",
+      "1.50% Discounted Forex Mark-up Fee"
+    ],
+    "caveats": [
+      "Effective 1st September 2024, maximum reward points allowed for cash redemption will be 5000 per calendar month",
+      "Offer is subject to applicable detailed T&Cs.",
+      "What is the maximum number of Reward Points I can earn in a year?"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/tiger-credit-card.html"
+  },
+  {
+    "id": "indusind_samman",
+    "name": "Samman Credit Card",
+    "issuer": "IndusInd Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping",
+          "upi_p2m"
+        ],
+        "rate": 1,
+        "notes": "The IndusInd Bank Samman RuPay Credit Card for the government sector employees offers a comprehensive range of features such as scan & pay via UPI, 1% cashback on all retail spends, movie tickets and much more."
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1,
+        "notes": "Get 1% cashback on all Retail spends upto Rs.200 in every statement cycle.",
+        "monthlyCap": 200
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Get *1% cashback on all spends up to ₹ 20,000 in a statement cycle. The cashback earned in the current statement cycle will be credited to your credit card account in the subsequent statement cycle.",
+        "monthlyCap": 20000
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Cashback @ 1% on Spends"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 1,
+        "notes": "1% Cashback on all retail spends"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Now with the Power of UPI",
+      "The IndusInd Bank Samman RuPay Credit Card for the government sector employees offers a comprehensive range of features such as scan & pay via UPI, 1% cashback on all retail spends, movie tickets and much more.",
+      "Power of UPI"
+    ],
+    "caveats": [
+      "T&Cs Apply",
+      "Maximum cashback that can be earned in a statement cycle is capped at ₹200",
+      "The price of the free ticket is capped at INR 200. In case the price of the ticket is more than INR 200, the cardholder will receive a discount of INR 200 and the remaining amount will have to be paid using the IndusInd Bank Credit Card."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.indusind.bank.in/in/en/personal/cards/credit-card/samman-credit-card.html"
+  }
+]

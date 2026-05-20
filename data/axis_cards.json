@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "axis_indigo",
+    "name": "IndiGo Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 799,
+    "annualFee": 799,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 300000,
+        "label": "Voucher worth 1,200 IndiGo BluChips on achieving spends milestone of ₹1.5 Lakhs and again at ₹3 Lakhs cumulative annual spends.",
+        "rewardInr": 1200
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Turn your daily spends into IndiGo BluChips - unlocking flights, rewards, and unforgettable journeys. Swipe with purpose, earn with ease, and fly in style!",
+      "Welcome Benefit",
+      "Voucher worth 1,200 IndiGo BluChips as a welcome benefit on payment of the joining fee."
+    ],
+    "caveats": [
+      "1% transaction fee ( uncapped)"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/indigo-axis-bank-credit-card"
+  },
+  {
+    "id": "axis_rewards",
+    "name": "Rewards Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 10,
+        "notes": "Earn 10X reward points on every ₹125 spent on apparel and departmental stores."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 30000,
+        "label": "Based on assumption that milestone benefit of ₹30,000 per month is achieved 3 times a year"
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8
+    },
+    "highlights": [
+      "REWARDS Credit Card",
+      "Welcome benefit",
+      "Reward points"
+    ],
+    "caveats": [
+      "Valid on transactions between ₹400 to ₹5,000 only; maximum benefit up to ₹400 per statement cycle.",
+      "2% of the payment amount subject to min ₹500"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/rewards-credit-card"
+  },
+  {
+    "id": "axis_indianoil",
+    "name": "IndianOil Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": null,
+    "feeWaiverSpend": 350000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 4,
+        "notes": "Enjoy benefit of 4% value back on fuel transactions by earning 20 reward points per ₹100 spent at any IOCL fuel outlet in India."
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 1,
+        "notes": "Enjoy benefit of 1% value back on online shopping by earning 5 reward points per ₹100 spent."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Discount on movie tickets",
+      "Accelerated reward points at any IOCL fuel outlets",
+      "Welcome benefit - Earn 100% valueback on fuel"
+    ],
+    "caveats": [
+      "to view the terms and conditions.",
+      "Maximum eligible spends per calendar month: ₹5000",
+      "Maximum eligible spends per calendar month: ₹5,000"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 90,
+      "minAge": 15
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/indianoil-axis-bank-credit-card"
+  },
+  {
+    "id": "axis_kwik",
+    "name": "Axis Bank Kwik Credit Card",
+    "issuer": "Axis Bank",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "education",
+      "insurance"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Experience the convenience of UPI with your KWIK Rupay Credit Card",
+      "Linked to UPI \\| Earn rewards on every spend \\| No Joining/ Annual Fees",
+      "Credit Card on UPI"
+    ],
+    "caveats": [
+      "Enjoy a 1% fuel surcharge waiver on fuel purchases between ₹400 and ₹4,000, with a maximum waiver of up to ₹150 per month.",
+      "account by 7 working days of the following week. For detailed T&Cs refer",
+      "2% of the payment amount subject to Min. ₹500"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-kwik-credit-card"
+  },
+  {
+    "id": "axis_indigo_premium",
+    "name": "IndiGo Axis Bank Premium Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": 5000,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [
+      {
+        "spendThreshold": 1200000,
+        "label": "Unlock 4 vouchers worth 5000 IndiGo BluChips on achieving spends milestone at ₹2 Lakhs, ₹5 Lakhs, ₹8 lakhs and ₹12 Lakhs spends.",
+        "rewardInr": 5000
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 8
+    },
+    "highlights": [
+      "IndiGo Axis Bank Premium Credit Card unlocks a world of exciting travel rewards-every purchase brings you closer to your next adventure with IndiGo BluChips. So go ahead, swipe, earn and fly",
+      "Welcome benefit",
+      "Voucher worth 5000 IndiGo BluChips along with one complimentary 6E Eats voucher as a Welcome gift on payment of joining fee"
+    ],
+    "caveats": [
+      "for T&C on domestic lounge access and",
+      "for T&C on international lounge access.",
+      "1% transaction fee ( uncapped)"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/indigo-axis-bank-premium-credit-card"
+  },
+  {
+    "id": "axis_neo",
+    "name": "Axis Bank Neo Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 250,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 300,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 100,
+        "notes": "100% cashback up to ₹300 on first utility bill payment within first 30 days of card issuance",
+        "monthlyCap": 300
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 100,
+        "notes": "Activation Benefit:100% Cashback up to ₹300 on first Utility bill payment within first 30 days of card issuance",
+        "monthlyCap": 300
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "Up to 3% cashback on every transaction"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 25,
+        "notes": "A perfect card for movie lovers. Enjoy 25% cashback on movie tickets"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 25,
+        "notes": "25% cashback on movies"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Lifetime free Credit Card",
+      "Activation benefits & rewards",
+      "easy EMI options, and no hidden costs, the NEO Credit Card ensures a rewarding experience. It's your gateway to smarter spending and bigger savings."
+    ],
+    "caveats": [
+      "Maximum discount is capped at ₹120 per order",
+      "For detailed terms and conditions,",
+      "Enjoy a maximum discount of ₹150 each month, with a minimum transaction requirement of ₹299."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-neo-credit-card"
+  },
+  {
+    "id": "axis_flipkart",
+    "name": "Flipkart Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 250,
+    "annualFee": 500,
+    "feeWaiverSpend": 350000,
+    "welcomeBenefitInr": 600,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 4,
+        "notes": "Earn unlimited 4% cashback on Preferred Merchants."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Earn unlimited 1% cashback on other eligible categories"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome benefits",
+      "Cashback with every transaction",
+      "Earn 7.5% cashback on Myntra spends* capped at ₹4000 per statement quarter"
+    ],
+    "caveats": [
+      "Earn 7.5% cashback on Myntra spends* capped at ₹4000 per statement quarter",
+      "2% of the payment amount subject to min ₹500",
+      "Credit Card within 30 days of card issuance. For terms and conditions"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card"
+  },
+  {
+    "id": "axis_my_zone",
+    "name": "Axis Bank My Zone Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 500,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "fuel",
+      "wallet_loads",
+      "rent",
+      "education",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 150000,
+        "label": "You will be eligible to earn 1,000 EDGE REWARD Points on achieving annual spends of ₹1.5 lakhs in your card anniversary year"
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Buy One Get One Free on movie tickets",
+      "Enjoy 100% discount on your second movie ticket booked via District app using your MY ZONE Credit Card",
+      "Receive a SonyLIV premium annual subscription valued at ₹1499 for free"
+    ],
+    "caveats": [
+      "2% of the payment amount subject to minimum of ₹500",
+      "1% of transaction amount (Refunded for fuel transactions between ₹400 to ₹4,000. Maximum benefits up to",
+      "Maximum discount is capped at ₹120 per order."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-my-zone-credit-card"
+  },
+  {
+    "id": "axis_ace",
+    "name": "Axis Bank Ace Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 499,
+    "annualFee": 499,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1.5,
+    "rules": [
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "5% cashback* on Utility bill payments (electricity, internet, gas, and more) &DTH and mobile recharges on google pay"
+      },
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 4,
+        "notes": "4% cashback* on swiggy, zomato & ola"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1.5,
+        "notes": "1.5% cashback* on all other spends"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Cashback on all transactions",
+      "Complimentary lounge access",
+      "Fuel surcharge waiver"
+    ],
+    "caveats": [
+      "Enjoy 4 complimentary lounge visits per calendar year at select domestic airports with your ACE credit card. For list of airports and detailed terms and conditions,",
+      "Valid on transactions between ₹400 to ₹4000; Maximum benefit of up to ₹500 per statement",
+      "These are portfolio offers and are subject to change."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card"
+  },
+  {
+    "id": "axis_airtel",
+    "name": "Airtel Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 500,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 25,
+        "notes": "25% cashback* on Airtel Mobile, Broadband, WiFi and DTH bill payments via Airtel Thanks App (Max cap p.m is twice the base cashback earned during the same statement month)"
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 10,
+        "notes": "10% cashback* on utility bill payments such as gas, electricity, etc., via Airtel Thanks App (Max cap p.m is the base cashback earned during the same statement month)"
+      },
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 10,
+        "notes": "10% value back* on Zomato, Blinkit and District Movies. (Max value back of ₹200 per partner per month, Mov of ₹499 applicable for Zomato and Blinkit)",
+        "monthlyCap": 499
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% cashback/base cashback on all other spends *Cashback not applicable on excluded MCC categories."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Welcome benefits",
+      "World of cashback options",
+      "Fuel surcharge waiver"
+    ],
+    "caveats": [
+      "Some of the features and Terms and conditions on Airtel Axis Bank Credit Card will be revised w.e.f. 12th Apr'26. For more details,",
+      "25% cashback* on Airtel Mobile, Broadband, WiFi and DTH bill payments via Airtel Thanks App (Max cap p.m is twice the base cashback earned during the same statement month)",
+      "for terms and conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/airtel-axis-bank-credit-card"
+  },
+  {
+    "id": "axis_horizon",
+    "name": "Axis Horizon Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 3000,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 2,
+      "domestic": 8
+    },
+    "highlights": [
+      "Welcome Benefits",
+      "5000 EDGE Miles credited on the first transaction greater than or equal to ₹1000 within",
+      "1500 EDGE Miles worth ₹1,500 on completion of anniversary year"
+    ],
+    "caveats": [
+      "2% of the payment amount subject to Min. ₹500",
+      "1% fuel surcharge waiver on all fuel transactions between ₹ 400 to ₹ 5000, with a max cap of ₹ 400 on wavier in the statement month",
+      "# 1% fuel surcharge waived off for transactions between ₹400- ₹5000. This is capped at ₹400 per statement"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-horizon-credit-card"
+  },
+  {
+    "id": "axis_select",
+    "name": "Axis Bank Select Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 3000,
+    "annualFee": 3000,
+    "feeWaiverSpend": 800000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 12,
+      "domestic": 8
+    },
+    "highlights": [
+      "Axis EDGE Rewards",
+      "Welcome Benefits",
+      "life time free credit card"
+    ],
+    "caveats": [
+      "here for the terms and conditions for Priority Pass membership.",
+      "Valid on transactions between ₹400 and ₹4,000 only. You get maximum benefits of up to ₹400 per statement cycle.",
+      "Terms and conditions apply."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-select-credit-card"
+  },
+  {
+    "id": "axis_cashback",
+    "name": "Cashback Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 1000,
+    "annualFee": null,
+    "feeWaiverSpend": 400000,
+    "welcomeBenefitInr": 1000,
+    "baseRewardRate": 0.5,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 7,
+        "notes": "Enjoy up to 7% cashback on online spends. Spend more to unlock higher cashback"
+      },
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 0.75,
+        "notes": "Receive unlimited base cashback of 0.75% on all offline & travel related spends"
+      },
+      {
+        "categories": [
+          "utilities"
+        ],
+        "rate": 0.5,
+        "notes": "Get 0.5% cashback up to ₹100 on utilities bill payments",
+        "monthlyCap": 100
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn 2% cashback for spends up to ₹5000,",
+        "monthlyCap": 5000
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Earn 5% cashback for spends > ₹5,000 &"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Cashback Credit Card",
+      "Axis Bank Cashback Credit Card",
+      "Welcome Benefits"
+    ],
+    "caveats": [
+      "For terms and conditions,",
+      "Spends in excluded categories",
+      "Bonus Cashback capped at Rs 100/month"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card"
+  },
+  {
+    "id": "axis_magnus",
+    "name": "Axis Bank Magnus Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": 3000000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 6,
+        "notes": "Earn 12 EDGE Reward points per ₹200 on spends up to ₹1.50 Lakhs and 35 EDGE Reward points per ₹200 on incremental spends above ₹1.50 lakhs in a calendar month.",
+        "monthlyCap": 150000
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5X Reward points on spends via Travel EDGE."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "international": 12,
+      "domestic": 12
+    },
+    "highlights": [
+      "Travel & Stay",
+      "WELCOME BENEFIT",
+      "Choose any one voucher worth ₹12,500* from below options:"
+    ],
+    "caveats": [
+      "The Terms and Conditions of Axis Bank Magnus Credit Card have been updated w.e.f 1st September'23.",
+      "The Terms and Conditions of Axis Bank Magnus for Burgundy Credit Card have been updated w.e.f 20th April'24. Please",
+      "The Terms and Conditions of Axis Bank Magnus Credit Card have been updated w.e.f 20th April'24. Please"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 2400000,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-magnus-credit-card"
+  },
+  {
+    "id": "axis_reserve",
+    "name": "Reserve Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 50,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 50,
+        "notes": "50% cashback on movies"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome to Reserve",
+      "Experience the finer side of travel",
+      "airport concierge services"
+    ],
+    "caveats": [
+      "For most important terms and conditions,",
+      "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 1st September'23. Please",
+      "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 20th April'24. Please click"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/reserve-credit-card"
+  },
+  {
+    "id": "axis_my_zone_easy",
+    "name": "My Zone Easy Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 25,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 25,
+        "notes": "Get 25% cashback on movie tickets"
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 25,
+        "notes": "25% cashback on online and box office movie ticket purchases all week with your MY Zone Easy Credit Card"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Movie ticket cashback",
+      "Free credit for 50 days",
+      "Exciting cashback on movie tickets, delightful dinners, convert purchases to EMI, earn EDGE REWARD points and avail more such benefits on My Zone Easy Credit Card."
+    ],
+    "caveats": [
+      "2% of the payment amount subject to a minimum ₹500 and maximum ₹1,522",
+      "Charge structure is subject to change from time to time at the sole discretion of Axis Bank.",
+      "Fuel surcharge refund on spending at all fuel stations across India with MY Zone Easy Credit Card. Valid on transactions between ₹400 and ₹4,000 only. Maximum benefits up to ₹400* per statement cycle."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/my-zone-easy-credit-card"
+  },
+  {
+    "id": "axis_privilege_easy",
+    "name": "Privilege Easy Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 2500,
+    "annualFee": null,
+    "feeWaiverSpend": 500000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 250000,
+        "label": "Get additional 10,000 EDGE reward points worth ₹2000 upon achieving spends milestone of ₹2.5 lakhs in a card anniversary year."
+      },
+      {
+        "spendThreshold": 250000,
+        "label": "points worth ₹2000 upon achieving spends milestone of ₹2.5 lakhs in a card anniversary year."
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Milestone benefit",
+      "Lounge benefit",
+      "users or those looking to improve their credit history. Hassle-free process with flexible credit limits linked to your deposit."
+    ],
+    "caveats": [
+      "for detailed terms and conditions.",
+      "Maximum benefits up to ₹400 per month",
+      "Terms and Conditions apply."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/privilege-easy-credit-card"
+  },
+  {
+    "id": "axis_pride_platinum",
+    "name": "Pride Platinum Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": 20000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "4 points on every ₹200 spent on the Credit Card."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Dining Delights Discounts",
+      "Fuel Surcharge Waiver",
+      "eDGE loyalty reward points for each transaction"
+    ],
+    "caveats": [
+      "Maximum benefits up to ₹250 per statement cycle",
+      "Terms and Conditions apply. For details, refer to card member agreement clause no. 18.",
+      "for detailed Terms and conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/pride-platinum-credit-card"
+  },
+  {
+    "id": "axis_pride_signature",
+    "name": "Pride Signature Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": null,
+    "annualFee": null,
+    "feeWaiverSpend": 40000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 4,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "8 points for every ₹200 spent through your Credit Card"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Complimentary Lounge Access",
+      "Dining Delights Discount",
+      "Fuel Surcharge Waiver"
+    ],
+    "caveats": [
+      "For more details and terms and conditions, please",
+      "Maximum benefits up to ₹400 per statement cycle",
+      "Terms and Conditions apply. For details, refer to Card Member Agreement clause no. 18"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/pride-signature-credit-card"
+  },
+  {
+    "id": "axis_signature_credit_card_with_lifestyle_benefits",
+    "name": "Signature Credit Card With Lifestyle Benefits",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": true,
+    "joiningFee": 5000,
+    "annualFee": 3000,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 50,
+        "notes": "Get 50% cashback on movie ticket bookings"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 50,
+        "notes": "You can enjoy 50% cashback on movie tickets purchased through BookMyShow with Signature Credit Card."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "10 points on every ₹ 200 spent on the"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "20 points on every ₹ 200 spent on the credit card internationally"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 25,
+        "notes": "25% cashback on movies"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Get a card with a world of privileges like Satya Paul vouchers, cashback on movie tickets, discount on dining and lots more",
+      "Airport Lounge Access",
+      "The Signature Credit Card you can get 15% discount on dining as benefits of Signature Credit Card. Complimentary access to airport lounges with the Signature Credit Card."
+    ],
+    "caveats": [
+      "Terms and Conditions apply.",
+      ". for more details and terms and conditions.",
+      "Only membership to the Priority Pass program is complimentary for the primary cardholder. Any visits to the lounge by the primary cardholder/add-on cardholder/guest would be chargeable. Please refer to the terms and conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 900000,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/signature-credit-card-with-lifestyle-benefits"
+  },
+  {
+    "id": "axis_platinum",
+    "name": "Platinum Credit Card",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 200,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "fuel"
+        ],
+        "rate": 25,
+        "notes": "Axis Bank Platinum Credit Card offers unrivaled safety with an EMV certified chip and comes with a variety of other privileges. The benefits of Platinum Credit Card include up to 25% cashback on movie tickets, fuel surcharge waiver on fuel transactions up to ₹",
+        "monthlyCap": 400
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 25,
+        "notes": "25% cashback on online and box office ticket purchases on all days of the week."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "6 points on every ₹200 spent on the credit card domestically"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 6,
+        "notes": "12 points on every ₹200 spent on the credit card internationally"
+      },
+      {
+        "categories": [
+          "dining",
+          "fuel"
+        ],
+        "rate": 25,
+        "notes": "For Platinum Advantage Credit Card Holders, effective from January 1, 2012, the annual fee will be reduced to ₹200 from ₹500. In light of the same, the cashback offers on dining and fuel spends will be discontinued; whereas the 25% cashback on movie spends (wi"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Cashback on Movie Ticket Purchases",
+      "Fuel Surcharge Waiver",
+      "The benefits of Platinum Credit Card include easy access to Visa's International Global Card Assistance Services, waivers on fuel surcharge,"
+    ],
+    "caveats": [
+      "For terms and conditions,",
+      "Maximum benefits up to ₹400* per statement cycle.",
+      "The fees and charges for Platinum Credit Card include joining fees, annual fees, cash payment and withdrawal fees and certain penalties (if any) amongst others. Some Platinum Credit Card fees are however subject to certain waivers."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/platinum-credit-card"
+  },
+  {
+    "id": "axis_flipkart_super_elite",
+    "name": "Flipkart Axis Bank Super Elite Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": 750,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Earn 2 points per spend of ₹200 and 5x reward points on Insurance"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefits",
+      "Fuel Surcharge Waiver",
+      "Earn even as you spend! For every transaction you do on your Flipkart Axis Bank SuperElite Credit card, reward points are credited to your SuperCoins balance in the Flipkart app."
+    ],
+    "caveats": [
+      "Extra ₹500 off on Myntra select styles* (* - valid on maximum 3 transactions on orders above ₹2,999).",
+      "15% off on domestic flight booking via Flipkart Flights* (* - maximum discount of up to ₹1,500).",
+      "2% of the payment amount subject to (Min. ₹500)"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/flipkart-axis-bank-super-elite-credit-card"
+  },
+  {
+    "id": "axis_titanium_smart_traveler",
+    "name": "Titanium Smart Traveler Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 250,
+    "annualFee": 100,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 4,
+        "notes": "8 points on every ₹ 200 spent on the credit card while traveling abroad"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "2 points on every ₹ 200 spent on the"
+      }
+    ],
+    "excludedCategories": [
+      "fuel",
+      "rent",
+      "insurance",
+      "utilities"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Titanium Smart Traveler Credit Card",
+      "Titanium Smart Traveler",
+      "A card with extra travel benefits to make your"
+    ],
+    "caveats": [
+      "Maximum benefits up to ₹ 400* per statement cycle",
+      "fee of INR 500 and no maximum cap on the fee",
+      "Terms and conditions for Titanium Smart Traveller Credit Card are applicable to all Credit Cardholders, applicants for Credit Cards, customers of Axis Bank, members of the general public, and are subject to changes."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/titanium-smart-traveler-credit-card"
+  },
+  {
+    "id": "axis_samsung_infinite",
+    "name": "Samsung Axis Bank Infinite Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 5000,
+    "annualFee": 5000,
+    "feeWaiverSpend": 700000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10% cashback on Samsung purchases (including EMI transactions)"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 15,
+        "notes": "15 EDGE REWARD POINTS on every ₹100 spent with our preferred partners bigbasket, Tata1mg, UrbanCompany, Myntra, Zomato"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 15,
+        "notes": "15 EDGE REWARD POINTS on every ₹100 spent on all international transactions."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 8,
+      "international": 6
+    },
+    "highlights": [
+      "Welcome Benefit",
+      "World of Cashback",
+      "Accelerated rewards"
+    ],
+    "caveats": [
+      "Enjoy complimentary 1 year of free Eazy Diner prime membership with your Samsung Axis Bank Infinite Credit Card subject to activation of card",
+      "Cashback is capped at ₹5,000 per month and ₹20,000 per annum",
+      "Enjoy 8 complimentary lounge visits per calendar year at select domestic airports with your Samsung Axis Bank Infinite credit card. For details on list of Airports & associated T&Cs"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-infinite-credit-card"
+  },
+  {
+    "id": "axis_fibe",
+    "name": "Fibe Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "Up to 3% cashback on daily spends"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "Up to 3% cashback on every transaction"
+      },
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 3,
+        "notes": "3% cashback* on food delivery, entertainment & local commute"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% cashback* on all other spends."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Up to 3% cashback on daily spends",
+      "Enjoy a lifetime free credit card",
+      "1% fuel surcharge waiver"
+    ],
+    "caveats": [
+      "To view select airport lounge list and T&C,",
+      "To view cashback T&C,",
+      "2% of the payment amount subject to Min. ₹ 500"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/fibe-axis-bank-credit-card"
+  },
+  {
+    "id": "axis_shoppers_stop",
+    "name": "Axis Bank Shoppers Stop Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": 100000,
+    "welcomeBenefitInr": 300,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefits",
+      "Enjoy First Citizen reward points worth ₹300 upon first transaction within 30 days of card issuance",
+      "Reward Points"
+    ],
+    "caveats": [
+      "Maximum discount is capped at ₹500 per month",
+      "Valid on transactions between ₹400 to ₹5000 only; maximum benefit up to ₹400 per statement cycle",
+      "2% of the payment amount subject to Min. ₹500"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-shoppers-stop-credit-card"
+  },
+  {
+    "id": "axis_samsung_signature",
+    "name": "Samsung Axis Bank Signature Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 500,
+    "annualFee": 200000,
+    "feeWaiverSpend": 200000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 10,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10% cashback on Samsung purchases (including EMI transactions)"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10 EDGE REWARD POINTS on every ₹100 spent with our preferred partners bigbasket, Tata1mg,"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 10,
+        "notes": "10 EDGE REWARD POINTS on every Rs 100 spent with our preferred partners bigbasket, Tata1mg,"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 4
+    },
+    "highlights": [
+      "Welcome Benefit",
+      "World of Cashback",
+      "Accelerated rewards"
+    ],
+    "caveats": [
+      "Cashback is capped at INR 2,500 per month and INR 10,000 per annum",
+      "Enjoy 4 complimentary lounge visits per calendar year at select domestic airports with your Samsung Axis Bank Signature credit card. For details on list of Airports & associated T&Cs",
+      "Disclaimer: These are portfolio offers and are subject to change at Bank's discretion."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/samsung-axis-bank-signature-credit-card"
+  },
+  {
+    "id": "axis_miles_more",
+    "name": "Miles More Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 3500,
+    "annualFee": 4500,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 40,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 40,
+        "notes": "Get 40% off or up to ₹1000 and 25% off or up to ₹800 at our partner restaurants across the country on Miles & More Axis Bank World Select Credit Card. Visit",
+        "monthlyCap": 1000
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 32
+    },
+    "highlights": [
+      "Miles More Credit Card",
+      "Miles & More Axis Bank Credit Card",
+      "All miles redemption are done via Miles & More only. Please contact 18001025838 from Monday to Friday (9am to"
+    ],
+    "caveats": [
+      "to know more T&Cs",
+      "Terms and conditions apply",
+      "Lounge visits post complimentary visits are subject to per person per visit charge"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/miles-more-credit-card"
+  },
+  {
+    "id": "axis_freecharge",
+    "name": "Axis Bank Freecharge Credit Card",
+    "issuer": "Axis Bank",
+    "network": "visa",
+    "upiEnabled": false,
+    "joiningFee": 250,
+    "annualFee": null,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": null,
+    "rules": [],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Axis Bank Freecharge Credit Card",
+      "Available instantly on Freecharge App to eligible customers",
+      "on achieving Milestones"
+    ],
+    "caveats": [
+      "2% of the payment amount subject to Min. ₹500",
+      "Terms and Conditions",
+      "The terms and conditions of Axis Bank Freecharge Credit Card have been updated w.e.f 20th June, 2025. Please"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-credit-card"
+  },
+  {
+    "id": "axis_freecharge_plus",
+    "name": "Axis Bank Freecharge Plus Credit Card",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 350,
+    "annualFee": null,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5% cashback on Freecharge spends"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "5% cashback on Freecharge spending."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2% cashback on local commute."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1% cashback on all other spending."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Axis Bank Freecharge Plus Credit Card",
+      "Get cashback on every spend",
+      "5% cashback on Freecharge spends"
+    ],
+    "caveats": [
+      "2% of the payment amount subject to Min. ₹500",
+      "Terms and Conditions",
+      "The terms and conditions of Axis Bank Freecharge Plus Credit Card have been updated w.e.f 20th June, 2025. Please"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.axis.bank.in/cards/credit-card/axis-bank-freecharge-plus-credit-card"
+  },
+  {
+    "id": "axis_privilege_credit_card_with_unlimited_benefits",
+    "name": "Privilege Credit Card With Unlimited Benefits",
+    "issuer": "Axis Bank",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 2500,
+    "annualFee": null,
+    "feeWaiverSpend": 500000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "10 points on every ₹200 spent on the"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Buy one get one offer on movie tickets",
+      "Enjoy 100% discount on your second movie ticket booked via District app using your Axis Bank Privilege Credit Card.",
+      "Milestone benefit"
+    ],
+    "caveats": [
+      "Maximum benefits of up to ₹400 per statement cycle.",
+      "Terms and conditions apply.",
+      "for detailed terms and conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.axis.bank.in/cards/credit-card/privilege-credit-card-with-unlimited-benefits"
+  }
+]

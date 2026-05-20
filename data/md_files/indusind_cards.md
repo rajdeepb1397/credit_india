@@ -1,0 +1,1815 @@
+# IndusInd Bank Cards
+
+## Platinum RuPay Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/platinum-rupay-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Apply for Platinum RuPay Credit Card Online  
+**Official meta description:** Unlock rewards with Lifetime Free IndusInd Bank Platinum RuPay Credit Card. Earn 2 reward points on UPI transactions, plus a 1% fuel surcharge waiver. Apply now!  
+
+### Official extracted card text
+
+- IndusInd Bank Platinum RuPay Credit Card
+- Pay Now with UPI
+- IndusInd Platinum RuPay Credit Card
+- Platinum RuPay Credit Card
+- Pay Now with UPI on your IndusInd Bank Platinum RuPay Credit Card.
+- Credit Card enabled on UPI
+- Earn 2 Reward Points on every ₹ 100 transaction done through UPI
+- Lifetime Free - Zero Joining Fee & Zero Annual Fee
+- 1% Fuel Surcharge Waiver* T&C Apply
+- From 15th December 2024, the value of non-cash redemption (excluding airmiles) will be 1 RP = Rs.0.60
+- Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month
+- For existing IndusInd Bank Credit cardholders* please click Apply Now
+- *excluding co-brand credit cards
+- Not Holding any IndusInd Bank Credit Card? Apply Now
+- Platinum RuPay Credit Card Rewards
+- Earn Reward Points
+- Earn 2 Reward point on every ₹100 on UPI transaction.
+- Redeem Reward Points
+- Choose from multiple reward redemption options.
+- Earn 1 Reward Point for every ₹ 100 on non UPI transactions
+- Earn ₹ 0.70 for every ₹ 100 on select merchant categories (Applicable for both UPI & Non-UPI transactions)
+- Fuel transactions will not accrue any reward points
+- Reward Points will be earned only for spends up to assigned credit limit in every statement cycle
+- We deeply value your need for choice and have tailored our redemption options to offer maximum benefit:
+- IndusMoments
+- Airline Miles on Krisflyer
+- Cash Credit
+- Pay with Rewards
+- Important Notice: Reward Points Redemption towards Club Vistara Airmiles on www.indusmoments.com
+- for your IndusInd Bank Credit Card will be discontinued effective 31st Oct 2024.
+- Important Notice: Reward Points redemption towards InterMiles for your IndusInd Bank Credit Card will be discontinued effective 21st January, 2025.
+- IndusInd Bank Platinum RuPay Credit Card Benefits
+- Overview
+- Credit Card on UPI
+- Platinum Travel
+- Platinum Freedom
+- Platinum Assurance
+- Enjoy the benefits of a Credit Card with the convenience of UPI—best of both worlds—with the IndusInd Bank Platinum RuPay Credit Card. Effortlessly link your card to popular UPI apps such as BHIM, Google Pay, PhonePe etc. and enjoy seamless digital payment experience with rewards on every transaction.
+- Earn 2 reward points for every ₹100 spent via UPI and 1 reward point for non-UPI transactions, with flexible redemption options. That’s not all! With your UPI-linked RuPay Credit Card, enjoy additional perks including fuel surcharge waivers, travel insurance, and fraud protection coverage. Apply for your RuPay Credit Card now!
+- Link your Platinum RuPay Credit Card on UPI in Few Steps
+- Step 1: Open your UPI app* BHIM, PhonePe, Paytm, Google Pay.
+- Step 2: Select the option "Add Credit Card/Link Credit Card"
+- Step 3: Select Credit Card Issuer Bank (IndusInd Bank)
+- Step 4: Select your IndusInd Bank Platinum RuPay Credit Card
+- Step 5: Proceed to generate UPI PIN
+- *(Download the UPI app from Playstore/App Store if you are not registered on any UPI app yet, verify your mobile no. and continue from Step 2 as shared above)
+- Set UPI Pin
+- Step 1: Select Generate PIN option > Select Platinum RuPay Credit Card
+- Step 2: Enter Platinum RuPay Credit Card Details:
+- Last 6 digits
+- Expiry Date
+- (OTP will be triggered on your registered mobile number)
+- Step 3: Enter OTP and Set PIN of your choice
+- Making UPI Payments with your Platinum RuPay Credit Card
+- Scan Merchant QR Code or enter Merchant UPI ID
+- Enter Amount to be paid or pay auto-fetched amount
+- Select Platinum Rupay Credit Card from the list of payment options
+- Enter UPI PIN of your Credit Card & Click Confirm
+- (Transaction status can be seen in Transaction History of your UPI App)
+- Here Is Why You Should Opt For UPI Payments Via Credit Cards
+- Travel Insurance Cover Details
+- Travel insurance is a priority document for all your trips. IndusInd Bank has tied up with The Oriental Insurance Company Ltd. (‘Insurance Company’) as a group manager to provide cardholders with the following insurance cover under its program:
+- Insurance Cover
+- Sum Assured (up to)
+- Lost baggage
+- ₹ 1,00,000
+- Delayed baggage
+- ₹ 25,000
+- Loss of passport
+- ₹ 50,000
+- Lost ticket
+- Missed connection
+- Avail freedom from surcharge on petrol at petrol pumps across India. Enjoy a waiver* of 1% on fuel surcharge at any petrol pump within India.
+- Value Offering
+- Petrol Surcharge Waiver
+- Monthly Savings
+- Annual Savings
+- Monthly fuel usage @ Rs 4000
+- Rs 40
+- Rs 480
+- The information given in the value offering is based on certain assumptions and is for illustration purposes only. Actual savings will depend on the usage pattern of the individual cardholder.
+- Total Protect
+- Has your card fallen into wrong hands? Attempted fraudulent usage of your card can no more pose a threat! Total Protect is a first-of-its-kind program that covers you for a sum up to the credit limit on your credit card
+- and is available on add-on cards as well. With us, you can be completely worry-free about any fraudulent transactions performed using your card.
+- Total Protect covers you for the following:
+- Unauthorised transactions in case of loss/theft of card : We provide an insurance cover up to 48 hours prior to you reporting the loss of your card to IndusInd Bank.
+- Counterfeit fraud : It is possible that your card or card details are stolen and used unscrupulously by producing counterfeit plastic. We offer you insurance to protect yourself against such incidents.
+- Unlock Smart Savings by linking your Platinum RuPay credit card to UPI! Scan & Pay at any Merchant QR. Get 2 Reward Points per Rs.100 on every UPI transaction.
+- FAQs
+- Can I use my Platinum RuPay Credit Card for online purchases from international merchants?
+- Yes, you can use the Platinum RuPay Credit Card for international transactions. However, note that it comes with 3.5% Forex Mark-up. Hence, it is advisable to use it cautiously.
+- Are there any special benefits or discounts exclusive to Platinum RuPay Credit Card holders?
+- Platinum RuPay Credit Card holders enjoy several exclusive benefits, such as:
+- 2 reward points on every ₹100 spent via UPI transactions
+- 1 reward point for every ₹100 spent via non-UPI transactions
+- 1% fuel surcharge waiver
+- Travel insurance coverage worth 2.25L, with lost baggage coverage up to ₹1 lakh, passport loss cover up to ₹50,000 and Delayed baggage/ Lost ticket/ Missed connection up to ₹25,000 each.
+- Most importantly, you can use the card to make payments via UPI. This way, you can make purchases even when you do not have a physical credit card with you.
+- How to apply for Platinum RuPay Credit Card?
+- To apply for the RuPay Credit Card, you can visit the IndusInd Bank website or click the ‘Apply Now’ button. Both existing and new customers are eligible to apply.
+- You can complete the application process online. Simply provide your details, choose a card offer, accept the card terms and do a quick VKYC and you are done.
+- Is there any joining fee and annual fee for RuPay Credit Card?
+- The Platinum RuPay Credit Card is lifetime-free. So, you do not have to pay any joining fees or annual fees at all. This, along with the rewards programmes, fuel surcharge waiver, travel insurance coverage, and other benefits, makes the Platinum RuPay Credit Card an excellent choice.
+- Apply for the lifetime-free RuPay Credit Card now!
+- Are there any rewards for non-UPI transactions on the Platinum RuPay Credit Card?
+- Yes, for non-UPI transactions, you earn 1 reward point for every ₹100 spent. Additionally, you can earn ₹0.70 for every ₹100 on select merchant categories, applicable to both UPI and non-UPI transactions. However, fuel transactions are excluded from earning reward points.
+- The rewards program ensures that whether you use the Platinum RuPay Credit Card for UPI payments or otherwise, you will have a rewarding experience!
+
+## EazyDiner Platinum Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/eazydiner-platinum-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** EazyDiner Platinum Credit Card - Apply for EazyDiner Platinum Credit Card for Dining \| IndusInd Bank  
+**Official meta description:** Elevate your dining experience with the EazyDiner Credit Card by IndusInd Bank. Enjoy exclusive benefits like up to 50% discount on dining, 3-month EazyDiner Prime membership and more!  
+
+### Official extracted card text
+
+- EazyDiner Platinum Credit Card
+- Enjoy the Eazy way to dine
+- EazyDiner IndusInd Bank Platinum Credit Card
+- Overview
+- Savour the best of culinary cuisines as IndusInd Bank and EazyDiner bring you the EazyDiner IndusInd Bank Platinum Credit Card. This credit card is specially curated to open the doors to delectable offers, rewards that will tingle your taste buds, and a lifestyle that matches your persona
+- Eazydiner Credit Card Rewards
+- Earn Reward Points
+- Earn up to 2 Reward Points on every INR 100 spent
+- Pay with Reward Points
+- Instant redemption of Reward Points against restaurant bills for extra discount
+- Earn 2 Reward Points on every INR 100 spent, except on Fuel, Insurance, Rent, Utility and Government
+- Earn 0.7 Reward Points on Insurance, Rent, Utility and Government spends
+- Get 2X EazyPoints using your EazyDiner IndusInd Bank Credit Card
+- Fuel transactions will not earn Reward Points
+- Reward Points will be earned only for spends up to assigned credit limit in every statement cycle
+- Redeem EazyPoints for FREE hotel stays, meals & exclusive restaurant events across the country.
+- 1 Reward Point = INR 0.20
+- EazyDiner Credit Card Benefits
+- Welcome
+- Dining
+- PRIME Renewal
+- Milestone
+- Other Benefits
+- Welcome benefits with your EazyDiner Credit Card
+- It's time to indulge in delectable dining experiences with the EazyDiner IndusInd Bank Platinum Credit Card!
+- Enjoy 3 months EazyDiner Prime membership worth INR 1,095. Enjoy GUARANTEED 25% up to 50% OFF at over 2000+ premium restaurants & bars
+- Unlock more Prime-exclusive benefits like 2X EazyPoints and redeem them for FREE luxury hotel stays & FREE meals
+- 500 welcome bonus EazyPoints
+- This is an LTF card (Life-Time Free) with no joining fees and no annual fees
+- Extra instant INR 500 off when you eat out
+- Avail EXTRA 20% OFF upto INR 500 when you eat out & pay on the app via PayEazy. This offer is valid on take-away as well
+- This benefit is capped at 3 times usage a calendar month
+- Exclusive Extra 20% OFF up to INR 500 is applicable through EazyDiner IndusInd Bank Platinum Credit Card only on paying on the EazyDiner App via PayEazy
+- Extra 20% OFF will NOT be applicable if the bill is paid using any other payment mode i.e. payment done using EazyDiner IndusInd Bank Platinum Credit Card physically, other cards, UPI, wallets etc
+- The discount will be auto applied on the EazyDiner App and there is no need to enter any promo code.
+- Extra 20% off will not be applicable if consecutive transactions are made at the same restaurant within the gap of 120 minutes or less
+- Enjoy 3 month Prime membership renewal upon spends of INR 30,000 in 90 days
+- You can get 2000 Reward Points upon spending INR 30,000 every 90 days.
+- Please note that dining spends would not be considered for milestone benefit
+- Enjoy 1% fuel surcharge waiver* across all fuel stations in India. Enjoy Contactless Tap and Pay feature for safe and secure transactions.
+- Year-end Summary of Accounts: We ensure that a record of your expenses is maintained. Your card provides you with a year-end summary to give you an overview of your card spendings for a financial year. Once you view your summary, you can use this benefit to help simplify your budgeting and tax preparation. Your online year-end summary contains your transactions for the financial year and an analysis of your spends by Month, Charge Amounts, Merchant Category, your own charges and the charges for your business card or additional cards.
+- *Terms & conditions apply.
+- GST on fuel surcharge as per standard rate shall be applicable and borne by the Cardholder.
+- Total Protect
+- Are you afraid of your card falling into the wrong hands? Relax! Fraudulent use of your card is not a threat anymore. ‘Total Protect’ is a first-of-its-kind program that covers you for an amount equal to the credit limit on your card and is available on Add-on cards as well. So you have no reason to worry about fraudulent transactions on your card.
+- Total Protect covers
+- Unauthorised transactions in case of loss/theft of card: We provide an insurance cover up to 48 hours prior to you reporting the loss of your card to IndusInd Bank. Counterfeit fraud: In case of card details being stolen and used unscrupulously with counterfeit plastic, we offer protection against such incidents as well.
+- How to Maximize Benefits
+- Here’s how you can avail maximum discount when you dine-in with your EazyDiner IndusInd Bank Platinum Credit Card
+- Step 1: Go to EazyDiner App/Website
+- Step 2: Select a deal at your choice of restaurant and confirm the booking.
+- Step 3: Enjoy your meal.
+- Step 4: To make payment towards the bill, open the EazyDiner App and select PayEazy.
+- Offers Details
+- Amount (INR)
+- Total billing amount
+- INR 5000
+- 25% Discount on your prime membership
+- (-) INR 1250
+- Balance Amount payable
+- INR 3750
+- Extra 20% Discount when paying through EazyDiner IndusInd Bank Platinum Credit Card (capped at INR 500)
+- (-) INR 500
+- INR 3250
+- Redeem Reward Points instantly (assume that
+- you have 1000 reward points and value of each
+- reward points is INR 0.20)
+- (-) INR 200
+- Final Amount payable
+- INR 3050
+- Total Discount on a bill of INR 5000
+- INR 1950
+- to know how to maximize your benefits
+- Contactless Credit Card Features
+- The contactless feature of the card enables fast, convenient and secure purchases by just tapping your card at merchant locations that accept contactless payments. It can also be used at all merchant locations where standard card payments are accepted.
+- You can make purchases at merchant establishments; for travel, online or e-commerce websites and withdraw cash in India and across the globe.
+- With your EazyDiner IndusInd Bank Platinum Credit Card, you can:
+- Enjoy faster day-to-day payments at merchant locations that accept contactless payments
+- Shop at over 10 lakh merchant outlets in India and over 30 million outlets worldwide that accept card payments
+- Book movie tickets, pay your utility bills, make online purchases, book your travel tickets and do a lot more
+- Be assured of safe online shopping and e-commerce transactions
+- Here’s our merchant list
+- for your card transactions.
+- Just wave your credit card
+- at merchant locations that accept contactless payments and experience the new-age credit card from IndusInd Bank.
+- EazyDiner Induslnd Bank Credit Card is a co-branded credit card issued by Induslnd Bank in partnership with EazyDiner Private Limited. There is a revenue sharing arrangement between Induslnd Bank & EazyDiner Private Limited for this co-branded credit card.
+- About Eazydiner
+- “Founded by a team of experienced restaurateurs and hoteliers, EazyDiner is India’s leading food discovery, table reservation & restaurant payment platform. It helps users discover great restaurants and bars, get guaranteed reservations within 10 seconds at over 15,000+ restaurants and every reservation comes with a deal, enhancing the dining experience. Diners can earn EazyPoints – EazyDiner’s loyalty program reward points – which can be further redeemed for free meals & free hotel stays. EazyDiner Prime is the award winning dining program which gives customers a guaranteed 25% to 50% off at the hottest bars and restaurants. EazyDiner has also partnered with IndusInd Bank to introduce two co-branded credit cards - Signature and Platinum, on the Visa platform. These cards provide users with additional benefits, offering savings of up to Rs.1000 OFF on dining experiences, further enhancing the allure of indulging through EazyDiner.”
+- FAQs
+- What is EazyDiner IndusInd Bank Platinum Credit Card?
+- IndusInd Bank EazyDiner IndusInd Bank Platinum Credit Card is a powerful dining credit card with incredible rewards. From instant discounts to accelerated rewards, this card is designed for those who enjoy living life to the fullest.
+- How to redeem reward points from EazyDiner IndusInd Bank Platinum Credit Card?
+- Reward Points earned on the EazyDiner IndusInd Bank Platinum Credit Card spends can be redeemed at the time of payment via PayEazy against the restaurant bill. Other redemption requests are available in the redemption catalogue on the EazyDiner App.
+- What are the benefits of EazyDiner IndusInd Bank Platinum Credit Card?
+- Here are the unmatched benefits of theEazyDiner IndusInd Bank Platinum Credit Card:
+- 3 month EazyDiner Prime Membership with INR 1,095
+- Extra instant 20% OFF upto INR 500 every time you book and pay on the EazyDiner app
+- Enjoy 2000 Reward Points on spending INR 30,000 every 90 days
+- 3 month Prime membership renewal upon spends of INR 30,000 in 90 days
+- 1% fuel surcharge waiver across all fuel stations in India
+- Does EazyDiner IndusInd Bank Platinum Credit Card come with the contactless feature?
+- Yes, the EazyDiner Credit Card comes with a contactless feature which enables fast, convenient and secure purchases by tapping your card at merchant locations accepting contactless payments.
+- How to apply for IndusInd Bank EazyDiner Platinum Credit Card?
+- You may apply for an EazyDiner IndusInd Bank Platinum Credit Card online on IndusInd Bank website
+- in 3 easy steps:
+- Input your basic details
+- Basis your details, the bank will fetch the best offer for you
+- Sign the application digitally and complete instant V-KYC to get your card
+
+## Legend Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/legend-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Legend Credit Card - Apply for Signature Legend Credit Card Online \| IndusInd Bank  
+**Official meta description:** Indulge in luxury with IndusInd Bank's Legend Credit Card. Enjoy 2X points on weekends, discounted forex markup, fuel surcharge waivers, free movie tickets, and more. Apply now!  
+
+### Official extracted card text
+
+- Legend Credit Card
+- Enjoy world-class privileges on travel, dining and shopping.
+- Overview
+- Experience some of our finest offerings by owning your very own IndusInd Bank Legend Credit Card! Handpicked to suit your needs, these luxury brands are designed to offer
+- you an experience of a lifetime, by serving you with nothing but the best.
+- Weekend spends
+- 2 reward points for every ₹100 spent on weekends
+- 1.8%
+- Discounted Foreign Currency Mark-up
+- 1% Fuel Surcharge Waiver
+- Savings on fuel surcharge
+- Effective 7 th March 2025, Lounge Access feature will be discontinued.
+- Rewards
+- Earn points
+- Collect reward points by using your IndusInd Bank Legend Credit Card anytime and anywhere.
+- Bonus earnings
+- A special bonus offer awaits you!
+- Redeem Points
+- You have earned your reward points and now it’s on you to decide how to redeem them.
+- Earn big on each spend using your credit card for shopping, booking movie tickets, bill payments and more.
+- Weekday spends
+- ₹ 100 spent = 1 reward point
+- ₹ 100 spent = 2 reward points
+- Your transactions will be classified as weekday/weekend as per transaction date and will reflect in your credit card account accordingly.
+- Transaction date is defined as the date on which you swipe your card for a particular transaction.
+- Transactions made from Monday to Friday are termed as weekday transactions.
+- Transactions made on Saturday and Sunday are termed as weekend transactions.
+- Please note: effective 01st April 2018, fuel transactions will not accrue reward points on your IndusInd Bank Credit Card.
+- Please note: effective 1st January 2022, Medical, Automobiles & Telecom transactions will accrue 1 Reward Points on every Rs 100 spent on weekdays and weekends on your IndusInd Bank Legend Credit Card.
+- Please note: From 1st August 2019, the Rewards program will be revised for select merchant categories. Click here
+- for details.
+- A special bonus offer awaits you. Earn 3,000 bonus reward points on spends of ₹ 5,00,000* or above within one year from the date of credit card issue.
+- We absolutely understand your need for choice and have tailored our redemption options to offer you maximum benefit:
+- IndusMoments *
+- Pay with Rewards
+- for more information and terms & conditions
+- Airline Miles on Krisflyer
+- Maharaja Points for Maharaja Club
+- * Cash credit New
+- Important Notice: Reward Points Redemption towards Club Vistara Airmiles on www.indusmoments.com
+- for your IndusInd Bank Credit Card will be discontinued effective 31st Oct 2024.
+- Important Notice : Reward Points redemption towards InterMiles for your IndusInd Bank Credit Card will be discontinued effective from 21st January, 2025.
+- Benefits
+- Legend Welcome
+- Legend Life
+- Legend Travel
+- Legend Concierge
+- Legend Auto Assist
+- Legend freedom
+- Legend Assurance
+- Contactless Card
+- Montblanc
+- Post Card
+- Vouchagram
+- Vouchagram Premium
+- Experience Montblanc, a brand that epitomises craftsmanship and quality par excellence. You can choose from an exquisite collection of watches, stationery, jewellery, leather goods and eyewear from one of the most premium brands in the world.
+- Welcome Gifts are available at select fee points only. Please contact our phone banking service or Sales representative for applicable charges.
+- A Collection Of Intimate Luxury Hotels Hidden In Holiday Destinations Across India. Combine luxury with simplicity and retreat to a life you've always wanted.
+- For reservations, please contact: Phone: +91 7999555222 or Email: sales@postcardresorts.com
+- Please note: The above Welcome Gifts are available at select fee points only. Please contact our phone banking service or Sales representative for applicable charges.
+- With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands like Amazon, Flipkart, Zee5, Apollo Pharmacy, Uber, Ola and more.
+- These brands are subject to change at the discretion of the Bank & Vouchagram.
+- Please note, welcome gift is only applicable on select fee plan.
+- know the TnC and list of Essential categories available under Vouchagram
+- You are spoilt for choice! With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands
+- to know the TnC and list of Brands available under Vouchagram Premium
+- BookMyShow
+- Sit back and enjoy a lovely movie with someone special. As an IndusInd Bank Legend Credit Card holder, enjoy buy one get one free on movie tickets through our partner BookMyShow.
+- Movie offer:
+- Buy one movie ticket and get the second one free.*
+- Avail up to three free tickets in a month. (One free ticket in a month with effect from 1st June 2023)
+- Get an additional Rs 50 off on selecting the F&B option.
+- Offer valid on all theatres registered with BookMyShow across all major cities.
+- Please log on to www.bookmyshow.com
+- to book your tickets.
+- *The price of the free ticket is capped at ₹200. If the price is higher, you will get a ₹200 discount, and the remaining amount must be paid using your IndusInd Bank Legend Credit Card.
+- Priority Pass Programme
+- Travel Insurance
+- Foreign Currency mark-up
+- Are you passionate about travel? We hope to entice you with some absolutely delicious offers and discounts!
+- Your vibrant lifestyle is no doubt accentuated by frequent travel. At IndusInd Bank, we make sure you are pampered with unrivalled luxury, making every travel a top-notch experience.
+- Besides numerous fantastic travel offers, the discerning globetrotter in you can now also enjoy access to 600+ lounges across the world using our complimentary Priority Pass.
+- Every single detail is important to us. We strive to ensure that you remain unperturbed throughout your journey.
+- IndusInd Bank has tied up with The Oriental Insurance Company Ltd. as a group manager to provide cardholders with the following insurance coverage under the program:
+- Insurance Coverage
+- Sum assured (up to)
+- Lost baggage
+- Rs 1,00,000
+- Delayed baggage
+- Rs 25,000
+- Loss of passport
+- Rs 50,000
+- Lost ticket
+- Missed connection
+- Enjoy 1.8% discounted foreign currency mark-up fee on your international transactions
+- Pre-trip assistance
+- Hotel reservation
+- Flight booking
+- Sports and entertainment booking
+- Exclusive booking
+- Flowers and gifts
+- The IndusInd Bank Legend Credit Card offers you a team of highly efficient professionals, accessible from any corner of the world, to assist you with flight booking, hotel reservations, and any support required. This is a complimentary service with a host of premium benefits. All you have to do is call for assistance and we will take care of the rest.
+- The concierge service offers you:
+- Get all the information, recommendations and assistance required before you embark on your trip. The concierge will provide you with all the information about your travel destination, weather, important landmarks, modes of transport, etc.
+- Leave it to the concierge to handle all your reservations and to make arrangements in the finest of hotels across the world to ensure you have a pleasurable and comfortable stay.
+- The concierge will make all the necessary flight arrangements to help you reach your desired destination.
+- If you are interested in attending a sports/recreational event, the concierge is at your service to make sure you never miss out on your favourite events.
+- Are you interested in attending special events such as workshops or seminars by eminent personalities? The concierge will provide you with all the information you need and also make reservations on your behalf (whenever possible).
+- Need help arranging for a special gift, or want to send flowers to that special someone? We've got you covered. Leave it to the concierge without a worry. Now you can have gifts delivered to anyone, anywhere in the world. Whether it's a Swiss watch or a bottle of French wine, the concierge will ensure that it is delivered at the earliest. To avail any of these services, please call our concierge desk at 1860 267 7777
+- .
+- Roadside repair service
+- Emergency fuel supply
+- Flat tyre service
+- Lost keys
+- Battery service
+- Emergency towing assistance
+- Accident management and medical assistance
+- We know your vehicle is important for you and we’re here to make sure that your valuable vehicle gets the attention it deserves.
+- While you’re making memories on a road trip, we don’t want unforeseen incidents to interrupt your journey. Whether it is an unexpected flat tyre, a vehicle breakdown, or any other emergency, there's no reason to worry.
+- With your IndusInd Bank Legend Credit Card, avail the Auto Assist facility that will provide on the spot assistance and resolve your problem. All you need to do is give us a call. We provide round-the-clock assistance throughout the year.
+- Auto Assist offers the following services:
+- In the event that your vehicle breaks down on the road due to any mechanical/electrical failure, Auto Assist will arrange for a mechanic to repair your vehicle at the location.
+- You are spoilt for choice! With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands like Pantaloons, Bata, Raymond, Hush Puppies, and more.
+- In case if you run out of fuel in the middle of nowhere, Auto Assist will arrange to deliver fuel (up to five litres) to your location to get you to the nearest fuel station.
+- If you have a flat tyre, Auto Assist will arrange for a mechanic to come and repair or replace the tyre.
+- Locked yourself out of your car? Or misplaced/lost your car keys? No reason to worry, Auto Assist can arrange for a locksmith to come and make a new car key or open your car door for you.
+- Is your car battery dead or malfunctioning? Once again, Auto Assist will come to your rescue. We can arrange for a service provider to come to the spot and fix your battery issue.
+- In case of a breakdown wherein your car needs to be towed, Auto Assist will arrange for a towing service to tow your car to a garage for repair.
+- In the event of an accident or emergency, Auto Assist can help you by coordinating important activities such as emergency message transmission, arranging for emergency medical assistance, and towing of vehicle.
+- Auto Assist services are available in Mumbai, Delhi, Bangalore, Pune, Chennai, and Kolkata.
+- For further details please call the concierge desk at 1860 267 7777
+- Legend freedom subtab
+- Our main aim is to make cashless transactions safe and secure for all our customers. Hence, we have introduced ‘Total Protect' - a first-of-its-kind programme that covers you for an amount equal to the credit limit on your card and is also available on add-on cards.
+- Total Protect covers you for the following:
+- Unauthorised transactions in case of loss/theft of card:
+- We provide an insurance cover up to 48 hours prior to you reporting the loss of your card.
+- Counterfeit fraud:
+- There is a possibility of your card or card details to be stolen and misused to produce counterfeit cards. We offer you insurance to protect you against such incidents.
+- Total Protect
+- IndusInd Bank Legend Credit Card is a super convenient chip-based contactless credit card. The contactless feature enables you to make swift, convenient and secure transactions for your daily purchases by simply tapping your credit card at merchant locations where standard card payments are accepted.
+- You can use your IndusInd Bank Legend Credit Card for:
+- Faster day-to-day payments at merchant locations accepting contactless payments.
+- Shopping at 10,00,000 merchant outlets in India and over 30 million outlets worldwide that accept card payments.
+- Booking movie tickets and flight tickets, utility bill payments, etc.
+- Safe online shopping and e-commerce transactions.
+- FAQs
+- 1. What is IndusInd Bank Legend Credit Card?
+- Legend is a new-generation credit card from IndusInd Bank that allows users to make faster payments at merchant locations accepting contactless payments. It can also be used for online shopping and transactions, and at ATMs.
+- 2. What is contactless payment?
+- The contactless payment feature allows customers to make safe and secure payments with a simple tap of the card on the PoS (Point of Sale) machines at compatible merchant outlets. These NFC-enabled terminals transmit payment details and authenticate transactions without the need for swiping the card.
+- 3. Where can I use my IndusInd Bank Legend Credit Card?
+- Your IndusInd Bank Legend Credit Card can be used at any merchant outlet that has a contactless payment PoS machine. If the PoS machine has a contactless symbol displayed on it, it can process contactless payments. In case such a machine is not available, the contactless card can still be used for swipe or dip transactions.
+- 4. How do I use my IndusInd Bank Legend Credit Card?
+- You can use your card at a retailer displaying the contactless symbol and the Visa/Mastercard logo at the PoS. Hold your card within 4 cm of the secure contactless reader until four green lights appear. This should not take more than half a second. You can then remove your card and the transaction will be successfully completed.
+- 5. How close to the reader does the card need to be?
+- You should hold your contactless card within 4 cm of the card reader.
+- 6. Is there a limit on the value of goods you can purchase with a contactless credit card?
+- You can use your card to pay using the Contactless feature for any amount within the overall daily transaction limit of ₹ 5,000. Please note, the daily transaction limit for Contactless purchase is decided by the RBI and may change from time-to-time.
+- 7. Will I receive a charge slip for the transactions I make?
+- Contactless payment is designed to make your transactions swift and convenient. The retailer will ask if you require a charge slip. Please advise the retailer accordingly.
+- 8. How do I know when a payment has been made?
+- A successful transaction is confirmed by the illumination of four green indicator lights and a display message on the PoS machine.
+- 9. Could I unknowingly have made a purchase if I walk past the reader?
+- No, you cannot unknowingly make any purchase on your card. Your card has to be tapped within 4 cm of the card reader for more than half a second and the retailer has to first enter the amount for you to approve. Terminals can only process one payment transaction at a time, thereby reducing transaction errors.
+- 10. What are the features of the IndusInd Bank Legend Credit Card?
+- IndusInd Bank Legend Credit Card is a multipurpose international credit card that offers a wide range of features and can be used for:
+- PoS shopping at 10,00,000 merchant outlets in India and over 30 million outlets worldwide that accept card payments.
+- Cash withdrawal from all State Bank and other ATMs.
+- Safe and secure online shopping and e-commerce transactions.
+- Utility and other bill payments.
+- 11. Will I receive a notification each time a transaction is completed on my IndusInd Bank Legend Credit Card?
+- Yes, as with a standard credit card, you will receive an SMS and an email notification after each transaction.
+- 12. Is IndusInd Bank Legend Credit Card a chip-based one?
+- Yes, this credit card is secured with a contact and contactless chip along with a mag-stripe and NFC antenna. The NFC antenna is for enabling contactless payments at merchant locations that accept contactless payments. The chip and the magstripe are used for credit transactions at PoS establishments where contactless payments are not accepted.
+- 13. What happens when a contactless transaction is declined?
+- In the rare event of a contactless transaction on your credit card being declined due to any reason, you can request the merchant to make the payment by swiping or dipping the card in the traditional manner.
+- 14.What happens if the transaction slip is not generated and my account is debited?
+- Generally, such a situation does not arise. However, in any such rare cases, you can contact IndusInd Bank customer care to inquire about the status of your transaction.
+- 15. What process should I follow in case my card is lost or stolen?
+- In case your credit card is lost or stolen, please contact IndusInd Bank customer care immediately to block your card. You can also block your lost/stolen credit card on our net banking portal (IndusNet) or on the IndusMobile app.
+- Privileges
+- (Based on estimate spends)
+- 8,613
+- Priority Pass membership for you and your partner.
+- 2,400
+- Complimentary movie tickets once a month.
+- Additional savings on fuel surcharge
+- 5,400
+- Annual value of reward points earned on an average spend of Rs 30,000 per month. (450 points per month)
+- Network Offers
+- Visa offers
+- Hotel Reservations
+- Entertainment
+- Travel Benefits
+- Exclusive Stay Offers with Alaya Stays
+- Exclusive Stay Offers with Alaya Stays (4-star villas at coveted Indian destinations, offers available at 200+ villas)
+- Stay for 3, Pay for 2 and 50% savings on the 2nd night
+- Offer
+- TnC apply
+- Complimentary Annual Times Prime Membership
+- Complimentary Annual Times Prime Membership that gives access to 20+ subscription & 40+ discount-led offers:
+- Entertainment (JioHotstar, YouTube Premium, Spotify, etc.), Food & Essentials (SwiggyOne Lite, HealthKart, Netmeds etc.), News & Learning (ET Prime, TOI etc.), Fitness (Cultfit, Mindhouse etc.), and offers from leading brands (Uber, Starbucks , Apollo hospitals, Myntra etc.)
+- Travel Experiences with MakeMyTrip
+- Elevate your travel experiences with MakeMyTrip , with the below offers:
+- Avail 2 Complimentary Seats on your domestic flights up to INR 350 (This offer is in addition to the bank-led offers)
+- Flat 15% off on select domestic hotels as MyCash
+- What are the key features of the Legend Credit Card?
+- The key features of the Legend Credit Card are as follows:
+- 1 reward point for every Rs. 100 spent on weekdays
+- 2 reward points for every Rs. 100 spent on weekends
+- 3000 bonus reward points on spending Rs. 5 lacs or more in a year
+- Benefit of Discounted Foreign Currency Mark up at 1.8% on foreign currency transactions done on your Primary & Add-on card
+- Fuel surcharge waiver
+- How can I maximise benefits on my Legend Credit Card?
+- You can maximise benefits on your Legend Credit Card in the following ways:
+- Use your credit card often and preferably for all your purchases. It will give you more opportunities to earn reward points that you can redeem later
+- Make the best use of the interest-free period on your credit card for big-ticket purchases
+- Make use of the numerous perks offered on your credit card
+- Do not use your credit card to withdraw money to save on cash withdrawal charges.
+- How can a customer redeem the reward points earned?
+- Customers can redeem their reward points for several benefits, including vouchers, air miles, paying your credit card bills, getting cashback on future purchases and a lot more.
+- Can contactless transactions be done on the Legend Credit Card?
+- Yes, the contactless feature on the Legend Credit Card enables you to make fast, convenient, and secure everyday purchases.
+- What are the Fees and Charges applicable on the Legend Credit Card?
+- Interest charges are applicable if the total amount due is not paid off by the due date and late payment charges are levied if the minimum amount due is not paid by the due date. Please click here
+- to know more about the fees and charges applicable on your Legend Credit Card.
+- Do Reward Points expire on the Legend Credit Card?
+- All reward points earned on Legend Credit Card are live till the credit card account is live. So our customers don't need to worry about the expiry of their reward points.
+- Recommended Blogs for you
+- Know About The Reward Points Structure For The Legend Credit Card
+- Swati always wanted to apply for a credit card that allowed her to enjoy all the travel perks, so she could maximize her spending on travel. She decided to apply for the Legend Credit Card and found the right partner in it.
+- IndusInd Bank Legend Credit Card - For a Truly Legendary Lifestyle
+- Are you a movie buff? Do you like to travel? Want to indulge in luxury life experiences? If yes, then you have come to the right place. IndusInd Bank Legend Credit Card promises to provide you with world-class travel, dining, shopping, and entertainment privileges.
+
+## EazyDiner Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/eazydiner-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** EazyDiner Credit Card - Apply for EazyDiner Credit Card Online \| IndusInd Bank  
+**Official meta description:** Unlock exciting rewards with the EazyDiner Credit Card by IndusInd Bank. Enjoy up to 50% off on dining, free movie tickets, 12-month EazyDiner Prime membership, lounge access, gift voucher and more!  
+
+### Official extracted card text
+
+- EazyDiner Credit Card
+- The Next Revolution in Dining is here
+- Overview
+- Savor the best of culinary cuisine as IndusInd Bank and EazyDiner bring to you EazyDiner Credit Card. From instant discounts to accelerated rewards on dining, shopping and entertainment, this card is crafted for those who take delight in living life to the fullest.
+- Eazydiner Credit Card Rewards
+- Earn Reward Points
+- Earn 10 Reward Points on every ₹100 spent on Hotel and Travel booking, shopping and entertainment
+- Pay with Reward Points
+- Instant redemption of Reward Points against restaurant bills for extra discount
+- Earn 4 Reward Points on every Rs 100 spent on all other spends (Except fuel and dining)
+- Get 3X EazyPoints using your EazyDiner IndusInd Bank Credit Card
+- Reward Points will be earned only for spends up to assigned credit limit in every statement cycle
+- Redeem EazyPoints for FREE hotel stays, meals & exclusive restaurant events across the country.
+- EazyDiner Credit Card Benefits
+- Welcome
+- Dining
+- Other Benefits
+- Welcome benefits with your EazyDiner Credit Card
+- It’s time to begin the most scrumptious journey by taking your taste buds on a multi-cuisine roller coaster with EazyDiner Credit Card!
+- Enjoy 12 months EazyDiner Prime membership worth INR 3,550. Enjoy GUARANTEED 25% up to 50% OFF at over 2000+ premium restaurants & bars
+- Unlock more Prime-exclusive benefits like 3X EazyPoints and redeem them for FREE luxury hotel stays & FREE meals & exclusive EazyEvents
+- 2000 welcome bonus EazyPoints
+- The Postcard Hotel stay voucher worth INR 7,500: Escape to the Postcard Hotel and enjoy an intimate and luxurious holiday at stunning destinations across India and the world.
+- Joining Fee: INR 2,999
+- Annual Fee: INR 2,999
+- On payment of Renewal Fee, 12 months EazyDiner Prime Membership will be renewed. Also, you would get 2000 welcome bonus EazyPoints and INR 7500 voucher of The Postcard Hotel
+- Extra instant INR 1000 off
+- Avail an extra 25% off up to INR 1,000 on each transaction, when you eat out and pay on the “ EazyDiner App”.
+- In a month, the discount is capped at INR 2,000 without any spends criteria. To unlock additional discount of INR 3,000 in the same month. Spend INR 30,000 in previous calendar month on non- dining transactions.
+- Total Discount that can be availed in a month is maximum of INR 5,000.
+- Extra 25% OFF will NOT be applicable if the bill is paid using any other payment mode i.e. payment done using EazyDiner IndusInd Bank Credit Card physically, other cards, UPI, wallets etc.
+- The discount will be auto applied on the EazyDiner App and there is no need to enter any promo code.
+- Extra 25% off will not be applicable if consecutive transactions are made at the same restaurant within the gap of 120 minutes or less
+- Premium Alcoholic Beverages
+- Every diner gets a complimentary premium alcoholic beverage at over 200 select restaurants. Pair your favourite nibbles with exotic tipples. Please visit the EazyDiner App to view the select restaurants where this offer is applicable.
+- Complimentary premium alcoholic beverage is available for each diner at select restaurants only
+- These select restaurants can be viewed using the ‘Free Drink’ filter on the restaurant listing page
+- The offer is applicable if the restaurant booking is done using the EazyDiner App
+- The details of the brand and serving size will be at the discretion of the restaurant
+- Enjoy 1% fuel surcharge waiver* across all fuel stations in India. Enjoy Contactless Tap and Pay feature for safe and secure transactions.
+- Year-end Summary of Accounts: We ensure that a record of your expenses is maintained. Your card provides you with a year-end summary to give you an overview of your card spendings for a financial year. Once you view your summary, you can use this benefit to help simplify your budgeting and tax preparation. Your online year-end summary contains your transactions for the financial year and an analysis of your spends by Month, Charge Amounts, Merchant Category, your own charges and the charges for your business card or additional cards.
+- *Terms & conditions apply.
+- GST on fuel surcharge as per standard rate shall be applicable and borne by the Cardholder.
+- Total Protect
+- Are you afraid of your card falling into the wrong hands? Relax! Fraudulent use of your card is not a threat anymore. ‘Total Protect’ is a first-of-its-kind program that covers you for an amount equal to the credit limit on your card and is available on Add-on cards as well. So you have no reason to worry about fraudulent transactions on your card.
+- Total Protect covers
+- Unauthorised transactions in case of loss/theft of card: We provide an insurance cover up to 48 hours prior to you reporting the loss of your card to IndusInd Bank. Counterfeit fraud: In case of card details being stolen and used unscrupulously with counterfeit plastic, we offer protection against such incidents as well.
+- How to Maximize Benefits
+- Here’s how you can avail maximum discount when you dine-in with your EazyDiner Credit Card
+- Step 1: Go to EazyDiner App/Website
+- Step 2: Select a deal at your choice of restaurant and confirm the booking.
+- Step 3: Enjoy your meal.
+- Step 4: To make payment towards the bill, open the EazyDiner App and select PayEazy.
+- Offers Details
+- Amount (INR)
+- Total billing amount
+- INR 5000
+- 25% Discount on your prime membership
+- (-) INR 1250
+- Balance Amount payable
+- INR 3750
+- Extra 25% Discount when paying through
+- EazyDiner IndusInd Bank Credit Card
+- (-) INR 937
+- INR 2813
+- Redeem Reward Points instantly (assume that
+- you have 1000 reward points and value of each
+- reward points is INR 0.10)
+- (-) INR 100
+- Final Amount payable
+- INR 2713
+- Total Discount on a bill of INR 5000
+- INR 2287
+- Contactless Credit Card Features
+- The contactless feature of the card enables fast, convenient and secure purchases by just tapping your card at merchant locations that accept contactless payments. It can also be used at all merchant locations where standard card payments are accepted.
+- You can make purchases at merchant establishments; for travel, online or e-commerce websites and withdraw cash in India and across the globe.
+- With your EazyDiner IndusInd Bank Credit Card, you can:
+- Enjoy faster day-to-day payments at merchant locations that accept contactless payments
+- Shop at over 10 lakh merchant outlets in India and over 30 million outlets worldwide that accept card payments
+- Book movie tickets, pay your utility bills, make online purchases, book your travel tickets and do a lot more
+- Be assured of safe online shopping and e-commerce transactions
+- Here’s our merchant list
+- for your card transactions.
+- Just wave your credit card
+- at merchant locations that accept contactless payments and experience the new-age credit card from IndusInd Bank.
+- EazyDiner Induslnd Bank Credit Card is a co-branded credit card issued by Induslnd Bank in partnership with EazyDiner Private Limited. There is a revenue sharing arrangement between Induslnd Bank & EazyDiner Private Limited for this co-branded credit card.
+- About Eazydiner
+- “Founded by a team of experienced restaurateurs and hoteliers, EazyDiner is India’s leading food discovery, table reservation & restaurant payment platform. It helps users discover great restaurants and bars, get guaranteed reservations within 10 seconds at over 15,000+ restaurants and every reservation comes with a deal, enhancing the dining experience. Diners can earn EazyPoints – EazyDiner’s loyalty program reward points – which can be further redeemed for free meals & free hotel stays. EazyDiner Prime is the award winning dining program which gives customers a guaranteed 25% to 50% off at the hottest bars and restaurants. EazyDiner has also partnered with IndusInd Bank to introduce two co-branded credit cards - Signature and Platinum, on the Visa platform. These cards provide users with additional benefits, offering savings of up to Rs.1000 OFF on dining experiences, further enhancing the allure of indulging through EazyDiner.”
+- FAQs
+- What is IndusInd Bank EazyDiner Credit Card?
+- IndusInd Bank EazyDiner Credit Card is a powerful dining credit card with incredible rewards. From instant discounts to rewards on dining, entertainment and shopping, this card is designed for those who enjoy living life to the fullest.
+- How to apply for IndusInd Bank EazyDiner Credit Card?
+- You may apply for an EazyDiner Credit Card online on IndusInd Bank website
+- in 3 easy steps:
+- Input your basic details
+- Basis your details, the bank will fetch the best offer for you
+- Sign the application digitally and complete instant V-KYC to get your card
+- How to redeem reward points from EazyDiner Credit Card?
+- Reward Points earned on the EazyDiner IndusInd Bank credit card spends can be redeemed at the time of payment via PayEazy against the restaurant bill. Other redemption requests are available in the redemption catalogue on the EazyDiner App.
+- What are the benefits of EazyDiner Credit Card?
+- Here are the unmatched benefits of the EazyDiner Credit Card:
+- 1-Year EazyDiner Prime membership worth ₹3550
+- Avail an extra 25% off up to INR 1,000 on each transaction, when you eat out and pay on the EazyDiner App”, with INR 2,000 discount capped in a month without any spends condition.
+- To avail additional INR 3,000 spend INR 30,000 on non- dining transactions in previous month.
+- Total discount that can be availed in a month is INR 5,000.
+- 1% fuel surcharge waiver across all fuel stations in India
+- Does EazyDiner Credit Card come with the contactless feature?
+- Yes, the EazyDiner Credit Card comes with a contactless feature which enables fast, convenient and secure purchases by tapping your card at merchant locations accepting contactless payments.
+- Recommended Blogs for you
+- IndusInd Bank EazyDiner Credit Card—For the Love of Food
+- Apart from dining delights, EazyDiner Credit Card comes power packed with travel, entertainment, insurance cover, and many other exciting benefits. Read to know more!
+- IndusInd EazyDiner Credit Card: Features & Benefits
+- In partnership with EazyDiner, IndusInd Bank has launched a credit card for those who love fine dining and shopping. IndusInd Bank’s EazyDiner credit card offers deep discounts on restaurant bills to cardholders with the complimentary 1 year EazyDiner prime membership.
+- Travel and Shopping Just Got Better with IndusInd Bank Credit Card Offers
+- To get the most out of your card, make sure you know all the rewards & benefits that come with the type of credit card you have got and plan your spending according to that hassle-free. IndusInd Credit cards give various offers that match everyone’s unique needs.
+- Five Tips to Make Credit Cards Work for You, Not Against You
+- Most of us apply for a credit card hoping it’ll be the Messiah that’ll bail us out of messy finances. Sadly, only a few find their dreams translating into reality. If you are caught in a similar flux, read on for five top tips to make sure your credit card proves to be only a boon and never a bane.
+
+## Platinum Aura Edge Visa/Mastercard Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/platinum-aura-edge-visa-and-mastercard-credit-card-easy-credit.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Apply for Platinum Aura Edge Visa/Mastercard Credit Card Online \| IndusInd Bank  
+**Official meta description:** Apply online for IndusInd Bank's Platinum Aura Edge Visa/Mastercard Credit Card! Enjoy contactless payments, flexible reward plans, up to 8x reward points, fuel surcharge waiver, and more!  
+
+### Official extracted card text
+
+- Platinum Aura Edge Visa/Master Credit Card
+- Experience new-age shopping with a contactless card and unlimited privileges.
+- Overview
+- The IndusInd Bank Platinum Aura Edge Visa and Mastercard Credit Card with the contactless feature enables you to make fast, convenient and secure purchases every day. Simply wave your credit card at merchant locations where contactless payment is accepted and you’re done.
+- Reward Plans
+- Flexibility to choose from 4 reward plans
+- Reward Points
+- Earn up to 8x reward points on select merchants
+- 1% Fuel Surcharge Waiver*
+- Savings on fuel surcharge
+- *Please visit the 'Redemption of Rewards' section for changes in Cash Credit redemption.
+- Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month
+- Notice
+- Dear Customer, from 30th November 2021, certain product features on your IndusInd Aura Edge Credit Card will be revised. To know more, please click here
+- .
+- Rewards
+- Reward Earning
+- Earn up to 8X Reward Points on select merchant categories.
+- Redemption of Rewards
+- At IndusInd Bank, we celebrate freedom of choice and give our valued cardholders ample options to redeem their hard-earned rewards.
+- Earning Reward Points:
+- Watch your reward points grow by using your IndusInd Bank Platinum Aura Edge Credit Card for business or pleasure wherever and whenever you choose.
+- Earn up to 8X Reward Points on select merchant categories, for every ₹100 spent. Choose from the following Reward Plans that match your lifestyle and multiply your rewards:
+- Platinum Aura Edge Shop Plan
+- Platinum Aura Edge Home Plan
+- Platinum Aura Edge Travel Plan
+- Platinum Aura Edge Party Plan
+- Note: Effective 1st April 2018, fuel transactions will not accrue reward points on your IndusInd Bank Credit Card.
+- Please note: From 1st August 2019, the Rewards program will be revised for select merchant categories. Click here
+- for details.
+- At IndusInd Bank, we celebrate freedom of choice and give our valued cardholders ample options to redeem their hard-earned rewards. Take your pick from the following redemption options:
+- IndusMoments
+- Pay with Rewards
+- for more information and terms & conditions
+- Airline Miles on Krisflyer
+- * Cash credit New
+- against any of these redemption options.
+- Important Notice: Reward Points Redemption towards Club Vistara Airmiles on www.indusmoments.com
+- for your IndusInd Bank Credit Card will be discontinued effective 31st Oct 2024.
+- Important Notice: Reward Points redemption towards InterMiles for your IndusInd Bank Credit Card will be discontinued effective 21st January 2025.
+- Benefits
+- You have earned success, recognition and fame. It’s time to celebrate your accomplishments. For high-achievers, IndusInd Bank offers the Platinum Aura Edge Credit Card – an exceptional product with the best-in-class privileges in travel, dining, lifestyle and more. And with the payWave feature, you can simply tap and go at merchant terminals. After all, modern achievers like you deserve an innovative credit card that aligns with your lifestyle.
+- Platinum Aura Edge Welcome
+- Platinum Aura Edge Travel
+- Platinum Aura Edge Freedom
+- Platinum Aura Edge Assurance
+- Vouchagram
+- Vouchagram Premium
+- With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands like Amazon, Flipkart, Big Bazaar, Zee5, Apollo Pharmacy, Uber, Ola and more.
+- These brands are subject to change at the discretion of the Bank & Vouchagram.
+- Please note, welcome gift is only applicable on select fee plan.
+- know the TnC and list of Essential categories available under Vouchagram
+- You are spoilt for choice! With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands.
+- to know the TnC and list of Brands available under Vouchagram Premium
+- Travel Insurance Cover Details
+- In association with The Oriental Insurance Company Ltd., IndusInd Bank provides you with the following insurance cover under the Travel Plus Program:
+- Insurance Cover
+- Sum Assured (up to)
+- Lost baggage
+- Rs 1,00,000
+- Delayed baggage
+- Rs 25,000
+- Loss of passport
+- Rs 50,000
+- Lost ticket
+- Missed connection
+- Enjoy freedom from fuel surcharge with a 1%* waiver on all petrol pumps across India.
+- Value Offering
+- Petrol Surcharge Waiver
+- Monthly Savings
+- Annual Savings
+- Monthly fuel usage @ Rs 2000
+- Rs 20
+- Rs 240
+- This information is based on certain assumptions and is for illustration purpose only. The actual savings will vary as per your usage.
+- *Click here
+- Total Protect
+- At IndusInd Bank, we know the importance of journeys.
+- Worried about fraudulent use of your card? Stay worry-free with ‘Total Protect’, which covers you for a sum up to the credit limit of your primary and add-on cards.
+- Total Protect covers you for:
+- Unauthorised transactions in case of loss/theft of card: Get insurance cover up to 48 hours prior to you reporting the loss of your card to IndusInd Bank.
+- Counterfeit fraud: If your card or its details are stolen and used unscrupulously by producing counterfeit plastic, we offer insurance to protect against such incidents.
+- Platinum Aura Edge Plans
+- Platinum Aura Shop Plan
+- Platinum Aura Home Plan
+- Platinum Aura Travel Plan
+- Platinum Aura Party Plan
+- The Platinum Aura Shop Plan helps you save by managing your spends. You earn savings points* with every purchase from the categories listed below. The collected points can be redeemed against dues on your IndusInd Bank Platinum Aura Credit Card, or on airline miles.
+- Spend Categories
+- Savings points on Rs 100 spent
+- Shopping in departmental stores
+- 4 savings points
+- Purchase of consumer durables or electronic items
+- 2 savings points
+- Restaurant bills
+- 1.5 savings points
+- Books
+- All other spends on your card
+- 0.5 savings points
+- * 1 savings point = Re 0.50 or 0.5 airline mile
+- # Effective 1st April 2018, fuel transactions will not accrue reward points on your IndusInd Bank Credit Card
+- Platinum Aura Shop Plan Value Chart
+- Spend Category
+- Savings points earned on every Rs. 100 spent**
+- Estimated annual expenses**
+- Annual savings points#
+- Rs. 40,000
+- 1,600
+- Rs. 35,000
+- Rs. 24,000
+- Rs. 4,000
+- All other spends
+- Rs. 15,000
+- Your total savings points#
+- 2,795
+- * Conditions apply. Refer to the Terms and Conditions section.
+- # The above illustrations are based on hypothetical estimates of periodic expenses.
+- The Platinum Aura Home Plan gives you the flexibility to save while you shop for your home. Each time you spend on the listed categories using your IndusInd Bank Platinum Aura Credit Card, you earn savings points* that you can later redeem against dues on your IndusInd Bank Platinum Aura Credit Card, or on airline miles.
+- Grocery shopping
+- Cellphone bills
+- 1.4 savings points
+- Electricity bills
+- Insurance premium
+- Medical spends
+- Platinum Aura Home Plan Value Chart
+- Grocery
+- Rs 36,000
+- 2.5 savings points (1.4 savings points w.e.f 1st August 2019)
+- Rs 18,000
+- Rs 12,000
+- 1.5 savings points (1.4 savings points w.e.f 1st August 2019)
+- Rs 10,000
+- Rs 5,000
+- The Platinum Aura Travel Plan is especially designed for frequent fliers. Every spend on your IndusInd Bank Platinum Aura Credit Card in the selected categories will earn you savings points, which can be redeemed against dues on your IndusInd Bank Platinum Aura Credit Card, or on airline miles.
+- Hotel expenses
+- Airline tickets
+- 2.5 savings points
+- Car rental expenses
+- Rail tickets
+- Platinum Aura Travel Plan Value Chart
+- Rs 45,000
+- Rs 8000
+- Railway tickets
+- 2,780
+- Our Platinum Aura Party Plan helps you enjoy life to the fullest. Each time you spend in the mentioned categories using your IndusInd Bank Platinum Aura Credit Card, you earn savings points that you can later redeem against dues on your IndusInd Bank Platinum Aura Credit Card, or on airline miles.
+- Payments in bars and pubs
+- Movie tickets
+- Platinum Aura Party Plan Value Chart
+- Savings points earned on every ₹ 100 spent**
+- Rs 20,000
+- Your total saving points#
+- Contactless Card Features
+- It’s time to embrace the latest technology and make your credit card payment a seamless one. IndusInd Bank Platinum Aura Edge easy credit is a chip-based contactless credit card. The contactless feature of the card enables fast, convenient and secure purchases by just tapping your card at merchant locations that accept contactless payments. It can also be used at all merchant locations where standard card payments are accepted.
+- You can make purchases at merchant establishments; for travel, online or e-commerce websites and withdraw cash in India and across the globe.
+- With your IndusInd Bank Platinum Aura Edge easy credit Credit Card, you can:
+- Enjoy faster day-to-day payments at merchant locations that accept contactless payments
+- Shop at over 10 lakh merchant outlets in India and over 30 million outlets worldwide that accept card payments
+- Book movie tickets, pay your utility bills, make online purchases, book your travel tickets and do a lot more
+- Be assured of safe online shopping and e-commerce transactions
+- Here’s our merchant list
+- for your card transactions.
+- Just wave your credit card at merchant locations that accept contactless payments and experience the new-age credit card from IndusInd Bank.
+- FAQs
+- What is the IndusInd Bank Platinum Aura Edge Visa Credit Card?
+- IndusInd Bank Platinum Aura Edge Visa Credit Card is an instant credit card with a contactless feature offering top-notch benefits in various categories, including travel, dining, lifestyle, and shopping.
+- Where can I use the IndusInd Bank Platinum Aura Edge Visa Credit Card?
+- You can make purchases at merchant establishments; for travel, online or e-commerce websites and withdraw cash in India and across the globe. Just wave your credit card at merchant locations that accept contactless payments and experience the new-age credit card from IndusInd Bank. It can also be used at all merchant locations where standard card payments are accepted.
+- How do I use my IndusInd Bank Platinum Aura Edge Visa Credit Card?
+- To use the contactless payment feature of your credit card, look out for merchants displaying the contactless symbol and Visa/Mastercard logo at the POS. Hold your card 4 cm or less from the contactless scanner, and four green lights will display in less than a second. You can remove your card once the transaction has been completed.
+- What are the features of the IndusInd Bank Platinum Aura Edge Visa Credit Card?
+- The main features of the IndusInd Bank Platinum Aura Edge Visa Credit Card are as follows:
+- Unique contactless feature
+- Fuel surcharge waiver
+- Flexibility to choose reward plans to suit your lifestyle
+- How to track IndusInd Bank Aura Edge Visa Credit Card billing cycle?
+- A credit card's billing cycle is the period during which the bill is generated. The monthly credit card statements get dispatched to your registered email id and provide a complete listing of all transactions made throughout the time period. You can also check your statements on Net Banking (IndusNet) and Mobile Banking App (IndusMobile).
+- How much is the fees charged for IndusInd Bank Platinum Aura Edge Visa Credit Card?
+- Please visit Schedule of Charges
+- section for details on various fees associated with your IndusInd Bank Platinum Aura Edge Visa Credit Card.
+- Recommended Blogs for you
+- IndusInd Bank Platinum Aura Edge Credit Card – Card for the High Achievers
+- Platinum Aura Edge Credit Card is one such card for extra achiever people like you that encompasses all the features, including discounts on travel, deals on shopping, offers in dining out, and much more. Read to know more!
+- IndusInd Bank Platinum Aura Edge Vs Platinum Credit Card – Lifetime Free Credit Cards
+- IndusInd Bank provides a range of credit cards, each with unique features and benefits. But the two cards - the IndusInd Bank Platinum Aura Edge Credit Card and the Platinum Credit Card - offer you some of the best features and benefits out there.
+- IndusInd Bank Aura Edge Credit Card – Features & Benefits
+- While every credit card is useful in its own right, the ones regarded as best usually come with benefits such as unlimited reward points, discounts & cash-backs, insurance coverage, and robust security features. The IndusInd Bank Platinum Aura Edge Credit Card offers all of this and more.
+- Best IndusInd Bank Credit Cards to look forward
+- Choosing a credit card doesn’t have to be difficult. While every credit card gives the cardholder the flexibility and financial freedom to make all big and small purchase decisions, all credit cards are not equal.
+
+## Platinum Visa Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/platinum-visa-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Apply for Platinum Visa Credit Card Online - IndusInd Bank  
+**Official meta description:** Apply for IndusInd Bank's Platinum Visa Credit Card online & enjoy exclusive lifestyle benefits, rewards, insurance, fuel surcharge waiver & more. Apply Now!  
+
+### Official extracted card text
+
+- Platinum Visa Credit Card
+- Enjoy the best life has to offer with a card that’s made for your needs.
+- Overview
+- The IndusInd Bank Platinum Visa Credit Card offers a comprehensive range of travel and lifestyle benefits to suit your preferences.
+- Rewards
+- 1.5 reward points for every ₹ 150 spent
+- Benefits
+- Comprehensive insurance benefits
+- Fuel surcharge waiver
+- From 1 st March 2024, the value of non-cash redemption (excluding airmiles) will be 1 RP = Rs.0.60
+- From 1 st March 2024, the value of cash redemption will be 1 RP = Rs.0.40
+- Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month
+- Notice
+- Dear Customer, effective 1 st October 2022, BookMyShow offer on your IndusInd Bank Platinum Credit Card and IndusInd Platinum Select Credit Card will be discontinued. To know more, please click here
+- .
+- Redeem points
+- For every INR 150 spent on your IndusInd Bank Platinum Credit Card , get 1.5 Reward Points
+- Rewards Redemption
+- We deeply value your need for choice and have tailored our redemption options to offer maximum benefit.
+- Avail a plethora of exclusive benefits from the Rewards Program on your IndusInd Bank Platinum Credit Card! Specially designed to suit your lifestyle, it enables you to enjoy the power and freedom of maximum flexibility, access without restrictions and limitations imposed by other programs.
+- Earning of Reward Points:
+- It’s in your hands, so take charge! Watch your reward points multiply by using your IndusInd Bank Platinum Credit Card for business or pleasure wherever and whenever you choose!
+- For every INR 150 spent on your IndusInd Bank Platinum Credit Card, you get 1.5 Reward Points.
+- #Please note effective from 1st April 2018, fuel transactions will not accrue reward points on your IndusInd Bank Credit Card.
+- Please note: From 1st August 2019, the Rewards program will be revised for select merchant categories. Click here
+- for details.
+- IndusMoments *
+- Pay with Rewards
+- for more information and terms & conditions
+- Airline Miles on Krisflyer
+- * Cash credit New
+- Please note: *From 1 st January,2024, the value of non cash redemptions (excluding airmiles) will be 1 RP = Rs.0.50
+- Important Notice: Reward Points Redemption towards Club Vistara Airmiles on www.indusmoments.com
+- for your IndusInd Bank Credit Card will be discontinued effective 31 st Oct 2024.
+- Important Notice: Reward Points redemption towards InterMiles for your IndusInd Bank Credit Card will be discontinued effective 21st January, 2025.
+- Platinum Visa Credit Card Benefits
+- The IndusInd Bank Platinum Credit Card offers you an exclusive lifestyle you richly deserve! Allow us to serve you with world class privileges on your travel, dining and shopping experiences. Handpicked to offer convenience, these super luxury brands are aimed at creating an experience of a lifetime, and are available to you at your convenience.
+- Platinum Welcome
+- Platinum Travel
+- Platinum Freedom
+- Platinum Assurance
+- Montblanc
+- The Postcard Hotel
+- Vouchagram
+- Vouchagram Premium
+- Experience Montblanc- a brand with the commitment to excellence and fine craftsmanship since 1906. Choose from an exquisite collection of watches, writing instruments, jewellery, leather goods and eyewear.
+- Mont Blanc stores now are located in 6 cities and we have 12 stores across the country.
+- Please note, welcome gift is only applicable on select fee plan.
+- A Collection Of Intimate Luxury Hotels Hidden In Holiday Destinations Across India. Combine luxury with simplicity and retreat to a life you've always wanted.
+- For reservations, please contact: Phone: +91 7999555222 or Email: sales@postcardresorts.com
+- *Click here
+- With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands like Amazon, Flipkart, Zee5, Apollo Pharmacy, Uber, Ola and more.
+- These brands are subject to change at the discretion of the Bank & Vouchagram.
+- know the TnC and list of Essential categories available under Vouchagram
+- You are spoilt for choice! With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands.
+- to know the TnC and list of Brands available under Vouchagram Premium
+- Travel Insurance Cover Details
+- Travel insurance is a priority document for all your trips. IndusInd Bank has tied up with The Oriental Insurance Company Ltd. (‘Insurance Company’) as a group manager to provide cardholders with the following insurance cover under its program:
+- Insurance Cover
+- Sum Assured (up to)
+- Lost baggage
+- INR 1,00,000
+- Delayed baggage
+- INR 25,000
+- Loss of passport
+- INR 50,000
+- Lost ticket
+- Missed connection
+- Avail freedom from surcharge on petrol at petrol pumps across India. Enjoy a waiver* of 1% on fuel surcharge at any petrol pump within India.
+- Value Offering
+- Petrol Surcharge Waiver
+- Monthly Savings
+- Annual Savings
+- Monthly fuel usage @ Rs 2000
+- Rs 20
+- Rs 240
+- The information given in the value offering is based on certain assumptions and is for illustration purposes only. Actual savings will depend on the usage pattern of the individual cardholder.
+- Total Protect
+- Has your card fallen into wrong hands? Attempted fraudulent usage of your card can no more pose a threat! Total Protect is a first-of-its-kind program that covers you for a sum up to the credit limit on your credit card
+- and is available on add-on cards as well. With us, you can be completely worry-free about any fraudulent transactions performed using your card.
+- Total Protect covers you for the following:
+- Unauthorised transactions in case of loss/theft of card : We provide an insurance cover up to 48 hours prior to you reporting the loss of your card to IndusInd Bank.
+- Counterfeit fraud : It is possible that your card or card details are stolen and used unscrupulously by producing counterfeit plastic. We offer you insurance to protect yourself against such incidents.
+- FAQs
+- What is Platinum Visa Credit Card?
+- IndusInd Bank Platinum Visa Credit Card is an instant credit card that offers a comprehensive range of travel, lifestyle and golf benefits to suit your preferences. It allows you to earn rewards faster and helps you redeem them at your convenience.
+- What are the benefits of using IndusInd Platinum Visa Credit Card?
+- The benefits of IndusInd Bank Platinum Visa Credit Card are as follows:
+- 1.5 reward points for every Rs. 150 spent
+- Option to select from brands like Amazon, Flipkart, Uber, Ola, Apollo Pharmacy and more
+- Waiver* of 1% on fuel surcharge at any petrol pump within India
+- Complimentary personal air accident insurance cover of up to Rs. 25 lakhs
+- How to apply for Platinum Visa Credit Card?
+- You may apply for Platinum Visa Credit Card online on IndusInd Bank website
+- in 3 easy steps:
+- Input your basic details
+- Basis your details, the bank will fetch the best offer for you
+- Sign the application digitally and complete instant V-KYC
+- How to redeem reward points from Platinum Visa Credit Card?
+- To redeem your reward points from Platinum Visa Credit Card, you need to visit www.indusmoments.com
+- and place a request for redemption of your choice. You can also redeem your reward points against air miles or against cash credit to settle your outstanding credit card bill dues.
+- Recommended Blogs for you
+- Festival offers on Platinum Visa Credit Card by IndusInd Bank
+- With a contactless feature and design that enables seamless, fast, and secure purchases, the IndusInd Bank’s Platinum Visa Credit Card is great for those who travel more and want to experience all things luxury in life.
+- IndusInd Bank Platinum Aura Edge Vs Platinum Credit Card – Lifetime Free Credit Cards
+- IndusInd Bank provides a range of credit cards, each with unique features and benefits. But the two cards— the IndusInd Bank Platinum Aura Edge Credit Card and the Platinum Credit Card—offer you some of the best features and benefits out there.
+- Choose your best International Travel Credit Cards with IndusInd Bank
+- If you too are looking for a perfect credit card that offers unmatched spending freedom with exclusive rewards and benefits, then IndusInd Bank provides you with an array of credit cards with unique travel-related offerings.
+
+## Pinnacle World Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/pinnacle-world-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Pinnacle Credit Card - Check Benefits & Rewards Online \| IndusInd Bank  
+**Official meta description:** Experience luxury with IndusInd Bank's Pinnacle Credit Card. Enjoy exclusive benefits like accelerated reward points, golf privileges, lounge access, free movie tickets, and more.  
+
+### Official extracted card text
+
+- Pinnacle Credit Card
+- A luxurious range of lifestyle and travel privileges await you!
+- Overview
+- "Presenting the IndusInd Bank Pinnacle Credit Card – a card meant for those for whom excellence is not an option but a habit.
+- Enjoy a luxurious range of unique travel, lifestyle, and golf privileges and say goodbye to the feeling that you’re not getting what you paid for."
+- 1,59,266
+- Total Savings*
+- 2.5
+- Reward Points**
+- Enjoy complimentary golf games and lessons at select golf courses*
+- Buy one movie ticket and get the second one free*
+- * Wide range of features and benefits.
+- Terms and Conditions apply
+- **Refer Reward Points TnC
+- Effective 13th March 2025 , your golf benefit will now include 1 complimentary game and 1 complimentary lesson per month .
+- Effective 13th March 2025 , you will be eligible for ONE complimentary international lounge visit in each calendar quarter through Priority Pass, outside India
+- Effective 1st April, 2026 spends criteria tracking will be initiated to unlock complimentary domestic lounge access from July, 2026 quarter onwards., click here
+- to know more
+- Rewards
+- Earn points
+- Collect and multiply your reward points by using your IndusInd Bank Pinnacle Credit Card anytime and anywhere.
+- Explore More
+- Redeem points
+- You have earned your reward points and now it’s on you to decide how to redeem them.
+- Earn big on each spend using your credit card for shopping, booking movie tickets, bill payments and more.
+- E-commerce transactions
+- ₹ 100 spent = 2.5 reward points
+- E-com travel and airline transactions
+- ₹ 100 spent = 1.5 reward points
+- PoS, MoTo, IVR transactions and
+- Standing instructions
+- ₹ 100 spent = 1 reward point
+- Please note effective 01st April 2018, fuel transactions will not accrue reward points on your IndusInd Bank Credit Card.
+- Please note: From 1st August 2019, the Rewards program will be revised for select merchant categories. Click here
+- for details.
+- Here are our tailored redemption options that offer maximum benefits:
+- IndusMoments
+- Pay with Rewards
+- for more information and terms & conditions
+- Airline Miles on Krisflyer
+- Maharaja Points for Maharaja Club
+- Cash credit
+- Please note : From 1st April 2018, fuel transactions will not accumulate reward points on your card.
+- Please note, w.e.f January 3, 2023, Reward Points on Rent payment transactions done through third-party merchants on your IndusInd Bank Pinnacle Credit Card will be capped at 500 in a statement cycle. T n C apply.
+- Important Notice: Reward Points Redemption towards Club Vistara Airmiles on www.indusmoments.com
+- for your IndusInd Bank Credit Card will be discontinued effective 31 st Oct 2024.
+- Important Notice: Reward Points redemption towards InterMiles for your IndusInd Bank Credit Card will be discontinued effective 21st January, 2025.
+- Benefits
+- Pinnacle Welcome
+- Pinnacle Assurance
+- Pinnacle Golf
+- Pinnacle Life
+- Pinnacle Travel
+- Pinnacle Assistance
+- Pinnacle Concierge
+- Pinnacle Auto Assist
+- Pinnacle Freedom
+- Montblanc
+- The Postcard Hotel
+- Vouchagram
+- Vouchagram Premium
+- Experience Montblanc, a brand that epitomises craftsmanship and quality par excellence. You can choose from an exquisite collection of watches, stationery, jewellery, leather goods and eyewear from one of the most premium brands in the world.
+- A Collection Of Intimate Luxury Hotels Hidden In Holiday Destinations Across India. Combine luxury with simplicity and retreat to a life you've always wanted.
+- For reservations, please contact: Phone: +91 7999555222 or Email: sales@postcardresorts.com
+- *Click here
+- With the IndusInd Bank Credit Card
+- you can enjoy various discount vouchers from multiple brands like Amazon, Flipkart, Zee5, Apollo Pharmacy, Uber, Ola and more.
+- These brands are subject to change at the discretion of the Bank & Vouchagram.
+- Please note, welcome gift is only applicable on select fee plan.
+- know the TnC and list of Essential categories available under Vouchagram
+- You are spoilt for choice! With the IndusInd Bank Credit Card
+- you can enjoy various discount vouchers from multiple brands.
+- to know the TnC and list of Brands available under Vouchagram Premium
+- Total Protect
+- Our main aim is to make cashless transactions safe and secure for all our customers. Hence, we have introduced ‘Total Protect' - a first-of-its-kind programme that covers you for an amount equal to the credit limit on your card and is also available on add-on cards.
+- Total Protect covers you for the following:
+- Unauthorised transactions in case of loss/theft of card:
+- We provide an insurance cover up to 48 hours prior to you reporting the loss of your card.
+- Counterfeit fraud:
+- There is a possibility of your card or card details to be stolen and misused to produce counterfeit cards. We offer you insurance to protect you against such incidents.
+- Gain exclusive access to some of the most picturesque golf courses and golf clubs in India. As an IndusInd* Bank Pinnacle Credit Card holder, enjoy 1 complimentary golf game and lesson** per month, specially hosted for you at leading golf clubs.
+- to book your complimentary Golf Games & Lessons.
+- *Golf privileges are brought to you by IndusInd Bank in conjunction with Apexlynx.
+- **Offer is subject to applicable detailed T&Cs.
+- Complimentary Hole in One Insurance worth Rs.20,000.
+- For list of clubs for complimentary green fees and golf lessons. Click here
+- BookMyShow
+- Movie offer:
+- Sit back and enjoy a lovely movie with your friends and family. As an IndusInd Bank Pinnacle Credit Card holder, enjoy buy one get one free on movie tickets through our booking partner BookMyShow.
+- Let’s have a look at what’s on offer:
+- Avail up to three free tickets in a month.
+- Offer valid on all theatres registered with BookMyShow across all major cities.
+- Please log on to www.bookmyshow.com to book your tickets.
+- *The price of the free ticket is capped at ₹200. If the price is higher, you will get a ₹200 discount, and the remaining amount must be paid using your IndusInd Bank Pinnacle Credit Card.
+- Priority Pass Programme
+- Travel Insurance
+- Airport Lounge Access Program
+- Our Priority Pass Programme is one such privilege that allows you access to 1400+ lounges across the world.
+- You are eligible for One complimentary visits in each calendar quarter to any of the participating international lounges outside India, through your Priority Pass.
+- Visit https://www.prioritypass.com/en/airport-lounges
+- to find list of lounges available with Priority Pass.
+- Value Offering
+- Annual Membership
+- Priority Pass
+- Annual Benefit
+- Priority Pass Membership
+- $99 x 2
+- $198 (Approx Rs 9,900)
+- While travelling, any sudden or unforeseen event tends to cause a great deal of stress. For example, a missed flight or loss of baggage or passport not only leads to stress but may also result in unplanned expenditure. To avoid this and to ensure a smooth journey, IndusInd Bank has tied up with ICICI Lombard General Insurance Company Limited to provide cardholders with the following insurance coverage:
+- Insurance Coverage
+- Sum assured (up to)
+- Lost baggage
+- Rs 1,00,000
+- Delayed baggage
+- Rs 25,000
+- Loss of passport
+- Rs 50,000
+- Lost ticket
+- Missed connection
+- for T&C of the applicable insurance policy
+- Here’s inviting you to embark upon a luxury travel experience like never before. With your IndusInd Bank Pinnacle MasterCard Credit Card, you get access to domestic and international airport lounges in India that welcome you into a world of exclusivity. Choose from an assortment of gourmet meals, relax and sink into comfortable seating and enjoy free Wi-Fi, widescreen televisions and bar services. What’s more, you get complimentary lounge visits per quarter on your IndusInd Bank Pinnacle MasterCard Credit Card.
+- You will be eligible for 1 complimentary visit in each calendar quarter to any of the participating Domestic Lounges within India, using your IndusInd Bank Pinnacle Credit Card.
+- Direct Connect
+- Priority Care
+- Due to our fast-paced lives, nobody has the time to wait. We understand this and our exclusive Direct Connect service is designed to help you get instant assistance. Just call us on 1860 267 7777
+- from your registered mobile number, and we will promptly connect you to a phone banking expert who will deliver the required assistance.
+- You can email us all your queries and concerns at priority.care@indusind.com
+- The IndusInd Bank Pinnacle Credit Card offers a team of highly efficient professionals, accessible from any corner of the world, to assist you with flight bookings, hotel reservations, and any support required. This is a complimentary service with a host of premium benefits. All you have to do is call for assistance and we will take care of the rest.
+- The 24x7 concierge service offers you:
+- Pre-trip assistance
+- Get all the information, recommendations and assistance required before you embark on your trip. The concierge will provide you with all the information about your travel destination, weather, important landmarks, modes of transport, etc.
+- Hotel reservation
+- Leave it to the concierge to handle all your reservations and to make arrangements in the finest of hotels across the world to ensure you have a pleasurable and comfortable stay.
+- Flight booking
+- The concierge will make all the necessary flight arrangements to help you reach your desired destination.
+- Sports and entertainment booking
+- Whether it’s your favourite team’s football match in Europe or watching Roger Federer win the Grand Slam at Wimbledon, our concierge can arrange tickets for any sports event around the world.
+- Exclusive booking
+- Are you interested in attending special events such as workshops or seminars by eminent personalities? The concierge will provide you with all the information you need and also make reservations on your behalf (whenever possible).
+- Flowers and gifts
+- Need help arranging for a special gift, or want to send flowers to that special someone? We've got you covered. Leave it to the concierge without a worry. Now you can have gifts delivered to anyone, anywhere in the world. Whether it's a Swiss watch or a bottle of French wine, the concierge will ensure that it is delivered at the earliest. To avail any of these services, please call our concierge desk at 1860 267 7777
+- .
+- We know your vehicle is important for you and we’re here to make sure that your valuable vehicle gets the attention it deserves.
+- While you’re making memories on a road trip, we don’t want unforeseen incidents to interrupt your journey. Whether it is an unexpected flat tyre, a vehicle breakdown, or any other emergency, there's no reason to worry.
+- With your IndusInd Bank Pinnacle Credit Card, avail the Auto Assist facility that will provide on the spot assistance and resolve your problem. All you need to do is give us a call. We provide round-the-clock assistance throughout the year.
+- Auto Assist offers the following services:
+- Roadside repair service
+- In the event that your vehicle breaks down on the road due to any mechanical/electrical failure, Auto Assist will arrange for a mechanic to repair your vehicle at the location.
+- Emergency fuel supply
+- In case if you run out of fuel in the middle of nowhere, Auto Assist will arrange to deliver fuel (up to five litres) to your location to get you to the nearest fuel station.
+- Flat tyre service
+- If you have a flat tyre, Auto Assist will arrange for a mechanic to come and repair or replace the tyre.
+- Lost keys
+- Locked yourself out of your car? Or misplaced/lost your car keys? No reason to worry, Auto Assist can arrange for a locksmith to come and make a new car key or open your car door for you.
+- Battery service
+- Is your car battery dead or malfunctioning? Once again, Auto Assist will come to your rescue. We can arrange for a service provider to come to the spot and fix your battery issue.
+- Emergency towing assistance
+- In case of a breakdown wherein your car needs to be towed, Auto Assist will arrange for a towing service to tow your car to a garage for repair.
+- Accident management and medical assistance
+- In the event of an accident or emergency, Auto Assist can help you by coordinating important activities such as emergency message transmission, arranging for emergency medical assistance, and towing of vehicle.
+- Auto Assist services are available in Mumbai, Delhi, Bangalore, Pune, Chennai, and Kolkata.
+- For further details please call the concierge desk at 1860 267 7777
+- Get freedom from surcharge on fuel across India. Enjoy a waiver* of 1% on fuel surcharge at any fuel station in the country.
+- Privileges
+- 11,256
+- A special Priority Pass membership for you and your partner.
+- 1,06,500
+- 1 complimentary golf game and 1 complimentary golf lesson once a month at any of the select prestigious clubs*
+- 20,000
+- Private golf lessons and hole-in-one insurance.
+- 7,200
+- Complimentary movie tickets thrice a month.
+- 6,000
+- Additional savings on fuel surcharge
+- Annual value of reward points earned on an average spend of ₹ 30,000 per month. (450 points per month)
+- Network Offers
+- Visa offers
+- Hotel Reservations
+- Entertainment
+- Travel Benefits
+- Exclusive Stay Offers with Alaya Stays
+- Exclusive Stay Offers with Alaya Stays (4-star villas at coveted Indian destinations, offers available at 200+ villas)
+- Stay for 3, Pay for 2 and 50% savings on the 2nd night
+- Offer
+- TnC apply
+- Complimentary Annual Times Prime Membership
+- Complimentary Annual Times Prime Membership that gives access to 20+ subscription & 40+ discount-led offers:
+- Entertainment (JioHotstar, YouTube Premium, Spotify, etc.), Food & Essentials (SwiggyOne Lite, HealthKart, Netmeds etc.), News & Learning (ET Prime, TOI etc.), Fitness (Cultfit, Mindhouse etc.), and offers from leading brands (Uber, Starbucks , Apollo hospitals, Myntra etc.)
+- Travel Experiences with MakeMyTrip
+- Elevate your travel experiences with MakeMyTrip , with the below offers:
+- Avail 2 Complimentary Seats on your domestic flights up to INR 350 (This offer is in addition to the bank-led offers)
+- Flat 15% off on select domestic hotels as MyCash
+- Eligibility Criteria
+- Eligibility
+- Your income/ITR should be:
+- For salaried individuals: ₹ 10 lakh per annum
+- For self-employed: ₹ 12 lakh per annum
+- Documentation:
+- KYC Documents: Pan card, Aadhaar card and photograph is mandatory.
+- Other acceptable address proofs, in case your communication address varies from Aadhaar Card, are voter’s ID, driving license, passport, etc.
+- Income Documents
+- For salaried individuals:
+- Last 3 month’s bank statement
+- Last 3 month’s salary slip or other bank’s credit card details.
+- For self-employed individuals:
+- Latest copy of ITR or other bank’s credit card details.
+- Note: All the above documents need to be self-attested by the applicant. For any further assistance on credit card documentation, please feel free to reach our helpdesk at 1860 267 7777
+
+## Avios Visa Infinite Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/avios-visa-infinite-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Avios Visa Infinite Credit Card Online - Check Benefits & Rewards \| IndusInd Bank  
+**Official meta description:** Apply online for the IndusInd Bank Avios Visa Infinite Credit Card and enjoy unmatched travel benefits including up to 5X Avios, 1.5% discounted forex markup, complimentary lounge access, milestone rewards, and more.  
+
+### Official extracted card text
+
+- IndusInd Bank Avios Visa Infinite Credit Card
+- We bring you the IndusInd Bank Avios Visa Infinite Credit Card
+- Overview
+- Reimagine your international travel. Open doors to a unique experience.
+- The IndusInd Bank Avios Visa Infinite Credit Card is an ultra-premium metal card with an innovative, sleek design.
+- This card serves you in many ways:
+- 1. Power to Choose:
+- Select your preferred airline loyalty programme: Qatar Airways Privilege Club or British Airways Executive Club
+- Select your preferred international destination to maximise your benefits
+- 2. Collect Avios and Enjoy Your Favourite Destinations:
+- With the IndusInd Bank Avios Visa Infinite Credit Card, maximise your opportunity to collect Avios. Whether you opt for Qatar Airways Privilege Club or British Airways Executive Club, enjoy milestone benefits of up to 36,000 bonus Avios every year.
+- Earn accelerated Avios at your preferred international destination
+- Redeem your Avios for flight tickets, hotel stays, car rentals and much more.
+- 3. Unmatched International Travel Benefits:
+- Enjoy exemplary experiences with complimentary meet-and-greet services, dedicated concierge, elderly care assist, international travel health insurance, discounted foreign currency markup at preferred international destination and much more.
+- Keep reading to know more about the exciting possibilities that await.
+- Rewards with IndusInd Bank Avios Visa Infinite Credit Card
+- Earn Avios
+- Earn Avios upon spends with IndusInd Bank Avios Visa Infinite Credit Card
+- Redeem Avios
+- Redeem your Avios for rewards of your choice.
+- Maximise the Avios you earn using your IndusInd Bank Avios Visa Infinite Credit Card
+- Spends Category
+- Avios per INR 200 Spent
+- Spends in selected preferred international destination for Point of Sale transactions
+- Online spends on selected preferred international destination
+- Spends in domestic and other international destinations
+- Spends on Qatar Airways & British Airways website and App
+- For spends on Utilities, Govt services, Education and Insurance
+- All other spends
+- Avios would be credited to your account post 10 days of statement generation
+- Avios will be earned only for spends up to assigned credit limit in every statement cycle
+- Fuel transactions will not earn any Avios.
+- Learn more on how you can redeem your Avios in a few simple steps:
+- For Qatar Airways Privilege Club, click here
+- .
+- Redemptions are also possible on the Qatar Airways mobile app.
+- For British Airways Executive Club, click here
+- Redemptions are also possible on the British Airways Executive Club mobile app.
+- Redemptions are governed by the terms and conditions of the airline loyalty programme
+- Benefits with IndusInd Bank Avios Visa Infinite Credit Card
+- Welcome
+- Preferred International Destination Benefits
+- Milestone Benefits
+- Renewal Benefit
+- Travel Benefits
+- Concierge
+- Freedom
+- Welcome Benefits with your IndusInd Bank Avios Visa Infinite Credit Card
+- With your IndusInd Bank Avios Visa Infinite Credit Card, enjoy a brand new experience of world-class travel and adventure. Dive into the welcome benefits of your prestigious card!
+- The card gives you the flexibility to choose your preferred airline loyalty programme partner and select your preferred international destination to maximise your benefits. Enjoy a host of delightful experiences no matter what you chose!
+- Welcome Benefits for choosing Qatar Airways Privilege Club as Preferred Airline Loyalty Programme
+- 20,000 bonus Avios*
+- * Welcome Bonus Avios would be credited after 15 days of receipt of joining fees.
+- Welcome Benefits for choosing British Airways Executive Club as Preferred Airline Loyalty Programme
+- 20,000 bonus Avios upon joining*
+- There are so many fascinating places all over the globe; choose your preferred international destination and maximise the rewards at your chosen destination.
+- Earn accelerated Avios: 6 Avios on every INR 200 spent for POS (Point of Sale) transactions at your preferred international destination*
+- Discounted foreign currency mark-up of 1.5% at POS transactions at your preferred international destination
+- You can place a request to change your preferred international destination after an anniversary year of your card is completed. Please note that this change will be effective post your next billing cycle. Please call 1860 267 7777
+- or write to priority.care@indusind.com
+- to place the request. Online transactions at your preferred international destination would earn 3 Avios on every INR 200 spent.
+- Below are the destinations that can be selected at the time of applying for the card:
+- S.NO.
+- Preferred international destination choices
+- Americas (North and South America)
+- Europe and North Asia
+- Middle East and South Asia
+- Africa
+- Australia, New Zealand, Far East and others
+- Reaching a milestone is an incredible victory that deserves to be rewarded. Enjoy the benefit of bonus Avios upon reaching these amazing spend milestones:
+- 18,000 bonus Avios after your first spends of INR 800,000 in a year
+- 18,000 bonus Avios after your second spends of INR 800,000 in a year
+- *Maximum 36,000 bonus Avios in a year.
+- Milestone benefit would be credited 10 days post statement generation, after milestone spends are achieved.
+- Continue exploring the world and begin new chapters on your journey. Captivating hidden gems await to be discovered.
+- Renewal Benefits with Qatar Airways Privilege Club as Preferred Airline Loyalty Programme
+- 5,000 bonus Avios*
+- * 5,000 Bonus Avios would be credited after 15 days of receipt of renewal fees.
+- Renewal Benefits with British Airways Executive Club as Preferred Airline Loyalty Programme
+- *Bonus Avios would be credited after 15 days of receipt of renewal fees.
+- Meet-and-Greet Services
+- Priority Pass Programme
+- Lounge Access
+- Airline Benefits
+- Travel Insurance
+- There’s nothing better than being taken care of while you jet off to experience something extraordinary. With your IndusInd Bank Avios Visa Infinite Credit Card, you can enjoy two complimentary meet-and-greet services per year at leading international airports for a seamless and stress-free travel experience.
+- These services include assistance for smooth check-in, security, immigration and host of other services. This benefit can be availed by the primary cardholder or the travel companion of the primary Cardholder.
+- In case the travel companion wants to avail the service, it is mandatory for the primary cardholder to be present during the travel. This benefit is non transferable.
+- Under meet-and-greet services, following services would be covered:
+- Dedicated one-to-one Service
+- Meet-and-greet on arrival as you enter the terminal
+- Accompany and guide you all the way through the airport for seamless immigration and security
+- Help with baggage reclaim and security
+- Porter service for up to 3 bags(subject to availability)
+- With the IndusInd Bank Avios Visa Infinite Credit Card, get access to a complimentary Priority Pass membership that gives you access to international lounges across the world. Enjoy 2 international lounge visits per calendar quarter with Priority Pass.
+- Important points to note for Priority Pass:
+- Cardholder needs to call IndusInd Bank Contact Center and place the request for Priority Pass. Once the request is placed, The Priority Pass Card will be delivered to the Cardholder at the registered mailing address.
+- To get access to a Priority Pass lounge, the Cardholder will need to have the Priority Pass Card.
+- For any disputes regarding the billing of this lounge usage fee, the Cardholder needs to contact Priority Pass directly.
+- Priority Pass membership is complimentary for all IndusInd Bank Avios Visa Infinite Credit Cardholders.
+- Usage charges of upto USD 35 for visits by Primary Cardholder to any lounge outside India shall not be waived off for more than 2 lounge visits in each calendar quarter.
+- Usage charges of upto USD 35 for visits of Primary Cardholders to any Priority Pass lounge within India shall not be waived off.
+- Usage charges of upto USD 35 for visits of guests of Cardholders to any lounge within or outside India shall not be waived off.
+- The usage charges for lounge access are subject to change as governed by Priority Pass.
+- Visit https://www.prioritypass.com/en/airport-lounges
+- to find list of lounges available with Priority Pass.
+- Enjoy complimentary visits to airport lounges in India. Relax, enjoy the gourmet meal, comfortable seats and free wifi as you wait to embark on your next journey.
+- Please note : You can avail 2 complimentary visits per calendar quarter in any of the participating domestic lounges using your IndusInd Bank Avios Visa Infinite Credit Card.
+- Enjoy 10% off for flight bookings made on www.qatarairways.com
+- or the Qatar Airways mobile app, if you choose Qatar Airways Privilege Club as the preferred airline loyalty programme with your IndusInd Bank Avios Visa Infinite Credit Card.
+- Privilege Club members using IndusInd Bank Avios Infinite Visa Credit Card will be eligible for up to 10% savings on all flights originating from India.
+- All flights have to be booked via www.qatarairways.com
+- or Qatar Airways mobile app.
+- Promo code ‘IDSCB23’ has to be applied for each booking to avail this benefit.
+- International Travel Health Insurance
+- With the IndusInd Bank Avios Visa Infinite Credit Card, you also get a complimentary personal air accident insurance cover of up to USD 25000
+- Coverages:
+- Coverage in case of hospitalisation due to accidental injury or illness while on international trip.
+- Coverage for cardholder along with spouse (accompanying with card holder) will be covered under the policy.
+- Maximum Trip Duration is 60 days per person per trip.
+- Claim will be admissible only in case if travel ticket is booked through IndusInd Bank Avios Visa Infinite Credit Card.
+- Age group – up to 65 years.
+- Claim settlement mode – On reimbursement.
+- For exclusions under this insurance, please click here
+- To initiate claim, please contact IndusInd Bank at the mobile number 18602677777
+- or send an email at the following email ID: priority.care@indusind.com
+- . For more details on claim initiation, please click here
+- While travelling, any sudden or unforeseen event tends to cause a great deal of stress. For example, a missed flight or loss of baggage or passport not only leads to stress but may also result in unplanned expenditure. To avoid this and to ensure a smooth journey, IndusInd Bank has partnered with The Oriental Insurance Company Ltd. to provide cardholders with the following insurance coverage:
+- Insurance Coverage
+- Sum Assured (Up to)
+- Lost baggage
+- Rs 1,00,000
+- Delayed baggage
+- Rs 25,000
+- Loss of passport
+- Rs 50,000
+- Lost ticket
+- Missed flight connection
+- Total Protect
+- Our main aim is to make cashless transactions safe and secure for all our customers. Hence, we have introduced ‘Total Protect' - a first-of-its-kind programme that covers you for an amount equal to the credit limit on your card and is also available on add-on cards.
+- Total Protect covers you for the following:
+- Unauthorised transactions in case of loss/theft of card:
+- We provide an insurance cover up to 48 hours prior to you reporting the loss of your card.
+- Counterfeit fraud:
+- There is a possibility of your card or card details to be stolen and misused to produce counterfeit cards. We offer you insurance to protect you against such incidents.
+- *Claim amount may vary as per actual loss incurred and credit card limit of the covered card
+- Elderly Care Assist
+- Other Services
+- While you travel, be stress-free and rest assured that your loved ones are taken care of by professionals with our elderly care concierge services available with this card.
+- While you are away, arrange a host of care services for the elderly members of your family who reside in India.
+- Homecare (arrange a homecare personnel with fixed working hours in major cities such as Mumbai, Pune, Delhi NCR, Bangalore, Chennai, Kolkata, Hyderabad)
+- OPD appointments
+- Diagnostic test bookings with various pathology tests across 100 plus cities in India
+- Healthcare packages that includes various ailment packages, support packages
+- Teleconsultation appointments with GPs and specialists
+- Home quanratine programme packages
+- Physiotherapy assistance at home in select cities
+- Consultations and bookings with wellness experts
+- Consultations and bookings with Nutritionists
+- Consultations and bookings with Dieticians
+- to know more about list of hospitals, wellness experts, Nutritionists, Dieticians and physiotherapists associated with this programme.
+- Here is how the cardholder can avail this offer:
+- Please call the toll-free number 18002099071 or write to Indusindassist@aspirelifestyles.com for placing a request.
+- The request for this service should be placed at least 72 hours prior to the service needed.
+- After the booking is placed the Concierge team will be in touch with the cardholder to share further details.
+- The cardholder would bear the cost of these services.
+- The following terms and conditions would apply:
+- This service is provided by our service partners, IndusInd Bank does not underwrite or warrant the services offered by the service provider and shall not have any liability for any defect, deficiency, delay, unavailability or imperfection in such services or for any loss or damage that may be suffered, or for any personal injury to a Cardholder or accompanying guest directly or indirectly by use or non-use of the services.
+- Any dispute or claim regarding the goods and/or services must be resolved by the Cardholder with the service partners directly.
+- IndusInd Bank reserves the right to without any prior intimation or notice to change, alter, edit any of the terms and conditions associated with this offer or discontinue the offer as deemed fit.
+- IndusInd Bank's decision shall be final and binding on Cardholders in all respects in case of matters relating to this offer.
+- Cardholders who have opted for this service shall be deemed to have read, understood and accepted these terms and conditions.
+- Cardholders agree that they would be sharing their details with the concierge to avail these services, IndusInd Bank would not have any liability/ responsibility for the details shared by the card holder with the service provider to avail these services.
+- Avail a plethora of services by our concierge, including:
+- Pre-trip assistance
+- Get information on various requirements, yatch services, best sight-seeing places and much more as you plan for your trip!
+- Flowers and Gift Delivery Assistance:
+- Want to gift that special someone flowers to show how much you value them? Or thank a colleague for their hard work? We've got you covered. You can have flowers and gifts delivered to anyone, anywhere in the world. Whether it's an expensive bouquet of flowers or a luxury watch, the concierge will ensure that it is delivered at the earliest.
+- Hotel Referral and Reservation Assistance
+- Let the concierge take on the responsibility of handling all your reservations to make arrangement in the most splendid hotels across the world. We want to ensure you have the best, most comfortable experience.
+- Dining Referral and Reservation Assistance
+- Get the best dining experience by getting referrals/recommendation from the experts - our concierge! Make reservations at the most exclusive dining locations across the world.
+- Please call the toll-free number 18002099071
+- or write to Indusindassist@aspirelifestyles.com
+- for placing a request.
+- Terms and Conditions:
+- IndusInd Bank makes absolutely no representations about the quality of the concierge’s services and will not be responsible if the service in any manner is deficient or unsatisfactory.
+- Cost for the service requested to be paid by the customer.
+- Get freedom from surcharge on fuel across India. Enjoy a waiver* of 1% on fuel surcharge at any fuel station in the country.
+- Network offers
+- Visa Offers:
+- Airport Meet & Greet Immigration Services :
+- Visa Infinite Cardholders can enjoy discount of 25% on retail rates on Airport Fast Track immigration service at over 450 destinations worldwide.
+- Visa Airport Limo Transfer Program :
+- Enhance your travel experience with Luxury Airport Transfer Service. Visa Infinite Cardholders can enjoy 20% off retail rates on airport transfer service in key cities globally.
+- For more details, please click here
+- Contactless Credit Card Features
+- We introduce to you the super convenient chip-based contactless credit card with the IndusInd Bank Avios Visa Infinite Credit Card. The contactless feature enables you to make swift, convenient, and secure transactions for your daily purchases by simply tapping your credit card at merchant locations where standard card payments are accepted. Use your Credit Card
+- to purchase goods at merchant establishments, for travel, for making payments online or via e-commerce websites, and for cash withdrawal in India or anywhere in the world.
+- You can use the IndusInd Bank Avios Visa Infinite Credit Card for:
+- Faster day-to-day payments at merchant locations accepting contactless payments
+- Shopping at 10 lakh merchant outlets in India and over 30 million outlets worldwide that accept card payments
+- For booking movie tickets, utility bill payment, travel, and online purchases
+- Safe online shopping and e-commerce transactions
+- IndusInd Bank Avios Visa Infinite Credit Card is a chip-based contactless credit card from IndusInd Bank. It has a contactless feature that enables you to make everyday purchases by simply waving your card at merchant locations where contactless payment is accepted. It can also be used at any location where standard card payments are accepted.
+- IndusInd Bank Avios Visa Infinite Credit Card is a co‑branded credit card issued by IndusInd Bank in partnership with AVIOS GROUP (AGL) LIMITED and QATAR AIRWAYS GROUP Q.C.S.C.. There is a revenue sharing arrangement between IndusIndBank, AVIOSGROUP(AGL)LIMITED and QATARAIRWAYSGROUP for this co‑branded credit card.
+- About Qatar Airways
+- A multiple award-winning airline, Qatar Airways won the ‘World’s Best Airline’ for the unprecedented eighth time at the 2024 World Airline Awards, managed by the international air transport rating organisation, Skytrax. Qatar Airways has been the World’s Best Airline in 2011, 2012, 2015, 2017, 2019, 2021, 2022, and 2024. The airline continues to be synonymous with excellence, also taking home, ‘World's Best Business Class’, ‘World's Best Business Class Airline Lounge’, and ‘Best Airline in the Middle East’. As leaders in industry innovation and digital adoption, Qatar Airways was also recently voted the 'World’s Best Airline Website' by World Travel Tech Awards.
+- Qatar Airways was the first Airline in the Middle East to be certified to the highest level of IATA’s Environmental Assessment (IEnvA) programme, based on recognised environmental management system principles (such as ISO 14001). As an inaugural signatory to the Buckingham Palace Declaration in March 2016, Qatar Airways became the first airline globally to be certified to the industry standard for the prevention of illegal wildlife
+- About Qatar Airways Privilege Club
+- In the year 2000, Qatar Airways established its loyalty programme, Privilege Club, which features four tiers of membership – Burgundy, Silver, Gold, and Platinum, giving members a range of exclusive privileges and benefits that have been designed and tailored to make travelling even more rewarding. Members can collect Avios when flying with Qatar Airways, oneworld® and other airline partners, as well as with other financial, hotel, car rental and lifestyle partners. Avios can be spent for award flights, upgrades, extra baggage, packages with Qatar Airways Holidays, shopping and dining at Qatar Duty Free, accessing Privilege Club Collection and much more. Members can also collect and spend Avios on their purchases at a wide range of shopping, dining and entertainment outlets by linking their payment cards with their Privilege Club account. Not a Privilege Club member? Join now
+
+## Nexxt Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/nexxt-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Nexxt Credit Card - Apply & Experience Nexxt Gen Technology \| IndusInd Bank  
+**Official meta description:** Experience the future of credit cards with IndusInd Bank's Nexxt Credit Card. Enjoy rewards, movie tickets, fuel surcharge waivers, and more with built-in LED lights for flexible payments.  
+
+### Official extracted card text
+
+- IndusInd Nexxt Credit Card
+- The next-gen way to pay.
+- Nexxt Credit Card
+- Overview
+- Experience what’s next in the world of Credit Cards with IndusInd Bank Nexxt Credit Card - India’s first Interactive credit card with in-built LED lights, which offers you absolute flexibility when making payments at POS. The LED buttons, empower you to switch between multiple payments options at your favourite store.
+- to know more.
+- Earn 1 Reward Point for every ₹150 spent
+- Buy one get one ! Get up to two movie tickets capped at ₹ 200/- every month in a calendar year on booking via BookMyShow
+- Waiver of 1% on fuel surcharge at any petrol pump across India.
+- *Please visit the 'Redeem Your Reward Points' section for changes in Cash Credit redemption.
+- Effective 1st September 2024, maximum reward points allowed for cash redemption will be 2500 per calendar month
+- Rewards
+- Rewards & More
+- For every ₹ 150 spent on your IndusInd Bank Nexxt Credit Card, you get 1 Reward Point.
+- Redeem Your Reward Points
+- You have earned your reward points and now it’s on you to decide how to redeem them.
+- Earning Reward Points:
+- Watch your reward points grow by using your IndusInd Bank Nexxt Credit Card for business or pleasure wherever and whenever you choose.
+- Redemption of Reward Points:
+- Besides paying with your accumulated rewards for purchases using the Rewards button on your Nexxt Credit Card, you can also redeem your Reward Points in following ways:
+- IndusMoments
+- Pay with Rewards
+- for more information and terms & conditions
+- Airline Miles on Krisflyer
+- * Cash credit New
+- From 1st August 2019, the Rewards program will be revised for select merchant categories. Click here
+- for details.
+- Important Notice: Reward Points Redemption towards Club Vistara Airmiles on www.indusmoments.com
+- for your IndusInd Bank Credit Card will be discontinued effective 31 st Oct 2024.
+- Important Notice: Reward Points redemption towards InterMiles for your IndusInd Bank Credit Card will be discontinued effective 21st January, 2025.
+- Benefits of Nexxt Credit Card
+- Nexxt Payment Privileges
+- Accelerated Nexxt Savings Benefit
+- Nexxt Welcome
+- Nexxt Travel
+- Nexxt Life
+- Nexxt Freedom
+- Nexxt Assurance
+- Pay with EMI
+- Pay with Reward Points
+- Pay with Credit option
+- EMI OPTION:
+- To pay using the EMI option, select the number of months by pressing the EMI button till you reach your desired number of months before authorizing the transaction. For instance, for 6 months, you have to press the EMI button once. For 12 months, you have to press twice, and so on. Please ensure the LED light corresponding to your preferred tenure option illuminates before using the Card.
+- The Cardholder can choose between EMI tenure options of 6, 12, 18 and 24 months at an interest rate of 12%. The Bank may at its sole discretion change the interest rate applicable for EMI. The Cardholder will be informed about the revised interest rate.
+- Important Note:
+- Your Credit Card works like a regular Credit Card for online transactions. Please use the credentials printed on the back of the Card to complete the transaction.
+- For in-store transactions, simply press a button with your preferred option to pay and the corresponding indicator light will illuminate.
+- The indicator will initially emit light constantly and then blink periodically, for up to 6 minutes.
+- During this 6 minute period, you may swipe/insert/tap your card or hand over your card to a cashier.
+- The LED light will switch off 20 seconds after a transaction. If no transaction happens, the LED light will switch off after 6 minutes.
+- To turn the LED light off, press the currently illuminated button again.
+- Please note, the EMI and Rewards buttons on your Nexxt Credit Card can be used only while transacting at POS merchant outlets and will not apply to Online, Moto, IVR, Samsung Pay, and ATM cash withdrawal transactions. For such transactions, the standard credit option will be considered. You may, however, opt for the EMI option without using the buttons if provided by merchants for online transactions.
+- If the Cardholder wants to avail Merchant EMI through PoS then the credit button needs to be pressed before authorizing the transaction. Please note, the rate of interest for merchant EMI can be different from the standard rate of interest of 12% applicable on Pay with EMI option through EMI button.
+- REWARD POINTS OPTION:
+- To pay using your accrued rewards, press the Rewards button before authorizing the transaction. Please note, the transaction will be approved subject to the available credit limit on your credit card account. Your accumulated reward points will get deducted against the value of the transaction within 2 working days of settlement of transactions.
+- Please note, you will need to accumulate a minimum of 500 reward points to use the ‘Pay by Rewards’ option.
+- You can check your available rewards balance through any of the following options:
+- IndusMobile App – On Credit Card Details page, user can click on the ‘View’ link in the Reward Points section
+- IndusAlerts – SMS RBALE <space> <last 4 digits of card number> to 5676757
+- CREDIT OPTION:
+- Press this button if you wish to pay via the Credit option. This works just like your regular Credit Card.
+- Annual Estimation
+- Nexxt Privileges
+- Savings (in ₹) on Market Value
+- Movie tickets at theatres 2 times a month (2*200*12)
+- ₹ 4,800
+- Savings on Fuel Surcharge T&Sc:
+- ₹ 480
+- Annual value of Reward Points on an average spend of ₹ 30,000 per month (200 points per month)
+- ₹ 1,800
+- Total Savings
+- ₹ 7,080
+- *The above illustration is based on hypothetical estimate of expenses.
+- Montblanc
+- The Postcard Hotel
+- Vouchagram
+- Vouchagram Premium
+- Experience Montblanc - a brand with the commitment to excellence and fine craftsmanship since 1906. Choose from an exquisite collection of watches, writing instruments, jewellery, leather goods and eyewear.
+- Mont Blanc stores now are located in 6 cities and we have 12 stores across the country.
+- Welcome Gifts are available at select fee points only. Please contact our phone banking service or Sales representative for applicable charges.
+- A Collection Of Intimate Luxury Hotels Hidden In Holiday Destinations Across India. Combine luxury with simplicity and retreat to a life you've always wanted.
+- For reservations, please contact: Phone: +91 7999555222 or Email: sales@postcardresorts.com
+- *Click here
+- Please note: The above Welcome Gifts are available at select fee points only. Please contact our phone banking service or Sales representative for applicable charges.
+- With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands like Amazon, Flipkart, Zee5, Apollo Pharmacy, Uber, Ola and more.
+- These brands are subject to change at the discretion of the Bank & Vouchagram.
+- Please note, welcome gift is only applicable on select fee plan.
+- know the TnC and list of Essential categories available under Vouchagram
+- You are spoilt for choice! With the IndusInd Bank Credit Card you can enjoy various discount vouchers from multiple brands like Pantaloons, Bata, Raymond, Hush Puppies, and more.
+- to know the TnC and list of Brands available under Vouchagram Premium
+- Travel Insurance
+- Travel Insurance Cover Details:
+- IndusInd Bank has tied up with The Oriental Insurance Company Ltd.("Insurance Company") as a group manager to provide Card holders with the following insurance cover under the Program:
+- Insurance cover
+- Sum assured (up to)
+- Lost baggage
+- ₹ 100,000
+- Delayed baggage
+- ₹ 25,000
+- Loss of passport
+- ₹ 50,000
+- Lost ticket
+- Missed connection
+- Watching your favorite movies becomes all the more special when you watch it with someone special!
+- That’s why IndusInd Bank, in association with BookMyShow brings you a special offer! Enjoy the show!
+- BookMyShow
+- Movie offer:
+- Buy one movie ticket and get the other one absolutely free *
+- The Cardholder can avail up to 2 free movie discounts in a month
+- Offer valid on all theatres registered with BookMyShow across all major cities
+- Please log onto www.bookmyshow.com
+- to book your tickets today.
+- *The price of the free ticket is capped at ₹200. In case, the price of the ticket is more than ₹200, the cardholder will receive a discount of ₹200 and the remaining amount will have to be paid by the Cardholder using his/her IndusInd Bank Credit Card.
+- Get freedom from surcharges on petrol pumps across India. Enjoy a waiver* of 1% on fuel surcharge at any petrol pump across India.
+- Value Offering:
+- Petrol Surcharge Waiver
+- Monthly Savings
+- Annual Savings
+- Monthly fuel usage @ Rs 2000
+- ₹ 20
+- ₹ 240
+- The information given in the value offering is based on certain assumptions and is for illustration purposes only.
+- Actual savings will depend on the usage pattern of a particular cardholder.
+- You don’t need to worry about fraudulent usage of your card anymore. ’Total Protect‘ is a first-of-its-kind program, which covers you for a sum up to the credit limit on your Credit Card and is available with add-on cards as well. With us, you can be worry-free about the fraudulent usage of your card.
+- Total Protect covers you for the following:-
+- Unauthorized Transactions in case of loss/ theft of Card: We provide an insurance cover up to 48 hours prior to you reporting the loss of your Card to IndusInd Bank.
+- Counterfeit Fraud: It is possible that your Card or Card details are stolen and used unscrupulously by producing counterfeit plastic. We offer you insurance to protect yourself against such incidents.
+- Contactless Card Features
+- IndusInd Bank Nexxt is a chip based contactless Credit Card. This Card has a contactless feature that enables you to make fast, convenient and secure everyday purchases by simply tapping your Credit Card
+- at merchant locations where contactless payment is accepted. It can also be used at millions of Merchant locations where standard Card payments are accepted. Use your IndusInd Bank Nexxt Credit Card to purchase goods at merchant establishments, for travel, for making payments online/ e-commerce websites and withdraw cash in India as well as across the globe.
+- Use of IndusInd Bank Nexxt Credit Card:
+- Faster day-to-day payments at merchant locations accepting Contactless Payments.
+- Shopping at 10 lakh merchant outlets in India and over 30 million worldwide accepting Card Payments.
+- For booking movie tickets, utility bill payments, travel, other online purchases.
+- Safe online shopping and e-commerce transactions.
+- Flexibility of payment options at POS.
+- FAQs
+- What are the benefits of the Nexxt Credit Card?
+- You get a host of benefits with your Nexxt Credit Card such as -
+- Flexible options to pay through EMI, Reward points or Credit
+- Get 1 Reward Point for every ₹150 spent
+- Fuel Surcharge Waiver
+- Total Protect which covers against any fraudulent usage of your card
+- Up to 2 free movie tickets with bookmyshow.com
+- Comprehensive travel insurance
+- Does Nexxt Credit card come with the contactless feature?
+- The Nexxt Credit Card comes with a contactless feature which lets you make fast, secure, and convenient daily purchases hassle-free.
+- Can I use my Nexxt Credit Card for international transactions?
+- Yes. You can use your Nexxt Credit Card for online and offline purchases in India as well as abroad.
+- When can I redeem my Nexxt Credit Card reward points?
+- You earn 1 reward point on every INR 150 spent and you can redeem them as per your convenience as they don’t carry an expiration date. We have partnered with various merchants for redemption of Reward Points where you can pay with the accumulated rewards. You can also pay outstanding statement bills with the Points+Pay system by using accumulated reward points and other forms of payment.
+- How to use the interactive feature of the NEXXT Credit Card?
+- Nexxt is India’s first interactive credit card with in-built LED lights, which offers you absolute flexibility when making payments at POS. The LED buttons empower you to switch between multiple payments options at your favourite store. It gives you the freedom to pay the way you want, by giving you payment options like EMI, Rewards and Credit, at the push of a button.
+- Recommended Blogs for you
+- IndusInd Bank Nexxt Credit Card – India’s First Interactive Card
+- Experience uniqueness in a whole new way with IndusInd Bank Nexxt Credit Card that comes with interactive buttons and LED lights. Read through to know more.
+- Why You Should Get a Premium Credit Card
+- Are you enamored of the high life? High-end shopping, fine dining, luxurious travel – you get the drift. If you have a taste for the finer things in life, you need a credit card to go with it
+- Get Advantage of Some Exclusive Benefits with Indus Easy Credit Cards
+- Whether it’s a big ticket purchase or your weekly grocery shopping, a credit card makes payments easy and hassle-free. In addition to the convenience of making payments, using a credit card also enables you to earn attractive reward points and cashbacks, which you can redeem to enjoy additional privileges.
+- Cool Tricks of Using Your Credit Card to boost investments
+- Contrary to popular belief, credit cards can be the best financial product for anyone to start their investment journey. They are no longer just plastic money because not only the cards allow you to make purchases on credit and pay your monthly bills all at once, but they also help you save more
+
+## Tiger Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/tiger-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Apply for Tiger Credit Card Online - Check Benefits & Rewards \| IndusInd Bank  
+**Official meta description:** Apply for IndusInd Bank's Tiger Credit Card online now and get special perks such as accelerated reward points, reduced forex markup fees, golf perks, lounge access and many more.  
+
+### Official extracted card text
+
+- IndusInd Bank Tiger Credit Card
+- Set Yourself Apart
+- Overview
+- By choosing the IndusInd Bank Tiger Credit Card, you’ve set yourself apart. Earn an identity, privileges and a rewarding life, which only a few deserve.
+- Earn upto 6 Accelerated Reward Points on every ₹100
+- 1.50% Discounted Forex Mark-up Fee
+- Golf - 1 Complimentary Game or Lesson per Quarter
+- 2 Complimentary Domestic Lounge Access in a quarter and 2 International Lounge Access in a year via Priority Pass
+- One complimentary movie ticket upto ₹500 on BookMyShow every 6 months in a calendar year
+- Effective 1st September 2024, maximum reward points allowed for cash redemption will be 5000 per calendar month
+- IndusInd Bank Tiger Credit Card Rewards
+- Magnificent Rewards
+- A crafted 'Magnificent Rewards Program' where customers earn upto 6 Accelerated rewards for every ₹ 100 spent.
+- Redeem Reward Points
+- You have earned your reward points and now it's on you to decide how to redeem them.
+- Magnificent Rewards Program
+- Spends Slabs Anniversary Year (in ₹)
+- Slabwise Reward Multiplier
+- Upto 1,00,000
+- 1,00,001- 2,50,000
+- 2,50,001- 5,00,000
+- >5,00,000
+- Get the best from the 'Magnificent Rewards Program' , an illustration given below
+- Reward Multiplier
+- *Reward Points
+- 1,00,000
+- 1,000
+- 1,50,000
+- 3,000
+- 2,50,000
+- 10,000
+- 6,000
+- Total 6,00,000
+- 20,000
+- *Assuming INR 6 lakh spends in a card Anniversary Year , you will earn Reward points as mentioned in above illustration. Incremental spends in each slab will be considered for Reward Multiplier.
+- Reward Points can be redeemed as cash credit or Airmiles
+- 4 Reward Points = 1 Krisflyer Mile
+- 1 Reward Point = ₹ 0.40 (Cash credit)
+- Earn 1 Reward Point on every ₹ 100 spent on your Credit Card.
+- Redeem reward points against vouchers from brands like Oberoi, Luxe and E Vouchers including Shopping, Traveling, Dining and Entertainment.
+- Redeemable through Indusmoments www.indusmoments.com
+- , where 1 Reward Point = ₹ 0.40
+- Please Note: Accelerated Reward points will not be accrued on transactions done at select MCC categories such as fuel, utility bill payments , insurance premium , government services, Educational Institutes , Real Estate and rental payments. Fuel transactions will not accrue any reward points.
+- IndusMoments
+- Airline Miles on Krisflyer
+- Cash credit
+- Important Notice : Reward Points Redemption towards Club Vistara Airmiles on www.indusmoments.com
+- for your IndusInd Bank Credit Card will be discontinued effective 31 st Oct 2024.
+- Important Notice : Reward Points redemption towards InterMiles for your IndusInd Bank Credit Card will be discontinued effective from 21st January, 2025.
+- IndusInd Bank Tiger Credit Card Benefits
+- Accelerated Rewards Benefit
+- Entertainment
+- Travel
+- Golf
+- Fuel Surcharge
+- Assurance
+- Concierge
+- Auto Assist
+- Get rewarded while you live life king size. Our rewards multiplier lets you maximise your reward earnings as you spend.
+- Features
+- Value (₹)*
+- Spends per year (₹. 6,00,000)
+- Slab 1 : Spends of ₹ 1,00,000 = Reward Earning of ₹ 400
+- Slab 2 : Spends of ₹ 1,50,000 = Reward Earning of ₹ 1,200
+- Slab 3 : Spends of ₹ 2,50,000 = Reward Earning of ₹ 4000
+- Slab 4 : Spends of ₹ 1,00,000 = Reward Earning of ₹ 2,400
+- (The above calculations are done at a redemption Rate where 1 RP = ₹ 0.40)
+- 8,000
+- 4 complimentary games or lessons per year at ₹ 4000 each per year
+- 16,000
+- BookMyShow Offer
+- Assured 2 Tickets of ₹ 500 per year
+- Domestic Lounge Access
+- Complimentary 8 lounge access per year at $14 per visit
+- 9,184
+- International Lounge Access
+- Complimentary 2 lounge access per year at $27 per visit
+- 4,428
+- Total Value to the Customer
+- 38,612
+- USD INR Rate considered at Rs.82
+- *The Reward Point Chart calculations are based on assumptions.
+- Get one complimentary movie ticket upto ₹ 500 on bookmyshow.com every 6 months in a calendar year
+- Offer valid on all theatres registered with BookMyShow across all major cities.
+- Please log on to www.bookmyshow.com
+- to book your tickets.
+- Discounted Forex Mark-up
+- International Lounge
+- Domestic Lounge
+- Enjoy discounted foreign currency mark-up of 1.5% on all your international spends
+- Our Priority Pass Programme is one such privilege that allows you access to 600+ lounges across the world.
+- Note: You are eligible for TWO complimentary visits per year to any of the participating international lounges outside India with your priority pass.
+- Visit https://www.prioritypass.com/en/airport-lounges
+- to find list of lounges available with Priority Pass.
+- Value Offering
+- Annual Membership
+- Priority Pass
+- Annual Benefit
+- Priority Pass Membership
+- $99 x 2
+- $198 (Approx Rs 16,247)
+- With your Tiger Credit Card, you get access to domestic lounges that welcome you into a world of exclusivity. Choose from an assortment of gourmet meals, relax and sink into comfortable seating and enjoy free Wi-Fi, widescreen televisions and bar services.
+- Please note: You can avail 2 complimentary visit per calendar quarter in any of the participating domestic lounges within India, simply using your IndusInd Bank Tiger Credit Card
+- Gain exclusive access to some of the most picturesque golf courses and golf clubs in India. As an IndusInd Bank Tiger Credit Card holder, enjoy one complimentary golf game or lesson per quarter.
+- to book your complimentary Golf Games & Lessons.
+- *Golf privileges are brought to you by IndusInd Bank in partnership with Apexlynx.
+- **Offer is subject to applicable detailed T&Cs.
+- For a list of clubs for complimentary green fees and golf lessons, please click here
+- .
+- Enjoy 1% fuel surcharge waiver* across all fuel stations in India.
+- This waiver is applicable for all fuel transactions between ₹ 400 to ₹ 4000 only.
+- Fuel Surcharge waiver T n C: https://www.indusind.bank.in/in/en/personal/tnc-petrol-surcharge-waiver.html
+- Total Protect:
+- Our main aim is to make cashless transactions safe and secure for all our customers. Hence, we have introduced ‘Total Protect' - a first-of-its-kind programme that covers you for an amount equal to the credit limit on your card and is also available on add-on cards.
+- Total Protect covers you for the following:
+- Unauthorised transactions in case of loss/theft of card: We provide an insurance cover up to 48 hours prior to you reporting the loss of your card.
+- Counterfeit fraud: There is a possibility of your card or card details to be stolen and misused to produce counterfeit cards. We offer you insurance to protect you against such incidents.
+- Pre-trip Assistance: With this service, you can get information about any destination in India or abroad - information like the weather, important landmarks, modes of transport, etc. You can plan your trip easily with this information.
+- Hotel Bookings: If you need to make a booking at any hotel across the world, you can call the concierge desk and the concierge desk shall take care of the bookings.
+- Flight Bookings: Your flight bookings whether in India or abroad can be handled by the concierge desk. The concierge will book the tickets and deliver them to you at your doorstep. For the IndusInd Bank International Travel offers, call the concierge desk and the tickets will be charged on your card and delivered to you at your doorstep.
+- Car Rental & Limousine Service: If you want to rent a car while travelling in India or abroad, all you will need to do is call the concierge and the rental shall be arranged for you.
+- Sports and Entertainment Bookings: If you want tickets for the Sports events, you can call the concierge desk. They will try and arrange for the tickets and deliver them to your doorstep.
+- Event Bookings: You can call the concierge desk to arrange for tickets to any special talks or events across the world
+- Flower and Gift Delivery: With the concierge, you can arrange to send flowers or any special gift to anyone across the world. You can ask the concierge for the rarest of things and they will be arranged and delivered to any place that you wish
+- You can call the Concierge services on 1860 267 7777
+- Auto Assist provides you with the following services:
+- Roadside Repair Service: In the event that your vehicle breaks down on the road due to any mechanical/electrical fault, Auto Assist will help in arranging for the mechanic for repair of your vehicle at the vehicle’s breakdown location.
+- Emergency Fuel Supply: If your vehicle gets stranded on the road due to lack of fuel, the Auto Assist shall arrange to deliver the fuel (up to 5 litres) to the location where your vehicle is stranded.
+- Flat Tyre Services: In case of a flat tyre, the Auto Assist Service shall arrange for a mechanic to come and repair the flat tyre.
+- Keys Locked Inside: In case of car keys getting locked inside the car or keys getting misplaced, we can even arrange for a locksmith to come and either prepare a new car key or open your car for you at the time of need.
+- Battery Service: In case the battery is not functioning, the Auto Assist shall arrange for a service provider to come for battery repair at the vehicle’s breakdown location
+- To avail the Auto Assist service, you need to call the Concierge on 1860 267 7777
+- IndusInd Bank Tiger Credit Card is a co‐branded credit card issued by IndusInd Bank in partnership with Tiger Fintech Private Limited (A Bajaj Capital Group Company). There is a revenue sharing arrangement between IndusInd Bank & Tiger Fintech Private Limited for this co‐branded credit card.
+- FAQs
+- What is the Rewards program on the IndusInd Bank Tiger Credit Card?
+- The Rewards program is a unique program specially designed to cater to the lifestyle of discerning customers like you. You will earn Reward Points when you use the IndusInd Bank Tiger Card. The value of each Reward Point is ₹ 0.40 when you redeem them against the outstanding in your card account.
+- What is the maximum number of Reward Points I can earn in a year?
+- There is a cap upto the credit limit on the Reward Points that a cardholder can earn. Your points earning depends on your spends. So go ahead and spend more on your IndusInd Bank Tiger Credit Card and earn Reward Points which you can redeem against various exciting options.
+- What are the advantages of the Concierge Services?
+- The Concierge service provides you with 24-hour assistance, all year through. IndusInd Bank uses the concierge service provider for providing concierge services to IndusInd Bank Tiger Credit Card cardholders.
+- To avail the IndusInd Bank Concierge service, you need to call a local number. The service can be thought of as your personal assistant, a friend, who you can call for any request either for organising birthday parties, finding a rare gift for that special someone or even during an emergency.
+- For example, if you need information about a country, Visa procedures, or you want hotel bookings, restaurant reservations, tickets for the Wimbledon or you want to send a special gift to your child in any part of the world, you can call the IndusInd Bank Concierge Service.
+- The Concierge shall be at your service 24 hours a day.
+- How should I proceed with Golf course booking?
+- Golf course booking is very simplified at IndusInd Bank. Visit https://indusindgolf.apexlynx.net/
+- and place your booking request.
+
+## Samman Credit Card
+
+**Official page:** https://www.indusind.bank.in/in/en/personal/cards/credit-card/samman-credit-card.html  
+**Extracted on:** 2026-05-20  
+**Scope note:** Extracted only from the official IndusInd Bank page above. Linked PDFs, terms documents, reward redemption pages, application journeys, videos, partner pages, and other linked resources were not opened.
+**Official page title:** Samman RuPay Credit Card for Government Employees \| IndusInd Bank  
+**Official meta description:** Introducing the IndusInd Bank Samman RuPay Credit Card, tailor-made for government employees with numerous exciting features. Apply now for exclusive benefits.  
+
+### Official extracted card text
+
+- Samman RuPay Credit Card (Only for Government Employees)
+- Now with the Power of UPI
+- Samman Credit Card
+- Overview
+- The IndusInd Bank Samman RuPay Credit Card for the government sector employees offers a comprehensive range of features such as scan & pay via UPI, 1% cashback on all retail spends, movie tickets and much more.
+- Power of UPI
+- Get 1% cashback on all Retail spends upto Rs.200 in every statement cycle. *
+- Get one assured complimentary movie ticket upto ₹ 200/- every 6 months in a calendar year via BookMyShow **
+- 1% Waiver on Railway Surcharge on Transactions up to ₹ 5,000**
+- Nil Cash Advance fee
+- *Total Retail Spends of up to ₹ 20,000 will be eligible for cashback in a statement cycle
+- **T&Cs Apply
+- Benefits
+- Credit Card on UPI
+- Cashback Benefit
+- Entertainment Benefit
+- Surcharge Waiver Benefit
+- Samman Travel Insurance Cover
+- Pay Now with UPI on your IndusInd Bank Samman RuPay Credit Card.
+- Link your Samman RuPay Credit Card on UPI in Few Steps
+- Step 1: Open your UPI app* BHIM, PhonePe, Paytm, Google Pay.
+- Step 2: Select the option "Add Credit Card/Link Credit Card"
+- Step 3: Select Credit Card Issuer Bank (IndusInd Bank)
+- Step 4: Select your IndusInd Bank Samman RuPay Credit Card
+- Step 5: Proceed to generate UPI PIN
+- *(Download the UPI app from Playstore/App Store if you are not registered on any UPI app yet, verify your mobile no. and continue from Step 2 as shared above)
+- Set UPI Pin
+- Step 1: Select Generate PIN option > Select Samman RuPay Credit Card
+- Step 2: Enter Samman RuPay Credit Card Details:
+- Last 6 digits
+- Expiry Date
+- (OTP will be triggered on your registered mobile number)
+- Step 3: Enter OTP and Set PIN of your choice
+- Making UPI Payments with your Samman RuPay Credit Card
+- Scan Merchant QR Code or enter Merchant UPI ID
+- Enter Amount to be paid or pay auto-fetched amount
+- Select Samman RuPay Credit Card from the list of payment options
+- Enter UPI PIN of your Credit Card & Click Confirm
+- (Transaction status can be seen in Transaction History of your UPI App)
+- Here Is Why You Should Opt For UPI Payments Via Credit Cards
+- Get *1% cashback on all spends up to ₹ 20,000 in a statement cycle. The cashback earned in the current statement cycle will be credited to your credit card account in the subsequent statement cycle.
+- *Maximum cashback that can be earned in a statement cycle is capped at ₹200
+- Please refer below illustration: -
+- Total Spends in a statement cycle
+- Cashback @ 1% on Spends
+- 5,000
+- ₹ 50
+- 10,000
+- ₹ 100
+- 15,000
+- ₹ 150
+- 20,000
+- ₹ 200
+- 25,000
+- *Spends above ₹20,000 will not attract any cashback hence the cashback amount is ₹200
+- IndusInd Bank, in association with BookMyShow, brings you one assured movie ticket every 6 months in a calendar year on your credit card. Relax, sit back and enjoy the show!
+- BookMyShow
+- Movie offer:
+- Get 1 assured Ticket of Rs.200 every 6 months in a calendar year
+- Offer valid in all theatres registered with BookMyShow across all major cities.
+- Please log onto www.bookmyshow.com
+- to book your tickets today.
+- *The price of the free ticket is capped at INR 200. In case the price of the ticket is more than INR 200, the cardholder will receive a discount of INR 200 and the remaining amount will have to be paid using the IndusInd Bank Credit Card.
+- Enjoy a waiver* of 1% on fuel surcharge at any petrol pump within India and railway surcharge on www.irctc.co.in
+- & IRCTC App.
+- Value Offering
+- Petrol Surcharge Waiver
+- Monthly Savings
+- Annual Savings
+- Monthly fuel usage @ ₹ 3,000/-
+- ₹ 30/-
+- ₹ 360/-
+- Railway Surcharge Waiver
+- Railway Tickets Booking upto ₹ 5,000/- per quarter
+- The information given in the value offering is based on certain assumptions and is for illustration purposes only. Actual savings will depend on the usage pattern of the individual cardholder.
+- Travel Insurance Cover Details
+- Travel insurance is a priority document for all your trips. IndusInd Bank has tied up with The Oriental Insurance Company Limited (“Insurance Company”) as a group manager to provide cardholders with the following insurance cover under its program:
+- Insurance Cover
+- Sum Assured (up to)
+- Lost baggage
+- ₹ 1,00,000
+- Delayed baggage
+- Loss of passport
+- ₹ 50,000
+- Lost ticket
+- Missed connection
+- Value Chart
+- Features
+- Annual Estimated Savings on Market Value (₹)*
+- Movie Tickets
+- (2 assured complimentary movie tickets in a year at ₹ 200 each)
+- 1% Cashback on all retail spends
+- (₹ 15,000 retail spends each month)
+- 1,800
+- 1% Fuel Surcharge
+- (Monthly fuel usage of ₹ 3,000)
+- 1% Railway Surcharge Waiver
+- (Railway Tickets Booking of ₹ 5,000 per quarter)
+- Total Savings
+- 2,760
+- *The Value Chart calculations are based on assumptions.
+- IndusInd Bank Samman RuPay Credit Card
+- Samman RuPay Credit Card
+- Pay Now with UPI, with all new IndusInd Bank Samman Rupay Credit Card exclusively for government sector employees.
+

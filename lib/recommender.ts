@@ -32,7 +32,7 @@ function loadAllCards(): Card[] {
     if (!Array.isArray(raw)) continue;
     for (const entry of raw) {
       try {
-        const card = CardSchema.parse(entry);
+        const card = applyRealismGuards(CardSchema.parse(entry));
         byId.set(card.id, card);
         sourceOf.set(card.id, f);
       } catch (e) {
@@ -46,6 +46,58 @@ function loadAllCards(): Card[] {
     console.log("[recommender] loaded cards by source:", summary);
   }
   return Array.from(byId.values());
+}
+
+// ── Data-quality guards for auto-normalized cards ───────────────────────────
+// 173 of the 200+ cards come from LLM-normalized HTML scrapes. Real-world Indian
+// credit cards almost never offer >5% uncapped on any category — when the data
+// claims that, it's almost always "10X reward points" being mis-parsed as "10%".
+// We don't drop the card (the high rate may apply in narrow contexts), but we
+// bound the annual reward so a hallucinated rate can't dominate the portfolio.
+const SUSPICIOUS_RATE_THRESHOLD = 5; // %
+const FALLBACK_ANNUAL_CAP_INR = 6000; // ~₹500/month — industry baseline for capped specials
+function applyRealismGuards(card: Card): Card {
+  const fixed = { ...card, rules: card.rules.map((r) => ({ ...r })) };
+  for (const r of fixed.rules) {
+    if (r.rate > SUSPICIOUS_RATE_THRESHOLD && r.monthlyCap === undefined && r.annualCap === undefined) {
+      r.annualCap = FALLBACK_ANNUAL_CAP_INR;
+    }
+  }
+  return fixed;
+}
+
+// ── Restricted-eligibility detection ────────────────────────────────────────
+// Some issuer cards are only available to specific groups (defense forces, doctors,
+// students, salaried-with-specific-employers). The normalized data doesn't tag these,
+// so we infer from the card name. Excluded by default; user can opt in.
+const RESTRICTED_NAME_PATTERNS: RegExp[] = [
+  /assam rifles/i,
+  /indian army/i,
+  /yoddha/i,
+  /coast guard/i,
+  /rakshamah/i,
+  /sentinel/i,
+  /\bnavy\b/i,
+  /air ?force/i,
+  /defen[sc]e/i,
+  /paramilitary/i,
+  /\bcrpf\b|\bcisf\b|\bbsf\b|\bitbp\b|\bssb\b/i,
+  /\bpolice\b/i,
+  /doctor['’]?s?\b/i,
+  /\bmedical professional/i,
+  /chartered accountant/i,
+  /\bca\s+(card|club)/i,
+  /lawyer/i,
+  /teacher/i,
+  /\bnri\b/i,
+  /\bbusiness\b.*\b(visa|mastercard|rupay|amex|diners)/i, // SME-only
+  /\bcorporate\b/i,
+  /signature.*invite/i,
+  /\binvite[- ]only\b/i,
+];
+function isRestrictedCard(card: Card): boolean {
+  if (card.eligibility?.inviteOnly) return true;
+  return RESTRICTED_NAME_PATTERNS.some((re) => re.test(card.name));
 }
 
 export const ALL_CARDS: Card[] = loadAllCards();
@@ -285,6 +337,10 @@ export function recommend(profile: UserProfile): Recommendation {
   const requireLounge = prefs.requireLounge ?? false;
 
   // Filter candidates by user preferences (owned cards bypass these).
+  // Restricted-eligibility cards (defense affinity, doctor-only, invite-only, etc.) are
+  // always hidden — they aren't applicable to a general user, and the dataset doesn't
+  // mark them explicitly. If a user already owns one, it stays.
+  newCandidates = newCandidates.filter((c) => !isRestrictedCard(c));
   if (avoidCoBranded) {
     newCandidates = newCandidates.filter((c) => !c.isCoBranded);
   }

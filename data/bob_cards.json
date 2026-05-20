@@ -1,0 +1,1379 @@
+[
+  {
+    "id": "bob_eterna",
+    "name": "Eterna",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 250000,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 5,
+        "notes": "Earn 5X Rewards* i.e 15 Reward Points per ₹100 when you spend on dining."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Earn 5X Rewards* i.e 15 Reward Points per ₹100 on your Travel and International spends."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "3 Reward Points for every ₹100 spent on other categories*."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": 15000,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": [
+      "BOBCARD ETERNA: Credit Card for Premium Lifestyle & Travel Privileges",
+      "Earn 5X Rewards* i.e 15 Reward Points per ₹100 when you spend on dining.",
+      "Travel Benefits"
+    ],
+    "caveats": [
+      "^^Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 40,000 in the preceding calendar quarter..",
+      "• Age: Minimum 25 years and Maximum 55 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 1200000,
+      "minAge": 25
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/eterna"
+  },
+  {
+    "id": "bob_tiara",
+    "name": "Tiara",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 250000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "dining"
+        ],
+        "rate": 15,
+        "notes": "15 Reward Points per ₹100 spent on Dining, Travel, and International spends. 3 Reward Points per ₹100 spent on other purchases."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "3 Reward Points for every ₹100 spent on other categories."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 12
+    },
+    "highlights": [
+      "Earn Rewards, Live Large",
+      "15 Reward Points per ₹100 spent on Dining, Travel, and International spends. 3 Reward Points per ₹100 spent on other purchases.",
+      "Unmatched Travel Benefits"
+    ],
+    "caveats": [
+      "Redeem your reward points as cashback. All your accumulated reward points can be redeemed for cashback. Reward Points on CC UPI are capped at ₹500 per statement cycle (1 Reward Point = ₹ 0.25)",
+      "^Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 40,000 in the preceding calendar quarter..",
+      "Minimum 25 years and Maximum 55 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Groceries"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 25
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/tiara"
+  },
+  {
+    "id": "bob_cashback",
+    "name": "BOBCARD Cashback",
+    "issuer": "BOBCARD",
+    "network": "mastercard",
+    "upiEnabled": false,
+    "joiningFee": 49,
+    "annualFee": 49,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "5% Cashback on Online Spends"
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Get 5% Cashback* (up to ₹1500/month) on all your eligible domestic online spends. From cart to checkout, savings follow.",
+        "monthlyCap": 1500
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Unlimited 1% Cashback on All Other Spends"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Enjoy 1% Cashback* on every other spend. Every spend pays you Happy Returns back."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "BOBCARD Cashback Credit Card - Earn Real Cashback on Every Spend",
+      "Your everyday spending now means “Happy Returns” - The Best CASHBACK Credit Card is Here",
+      "5% Cashback on Online Spends"
+    ],
+    "caveats": [
+      "2.Age: Minimum 25 years and Maximum 55 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 25
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/bobcard-cashback"
+  },
+  {
+    "id": "bob_easy",
+    "name": "Easy",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 35000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Thrill yourself with 5X Rewards* i.e 5 Reward Points per ₹100 spent on Departmental Stores along with attractive deals & discounts across leading brands, round the year."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Catch the latest flicks on the big screen and earn yourself 5X Rewards* i.e 5 Reward Points per ₹100 spent on movies"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1 Reward Point per ₹100 spent on all other categories"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "BOBCARD EASY: Credit Card for Everyday Shopping Rewards",
+      "Welcome Benefit",
+      "Earn 500 reward points on spends of Rs 5000 within 60 days of card issuance"
+    ],
+    "caveats": [
+      "• Age: Minimum 25 years and Maximum 55 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 25
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/easy"
+  },
+  {
+    "id": "bob_select",
+    "name": "Select",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 70000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Thrill yourself with 5X Rewards* i.e 5 Reward Points per ₹100 spent on online spends, and revel with Attractive Deals & Discounts across leading brands."
+      },
+      {
+        "categories": [
+          "dining",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "It’s a foodie’s fiesta as you delight yourself with mouthwatering Culinary Offers, and Earn 5X Rewards* i.e 5 Reward Points per ₹100 spent on your Dining spends"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1 Reward Point per ₹100 spent on all other categories*."
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "5X rewards on online and dining spends."
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "fuel"
+        ],
+        "rate": 5,
+        "notes": "It stands out with 5X rewards on dining and online spends, cashback options, Smart EMI benefit, and fuel surcharge waiver, along with discounted deals on our partner brands."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefit",
+      "Earn 500 reward points on spends of Rs 5000 within 60 days of card issuance",
+      "Thrill yourself with 5X Rewards* i.e 5 Reward Points per ₹100 spent on online spends, and revel with Attractive Deals & Discounts across leading brands."
+    ],
+    "caveats": [
+      "• Age: Minimum 25 years and Maximum 55 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 25
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/select"
+  },
+  {
+    "id": "bob_hpcl_energie",
+    "name": "HPCL Energie",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping",
+          "fuel"
+        ],
+        "rate": 5,
+        "notes": "Give ignition to your savings with up to 5% Savings (24 Reward Points per ₹150=4% Savings + 1% Fuel Surcharge Waiver) for fuel purchases at HPCL retail outlets, LPG purchases & through HP Pay App*.",
+        "monthlyCap": 150
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping",
+          "utilities"
+        ],
+        "rate": 2,
+        "notes": "Shift to your shopping gear and avail up to 2% Savings (10 Reward Points for every ₹150 spent) on utility & departmental stores*. Get 2 Reward Points for every ₹150 spent on other categories.",
+        "monthlyCap": 150
+      },
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping",
+          "fuel"
+        ],
+        "rate": 5,
+        "notes": "HPCL ENERGIE BOBCARD offers fuel-specific perks like 5% Savings on your fuel purchases at HPCL retail outlets, LPG purchases & through HP Pay App, 10 reward points on everyday shopping, complimentary domestic airport lounge access, 500 bonus reward points, & m"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 16
+    },
+    "highlights": [
+      "HPCL ENERGIE BOBCARD: Best Fuel Credit Card for Road Travelers & Petrol Spends",
+      "Give ignition to your savings with up to 5% Savings (24 Reward Points per ₹150=4% Savings + 1% Fuel Surcharge Waiver) for fuel purchases at HPCL retail outlets, LPG purchases & through HP Pay App*.",
+      "Accelerated Rewards"
+    ],
+    "caveats": [
+      "Effective 1st Jan, 2025, complimentary lounge access will subject to minimum spends of Rs 20,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.bobcard.co.in/credit-card-types/hpcl-energie"
+  },
+  {
+    "id": "bob_irctc",
+    "name": "IRCTC Credit Card",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 500,
+    "annualFee": 500,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 4,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping"
+        ],
+        "rate": 4,
+        "notes": "Add value to your shopping cart by stocking up on the best products with 4 Reward Points per ₹100 spent on departmental store purchases. Also earn 2 reward points per ₹100 on other categories^^."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 40,
+        "notes": "40 Reward Points per ₹100 for Travel dates between 15 Jan - 31 Mar and 15 July - 15 Sep. 16 Reward Points per ₹100 for Travel dates between 1 April -14 July and 16 Sep - 14 Jan valid on 1AC, 2AC, 3AC, CC or EC class bookings . 4 BoB Reward Points = 1 IRCTC Tra"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "^If the Primary Cardholder books a ticket on IRCTC Website or Mobile App using his/her IRCTC BOBCARD, Customer is eligible to get up to 1% cashback credited to the statement against the transaction charges on the booking fare. Please note transactions charges "
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "Earn 2 Reward Points per ₹100 spent on other categories, including train ticket purchases on IRCTC Website and Mobile App. You can redeem your accrued reward points at 1RP = ₹0.25."
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Train Travel Delights",
+      "Travel wherever your heart desires with up to 40 reward points* per ₹100 spent on train ticket bookings through the IRCTC website and mobile app. Simply link your IRCTC BOBCARD Loyalty Number with your IRCTC Login ID°°",
+      "Welcome Benefit"
+    ],
+    "caveats": [
+      "Travel cost-effectively with a 1% fuel surcharge waived# off on all fuel transactions between ₹500-₹3000 (Maximum waiver of ₹100 per statement).",
+      "^^Maximum 1000 BoB Reward Points or 250 IRCTC Travel Points per statement cycle."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null,
+      "minAge": 18
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.bobcard.co.in/credit-card-types/irctc-credit-card"
+  },
+  {
+    "id": "bob_bupb_bggb_brkgb_pragati",
+    "name": "BUPB BGGB BRKGB Pragati",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 25000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "5X i.e. 5 Reward Points for every ₹100 spent on Departmental Stores & Movies.* 1 Reward Point for every ₹100 spent on others."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefit",
+      "Earn 500 Reward Points on spent of ₹5,000 within 60 days of card issuance.",
+      "Everyday Shopping Rewards"
+    ],
+    "caveats": [
+      "Visit bobcard.co.in/most-important-terms-and-condition to know Reward Points Important Terms and Conditions."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/bupb-bggb-brkgb-pragati"
+  },
+  {
+    "id": "bob_nainital_bank_renaissance",
+    "name": "Nainital Bank Renaissance",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 25000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 5,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "5X i.e. 5 Reward Points for every ₹100 spent on Departmental Stores & Movie.* 1 Reward Point for every ₹100 spent on others."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefit",
+      "Earn 500 Reward Points on spent of ₹5,000 within 60 days of card issuance.",
+      "Everyday Shopping Rewards"
+    ],
+    "caveats": [],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/nainital-bank-renaissance"
+  },
+  {
+    "id": "bob_snapdeal",
+    "name": "Snapdeal BOBCARD",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 249,
+    "annualFee": 249,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 500,
+    "baseRewardRate": 20,
+    "rules": [
+      {
+        "categories": [
+          "online_shopping",
+          "offline_shopping"
+        ],
+        "rate": 20,
+        "notes": "Make shopping fun with 5% unlimited cashback (20 reward points per ₹100) for your purchases on the Snapdeal website & Mobile App. Get 10 reward points for every ₹100 spent on online shopping & departmental stores, and 4 reward points for every ₹100 spent on ot"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 20,
+        "notes": "Make shopping fun with 5% unlimited cashback (20 reward points per ₹100) for your purchases on the Snapdeal website & Mobile App. Get 10 reward points for every ₹100 spent on online shopping & departmental stores, and 4 reward points for every ₹100 spent on ot"
+      }
+    ],
+    "excludedCategories": [],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Snapdeal BOBCARD: Credit Card with 5% Unlimited Cashback",
+      "Go for a shopping spree and get Snapdeal vouchers worth up to ₹500 on card usage within the first 30 days of issuance.",
+      "500 bonus reward points on spends of Rs. 5000 or more within 60 days of card issuance."
+    ],
+    "caveats": [
+      "Reward Points of 10 RP per ₹100 are capped at a maximum of 2000 Reward Points per statement."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.bobcard.co.in/credit-card-types/snapdeal-bobcard"
+  },
+  {
+    "id": "bob_icai_exclusive",
+    "name": "ICAI Exclusive BOBCARD",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "Shopping delights to add more value to your money. *Earn 5X Rewards i.e. 5 Reward Points per ₹100 spent on dining, online & utility bills."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1 Reward Point per ₹100 spent on all other categories"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "The ICAI EXCLUSIVE BOBCARD Credit Card is an exclusive, lifetime-free credit card designed for members of The Institute of Chartered Accountants of India (ICAI). It comes with 5X rewards on dining, utility & online spends, airport lounge access on milestone sp"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Accelerated Rewards",
+      "Shopping delights to add more value to your money. *Earn 5X Rewards i.e. 5 Reward Points per ₹100 spent on dining, online & utility bills.",
+      "Travel Benefits"
+    ],
+    "caveats": [
+      "Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 40,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 300000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/icai-exclusive-bobcard"
+  },
+  {
+    "id": "bob_icsi_diamond",
+    "name": "ICSI Diamond",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "Shopping delights to add more value to your money. *Earn 5X Rewards i.e. 5 Reward Points per ₹100 spent on dining, online & utility bills."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1 Reward Point per ₹100 spent on all other categories"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "The ICSI Diamond BOBCARD Credit Card is an exclusive, lifetime-free credit card designed for members of The Institute of Company Secretaries of India (ICSI). It comes with 5X rewards on dining, utility & online spends, airport lounge access on milestone spends"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Accelerated Rewards",
+      "Shopping delights to add more value to your money. *Earn 5X Rewards i.e. 5 Reward Points per ₹100 spent on dining, online & utility bills.",
+      "Travel Benefits"
+    ],
+    "caveats": [
+      "Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 40,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 300000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/icsi-diamond"
+  },
+  {
+    "id": "bob_cma_one",
+    "name": "CMA One",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 1,
+    "annualFee": 1,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "Shopping delights to add more value to your money. *Earn 5X Rewards i.e. 5 Reward Points per ₹100 spent on dining, online & utility bills."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1 Reward Point per ₹100 spent on all other categories"
+      },
+      {
+        "categories": [
+          "dining",
+          "online_shopping",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "The CMA One BOBCARD Credit Card is an exclusive, lifetime-free credit card designed for ICMAI professionals. It comes with 5X rewards on dining, utility & online spends, airport lounge access on milestone spends achievement, insurance cover, and more - all wit"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Accelerated Rewards",
+      "Shopping delights to add more value to your money. *Earn 5X Rewards i.e. 5 Reward Points per ₹100 spent on dining, online & utility bills.",
+      "Travel Benefits"
+    ],
+    "caveats": [
+      "to know Reward Points Important Terms and Conditions. Reward points can be redeemed as cashback @₹0.25 per reward point.",
+      "Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 40,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 300000
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/cma-one"
+  },
+  {
+    "id": "bob_indian_army_yoddha",
+    "name": "Indian Army Yoddha",
+    "issuer": "BOBCARD",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Thrill yourself with 5X Rewards* i.e 10 Reward Points per ₹100 on Departmental Stores with the added advantage of attractive discounts across leading brands."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2 Reward Point for every ₹100 spent on any other category."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 100000,
+        "label": "Milestone Reward : 12 Months Amazon Prime Membership on spending min. ₹1 Lakh within 90 days."
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefit",
+      "500 bonus reward points on spends of ₹5,000 or more within 60 days of card issuance.",
+      "Exclusive Memberships"
+    ],
+    "caveats": [
+      "to know Reward Points Important Terms and Conditions. Reward points can be redeemed as cashback @₹0.25 per reward point.",
+      "#Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 20,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Groceries",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/indian-army-yoddha"
+  },
+  {
+    "id": "bob_vikram",
+    "name": "Vikram",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Thrill yourself with 5X Rewards* i.e. 5 Reward Points per ₹100 on movies and departmental stores with the added advantage of attractive discounts across leading brands."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "1 reward point for every ₹100 spent on any other category*."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Please note that 5X Reward Points are subject to maximum of 1,000 Reward Points per month, any spends on 5X spend categories beyond threshold spends will accrue points as per regular rate i.e. 1 RP for every ₹ 100.",
+        "monthlyCap": 100
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "WELCOME GIFT",
+      "500 Reward Points on spent of ₹5,000 within 60 days of card issuance.",
+      "Thrill yourself with 5X Rewards* i.e. 5 Reward Points per ₹100 on movies and departmental stores with the added advantage of attractive discounts across leading brands."
+    ],
+    "caveats": [
+      "Please note that 5X Reward Points are subject to maximum of 1,000 Reward Points per month, any spends on 5X spend categories beyond threshold spends will accrue points as per regular rate i.e. 1 RP for every ₹ 100.",
+      "to know Reward Points Important Terms and Conditions. Reward points can be redeemed as cashback @₹0.25 per reward point."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/vikram"
+  },
+  {
+    "id": "bob_indian_navy_varunah",
+    "name": "Indian Navy Varunah",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": true,
+    "joiningFee": 2499,
+    "annualFee": 2499,
+    "feeWaiverSpend": 150000,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 3,
+    "rules": [
+      {
+        "categories": [
+          "dining",
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Earn 5X Rewards* i.e 15 Reward Points per ₹100 on Travel, Online, Dining & International Spends. Enhance your travel experiences with Unlimited Complimentary Access at Domestic Airport lounges^."
+      },
+      {
+        "categories": [
+          "dining",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "It’s a foodie’s fiesta as you can delight yourself with mouthwatering Culinary Offers and revel in 5X Rewards* i.e 15 Reward Points per ₹100 on your Dining Spends."
+      },
+      {
+        "categories": [
+          "online_shopping"
+        ],
+        "rate": 5,
+        "notes": "Thrill yourself with 5X Rewards* i.e 15 Reward Points per ₹100 on online spends and relish attractive discounts across leading brands."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 3,
+        "notes": "3 Reward Points per ₹100 spent on any other category."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 12,
+      "international": 12
+    },
+    "highlights": [
+      "Welcome Benefit",
+      "500 bonus reward points on spends of ₹5,000 or more within 60 days of card issuance.",
+      "Exclusive Memberships"
+    ],
+    "caveats": [
+      "to know Reward Points Important Terms and Conditions. Reward points can be redeemed as cashback @₹0.25 per reward point.",
+      "^Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 40,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/indian-navy-varunah"
+  },
+  {
+    "id": "bob_indian_coast_guard_rakshamah",
+    "name": "Indian Coast Guard Rakshamah",
+    "issuer": "BOBCARD",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Thrill yourself with 5X Rewards* i.e 10 Reward Points per ₹100 on Departmental Stores with the added advantage of attractive discounts across leading brands."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2 Reward Point for every ₹100 spent on any other category."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 100000,
+        "label": "Milestone Reward : 12 Months Amazon Prime Membership on spending min. Rs.1 Lakh within 90 days."
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefit",
+      "500 bonus reward points on spends of ₹5,000 or more within 60 days of card issuance.",
+      "Exclusive Memberships"
+    ],
+    "caveats": [
+      "to know Reward Points Important Terms and Conditions. Reward points can be redeemed as cashback @₹0.25 per reward point.",
+      "#Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 20,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/indian-coast-guard-rakshamah"
+  },
+  {
+    "id": "bob_assam_rifles_the_sentinel",
+    "name": "Assam Rifles The Sentinel",
+    "issuer": "BOBCARD",
+    "network": "rupay",
+    "upiEnabled": true,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": null,
+    "welcomeBenefitInr": 48000,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "offline_shopping"
+        ],
+        "rate": 5,
+        "notes": "Thrill yourself with 5X Rewards* i.e 10 Reward Points per ₹100 on Departmental Stores with the added advantage of attractive discounts across leading brands."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2 Reward Point for every ₹100 spent on any other category."
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [
+      {
+        "spendThreshold": 100000,
+        "label": "Milestone Reward : 12 Months Amazon Prime Membership on spending min. ₹1 Lakh within 90 days."
+      }
+    ],
+    "loungeAccessInr": null,
+    "loungeVisits": {
+      "domestic": 2025
+    },
+    "highlights": [
+      "Welcome Benefit",
+      "500 bonus reward points on spends of ₹5,000 or more within 60 days of card issuance.",
+      "Exclusive Memberships"
+    ],
+    "caveats": [
+      "to know Reward Points Important Terms and Conditions. Reward points can be redeemed as cashback @₹0.25 per reward point.",
+      "#Effective 1st Jan, 2025 Complimentary lounge access will subject to minimum spends of Rs 20,000 in the preceding calendar quarter.."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/assam-rifles-the-sentinel"
+  },
+  {
+    "id": "bob_empower",
+    "name": "Empower",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 50000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "Earn 1 Reward Point for every ₹100 spent on all other MCCs*. All your accumulated reward points can be redeemed for cashback @1 reward point = ₹0.25"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "Welcome Benefit",
+      "Earn 500 Reward Points on spent of ₹5,000 within 60 days of card issuance.",
+      "Core Reward Points"
+    ],
+    "caveats": [
+      "1% Fuel Surcharge waived off on all fuel transactions between ₹400-₹5000. (Maximum waiver of ₹250 per statement)",
+      "to know Reward Points Important Terms and Conditions. Reward points can be redeemed as cashback @₹0.25 per reward point."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/empower"
+  },
+  {
+    "id": "bob_etihad_guest_premium",
+    "name": "BOBCARD Etihad Guest Premium",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 25000,
+    "annualFee": null,
+    "feeWaiverSpend": 500000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 1.33,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl"
+        ],
+        "rate": 6,
+        "notes": "Earn 6 Miles per ₹100 on Etihad Airways and 2 Miles per ₹100 on every other domestic & cross border spends- turning every transaction into your next take-off"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1.33,
+        "notes": "o Quarterly bonus- Get bonus 4000 Miles on ₹3,00,000 quarterly spends. Valid once per quarter"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "The Best TRAVEL Credit Card is Here",
+      "Your name is engraved on solid metal. The BOBCARD Etihad Guest Premium Credit Card offers a premium look and feel, complemented by exclusive travel and lifestyle privileges.",
+      "Travel beyond borders without extra charges. BOBCARD Etihad Guest Premium Card comes with 0 % forex markup - every rupee goes further when you do."
+    ],
+    "caveats": [
+      "For detailed terms and conditions, refer the BOBCARD Etihad MITC & Key Fact Statement available on our MITC Section."
+    ],
+    "bestFor": [
+      "Travel",
+      "Fuel",
+      "Online shopping"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.bobcard.co.in/credit-card-types/bobcard-etihad-guest-premium"
+  },
+  {
+    "id": "bob_etihad_guest",
+    "name": "BOBCARD Etihad Guest",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 25000,
+    "annualFee": null,
+    "feeWaiverSpend": 300000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 6,
+    "rules": [
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl"
+        ],
+        "rate": 3,
+        "notes": "Earn 3 Miles per ₹100 on Etihad Airways and 1 Mile per ₹100 on every other domestic & cross-border spends - turning every transaction into your next take-off."
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 1,
+        "notes": "o Quarterly bonus- Get bonus 2000 Miles on ₹2,00,000 quarterly spends. Valid once per quarter"
+      },
+      {
+        "categories": [
+          "flights_domestic",
+          "flights_intl"
+        ],
+        "rate": 6,
+        "notes": "The earning rate varies depending on the card variant and the type of transaction. On premium card variant, you can earn 6 Miles per ₹100 spent on Etihad Airways and 2 Miles per ₹100 spent on domestic and cross border spends while on base variant, 3 Miles are "
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 6,
+        "notes": "The earning rate varies depending on the card variant and the type of transaction. On premium card variant, you can earn 6 Miles per ₹100 spent on Etihad Airways and 2 Miles per ₹100 spent on domestic and cross border spends while on base variant, 3 Miles are "
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "The Best TRAVEL Credit Card is Here",
+      "Travel beyond borders without extra charges. BOBCARD Etihad Guest Credit Card comes with 1 % forex markup - every rupee goes further when you do.",
+      "Extra Welcome Miles"
+    ],
+    "caveats": [
+      "For detailed terms and conditions, refer the BOBCARD Etihad MITC & Key Fact Statement available on our MITC Section."
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": null
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": true,
+    "url": "https://www.bobcard.co.in/credit-card-types/bobcard-etihad-guest"
+  },
+  {
+    "id": "bob_premier",
+    "name": "Premier",
+    "issuer": "BOBCARD",
+    "network": null,
+    "upiEnabled": false,
+    "joiningFee": 0,
+    "annualFee": 0,
+    "feeWaiverSpend": 120000,
+    "welcomeBenefitInr": null,
+    "baseRewardRate": 2,
+    "rules": [
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 5,
+        "notes": "Earn 5X Rewards* i.e 10 Reward Points per ₹100 spent on Travel & International Spends. Also, witness enhanced travel experiences with a ^Complimentary Airport Lounge visit every quarter, at a long list of lounges."
+      },
+      {
+        "categories": [
+          "dining",
+          "utilities"
+        ],
+        "rate": 5,
+        "notes": "It’s a foodie’s fiesta as you delight yourself with mouthwatering Culinary Offers, and Earn 5X Rewards* i.e 10 Reward Points per ₹100 spent on your Dining spends"
+      },
+      {
+        "categories": [
+          "other"
+        ],
+        "rate": 2,
+        "notes": "2 Reward Points per ₹100 spent on all other categories"
+      },
+      {
+        "categories": [
+          "dining",
+          "fuel"
+        ],
+        "rate": 5,
+        "notes": "BOBCARD PREMIER provides travel-related perks, including 5X reward points on travel, dining & international spends, quarterly complimentary airport lounge access*, fuel surcharge waiver, 500 welcome bonus reward points, and exclusive travel offers in associati"
+      }
+    ],
+    "excludedCategories": [
+      "fuel"
+    ],
+    "milestones": [],
+    "loungeAccessInr": null,
+    "loungeVisits": {},
+    "highlights": [
+      "BOBCARD PREMIER: Credit Card for Premium Travel",
+      "Travel Benefits",
+      "Earn 5X Rewards* i.e 10 Reward Points per ₹100 spent on Travel & International Spends. Also, witness enhanced travel experiences with a ^Complimentary Airport Lounge visit every quarter, at a long list of lounges."
+    ],
+    "caveats": [
+      "^Effective 1st Jan, 2025, Complimentary lounge access will subject to minimum spends of Rs 20,000 in the preceding calendar quarter..",
+      "• Age: Minimum 25 years and Maximum 55 years"
+    ],
+    "bestFor": [
+      "Travel",
+      "Dining",
+      "Fuel"
+    ],
+    "eligibility": {
+      "minMonthlySalaryInr": null,
+      "minAnnualItrInr": 720000,
+      "minAge": 25
+    },
+    "lastVerified": "2026-05-20",
+    "isCoBranded": false,
+    "url": "https://www.bobcard.co.in/credit-card-types/premier"
+  }
+]
