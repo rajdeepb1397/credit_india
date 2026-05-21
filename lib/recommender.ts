@@ -471,9 +471,38 @@ export function recommend(profile: UserProfile): Recommendation {
 
   const ownedHasRupayUpi = portfolioHasRupayUpi(ownedCards);
 
+  // ── Strict-N semantics ──────────────────────────────────────────────────
+  // "Cards: N" = exactly N NEW cards. Build a tractable candidate pool for
+  // larger k (combinatorial explosion at k≥3 with 100+ candidates).
+  const k = Math.max(0, Math.min(maxNew, 5));
+
+  let candidatePool: Card[] = newCandidates;
+  if (k >= 3 && newCandidates.length > 30) {
+    const cap = k === 3 ? 50 : k === 4 ? 35 : 25;
+    const scored = newCandidates.map((c) => {
+      const cards = ownedCards.length > 0 ? [...ownedCards, c] : [c];
+      const p = evaluatePortfolio(cards, profile);
+      return { c, score: p.netSavings };
+    });
+    scored.sort((a, b) => b.score - a.score);
+    const picked = new Map<string, Card>();
+    for (const s of scored.slice(0, cap)) picked.set(s.c.id, s.c);
+    // Always include best RuPay-UPI carrier if portfolio needs one
+    if (portfolioNeedsRupay && !ownedHasRupayUpi) {
+      const bestRupay = scored.find(
+        (x) => x.c.network === "rupay" && x.c.upiEnabled
+      );
+      if (bestRupay && !picked.has(bestRupay.c.id)) {
+        picked.set(bestRupay.c.id, bestRupay.c);
+      }
+    }
+    candidatePool = [...picked.values()];
+  }
+
   const portfolios: Portfolio[] = [];
-  for (let k = 0; k <= maxNew; k++) {
-    for (const combo of combinations(newCandidates, k)) {
+  // Strict-N: only emit portfolios with exactly k NEW cards (k=0 ⇒ owned-only).
+  {
+    for (const combo of combinations(candidatePool, k)) {
       // First-year sticker cost = joining + annual (this is what the user
       // sees in the breakdown for year-1). Enforce the budget against this.
       const firstYearFee = (c: Card) => c.annualFee + c.joiningFee;
@@ -493,40 +522,10 @@ export function recommend(profile: UserProfile): Recommendation {
 
       const p = evaluatePortfolio(cards, profile);
 
-      // ── Filler suppression ───────────────────────────────────────────────
-      // Stops *LTF ride-along* cards from inflating multi-card portfolios just
-      // because the slot is "free". Specifically: in portfolios of 2+ cards, an
-      // *LTF* added card must contribute at least MIN_MARGINAL_NET_INR of net
-      // value, otherwise it's filler and the leaner portfolio without it is
-      // strictly better.
-      //
-      // We deliberately do NOT apply this to paid cards — if the user said
-      // "max fee ₹6,000", a paid card is a deliberate choice. Let it compete on
-      // its actual net merit (it may simply be ranked below LTF alternatives,
-      // which is fine and visible to the user).
-      //
-      // Exception: a card that is the sole RuPay-UPI carrier needed for
-      // upi_p2m coverage always passes.
-      let pulledWeight = true;
-      if (cards.length > 1 && totalAnnualSpend > 0) {
-        for (const added of combo) {
-          if (added.annualFee > 0) continue; // paid cards always compete on net merit
-          const b = p.perCardBreakdown.find((x) => x.cardId === added.id);
-          if (!b) continue;
-          if (b.net >= MIN_MARGINAL_NET_INR) continue;
-          const isOnlyRupay =
-            portfolioNeedsRupay &&
-            !ownedHasRupayUpi &&
-            added.network === "rupay" &&
-            added.upiEnabled &&
-            combo.filter((c) => c.network === "rupay" && c.upiEnabled).length === 1;
-          if (isOnlyRupay) continue;
-          pulledWeight = false;
-          break;
-        }
-      }
-      if (!pulledWeight) continue;
-
+      // Filler suppression is intentionally DISABLED in strict-N mode: the
+      // user explicitly asked for `maxNew` new cards, so even an LTF card
+      // with low marginal net is honoured (the breakdown shows its actual
+      // contribution and the user can decide).
       portfolios.push(p);
     }
   }
@@ -630,7 +629,11 @@ export function recommend(profile: UserProfile): Recommendation {
   }
   if (top.length === 0) {
     notes.push(
-      "No portfolio adds at least ₹500 of net annual value over your owned cards. Try increasing max annual fee or max new cards — or your current cards may already be optimal."
+      `No ${k}-card combination fits the current filters (max fee, fee band, RuPay, lounge, etc.). Reduce the card count, widen the fee range, or relax filters.`
+    );
+  } else if (top.length === 1 && k >= 1) {
+    notes.push(
+      "Only 1 strong combination fits the current filters at this card count. Loosen filters or change the fee band to see more options."
     );
   }
 

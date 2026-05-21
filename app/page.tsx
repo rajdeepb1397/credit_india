@@ -533,7 +533,7 @@ function Preferences({
       </div>
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
         <PrefNumber
-          label="Max new cards"
+          label="Cards to add"
           value={p.maxNewCards}
           min={1}
           max={5}
@@ -1252,8 +1252,8 @@ function PortfolioCard({
       }`}
     >
       {/* Header: label + estimated savings */}
-      <div className="flex flex-wrap items-start justify-between gap-3">
-        <div>
+      <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
+        <div className="min-w-0 flex-1">
           <div className="text-[10px] font-medium uppercase tracking-[0.16em] text-fg-subtle">
             {primary ? "Top match" : "Alternative"}
           </div>
@@ -1261,15 +1261,17 @@ function PortfolioCard({
             {portfolioCards.map((c) => (
               <span
                 key={c.id}
-                className="inline-flex items-center rounded-full border border-border bg-bg/60 px-2.5 py-1 text-xs font-medium text-fg"
+                className="inline-flex max-w-full items-center rounded-full border border-border bg-bg/60 px-2.5 py-1 text-xs font-medium text-fg"
               >
-                {c.name}
+                <span className="truncate" style={{ maxWidth: "16rem" }}>
+                  {c.name}
+                </span>
                 <NetworkBadge card={c} />
               </span>
             ))}
           </div>
         </div>
-        <div className="text-right">
+        <div className="text-left sm:shrink-0 sm:text-right">
           <div className="text-[10px] font-medium uppercase tracking-[0.16em] text-fg-subtle">
             Estimated annual savings
           </div>
@@ -1356,18 +1358,25 @@ function PortfolioCard({
                 </div>
               )}
 
-              {c.url && (
-                <div className="mt-3">
-                  <a
-                    href={c.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1 text-xs font-medium text-accent transition hover:text-accent-glow"
-                  >
-                    View official details <ArrowRight className="h-3 w-3" />
-                  </a>
-                </div>
-              )}
+              {(() => {
+                const officialUrl =
+                  c.url ||
+                  `https://www.google.com/search?q=${encodeURIComponent(
+                    `${c.issuer} ${c.name} credit card official site`
+                  )}`;
+                return (
+                  <div className="mt-3">
+                    <a
+                      href={officialUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1 text-xs font-medium text-accent transition hover:text-accent-glow"
+                    >
+                      View official details <ArrowRight className="h-3 w-3" />
+                    </a>
+                  </div>
+                );
+              })()}
             </div>
           );
         })}
